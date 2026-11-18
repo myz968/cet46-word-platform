@@ -17,7 +17,7 @@
 
 手机版（H5）已发布在 GitHub Pages，手机浏览器直接打开即可：
 
-**https://myz968.github.io/cet46-word-platform/**
+**https://cet.zym968.com/**
 
 首次打开会下载约 1.1 MB 词库，之后可离线使用；也可以「添加到主屏幕」当 App 用。
 
