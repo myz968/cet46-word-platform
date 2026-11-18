@@ -1,0 +1,636 @@
+{
+  "level": 3,
+  "note": "低频难词 H 批：经济、商业、金融、管理主题",
+  "words": [
+    {
+      "word": "acquisition",
+      "phonetic": "/ˌækwɪˈzɪʃn/",
+      "meaning": "n. 收购；获得",
+      "example": "The acquisition cost two billion pounds."
+    },
+    {
+      "word": "affluent",
+      "phonetic": "/ˈæfluənt/",
+      "meaning": "adj. 富裕的；丰富的",
+      "example": "They live in an affluent suburb."
+    },
+    {
+      "word": "amortise",
+      "phonetic": "/əˈmɔːtaɪz/",
+      "meaning": "v. 摊销；分期偿还",
+      "example": "The loan is amortised over ten years."
+    },
+    {
+      "word": "arrears",
+      "phonetic": "/əˈrɪəz/",
+      "meaning": "n. 欠款；拖欠",
+      "example": "They are in arrears with the rent."
+    },
+    {
+      "word": "austerity",
+      "phonetic": "/ɒˈsterəti/",
+      "meaning": "n. 紧缩；节俭",
+      "example": "The government introduced austerity measures."
+    },
+    {
+      "word": "bankruptcy",
+      "phonetic": "/ˈbæŋkrʌptsi/",
+      "meaning": "n. 破产",
+      "example": "The firm filed for bankruptcy."
+    },
+    {
+      "word": "barter",
+      "phonetic": "/ˈbɑːtə/",
+      "meaning": "v. 以物易物 n. 物物交换",
+      "example": "Villagers bartered grain for tools."
+    },
+    {
+      "word": "bid",
+      "phonetic": "/bɪd/",
+      "meaning": "n. 出价；投标 v. 出价",
+      "example": "They made a bid for the company."
+    },
+    {
+      "word": "bourse",
+      "phonetic": "/bʊəs/",
+      "meaning": "n. 证券交易所",
+      "example": "Shares rose on the Paris bourse."
+    },
+    {
+      "word": "broker",
+      "phonetic": "/ˈbrəʊkə/",
+      "meaning": "n. 经纪人 v. 安排",
+      "example": "An insurance broker arranged the policy."
+    },
+    {
+      "word": "cartel",
+      "phonetic": "/kɑːˈtel/",
+      "meaning": "n. 卡特尔；垄断联盟",
+      "example": "The oil cartel fixed production levels."
+    },
+    {
+      "word": "circulation",
+      "phonetic": "/ˌsɜːkjəˈleɪʃn/",
+      "meaning": "n. 流通；发行量",
+      "example": "The coin is no longer in circulation."
+    },
+    {
+      "word": "conglomerate",
+      "phonetic": "/kənˈɡlɒmərət/",
+      "meaning": "n. 企业集团 v. 聚集",
+      "example": "The conglomerate owns three newspapers."
+    },
+    {
+      "word": "consortium",
+      "phonetic": "/kənˈsɔːtiəm/",
+      "meaning": "n. 财团；联营企业",
+      "example": "A consortium of banks funded the project."
+    },
+    {
+      "word": "consumer",
+      "phonetic": "/kənˈsjuːmə/",
+      "meaning": "n. 消费者；用户",
+      "example": "Consumer confidence has fallen."
+    },
+    {
+      "word": "contractor",
+      "phonetic": "/kənˈtræktə/",
+      "meaning": "n. 承包商；签约人",
+      "example": "A local contractor built the bridge."
+    },
+    {
+      "word": "convertible",
+      "phonetic": "/kənˈvɜːtəbl/",
+      "meaning": "adj. 可兑换的；可转换的",
+      "example": "The currency is freely convertible."
+    },
+    {
+      "word": "costing",
+      "phonetic": "/ˈkɒstɪŋ/",
+      "meaning": "n. 成本核算",
+      "example": "The costing shows a small profit."
+    },
+    {
+      "word": "coupon",
+      "phonetic": "/ˈkuːpɒn/",
+      "meaning": "n. 优惠券；息票",
+      "example": "She paid with a discount coupon."
+    },
+    {
+      "word": "creditworthy",
+      "phonetic": "/ˈkredɪtwɜːði/",
+      "meaning": "adj. 信用好的；有信誉的",
+      "example": "Only creditworthy borrowers qualify."
+    },
+    {
+      "word": "creditor",
+      "phonetic": "/ˈkredɪtə/",
+      "meaning": "n. 债权人；债主",
+      "example": "Creditors agreed to a delay."
+    },
+    {
+      "word": "dealer",
+      "phonetic": "/ˈdiːlə/",
+      "meaning": "n. 经销商；交易商",
+      "example": "He is a dealer in antique furniture."
+    },
+    {
+      "word": "debenture",
+      "phonetic": "/dɪˈbentʃə/",
+      "meaning": "n. 债券；信用债券",
+      "example": "The firm issued debentures to raise funds."
+    },
+    {
+      "word": "debit",
+      "phonetic": "/ˈdebɪt/",
+      "meaning": "n. 借方 v. 记入借方",
+      "example": "The amount was debited from my account."
+    },
+    {
+      "word": "debtor",
+      "phonetic": "/ˈdetə/",
+      "meaning": "n. 债务人；借方",
+      "example": "The company pursued its debtors."
+    },
+    {
+      "word": "deductible",
+      "phonetic": "/dɪˈdʌktəbl/",
+      "meaning": "adj. 可扣除的 n. 免赔额",
+      "example": "The policy has a two hundred pound deductible."
+    },
+    {
+      "word": "deflate",
+      "phonetic": "/dɪˈfleɪt/",
+      "meaning": "v. 使通货紧缩；泄气",
+      "example": "The news deflated our hopes."
+    },
+    {
+      "word": "deregulate",
+      "phonetic": "/ˌdiːˈreɡjuleɪt/",
+      "meaning": "v. 放松管制",
+      "example": "The market was deregulated in the 1980s."
+    },
+    {
+      "word": "devalue",
+      "phonetic": "/ˌdiːˈvæljuː/",
+      "meaning": "v. 使贬值；贬低",
+      "example": "The government devalued the currency."
+    },
+    {
+      "word": "dividend",
+      "phonetic": "/ˈdɪvɪdend/",
+      "meaning": "n. 股息；红利；好处",
+      "example": "Shareholders received a generous dividend."
+    },
+    {
+      "word": "downsize",
+      "phonetic": "/ˈdaʊnsaɪz/",
+      "meaning": "v. 裁员；缩减规模",
+      "example": "The firm downsized its workforce."
+    },
+    {
+      "word": "downturn",
+      "phonetic": "/ˈdaʊntɜːn/",
+      "meaning": "n. 衰退；下降",
+      "example": "The economic downturn hit retail hard."
+    },
+    {
+      "word": "earnings",
+      "phonetic": "/ˈɜːnɪŋz/",
+      "meaning": "n. 收入；利润",
+      "example": "Earnings per share rose sharply."
+    },
+    {
+      "word": "economise",
+      "phonetic": "/ɪˈkɒnəmaɪz/",
+      "meaning": "v. 节约；节省",
+      "example": "We must economise on fuel."
+    },
+    {
+      "word": "embezzlement",
+      "phonetic": "/ɪmˈbezlənt/",
+      "meaning": "n. 挪用公款；贪污",
+      "example": "He was convicted of embezzlement."
+    },
+    {
+      "word": "entrepreneur",
+      "phonetic": "/ˌɒntrəprəˈnɜː/",
+      "meaning": "n. 企业家；创业者",
+      "example": "She is a successful young entrepreneur."
+    },
+    {
+      "word": "expenditure",
+      "phonetic": "/ɪkˈspendɪtʃə/",
+      "meaning": "n. 支出；开销",
+      "example": "Public expenditure rose by three percent."
+    },
+    {
+      "word": "fraudulent",
+      "phonetic": "/ˈfrɔːdjələnt/",
+      "meaning": "adj. 欺诈的；骗取的",
+      "example": "The claim was fraudulent."
+    },
+    {
+      "word": "freight",
+      "phonetic": "/freɪt/",
+      "meaning": "n. 货运；货物",
+      "example": "Freight costs have doubled."
+    },
+    {
+      "word": "futures",
+      "phonetic": "/ˈfjuːtʃəz/",
+      "meaning": "n. 期货",
+      "example": "He trades in oil futures."
+    },
+    {
+      "word": "goods",
+      "phonetic": "/ɡʊdz/",
+      "meaning": "n. 商品；货物",
+      "example": "The goods were delivered on time."
+    },
+    {
+      "word": "hedge",
+      "phonetic": "/hedʒ/",
+      "meaning": "v. 对冲；避免 n. 树篱",
+      "example": "Farmers hedge against bad weather."
+    },
+    {
+      "word": "hike",
+      "phonetic": "/haɪk/",
+      "meaning": "n. 大幅上涨 v. 提高",
+      "example": "The bank announced a rate hike."
+    },
+    {
+      "word": "holding",
+      "phonetic": "/ˈhəʊldɪŋ/",
+      "meaning": "n. 股份；持有",
+      "example": "The firm has large holdings in mining."
+    },
+    {
+      "word": "indemnity",
+      "phonetic": "/ɪnˈdemnəti/",
+      "meaning": "n. 赔偿；保险",
+      "example": "The contract includes an indemnity clause."
+    },
+    {
+      "word": "insolvent",
+      "phonetic": "/ɪnˈsɒlvənt/",
+      "meaning": "adj. 无清偿能力的；破产的",
+      "example": "The firm was declared insolvent."
+    },
+    {
+      "word": "installment",
+      "phonetic": "/ɪnˈstɔːlmənt/",
+      "meaning": "n. 分期付款；一部分",
+      "example": "They paid in monthly instalments."
+    },
+    {
+      "word": "invoice",
+      "phonetic": "/ˈɪnvɔɪs/",
+      "meaning": "n. 发票 v. 开发票",
+      "example": "Please pay the invoice within thirty days."
+    },
+    {
+      "word": "levy",
+      "phonetic": "/ˈlevi/",
+      "meaning": "n. 征税 v. 征收",
+      "example": "A levy was imposed on imports."
+    },
+    {
+      "word": "liquidate",
+      "phonetic": "/ˈlɪkwɪdeɪt/",
+      "meaning": "v. 清算；变卖",
+      "example": "The firm was forced to liquidate."
+    },
+    {
+      "word": "liquidity",
+      "phonetic": "/lɪˈkwɪdəti/",
+      "meaning": "n. 流动性；流动资产",
+      "example": "The bank has ample liquidity."
+    },
+    {
+      "word": "logistics",
+      "phonetic": "/ləˈdʒɪstɪks/",
+      "meaning": "n. 物流；后勤",
+      "example": "The logistics of the event were complex."
+    },
+    {
+      "word": "management",
+      "phonetic": "/ˈmænɪdʒmənt/",
+      "meaning": "n. 管理；管理层",
+      "example": "Management agreed to the pay offer."
+    },
+    {
+      "word": "maturity",
+      "phonetic": "/məˈtʃʊərəti/",
+      "meaning": "n. 到期；成熟",
+      "example": "The bond reaches maturity in 2030."
+    },
+    {
+      "word": "merger",
+      "phonetic": "/ˈmɜːdʒə/",
+      "meaning": "n. 合并；并购",
+      "example": "The merger created a giant retailer."
+    },
+    {
+      "word": "negotiable",
+      "phonetic": "/nɪˈɡəʊʃiəbl/",
+      "meaning": "adj. 可谈判的；可兑现的",
+      "example": "The salary is negotiable."
+    },
+    {
+      "word": "net",
+      "phonetic": "/net/",
+      "meaning": "adj. 净的 n. 网",
+      "example": "Net profit fell by two percent."
+    },
+    {
+      "word": "niche",
+      "phonetic": "/niːʃ/",
+      "meaning": "n. 细分市场 adj. 专门的",
+      "example": "The firm found a profitable niche."
+    },
+    {
+      "word": "notify",
+      "phonetic": "/ˈnəʊtɪfaɪ/",
+      "meaning": "v. 通知；报告",
+      "example": "Please notify us of any change."
+    },
+    {
+      "word": "oligopoly",
+      "phonetic": "/ˌɒlɪˈɡɒpəli/",
+      "meaning": "n. 寡头垄断",
+      "example": "The industry is an oligopoly of four firms."
+    },
+    {
+      "word": "outlay",
+      "phonetic": "/ˈaʊtleɪ/",
+      "meaning": "n. 支出；费用",
+      "example": "The initial outlay is considerable."
+    },
+    {
+      "word": "outsource",
+      "phonetic": "/ˈaʊtsɔːs/",
+      "meaning": "v. 外包",
+      "example": "The firm outsourced its IT support."
+    },
+    {
+      "word": "overdraft",
+      "phonetic": "/ˈəʊvədrɑːft/",
+      "meaning": "n. 透支；透支额",
+      "example": "The bank granted him an overdraft."
+    },
+    {
+      "word": "overtime",
+      "phonetic": "/ˈəʊvətaɪm/",
+      "meaning": "n. 加班；加班费",
+      "example": "He worked overtime all week."
+    },
+    {
+      "word": "payable",
+      "phonetic": "/ˈpeɪəbl/",
+      "meaning": "adj. 应付的；可支付的",
+      "example": "The rent is payable monthly."
+    },
+    {
+      "word": "payroll",
+      "phonetic": "/ˈpeɪrəʊl/",
+      "meaning": "n. 工资单；薪资总额",
+      "example": "The firm has a payroll of two hundred."
+    },
+    {
+      "word": "pricey",
+      "phonetic": "/ˈpraɪsi/",
+      "meaning": "adj. 昂贵的",
+      "example": "The restaurant is a bit pricey."
+    },
+    {
+      "word": "procurement",
+      "phonetic": "/prəˈkjʊəmənt/",
+      "meaning": "n. 采购；获得",
+      "example": "Public procurement must be transparent."
+    },
+    {
+      "word": "productivity",
+      "phonetic": "/ˌprɒdʌkˈtɪvəti/",
+      "meaning": "n. 生产率；生产力",
+      "example": "Productivity has improved steadily."
+    },
+    {
+      "word": "profitability",
+      "phonetic": "/ˌprɒfɪtəˈbɪləti/",
+      "meaning": "n. 盈利能力；收益性",
+      "example": "The firm returned to profitability."
+    },
+    {
+      "word": "promotion",
+      "phonetic": "/prəˈməʊʃn/",
+      "meaning": "n. 促销；晋升",
+      "example": "A sales promotion boosted revenue."
+    },
+    {
+      "word": "prospectus",
+      "phonetic": "/prəˈspektəs/",
+      "meaning": "n. 招股说明书；简章",
+      "example": "Read the prospectus before investing."
+    },
+    {
+      "word": "ration",
+      "phonetic": "/ˈræʃn/",
+      "meaning": "n. 配给量 v. 定量供应",
+      "example": "Fuel was rationed during the war."
+    },
+    {
+      "word": "rebate",
+      "phonetic": "/ˈriːbeɪt/",
+      "meaning": "n. 折扣；退款",
+      "example": "Customers received a tax rebate."
+    },
+    {
+      "word": "receipt",
+      "phonetic": "/rɪˈsiːt/",
+      "meaning": "n. 收据；收到",
+      "example": "Keep the receipt for your records."
+    },
+    {
+      "word": "receivership",
+      "phonetic": "/rɪˈsiːvəʃɪp/",
+      "meaning": "n. 破产管理",
+      "example": "The chain went into receivership."
+    },
+    {
+      "word": "redundancy",
+      "phonetic": "/rɪˈdʌndənsi/",
+      "meaning": "n. 裁员；冗余",
+      "example": "There were two hundred redundancies."
+    },
+    {
+      "word": "reimburse",
+      "phonetic": "/ˌriːɪmˈbɜːs/",
+      "meaning": "v. 报销；偿还",
+      "example": "The company reimbursed my travel costs."
+    },
+    {
+      "word": "remittance",
+      "phonetic": "/rɪˈmɪtns/",
+      "meaning": "n. 汇款；汇款额",
+      "example": "Remittances from abroad support the economy."
+    },
+    {
+      "word": "remuneration",
+      "phonetic": "/rɪˌmjuːnəˈreɪʃn/",
+      "meaning": "n. 报酬；酬金",
+      "example": "Directors' remuneration was criticised."
+    },
+    {
+      "word": "rental",
+      "phonetic": "/ˈrentl/",
+      "meaning": "n. 租金；租赁 adj. 租赁的",
+      "example": "The rental agreement lasts a year."
+    },
+    {
+      "word": "repossess",
+      "phonetic": "/ˌriːpəˈzes/",
+      "meaning": "v. 收回；重新占有",
+      "example": "The bank repossessed the house."
+    },
+    {
+      "word": "restructure",
+      "phonetic": "/ˌriːˈstrʌktʃə/",
+      "meaning": "v. 重组；调整结构",
+      "example": "The company restructured its debt."
+    },
+    {
+      "word": "retailer",
+      "phonetic": "/ˈriːteɪlə/",
+      "meaning": "n. 零售商",
+      "example": "Online retailers undercut the high street."
+    },
+    {
+      "word": "rebound",
+      "phonetic": "/rɪˈbaʊnd/",
+      "meaning": "v. 反弹；回升",
+      "example": "The currency rebounded strongly."
+    },
+    {
+      "word": "royalty",
+      "phonetic": "/ˈrɔɪəlti/",
+      "meaning": "n. 版税；特许权使用费",
+      "example": "The author receives ten percent royalties."
+    },
+    {
+      "word": "savings",
+      "phonetic": "/ˈseɪvɪŋz/",
+      "meaning": "n. 储蓄；存款",
+      "example": "Her savings were wiped out."
+    },
+    {
+      "word": "scarcity",
+      "phonetic": "/ˈskeəsəti/",
+      "meaning": "n. 稀缺；缺乏",
+      "example": "Scarcity pushed prices up."
+    },
+    {
+      "word": "security",
+      "phonetic": "/sɪˈkjʊərəti/",
+      "meaning": "n. 证券；安全",
+      "example": "He invested in government securities."
+    },
+    {
+      "word": "settlement",
+      "phonetic": "/ˈsetlmənt/",
+      "meaning": "n. 结算；和解",
+      "example": "The parties reached an out-of-court settlement."
+    },
+    {
+      "word": "shareholder",
+      "phonetic": "/ˈʃeəhəʊldə/",
+      "meaning": "n. 股东",
+      "example": "Shareholders approved the merger."
+    },
+    {
+      "word": "shortfall",
+      "phonetic": "/ˈʃɔːtfɔːl/",
+      "meaning": "n. 缺口；不足额",
+      "example": "There is a shortfall in the budget."
+    },
+    {
+      "word": "solvent",
+      "phonetic": "/ˈsɒlvənt/",
+      "meaning": "adj. 有偿付能力的",
+      "example": "The company remains solvent."
+    },
+    {
+      "word": "speculation",
+      "phonetic": "/ˌspekjuˈleɪʃn/",
+      "meaning": "n. 投机；猜测",
+      "example": "Speculation drove up the price of gold."
+    },
+    {
+      "word": "stakeholder",
+      "phonetic": "/ˈsteɪkhəʊldə/",
+      "meaning": "n. 利益相关者",
+      "example": "All stakeholders were consulted."
+    },
+    {
+      "word": "subsidiary",
+      "phonetic": "/səbˈsɪdiəri/",
+      "meaning": "n. 子公司 adj. 附属的",
+      "example": "It is a wholly owned subsidiary."
+    },
+    {
+      "word": "taxation",
+      "phonetic": "/tækˈseɪʃn/",
+      "meaning": "n. 税收；征税",
+      "example": "The system of taxation is progressive."
+    },
+    {
+      "word": "turnover",
+      "phonetic": "/ˈtɜːnəʊvə/",
+      "meaning": "n. 营业额；人员流动率",
+      "example": "Annual turnover reached ten million."
+    },
+    {
+      "word": "underwrite",
+      "phonetic": "/ˌʌndəˈraɪt/",
+      "meaning": "v. 承保；包销",
+      "example": "A syndicate underwrote the issue."
+    },
+    {
+      "word": "unemployment",
+      "phonetic": "/ˌʌnɪmˈplɔɪmənt/",
+      "meaning": "n. 失业；失业率",
+      "example": "Unemployment rose to eight percent."
+    },
+    {
+      "word": "valuation",
+      "phonetic": "/ˌvæljuˈeɪʃn/",
+      "meaning": "n. 估值；评价",
+      "example": "The valuation was surprisingly high."
+    },
+    {
+      "word": "viability",
+      "phonetic": "/ˌvaɪəˈbɪləti/",
+      "meaning": "n. 可行性；生存能力",
+      "example": "Doubts remain about the project's viability."
+    },
+    {
+      "word": "warranty",
+      "phonetic": "/ˈwɒrənti/",
+      "meaning": "n. 保修；担保",
+      "example": "The laptop is still under warranty."
+    },
+    {
+      "word": "wholesale",
+      "phonetic": "/ˈhəʊlseɪl/",
+      "meaning": "n. 批发 adj. 批发的",
+      "example": "Wholesale prices fell slightly."
+    },
+    {
+      "word": "withdrawal",
+      "phonetic": "/wɪðˈdrɔːəl/",
+      "meaning": "n. 取款；撤回",
+      "example": "There is a limit on cash withdrawals."
+    }
+  ]
+}

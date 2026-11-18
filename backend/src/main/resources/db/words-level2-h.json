@@ -1,0 +1,558 @@
+{
+  "level": 2,
+  "note": "中频补充：饮食、居住、出行、身体、天气、家务、购物等生活场景词",
+  "words": [
+    {
+      "word": "dad",
+      "phonetic": "/dæd/",
+      "meaning": "n. 爸爸；父亲",
+      "example": "My dad taught me to ride a bike."
+    },
+    {
+      "word": "daily",
+      "phonetic": "/ˈdeɪli/",
+      "meaning": "adj. 每日的 adv. 每天",
+      "example": "Walking is part of my daily routine."
+    },
+    {
+      "word": "dairy",
+      "phonetic": "/ˈdeəri/",
+      "meaning": "n. 乳制品 adj. 乳品的",
+      "example": "She avoids dairy products."
+    },
+    {
+      "word": "darling",
+      "phonetic": "/ˈdɑːlɪŋ/",
+      "meaning": "n. 亲爱的人 adj. 亲爱的",
+      "example": "She called the child her darling."
+    },
+    {
+      "word": "daylight",
+      "phonetic": "/ˈdeɪlaɪt/",
+      "meaning": "n. 日光；白昼",
+      "example": "The room gets plenty of daylight."
+    },
+    {
+      "word": "defence",
+      "phonetic": "/dɪˈfens/",
+      "meaning": "n. 防御；辩护",
+      "example": "The country spends much on defence."
+    },
+    {
+      "word": "delicious",
+      "phonetic": "/dɪˈlɪʃəs/",
+      "meaning": "adj. 美味的；可口的",
+      "example": "The soup was delicious."
+    },
+    {
+      "word": "depth",
+      "phonetic": "/depθ/",
+      "meaning": "n. 深度；深处",
+      "example": "The pool has a depth of two metres."
+    },
+    {
+      "word": "desert",
+      "phonetic": "/ˈdezət/",
+      "meaning": "n. 沙漠 adj. 荒芜的",
+      "example": "Few plants grow in the desert."
+    },
+    {
+      "word": "devil",
+      "phonetic": "/ˈdevl/",
+      "meaning": "n. 魔鬼；恶人",
+      "example": "The story features a deal with the devil."
+    },
+    {
+      "word": "diamond",
+      "phonetic": "/ˈdaɪəmənd/",
+      "meaning": "n. 钻石；菱形",
+      "example": "The ring has a small diamond."
+    },
+    {
+      "word": "diary",
+      "phonetic": "/ˈdaɪəri/",
+      "meaning": "n. 日记；日程簿",
+      "example": "She keeps a diary every day."
+    },
+    {
+      "word": "dip",
+      "phonetic": "/dɪp/",
+      "meaning": "v. 浸；蘸 n. 凹陷",
+      "example": "Dip the bread in the soup."
+    },
+    {
+      "word": "dirt",
+      "phonetic": "/dɜːt/",
+      "meaning": "n. 污垢；泥土",
+      "example": "His boots were covered in dirt."
+    },
+    {
+      "word": "disabled",
+      "phonetic": "/dɪsˈeɪbld/",
+      "meaning": "adj. 残疾的；有障碍的",
+      "example": "The building has access for disabled people."
+    },
+    {
+      "word": "disadvantage",
+      "phonetic": "/ˌdɪsədˈvɑːntɪdʒ/",
+      "meaning": "n. 不利条件；缺点",
+      "example": "The main disadvantage is the cost."
+    },
+    {
+      "word": "disappear",
+      "phonetic": "/ˌdɪsəˈpɪə/",
+      "meaning": "v. 消失；不见",
+      "example": "The sun disappeared behind a cloud."
+    },
+    {
+      "word": "disappointment",
+      "phonetic": "/ˌdɪsəˈpɔɪntmənt/",
+      "meaning": "n. 失望；令人失望的事",
+      "example": "The result was a great disappointment."
+    },
+    {
+      "word": "discomfort",
+      "phonetic": "/dɪsˈkʌmfət/",
+      "meaning": "n. 不适；不舒服",
+      "example": "He felt some discomfort in his back."
+    },
+    {
+      "word": "discovery",
+      "phonetic": "/dɪˈskʌvəri/",
+      "meaning": "n. 发现；被发现的事物",
+      "example": "The discovery changed medicine."
+    },
+    {
+      "word": "dish",
+      "phonetic": "/dɪʃ/",
+      "meaning": "n. 菜肴；盘子",
+      "example": "This dish is a local speciality."
+    },
+    {
+      "word": "disk",
+      "phonetic": "/dɪsk/",
+      "meaning": "n. 磁盘；圆盘",
+      "example": "Save the file to disk."
+    },
+    {
+      "word": "distant",
+      "phonetic": "/ˈdɪstənt/",
+      "meaning": "adj. 遥远的；疏远的",
+      "example": "He seemed distant and cold."
+    },
+    {
+      "word": "dive",
+      "phonetic": "/daɪv/",
+      "meaning": "v. 跳水；潜水 n. 跳水",
+      "example": "He dived into the pool."
+    },
+    {
+      "word": "dizzy",
+      "phonetic": "/ˈdɪzi/",
+      "meaning": "adj. 头晕的；眩晕的",
+      "example": "She felt dizzy after standing up."
+    },
+    {
+      "word": "document",
+      "phonetic": "/ˈdɒkjumənt/",
+      "meaning": "n. 文件 v. 记录",
+      "example": "Please sign the document."
+    },
+    {
+      "word": "doll",
+      "phonetic": "/dɒl/",
+      "meaning": "n. 玩偶；洋娃娃",
+      "example": "The child carried her doll everywhere."
+    },
+    {
+      "word": "donkey",
+      "phonetic": "/ˈdɒŋki/",
+      "meaning": "n. 驴；笨蛋",
+      "example": "The donkey carried the load."
+    },
+    {
+      "word": "doorway",
+      "phonetic": "/ˈdɔːweɪ/",
+      "meaning": "n. 门口；门道",
+      "example": "He stood in the doorway."
+    },
+    {
+      "word": "dough",
+      "phonetic": "/dəʊ/",
+      "meaning": "n. 面团；钱",
+      "example": "Leave the dough to rise."
+    },
+    {
+      "word": "downstairs",
+      "phonetic": "/ˌdaʊnˈsteəz/",
+      "meaning": "adv. 在楼下 adj. 楼下的",
+      "example": "The kitchen is downstairs."
+    },
+    {
+      "word": "downtown",
+      "phonetic": "/ˌdaʊnˈtaʊn/",
+      "meaning": "adv. 在市中心 n. 商业区",
+      "example": "We walked downtown after lunch."
+    },
+    {
+      "word": "dozen",
+      "phonetic": "/ˈdʌzn/",
+      "meaning": "n. 一打；十二个",
+      "example": "She bought a dozen eggs."
+    },
+    {
+      "word": "dragon",
+      "phonetic": "/ˈdræɡən/",
+      "meaning": "n. 龙",
+      "example": "The dragon guards the treasure."
+    },
+    {
+      "word": "drawer",
+      "phonetic": "/drɔː/",
+      "meaning": "n. 抽屉；制图者",
+      "example": "The keys are in the top drawer."
+    },
+    {
+      "word": "drawing",
+      "phonetic": "/ˈdrɔːɪŋ/",
+      "meaning": "n. 图画；绘画",
+      "example": "Her drawing won a prize."
+    },
+    {
+      "word": "dreadful",
+      "phonetic": "/ˈdredfl/",
+      "meaning": "adj. 可怕的；糟糕的",
+      "example": "The weather was dreadful."
+    },
+    {
+      "word": "drip",
+      "phonetic": "/drɪp/",
+      "meaning": "v. 滴下 n. 水滴",
+      "example": "The tap drips all night."
+    },
+    {
+      "word": "drug",
+      "phonetic": "/drʌɡ/",
+      "meaning": "n. 药物；毒品",
+      "example": "The drug reduces pain."
+    },
+    {
+      "word": "duck",
+      "phonetic": "/dʌk/",
+      "meaning": "n. 鸭子 v. 躲避",
+      "example": "Ducks swam across the pond."
+    },
+    {
+      "word": "easily",
+      "phonetic": "/ˈiːzəli/",
+      "meaning": "adv. 容易地；无疑地",
+      "example": "She passed the test easily."
+    },
+    {
+      "word": "eastern",
+      "phonetic": "/ˈiːstən/",
+      "meaning": "adj. 东方的；东部的",
+      "example": "The eastern coast is warmer."
+    },
+    {
+      "word": "easygoing",
+      "phonetic": "/ˌiːziˈɡəʊɪŋ/",
+      "meaning": "adj. 随和的；温和的",
+      "example": "Her parents are very easygoing."
+    },
+    {
+      "word": "edge",
+      "phonetic": "/edʒ/",
+      "meaning": "n. 边缘；刀刃 v. 缓慢移动",
+      "example": "Do not stand near the edge."
+    },
+    {
+      "word": "elder",
+      "phonetic": "/ˈeldə/",
+      "meaning": "adj. 年长的 n. 长辈",
+      "example": "Her elder sister is a doctor."
+    },
+    {
+      "word": "electric",
+      "phonetic": "/ɪˈlektrɪk/",
+      "meaning": "adj. 电的；用电的",
+      "example": "The heating is electric."
+    },
+    {
+      "word": "elephant",
+      "phonetic": "/ˈelɪfənt/",
+      "meaning": "n. 大象",
+      "example": "Elephants live in family groups."
+    },
+    {
+      "word": "elevator",
+      "phonetic": "/ˈelɪveɪtə/",
+      "meaning": "n. 电梯；升降机",
+      "example": "Take the elevator to the fifth floor."
+    },
+    {
+      "word": "elsewhere",
+      "phonetic": "/ˌelsˈweə/",
+      "meaning": "adv. 在别处；在其它地方",
+      "example": "Look elsewhere for a cheaper option."
+    },
+    {
+      "word": "employer",
+      "phonetic": "/ɪmˈplɔɪə/",
+      "meaning": "n. 雇主；老板",
+      "example": "Her employer offered flexible hours."
+    },
+    {
+      "word": "ending",
+      "phonetic": "/ˈendɪŋ/",
+      "meaning": "n. 结局；结尾",
+      "example": "The film has a happy ending."
+    },
+    {
+      "word": "engine",
+      "phonetic": "/ˈendʒɪn/",
+      "meaning": "n. 发动机；引擎",
+      "example": "The engine is very quiet."
+    },
+    {
+      "word": "enjoyable",
+      "phonetic": "/ɪnˈdʒɔɪəbl/",
+      "meaning": "adj. 令人愉快的",
+      "example": "It was an enjoyable evening."
+    },
+    {
+      "word": "envelope",
+      "phonetic": "/ˈenvələʊp/",
+      "meaning": "n. 信封；封套",
+      "example": "Put the letter in an envelope."
+    },
+    {
+      "word": "envy",
+      "phonetic": "/ˈenvi/",
+      "meaning": "n. 羡慕；嫉妒 v. 羡慕",
+      "example": "She felt a pang of envy."
+    },
+    {
+      "word": "everyday",
+      "phonetic": "/ˈevrideɪ/",
+      "meaning": "adj. 日常的；平常的",
+      "example": "These are everyday shoes."
+    },
+    {
+      "word": "examination",
+      "phonetic": "/ɪɡˌzæmɪˈneɪʃn/",
+      "meaning": "n. 考试；检查",
+      "example": "The examination lasts two hours."
+    },
+    {
+      "word": "exhausted",
+      "phonetic": "/ɪɡˈzɔːstɪd/",
+      "meaning": "adj. 精疲力竭的",
+      "example": "She was exhausted after the flight."
+    },
+    {
+      "word": "exhibition",
+      "phonetic": "/ˌeksɪˈbɪʃn/",
+      "meaning": "n. 展览；展览会",
+      "example": "The exhibition runs until June."
+    },
+    {
+      "word": "explanation",
+      "phonetic": "/ˌekspləˈneɪʃn/",
+      "meaning": "n. 解释；说明",
+      "example": "There is no explanation for the delay."
+    },
+    {
+      "word": "expression",
+      "phonetic": "/ɪkˈspreʃn/",
+      "meaning": "n. 表情；表达；短语",
+      "example": "Her expression changed at once."
+    },
+    {
+      "word": "extremely",
+      "phonetic": "/ɪkˈstriːmli/",
+      "meaning": "adv. 极其；非常",
+      "example": "The exam was extremely difficult."
+    },
+    {
+      "word": "faint",
+      "phonetic": "/feɪnt/",
+      "meaning": "adj. 微弱的；模糊的 v. 昏倒",
+      "example": "She fainted in the heat."
+    },
+    {
+      "word": "faithful",
+      "phonetic": "/ˈfeɪθfl/",
+      "meaning": "adj. 忠诚的；faithful 准确的",
+      "example": "The dog was faithful to its owner."
+    },
+    {
+      "word": "falcon",
+      "phonetic": "/ˈfɔːlkən/",
+      "meaning": "n. 猎鹰",
+      "example": "A falcon hovered above the cliff."
+    },
+    {
+      "word": "fantastic",
+      "phonetic": "/fænˈtæstɪk/",
+      "meaning": "adj. 极好的；奇异的",
+      "example": "We had a fantastic time."
+    },
+    {
+      "word": "fashionable",
+      "phonetic": "/ˈfæʃnəbl/",
+      "meaning": "adj. 时髦的；流行的",
+      "example": "The district is very fashionable."
+    },
+    {
+      "word": "favourite",
+      "phonetic": "/ˈfeɪvərɪt/",
+      "meaning": "adj. 最喜欢的 n. 最爱",
+      "example": "This is my favourite song."
+    },
+    {
+      "word": "feast",
+      "phonetic": "/fiːst/",
+      "meaning": "n. 盛宴 v. 尽情享受",
+      "example": "They prepared a feast for the guests."
+    },
+    {
+      "word": "feeling",
+      "phonetic": "/ˈfiːlɪŋ/",
+      "meaning": "n. 感觉；情感",
+      "example": "I have a feeling something is wrong."
+    },
+    {
+      "word": "fever",
+      "phonetic": "/ˈfiːvə/",
+      "meaning": "n. 发烧；狂热",
+      "example": "She has a slight fever."
+    },
+    {
+      "word": "fireplace",
+      "phonetic": "/ˈfaɪəpleɪs/",
+      "meaning": "n. 壁炉",
+      "example": "A fire burned in the fireplace."
+    },
+    {
+      "word": "firework",
+      "phonetic": "/ˈfaɪəwɜːk/",
+      "meaning": "n. 烟花；烟火",
+      "example": "The fireworks lit up the sky."
+    },
+    {
+      "word": "firstly",
+      "phonetic": "/ˈfɜːstli/",
+      "meaning": "adv. 首先；第一",
+      "example": "Firstly, we must confirm the dates."
+    },
+    {
+      "word": "fisherman",
+      "phonetic": "/ˈfɪʃəmən/",
+      "meaning": "n. 渔民；钓鱼者",
+      "example": "The fisherman mended his nets."
+    },
+    {
+      "word": "fist",
+      "phonetic": "/fɪst/",
+      "meaning": "n. 拳头",
+      "example": "He clenched his fist in anger."
+    },
+    {
+      "word": "flag",
+      "phonetic": "/flæɡ/",
+      "meaning": "n. 旗 v. 标记",
+      "example": "The flag flew at half mast."
+    },
+    {
+      "word": "flour",
+      "phonetic": "/ˈflaʊə/",
+      "meaning": "n. 面粉",
+      "example": "Mix the flour with water."
+    },
+    {
+      "word": "flu",
+      "phonetic": "/fluː/",
+      "meaning": "n. 流感",
+      "example": "He is off work with flu."
+    },
+    {
+      "word": "fond",
+      "phonetic": "/fɒnd/",
+      "meaning": "adj. 喜爱的；深情的",
+      "example": "She is fond of classical music."
+    },
+    {
+      "word": "footpath",
+      "phonetic": "/ˈfʊtpɑːθ/",
+      "meaning": "n. 人行道；小路",
+      "example": "A footpath leads to the village."
+    },
+    {
+      "word": "forehead",
+      "phonetic": "/ˈfɒrhed/",
+      "meaning": "n. 前额；额头",
+      "example": "He wiped his forehead."
+    },
+    {
+      "word": "fork",
+      "phonetic": "/fɔːk/",
+      "meaning": "n. 叉子；岔路口",
+      "example": "Use a knife and fork."
+    },
+    {
+      "word": "found",
+      "phonetic": "/faʊnd/",
+      "meaning": "v. 创立；建立",
+      "example": "The school was founded in 1850."
+    },
+    {
+      "word": "fourth",
+      "phonetic": "/fɔːθ/",
+      "meaning": "num. 第四 n. 四分之一",
+      "example": "She finished fourth in the race."
+    },
+    {
+      "word": "fox",
+      "phonetic": "/fɒks/",
+      "meaning": "n. 狐狸",
+      "example": "A fox crossed the road."
+    },
+    {
+      "word": "frighten",
+      "phonetic": "/ˈfraɪtn/",
+      "meaning": "v. 使害怕；吓唬",
+      "example": "The noise frightened the horse."
+    },
+    {
+      "word": "frog",
+      "phonetic": "/frɒɡ/",
+      "meaning": "n. 青蛙",
+      "example": "Frogs croaked by the pond."
+    },
+    {
+      "word": "frost",
+      "phonetic": "/frɒst/",
+      "meaning": "n. 霜；严寒",
+      "example": "Frost covered the windscreen."
+    },
+    {
+      "word": "frozen",
+      "phonetic": "/ˈfrəʊzn/",
+      "meaning": "adj. 冰冻的；冻结的",
+      "example": "We ate frozen peas."
+    },
+    {
+      "word": "fry",
+      "phonetic": "/fraɪ/",
+      "meaning": "v. 油炸；煎",
+      "example": "Fry the onions until soft."
+    },
+    {
+      "word": "further",
+      "phonetic": "/ˈfɜːðə/",
+      "meaning": "adv. 更远；进一步 adj. 更多的",
+      "example": "We need further information."
+    }
+  ]
+}

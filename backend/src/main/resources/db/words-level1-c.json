@@ -1,0 +1,1686 @@
+{
+  "level": 1,
+  "note": "高频基础词（第 3 批）——日常动作与生活高频动词",
+  "words": [
+    {
+      "word": "act",
+      "phonetic": "ækt",
+      "meaning": "v. 行动；表演",
+      "example": "We must act now."
+    },
+    {
+      "word": "add",
+      "phonetic": "æd",
+      "meaning": "v. 增加；添加",
+      "example": "Add some sugar to the tea."
+    },
+    {
+      "word": "address",
+      "phonetic": "əˈdres",
+      "meaning": "n. 地址 v. 演讲；处理",
+      "example": "Write your address here."
+    },
+    {
+      "word": "aim",
+      "phonetic": "eɪm",
+      "meaning": "n. 目标 v. 瞄准",
+      "example": "Our aim is to finish today."
+    },
+    {
+      "word": "ask",
+      "phonetic": "ɑːsk",
+      "meaning": "v. 问；请求",
+      "example": "May I ask a question?"
+    },
+    {
+      "word": "attack",
+      "phonetic": "əˈtæk",
+      "meaning": "v./n. 攻击",
+      "example": "The dog may attack strangers."
+    },
+    {
+      "word": "attend",
+      "phonetic": "əˈtend",
+      "meaning": "v. 出席；照料",
+      "example": "She attends class every day."
+    },
+    {
+      "word": "bake",
+      "phonetic": "beɪk",
+      "meaning": "v. 烤；烘焙",
+      "example": "My mother bakes bread at home."
+    },
+    {
+      "word": "beat",
+      "phonetic": "biːt",
+      "meaning": "v. 打败；敲打",
+      "example": "Our team beat theirs easily."
+    },
+    {
+      "word": "beg",
+      "phonetic": "beɡ",
+      "meaning": "v. 乞求；恳求",
+      "example": "He begged her to stay."
+    },
+    {
+      "word": "bend",
+      "phonetic": "bend",
+      "meaning": "v. 弯曲；弯腰",
+      "example": "Bend your knees slowly."
+    },
+    {
+      "word": "bite",
+      "phonetic": "baɪt",
+      "meaning": "v. 咬 n. 一口",
+      "example": "The dog bit my shoe."
+    },
+    {
+      "word": "blow",
+      "phonetic": "bləʊ",
+      "meaning": "v. 吹；刮",
+      "example": "The wind blew all night."
+    },
+    {
+      "word": "boil",
+      "phonetic": "bɔɪl",
+      "meaning": "v. 煮沸",
+      "example": "Boil the water first."
+    },
+    {
+      "word": "book",
+      "phonetic": "bʊk",
+      "meaning": "n. 书 v. 预订",
+      "example": "I booked a room online."
+    },
+    {
+      "word": "bounce",
+      "phonetic": "baʊns",
+      "meaning": "v. 弹跳",
+      "example": "The ball bounced twice."
+    },
+    {
+      "word": "break",
+      "phonetic": "breɪk",
+      "meaning": "v. 打破；折断 n. 休息",
+      "example": "Do not break the glass."
+    },
+    {
+      "word": "bring",
+      "phonetic": "brɪŋ",
+      "meaning": "v. 带来",
+      "example": "Bring your notebook tomorrow."
+    },
+    {
+      "word": "brush",
+      "phonetic": "brʌʃ",
+      "meaning": "v. 刷 n. 刷子",
+      "example": "Brush your teeth twice daily."
+    },
+    {
+      "word": "burn",
+      "phonetic": "bɜːn",
+      "meaning": "v. 燃烧；烧伤",
+      "example": "The paper burned quickly."
+    },
+    {
+      "word": "buy",
+      "phonetic": "baɪ",
+      "meaning": "v. 买",
+      "example": "I want to buy a ticket."
+    },
+    {
+      "word": "call",
+      "phonetic": "kɔːl",
+      "meaning": "v. 呼叫；称呼 n. 电话",
+      "example": "Call me when you arrive."
+    },
+    {
+      "word": "camp",
+      "phonetic": "kæmp",
+      "meaning": "n. 营地 v. 露营",
+      "example": "We camped by the lake."
+    },
+    {
+      "word": "chat",
+      "phonetic": "tʃæt",
+      "meaning": "v./n. 闲聊",
+      "example": "They chatted for an hour."
+    },
+    {
+      "word": "cheer",
+      "phonetic": "tʃɪə",
+      "meaning": "v. 欢呼；使高兴",
+      "example": "The crowd cheered loudly."
+    },
+    {
+      "word": "chew",
+      "phonetic": "tʃuː",
+      "meaning": "v. 咀嚼",
+      "example": "Chew your food slowly."
+    },
+    {
+      "word": "clap",
+      "phonetic": "klæp",
+      "meaning": "v. 拍手",
+      "example": "Everyone clapped at the end."
+    },
+    {
+      "word": "close",
+      "phonetic": "kləʊz",
+      "meaning": "v. 关闭 adj. 近的",
+      "example": "Please close the window."
+    },
+    {
+      "word": "comb",
+      "phonetic": "kəʊm",
+      "meaning": "n. 梳子 v. 梳理",
+      "example": "She combed her hair."
+    },
+    {
+      "word": "come",
+      "phonetic": "kʌm",
+      "meaning": "v. 来",
+      "example": "Come here at once."
+    },
+    {
+      "word": "cook",
+      "phonetic": "kʊk",
+      "meaning": "v. 烹饪 n. 厨师",
+      "example": "He cooks dinner every night."
+    },
+    {
+      "word": "copy",
+      "phonetic": "ˈkɒpi",
+      "meaning": "n. 副本 v. 复制",
+      "example": "Copy this page for me."
+    },
+    {
+      "word": "cry",
+      "phonetic": "kraɪ",
+      "meaning": "v. 哭；喊叫",
+      "example": "The baby cried all night."
+    },
+    {
+      "word": "cut",
+      "phonetic": "kʌt",
+      "meaning": "v. 切；剪",
+      "example": "Cut the cake into pieces."
+    },
+    {
+      "word": "dance",
+      "phonetic": "dɑːns",
+      "meaning": "v./n. 跳舞",
+      "example": "They danced at the party."
+    },
+    {
+      "word": "deal",
+      "phonetic": "diːl",
+      "meaning": "v. 处理 n. 交易",
+      "example": "We must deal with this."
+    },
+    {
+      "word": "dig",
+      "phonetic": "dɪɡ",
+      "meaning": "v. 挖",
+      "example": "They dug a deep hole."
+    },
+    {
+      "word": "draw",
+      "phonetic": "drɔː",
+      "meaning": "v. 画；拉",
+      "example": "She drew a small house."
+    },
+    {
+      "word": "dress",
+      "phonetic": "dres",
+      "meaning": "n. 连衣裙 v. 穿衣",
+      "example": "He dressed in a hurry."
+    },
+    {
+      "word": "drink",
+      "phonetic": "drɪŋk",
+      "meaning": "v. 喝 n. 饮料",
+      "example": "Drink more water daily."
+    },
+    {
+      "word": "drop",
+      "phonetic": "drɒp",
+      "meaning": "v. 掉落 n. 一滴",
+      "example": "The cup dropped and broke."
+    },
+    {
+      "word": "dry",
+      "phonetic": "draɪ",
+      "meaning": "adj. 干的 v. 弄干",
+      "example": "The clothes are dry now."
+    },
+    {
+      "word": "eat",
+      "phonetic": "iːt",
+      "meaning": "v. 吃",
+      "example": "We eat lunch at noon."
+    },
+    {
+      "word": "enter",
+      "phonetic": "ˈentə",
+      "meaning": "v. 进入；参加",
+      "example": "He entered the room quietly."
+    },
+    {
+      "word": "exercise",
+      "phonetic": "ˈeksəsaɪz",
+      "meaning": "n./v. 锻炼；练习",
+      "example": "Exercise keeps you healthy."
+    },
+    {
+      "word": "explain",
+      "phonetic": "ɪkˈspleɪn",
+      "meaning": "v. 解释",
+      "example": "Please explain it again."
+    },
+    {
+      "word": "fall",
+      "phonetic": "fɔːl",
+      "meaning": "v. 落下；跌倒 n. 秋天",
+      "example": "Leaves fall in autumn."
+    },
+    {
+      "word": "feel",
+      "phonetic": "fiːl",
+      "meaning": "v. 感觉；觉得",
+      "example": "I feel much better today."
+    },
+    {
+      "word": "fight",
+      "phonetic": "faɪt",
+      "meaning": "v./n. 打架；斗争",
+      "example": "They fought for freedom."
+    },
+    {
+      "word": "fill",
+      "phonetic": "fɪl",
+      "meaning": "v. 填满",
+      "example": "Fill the bottle with water."
+    },
+    {
+      "word": "find",
+      "phonetic": "faɪnd",
+      "meaning": "v. 找到；发现",
+      "example": "I cannot find my keys."
+    },
+    {
+      "word": "fix",
+      "phonetic": "fɪks",
+      "meaning": "v. 修理；固定",
+      "example": "He fixed the broken chair."
+    },
+    {
+      "word": "fly",
+      "phonetic": "flaɪ",
+      "meaning": "v. 飞 n. 苍蝇",
+      "example": "Birds fly south in winter."
+    },
+    {
+      "word": "fold",
+      "phonetic": "fəʊld",
+      "meaning": "v. 折叠",
+      "example": "Fold the paper in half."
+    },
+    {
+      "word": "get",
+      "phonetic": "ɡet",
+      "meaning": "v. 得到；变得",
+      "example": "I got a letter today."
+    },
+    {
+      "word": "give",
+      "phonetic": "ɡɪv",
+      "meaning": "v. 给",
+      "example": "Give me a minute please."
+    },
+    {
+      "word": "go",
+      "phonetic": "ɡəʊ",
+      "meaning": "v. 去",
+      "example": "Let us go home now."
+    },
+    {
+      "word": "grab",
+      "phonetic": "ɡræb",
+      "meaning": "v. 抓住",
+      "example": "He grabbed my arm."
+    },
+    {
+      "word": "hang",
+      "phonetic": "hæŋ",
+      "meaning": "v. 悬挂",
+      "example": "Hang your coat here."
+    },
+    {
+      "word": "hate",
+      "phonetic": "heɪt",
+      "meaning": "v. 讨厌",
+      "example": "I hate waiting in line."
+    },
+    {
+      "word": "have",
+      "phonetic": "hæv",
+      "meaning": "v. 有；吃",
+      "example": "We have two classes today."
+    },
+    {
+      "word": "hear",
+      "phonetic": "hɪə",
+      "meaning": "v. 听见",
+      "example": "I can hear a car."
+    },
+    {
+      "word": "heat",
+      "phonetic": "hiːt",
+      "meaning": "n. 热 v. 加热",
+      "example": "Heat the soup for five minutes."
+    },
+    {
+      "word": "help",
+      "phonetic": "help",
+      "meaning": "v./n. 帮助",
+      "example": "Can you help me please?"
+    },
+    {
+      "word": "hit",
+      "phonetic": "hɪt",
+      "meaning": "v. 打；撞",
+      "example": "The ball hit the window."
+    },
+    {
+      "word": "hop",
+      "phonetic": "hɒp",
+      "meaning": "v. 单脚跳",
+      "example": "The rabbit hopped away."
+    },
+    {
+      "word": "hug",
+      "phonetic": "hʌɡ",
+      "meaning": "v./n. 拥抱",
+      "example": "She hugged her mother."
+    },
+    {
+      "word": "hurry",
+      "phonetic": "ˈhʌri",
+      "meaning": "v. 赶快 n. 匆忙",
+      "example": "Hurry up or we are late."
+    },
+    {
+      "word": "jump",
+      "phonetic": "dʒʌmp",
+      "meaning": "v./n. 跳",
+      "example": "He jumped over the fence."
+    },
+    {
+      "word": "keep",
+      "phonetic": "kiːp",
+      "meaning": "v. 保持；保存",
+      "example": "Keep the door closed."
+    },
+    {
+      "word": "kick",
+      "phonetic": "kɪk",
+      "meaning": "v. 踢",
+      "example": "He kicked the ball hard."
+    },
+    {
+      "word": "kill",
+      "phonetic": "kɪl",
+      "meaning": "v. 杀死",
+      "example": "Heat kills most bacteria."
+    },
+    {
+      "word": "kiss",
+      "phonetic": "kɪs",
+      "meaning": "v./n. 吻",
+      "example": "She kissed her son goodnight."
+    },
+    {
+      "word": "knock",
+      "phonetic": "nɒk",
+      "meaning": "v. 敲；撞",
+      "example": "Someone knocked at the door."
+    },
+    {
+      "word": "know",
+      "phonetic": "nəʊ",
+      "meaning": "v. 知道；认识",
+      "example": "I know the answer."
+    },
+    {
+      "word": "land",
+      "phonetic": "lænd",
+      "meaning": "n. 陆地 v. 着陆",
+      "example": "The plane landed safely."
+    },
+    {
+      "word": "last",
+      "phonetic": "lɑːst",
+      "meaning": "v. 持续 adj. 最后的",
+      "example": "The film lasts two hours."
+    },
+    {
+      "word": "lay",
+      "phonetic": "leɪ",
+      "meaning": "v. 放置；下蛋",
+      "example": "Lay the book on the desk."
+    },
+    {
+      "word": "leave",
+      "phonetic": "liːv",
+      "meaning": "v. 离开；留下",
+      "example": "We leave at eight."
+    },
+    {
+      "word": "lie",
+      "phonetic": "laɪ",
+      "meaning": "v. 躺；说谎 n. 谎言",
+      "example": "Do not lie to me."
+    },
+    {
+      "word": "live",
+      "phonetic": "lɪv",
+      "meaning": "v. 居住；生活",
+      "example": "They live near the park."
+    },
+    {
+      "word": "look",
+      "phonetic": "lʊk",
+      "meaning": "v. 看；显得",
+      "example": "Look at the blackboard."
+    },
+    {
+      "word": "love",
+      "phonetic": "lʌv",
+      "meaning": "v./n. 爱",
+      "example": "I love reading novels."
+    },
+    {
+      "word": "make",
+      "phonetic": "meɪk",
+      "meaning": "v. 制作；使得",
+      "example": "She made a cake herself."
+    },
+    {
+      "word": "mean",
+      "phonetic": "miːn",
+      "meaning": "v. 意思是 adj. 小气的",
+      "example": "What does this word mean?"
+    },
+    {
+      "word": "meet",
+      "phonetic": "miːt",
+      "meaning": "v. 遇见；满足",
+      "example": "Let us meet at noon."
+    },
+    {
+      "word": "melt",
+      "phonetic": "melt",
+      "meaning": "v. 融化",
+      "example": "Ice melts in the sun."
+    },
+    {
+      "word": "mix",
+      "phonetic": "mɪks",
+      "meaning": "v. 混合",
+      "example": "Mix the eggs and flour."
+    },
+    {
+      "word": "need",
+      "phonetic": "niːd",
+      "meaning": "v./n. 需要",
+      "example": "We need more time."
+    },
+    {
+      "word": "nod",
+      "phonetic": "nɒd",
+      "meaning": "v. 点头",
+      "example": "He nodded in agreement."
+    },
+    {
+      "word": "open",
+      "phonetic": "ˈəʊpən",
+      "meaning": "v. 打开 adj. 开着的",
+      "example": "Open your books please."
+    },
+    {
+      "word": "pack",
+      "phonetic": "pæk",
+      "meaning": "v. 打包 n. 一包",
+      "example": "Pack your bags tonight."
+    },
+    {
+      "word": "paint",
+      "phonetic": "peɪnt",
+      "meaning": "v. 油漆；绘画 n. 油漆",
+      "example": "They painted the wall white."
+    },
+    {
+      "word": "park",
+      "phonetic": "pɑːk",
+      "meaning": "n. 公园 v. 停车",
+      "example": "You can park behind the building."
+    },
+    {
+      "word": "pass",
+      "phonetic": "pɑːs",
+      "meaning": "v. 经过；通过",
+      "example": "She passed the exam easily."
+    },
+    {
+      "word": "pay",
+      "phonetic": "peɪ",
+      "meaning": "v. 支付 n. 工资",
+      "example": "I paid by phone."
+    },
+    {
+      "word": "pick",
+      "phonetic": "pɪk",
+      "meaning": "v. 挑选；摘",
+      "example": "Pick any color you like."
+    },
+    {
+      "word": "plant",
+      "phonetic": "plɑːnt",
+      "meaning": "n. 植物 v. 种植",
+      "example": "They planted trees last spring."
+    },
+    {
+      "word": "play",
+      "phonetic": "pleɪ",
+      "meaning": "v. 玩；演奏",
+      "example": "The kids play outside."
+    },
+    {
+      "word": "pour",
+      "phonetic": "pɔː",
+      "meaning": "v. 倒；灌",
+      "example": "Pour the milk into the cup."
+    },
+    {
+      "word": "pray",
+      "phonetic": "preɪ",
+      "meaning": "v. 祈祷",
+      "example": "She prayed for good luck."
+    },
+    {
+      "word": "press",
+      "phonetic": "pres",
+      "meaning": "v. 按；压 n. 新闻界",
+      "example": "Press the red button."
+    },
+    {
+      "word": "pull",
+      "phonetic": "pʊl",
+      "meaning": "v. 拉",
+      "example": "Pull the door to open it."
+    },
+    {
+      "word": "push",
+      "phonetic": "pʊʃ",
+      "meaning": "v. 推",
+      "example": "Push the table to the wall."
+    },
+    {
+      "word": "put",
+      "phonetic": "pʊt",
+      "meaning": "v. 放",
+      "example": "Put it on the shelf."
+    },
+    {
+      "word": "rain",
+      "phonetic": "reɪn",
+      "meaning": "n. 雨 v. 下雨",
+      "example": "It rained all morning."
+    },
+    {
+      "word": "read",
+      "phonetic": "riːd",
+      "meaning": "v. 阅读",
+      "example": "I read before sleeping."
+    },
+    {
+      "word": "relax",
+      "phonetic": "rɪˈlæks",
+      "meaning": "v. 放松",
+      "example": "Relax and take a breath."
+    },
+    {
+      "word": "remember",
+      "phonetic": "rɪˈmembə",
+      "meaning": "v. 记得",
+      "example": "I remember his name."
+    },
+    {
+      "word": "repeat",
+      "phonetic": "rɪˈpiːt",
+      "meaning": "v. 重复",
+      "example": "Please repeat the sentence."
+    },
+    {
+      "word": "rest",
+      "phonetic": "rest",
+      "meaning": "v./n. 休息",
+      "example": "Rest for ten minutes."
+    },
+    {
+      "word": "ride",
+      "phonetic": "raɪd",
+      "meaning": "v. 骑；乘",
+      "example": "He rides a bike to work."
+    },
+    {
+      "word": "ring",
+      "phonetic": "rɪŋ",
+      "meaning": "v. 响；打电话 n. 戒指",
+      "example": "The phone rang twice."
+    },
+    {
+      "word": "rise",
+      "phonetic": "raɪz",
+      "meaning": "v. 上升；起床",
+      "example": "Prices rise every year."
+    },
+    {
+      "word": "roll",
+      "phonetic": "rəʊl",
+      "meaning": "v. 滚动 n. 卷",
+      "example": "The ball rolled away."
+    },
+    {
+      "word": "run",
+      "phonetic": "rʌn",
+      "meaning": "v. 跑；经营",
+      "example": "She runs every morning."
+    },
+    {
+      "word": "sail",
+      "phonetic": "seɪl",
+      "meaning": "v. 航行 n. 帆",
+      "example": "They sailed across the sea."
+    },
+    {
+      "word": "save",
+      "phonetic": "seɪv",
+      "meaning": "v. 救；节省；保存",
+      "example": "Save your file first."
+    },
+    {
+      "word": "say",
+      "phonetic": "seɪ",
+      "meaning": "v. 说",
+      "example": "What did he say?"
+    },
+    {
+      "word": "see",
+      "phonetic": "siː",
+      "meaning": "v. 看见；明白",
+      "example": "I see your point."
+    },
+    {
+      "word": "sell",
+      "phonetic": "sel",
+      "meaning": "v. 卖",
+      "example": "They sell fresh fruit."
+    },
+    {
+      "word": "send",
+      "phonetic": "send",
+      "meaning": "v. 发送；派",
+      "example": "Send me the file please."
+    },
+    {
+      "word": "serve",
+      "phonetic": "sɜːv",
+      "meaning": "v. 服务；供应",
+      "example": "They serve lunch at noon."
+    },
+    {
+      "word": "shake",
+      "phonetic": "ʃeɪk",
+      "meaning": "v. 摇动；颤抖",
+      "example": "Shake the bottle well."
+    },
+    {
+      "word": "share",
+      "phonetic": "ʃeə",
+      "meaning": "v. 分享 n. 份额",
+      "example": "Share the cake with her."
+    },
+    {
+      "word": "shine",
+      "phonetic": "ʃaɪn",
+      "meaning": "v. 照耀；发光",
+      "example": "The sun shines brightly."
+    },
+    {
+      "word": "shout",
+      "phonetic": "ʃaʊt",
+      "meaning": "v. 喊叫",
+      "example": "Do not shout in class."
+    },
+    {
+      "word": "show",
+      "phonetic": "ʃəʊ",
+      "meaning": "v. 展示 n. 表演",
+      "example": "Show me your plan."
+    },
+    {
+      "word": "shut",
+      "phonetic": "ʃʌt",
+      "meaning": "v. 关闭",
+      "example": "Shut the gate please."
+    },
+    {
+      "word": "sing",
+      "phonetic": "sɪŋ",
+      "meaning": "v. 唱歌",
+      "example": "She sings very well."
+    },
+    {
+      "word": "sit",
+      "phonetic": "sɪt",
+      "meaning": "v. 坐",
+      "example": "Sit down and relax."
+    },
+    {
+      "word": "sleep",
+      "phonetic": "sliːp",
+      "meaning": "v./n. 睡觉",
+      "example": "I slept eight hours."
+    },
+    {
+      "word": "slide",
+      "phonetic": "slaɪd",
+      "meaning": "v. 滑动 n. 幻灯片",
+      "example": "The box slid off the table."
+    },
+    {
+      "word": "smell",
+      "phonetic": "smel",
+      "meaning": "v. 闻 n. 气味",
+      "example": "The soup smells good."
+    },
+    {
+      "word": "smile",
+      "phonetic": "smaɪl",
+      "meaning": "v./n. 微笑",
+      "example": "She smiled at me."
+    },
+    {
+      "word": "smoke",
+      "phonetic": "sməʊk",
+      "meaning": "n. 烟 v. 吸烟",
+      "example": "Smoke rose from the chimney."
+    },
+    {
+      "word": "snow",
+      "phonetic": "snəʊ",
+      "meaning": "n. 雪 v. 下雪",
+      "example": "It snowed last night."
+    },
+    {
+      "word": "speak",
+      "phonetic": "spiːk",
+      "meaning": "v. 说话；演讲",
+      "example": "He speaks three languages."
+    },
+    {
+      "word": "spell",
+      "phonetic": "spel",
+      "meaning": "v. 拼写",
+      "example": "How do you spell it?"
+    },
+    {
+      "word": "spend",
+      "phonetic": "spend",
+      "meaning": "v. 花费",
+      "example": "I spent two hours reading."
+    },
+    {
+      "word": "spill",
+      "phonetic": "spɪl",
+      "meaning": "v. 洒出",
+      "example": "He spilled the coffee."
+    },
+    {
+      "word": "stand",
+      "phonetic": "stænd",
+      "meaning": "v. 站立；忍受",
+      "example": "Please stand in line."
+    },
+    {
+      "word": "start",
+      "phonetic": "stɑːt",
+      "meaning": "v./n. 开始",
+      "example": "The class starts at nine."
+    },
+    {
+      "word": "stay",
+      "phonetic": "steɪ",
+      "meaning": "v. 停留",
+      "example": "Stay here for a while."
+    },
+    {
+      "word": "steal",
+      "phonetic": "stiːl",
+      "meaning": "v. 偷",
+      "example": "Someone stole my bike."
+    },
+    {
+      "word": "step",
+      "phonetic": "step",
+      "meaning": "n. 步骤 v. 踏",
+      "example": "Take one step forward."
+    },
+    {
+      "word": "stop",
+      "phonetic": "stɒp",
+      "meaning": "v. 停止",
+      "example": "Stop talking now."
+    },
+    {
+      "word": "study",
+      "phonetic": "ˈstʌdi",
+      "meaning": "v./n. 学习；研究",
+      "example": "She studies every evening."
+    },
+    {
+      "word": "swim",
+      "phonetic": "swɪm",
+      "meaning": "v. 游泳",
+      "example": "I swim twice a week."
+    },
+    {
+      "word": "take",
+      "phonetic": "teɪk",
+      "meaning": "v. 拿；乘坐；花费",
+      "example": "Take this umbrella with you."
+    },
+    {
+      "word": "talk",
+      "phonetic": "tɔːk",
+      "meaning": "v./n. 谈话",
+      "example": "We talked for an hour."
+    },
+    {
+      "word": "taste",
+      "phonetic": "teɪst",
+      "meaning": "v. 品尝 n. 味道",
+      "example": "The soup tastes salty."
+    },
+    {
+      "word": "teach",
+      "phonetic": "tiːtʃ",
+      "meaning": "v. 教",
+      "example": "He teaches maths."
+    },
+    {
+      "word": "tell",
+      "phonetic": "tel",
+      "meaning": "v. 告诉",
+      "example": "Tell me the truth."
+    },
+    {
+      "word": "thank",
+      "phonetic": "θæŋk",
+      "meaning": "v. 感谢",
+      "example": "Thank you for your help."
+    },
+    {
+      "word": "think",
+      "phonetic": "θɪŋk",
+      "meaning": "v. 想；认为",
+      "example": "I think you are right."
+    },
+    {
+      "word": "throw",
+      "phonetic": "θrəʊ",
+      "meaning": "v. 扔",
+      "example": "Throw the ball to me."
+    },
+    {
+      "word": "tie",
+      "phonetic": "taɪ",
+      "meaning": "v. 系 n. 领带",
+      "example": "Tie your shoes first."
+    },
+    {
+      "word": "touch",
+      "phonetic": "tʌtʃ",
+      "meaning": "v. 触摸 n. 联系",
+      "example": "Do not touch the wire."
+    },
+    {
+      "word": "travel",
+      "phonetic": "ˈtrævl",
+      "meaning": "v./n. 旅行",
+      "example": "They travel by train."
+    },
+    {
+      "word": "try",
+      "phonetic": "traɪ",
+      "meaning": "v. 尝试",
+      "example": "Try again tomorrow."
+    },
+    {
+      "word": "turn",
+      "phonetic": "tɜːn",
+      "meaning": "v. 转动；变成 n. 轮到",
+      "example": "Turn left at the corner."
+    },
+    {
+      "word": "understand",
+      "phonetic": "ˌʌndəˈstænd",
+      "meaning": "v. 理解",
+      "example": "I understand your feeling."
+    },
+    {
+      "word": "use",
+      "phonetic": "juːz",
+      "meaning": "v. 使用 n. 用途",
+      "example": "Use a pencil to draw."
+    },
+    {
+      "word": "visit",
+      "phonetic": "ˈvɪzɪt",
+      "meaning": "v./n. 拜访",
+      "example": "We visit grandma weekly."
+    },
+    {
+      "word": "wait",
+      "phonetic": "weɪt",
+      "meaning": "v. 等待",
+      "example": "Wait for me here."
+    },
+    {
+      "word": "wake",
+      "phonetic": "weɪk",
+      "meaning": "v. 醒来；唤醒",
+      "example": "I wake up at six."
+    },
+    {
+      "word": "walk",
+      "phonetic": "wɔːk",
+      "meaning": "v./n. 走路",
+      "example": "They walk to school."
+    },
+    {
+      "word": "want",
+      "phonetic": "wɒnt",
+      "meaning": "v. 想要",
+      "example": "I want a cup of tea."
+    },
+    {
+      "word": "wash",
+      "phonetic": "wɒʃ",
+      "meaning": "v. 洗",
+      "example": "Wash your hands first."
+    },
+    {
+      "word": "watch",
+      "phonetic": "wɒtʃ",
+      "meaning": "v. 观看 n. 手表",
+      "example": "We watched a film."
+    },
+    {
+      "word": "wave",
+      "phonetic": "weɪv",
+      "meaning": "v. 挥手；波动 n. 波浪",
+      "example": "She waved goodbye."
+    },
+    {
+      "word": "wear",
+      "phonetic": "weə",
+      "meaning": "v. 穿；戴",
+      "example": "He wears glasses."
+    },
+    {
+      "word": "win",
+      "phonetic": "wɪn",
+      "meaning": "v. 赢",
+      "example": "Our team won the game."
+    },
+    {
+      "word": "wish",
+      "phonetic": "wɪʃ",
+      "meaning": "v./n. 希望；祝愿",
+      "example": "I wish you success."
+    },
+    {
+      "word": "wonder",
+      "phonetic": "ˈwʌndə",
+      "meaning": "v. 想知道 n. 奇迹",
+      "example": "I wonder why he left."
+    },
+    {
+      "word": "work",
+      "phonetic": "wɜːk",
+      "meaning": "v./n. 工作",
+      "example": "She works in a bank."
+    },
+    {
+      "word": "worry",
+      "phonetic": "ˈwʌri",
+      "meaning": "v./n. 担心",
+      "example": "Do not worry about it."
+    },
+    {
+      "word": "write",
+      "phonetic": "raɪt",
+      "meaning": "v. 写",
+      "example": "Write your name here."
+    },
+    {
+      "word": "account",
+      "phonetic": "əˈkaʊnt",
+      "meaning": "n. 账户；描述",
+      "example": "Open a bank account."
+    },
+    {
+      "word": "action",
+      "phonetic": "ˈækʃn",
+      "meaning": "n. 行动",
+      "example": "Actions speak louder than words."
+    },
+    {
+      "word": "adult",
+      "phonetic": "ˈædʌlt",
+      "meaning": "n. 成人 adj. 成年的",
+      "example": "Two adults and one child."
+    },
+    {
+      "word": "age",
+      "phonetic": "eɪdʒ",
+      "meaning": "n. 年龄；时代",
+      "example": "He started school at age six."
+    },
+    {
+      "word": "air",
+      "phonetic": "eə",
+      "meaning": "n. 空气",
+      "example": "The air is fresh here."
+    },
+    {
+      "word": "animal",
+      "phonetic": "ˈænɪml",
+      "meaning": "n. 动物",
+      "example": "Wild animals need protection."
+    },
+    {
+      "word": "area",
+      "phonetic": "ˈeəriə",
+      "meaning": "n. 区域；面积",
+      "example": "This area is very quiet."
+    },
+    {
+      "word": "arm",
+      "phonetic": "ɑːm",
+      "meaning": "n. 手臂",
+      "example": "He hurt his left arm."
+    },
+    {
+      "word": "art",
+      "phonetic": "ɑːt",
+      "meaning": "n. 艺术",
+      "example": "She loves modern art."
+    },
+    {
+      "word": "baby",
+      "phonetic": "ˈbeɪbi",
+      "meaning": "n. 婴儿",
+      "example": "The baby is sleeping."
+    },
+    {
+      "word": "bag",
+      "phonetic": "bæɡ",
+      "meaning": "n. 包",
+      "example": "My bag is very heavy."
+    },
+    {
+      "word": "ball",
+      "phonetic": "bɔːl",
+      "meaning": "n. 球；舞会",
+      "example": "Pass me the ball."
+    },
+    {
+      "word": "bank",
+      "phonetic": "bæŋk",
+      "meaning": "n. 银行；河岸",
+      "example": "The bank opens at nine."
+    },
+    {
+      "word": "bed",
+      "phonetic": "bed",
+      "meaning": "n. 床",
+      "example": "Go to bed early."
+    },
+    {
+      "word": "bill",
+      "phonetic": "bɪl",
+      "meaning": "n. 账单；钞票",
+      "example": "Please pay the bill."
+    },
+    {
+      "word": "bird",
+      "phonetic": "bɜːd",
+      "meaning": "n. 鸟",
+      "example": "A bird sang outside."
+    },
+    {
+      "word": "body",
+      "phonetic": "ˈbɒdi",
+      "meaning": "n. 身体",
+      "example": "Exercise is good for the body."
+    },
+    {
+      "word": "bottle",
+      "phonetic": "ˈbɒtl",
+      "meaning": "n. 瓶子",
+      "example": "Fill the bottle with water."
+    },
+    {
+      "word": "box",
+      "phonetic": "bɒks",
+      "meaning": "n. 盒子",
+      "example": "Put it in the box."
+    },
+    {
+      "word": "boy",
+      "phonetic": "bɔɪ",
+      "meaning": "n. 男孩",
+      "example": "The boy is my brother."
+    },
+    {
+      "word": "bread",
+      "phonetic": "bred",
+      "meaning": "n. 面包",
+      "example": "We eat bread for breakfast."
+    },
+    {
+      "word": "bridge",
+      "phonetic": "brɪdʒ",
+      "meaning": "n. 桥",
+      "example": "The bridge is very long."
+    },
+    {
+      "word": "brother",
+      "phonetic": "ˈbrʌðə",
+      "meaning": "n. 兄弟",
+      "example": "My brother is a doctor."
+    },
+    {
+      "word": "building",
+      "phonetic": "ˈbɪldɪŋ",
+      "meaning": "n. 建筑物",
+      "example": "The building has ten floors."
+    },
+    {
+      "word": "bus",
+      "phonetic": "bʌs",
+      "meaning": "n. 公共汽车",
+      "example": "I take the bus to work."
+    },
+    {
+      "word": "cake",
+      "phonetic": "keɪk",
+      "meaning": "n. 蛋糕",
+      "example": "She made a birthday cake."
+    },
+    {
+      "word": "car",
+      "phonetic": "kɑː",
+      "meaning": "n. 汽车",
+      "example": "His car is very old."
+    },
+    {
+      "word": "card",
+      "phonetic": "kɑːd",
+      "meaning": "n. 卡片",
+      "example": "Send her a birthday card."
+    },
+    {
+      "word": "chair",
+      "phonetic": "tʃeə",
+      "meaning": "n. 椅子",
+      "example": "Sit on this chair."
+    },
+    {
+      "word": "child",
+      "phonetic": "tʃaɪld",
+      "meaning": "n. 孩子",
+      "example": "Every child needs love."
+    },
+    {
+      "word": "city",
+      "phonetic": "ˈsɪti",
+      "meaning": "n. 城市",
+      "example": "This city is very busy."
+    },
+    {
+      "word": "class",
+      "phonetic": "klɑːs",
+      "meaning": "n. 班级；课",
+      "example": "Our class has forty students."
+    },
+    {
+      "word": "clock",
+      "phonetic": "klɒk",
+      "meaning": "n. 时钟",
+      "example": "The clock is ten minutes fast."
+    },
+    {
+      "word": "clothes",
+      "phonetic": "kləʊðz",
+      "meaning": "n. 衣服",
+      "example": "Wash the clothes today."
+    },
+    {
+      "word": "cloud",
+      "phonetic": "klaʊd",
+      "meaning": "n. 云",
+      "example": "Dark clouds mean rain."
+    },
+    {
+      "word": "coffee",
+      "phonetic": "ˈkɒfi",
+      "meaning": "n. 咖啡",
+      "example": "I drink coffee every morning."
+    },
+    {
+      "word": "cold",
+      "phonetic": "kəʊld",
+      "meaning": "adj. 冷的 n. 感冒",
+      "example": "It is cold outside."
+    },
+    {
+      "word": "computer",
+      "phonetic": "kəmˈpjuːtə",
+      "meaning": "n. 电脑",
+      "example": "My computer is very slow."
+    },
+    {
+      "word": "cup",
+      "phonetic": "kʌp",
+      "meaning": "n. 杯子",
+      "example": "A cup of tea please."
+    },
+    {
+      "word": "day",
+      "phonetic": "deɪ",
+      "meaning": "n. 天；白天",
+      "example": "Have a nice day."
+    },
+    {
+      "word": "desk",
+      "phonetic": "desk",
+      "meaning": "n. 书桌",
+      "example": "The book is on the desk."
+    },
+    {
+      "word": "door",
+      "phonetic": "dɔː",
+      "meaning": "n. 门",
+      "example": "Close the door quietly."
+    },
+    {
+      "word": "ear",
+      "phonetic": "ɪə",
+      "meaning": "n. 耳朵",
+      "example": "My ear hurts a little."
+    },
+    {
+      "word": "earth",
+      "phonetic": "ɜːθ",
+      "meaning": "n. 地球；泥土",
+      "example": "We must protect the earth."
+    },
+    {
+      "word": "egg",
+      "phonetic": "eɡ",
+      "meaning": "n. 鸡蛋",
+      "example": "I eat an egg daily."
+    },
+    {
+      "word": "eye",
+      "phonetic": "aɪ",
+      "meaning": "n. 眼睛",
+      "example": "She has brown eyes."
+    },
+    {
+      "word": "face",
+      "phonetic": "feɪs",
+      "meaning": "n. 脸 v. 面对",
+      "example": "Wash your face first."
+    },
+    {
+      "word": "family",
+      "phonetic": "ˈfæməli",
+      "meaning": "n. 家庭",
+      "example": "My family is quite small."
+    },
+    {
+      "word": "farm",
+      "phonetic": "fɑːm",
+      "meaning": "n. 农场",
+      "example": "They live on a farm."
+    },
+    {
+      "word": "father",
+      "phonetic": "ˈfɑːðə",
+      "meaning": "n. 父亲",
+      "example": "My father works hard."
+    },
+    {
+      "word": "fire",
+      "phonetic": "ˈfaɪə",
+      "meaning": "n. 火 v. 解雇",
+      "example": "Be careful with fire."
+    },
+    {
+      "word": "fish",
+      "phonetic": "fɪʃ",
+      "meaning": "n. 鱼 v. 钓鱼",
+      "example": "We had fish for dinner."
+    },
+    {
+      "word": "floor",
+      "phonetic": "flɔː",
+      "meaning": "n. 地板；楼层",
+      "example": "My office is on the third floor."
+    },
+    {
+      "word": "flower",
+      "phonetic": "ˈflaʊə",
+      "meaning": "n. 花",
+      "example": "The flowers smell sweet."
+    },
+    {
+      "word": "food",
+      "phonetic": "fuːd",
+      "meaning": "n. 食物",
+      "example": "The food here is cheap."
+    },
+    {
+      "word": "foot",
+      "phonetic": "fʊt",
+      "meaning": "n. 脚",
+      "example": "My foot hurts badly."
+    },
+    {
+      "word": "forest",
+      "phonetic": "ˈfɒrɪst",
+      "meaning": "n. 森林",
+      "example": "The forest is very thick."
+    },
+    {
+      "word": "game",
+      "phonetic": "ɡeɪm",
+      "meaning": "n. 游戏；比赛",
+      "example": "They played a card game."
+    },
+    {
+      "word": "garden",
+      "phonetic": "ˈɡɑːdn",
+      "meaning": "n. 花园",
+      "example": "She grows roses in the garden."
+    },
+    {
+      "word": "girl",
+      "phonetic": "ɡɜːl",
+      "meaning": "n. 女孩",
+      "example": "The girl sings well."
+    },
+    {
+      "word": "glass",
+      "phonetic": "ɡlɑːs",
+      "meaning": "n. 玻璃；玻璃杯",
+      "example": "A glass of milk please."
+    },
+    {
+      "word": "ground",
+      "phonetic": "ɡraʊnd",
+      "meaning": "n. 地面",
+      "example": "The ground is wet."
+    },
+    {
+      "word": "group",
+      "phonetic": "ɡruːp",
+      "meaning": "n. 组；群",
+      "example": "Work in groups of four."
+    },
+    {
+      "word": "hair",
+      "phonetic": "heə",
+      "meaning": "n. 头发",
+      "example": "Her hair is very long."
+    },
+    {
+      "word": "hand",
+      "phonetic": "hænd",
+      "meaning": "n. 手 v. 递交",
+      "example": "Raise your hand please."
+    },
+    {
+      "word": "head",
+      "phonetic": "hed",
+      "meaning": "n. 头 v. 前往",
+      "example": "My head aches."
+    },
+    {
+      "word": "hill",
+      "phonetic": "hɪl",
+      "meaning": "n. 小山",
+      "example": "The house is on a hill."
+    },
+    {
+      "word": "holiday",
+      "phonetic": "ˈhɒlədeɪ",
+      "meaning": "n. 假日",
+      "example": "We travel during holidays."
+    },
+    {
+      "word": "home",
+      "phonetic": "həʊm",
+      "meaning": "n. 家",
+      "example": "I go home at six."
+    },
+    {
+      "word": "horse",
+      "phonetic": "hɔːs",
+      "meaning": "n. 马",
+      "example": "The horse runs fast."
+    },
+    {
+      "word": "hospital",
+      "phonetic": "ˈhɒspɪtl",
+      "meaning": "n. 医院",
+      "example": "He works in a hospital."
+    },
+    {
+      "word": "hotel",
+      "phonetic": "həʊˈtel",
+      "meaning": "n. 旅馆",
+      "example": "We stayed in a small hotel."
+    },
+    {
+      "word": "hour",
+      "phonetic": "ˈaʊə",
+      "meaning": "n. 小时",
+      "example": "The trip takes two hours."
+    },
+    {
+      "word": "house",
+      "phonetic": "haʊs",
+      "meaning": "n. 房子",
+      "example": "They bought a new house."
+    },
+    {
+      "word": "job",
+      "phonetic": "dʒɒb",
+      "meaning": "n. 工作",
+      "example": "She found a good job."
+    },
+    {
+      "word": "key",
+      "phonetic": "kiː",
+      "meaning": "n. 钥匙；关键 adj. 关键的",
+      "example": "I lost my key again."
+    },
+    {
+      "word": "kid",
+      "phonetic": "kɪd",
+      "meaning": "n. 小孩",
+      "example": "The kids are playing."
+    },
+    {
+      "word": "kitchen",
+      "phonetic": "ˈkɪtʃɪn",
+      "meaning": "n. 厨房",
+      "example": "She is in the kitchen."
+    },
+    {
+      "word": "lady",
+      "phonetic": "ˈleɪdi",
+      "meaning": "n. 女士",
+      "example": "The lady is waiting."
+    },
+    {
+      "word": "lake",
+      "phonetic": "leɪk",
+      "meaning": "n. 湖",
+      "example": "The lake is very deep."
+    },
+    {
+      "word": "letter",
+      "phonetic": "ˈletə",
+      "meaning": "n. 信；字母",
+      "example": "I wrote him a letter."
+    },
+    {
+      "word": "library",
+      "phonetic": "ˈlaɪbrəri",
+      "meaning": "n. 图书馆",
+      "example": "The library opens at eight."
+    },
+    {
+      "word": "machine",
+      "phonetic": "məˈʃiːn",
+      "meaning": "n. 机器",
+      "example": "The machine is broken."
+    },
+    {
+      "word": "man",
+      "phonetic": "mæn",
+      "meaning": "n. 男人；人类",
+      "example": "A man asked for help."
+    },
+    {
+      "word": "map",
+      "phonetic": "mæp",
+      "meaning": "n. 地图",
+      "example": "Look at the map."
+    },
+    {
+      "word": "market",
+      "phonetic": "ˈmɑːkɪt",
+      "meaning": "n. 市场",
+      "example": "The market is crowded."
+    },
+    {
+      "word": "meal",
+      "phonetic": "miːl",
+      "meaning": "n. 一餐",
+      "example": "We had a light meal."
+    },
+    {
+      "word": "milk",
+      "phonetic": "mɪlk",
+      "meaning": "n. 牛奶",
+      "example": "Buy some milk please."
+    },
+    {
+      "word": "minute",
+      "phonetic": "ˈmɪnɪt",
+      "meaning": "n. 分钟",
+      "example": "Wait five minutes."
+    },
+    {
+      "word": "money",
+      "phonetic": "ˈmʌni",
+      "meaning": "n. 钱",
+      "example": "He saved money for a bike."
+    },
+    {
+      "word": "month",
+      "phonetic": "mʌnθ",
+      "meaning": "n. 月",
+      "example": "The rent is due this month."
+    },
+    {
+      "word": "moon",
+      "phonetic": "muːn",
+      "meaning": "n. 月亮",
+      "example": "The moon is bright tonight."
+    },
+    {
+      "word": "mother",
+      "phonetic": "ˈmʌðə",
+      "meaning": "n. 母亲",
+      "example": "My mother cooks well."
+    },
+    {
+      "word": "mountain",
+      "phonetic": "ˈmaʊntən",
+      "meaning": "n. 山",
+      "example": "They climbed the mountain."
+    },
+    {
+      "word": "mouth",
+      "phonetic": "maʊθ",
+      "meaning": "n. 嘴",
+      "example": "Open your mouth please."
+    },
+    {
+      "word": "music",
+      "phonetic": "ˈmjuːzɪk",
+      "meaning": "n. 音乐",
+      "example": "She listens to music daily."
+    },
+    {
+      "word": "name",
+      "phonetic": "neɪm",
+      "meaning": "n. 名字 v. 命名",
+      "example": "What is your name?"
+    },
+    {
+      "word": "night",
+      "phonetic": "naɪt",
+      "meaning": "n. 夜晚",
+      "example": "It rained all night."
+    },
+    {
+      "word": "nose",
+      "phonetic": "nəʊz",
+      "meaning": "n. 鼻子",
+      "example": "My nose is blocked."
+    },
+    {
+      "word": "office",
+      "phonetic": "ˈɒfɪs",
+      "meaning": "n. 办公室",
+      "example": "The office is on floor two."
+    },
+    {
+      "word": "oil",
+      "phonetic": "ɔɪl",
+      "meaning": "n. 油",
+      "example": "Add a little oil."
+    }
+  ]
+}

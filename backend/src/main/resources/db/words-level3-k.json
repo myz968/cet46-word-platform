@@ -1,0 +1,1506 @@
+{
+  "level": 3,
+  "note": "低频难词 K 批：学科术语、正式书面派生词",
+  "words": [
+    {
+      "word": "aberrant",
+      "phonetic": "/æˈberənt/",
+      "meaning": "adj. 异常的；偏离常规的",
+      "example": "The test detected an aberrant reading."
+    },
+    {
+      "word": "abiotic",
+      "phonetic": "/ˌeɪbaɪˈɒtɪk/",
+      "meaning": "adj. 非生物的",
+      "example": "Temperature is a key abiotic factor."
+    },
+    {
+      "word": "abscissa",
+      "phonetic": "/æbˈsɪsə/",
+      "meaning": "n. 横坐标",
+      "example": "Plot the value on the abscissa."
+    },
+    {
+      "word": "acetylene",
+      "phonetic": "/əˈsetəliːn/",
+      "meaning": "n. 乙炔",
+      "example": "Acetylene burns with a hot flame."
+    },
+    {
+      "word": "acidic",
+      "phonetic": "/əˈsɪdɪk/",
+      "meaning": "adj. 酸性的",
+      "example": "The soil is too acidic for most crops."
+    },
+    {
+      "word": "actinide",
+      "phonetic": "/ˈæktɪnaɪd/",
+      "meaning": "n. 锕系元素",
+      "example": "Actinides are radioactive elements."
+    },
+    {
+      "word": "adjunct",
+      "phonetic": "/ˈædʒʌŋkt/",
+      "meaning": "n. 附属物；附加物",
+      "example": "Exercise is an adjunct to treatment."
+    },
+    {
+      "word": "aerate",
+      "phonetic": "/ˈeəreɪt/",
+      "meaning": "v. 充气；使通气",
+      "example": "Aerate the lawn in autumn."
+    },
+    {
+      "word": "afferent",
+      "phonetic": "/ˈæfərənt/",
+      "meaning": "adj. 传入的",
+      "example": "Afferent nerves carry signals to the brain."
+    },
+    {
+      "word": "agar",
+      "phonetic": "/ˈeɪɡɑː/",
+      "meaning": "n. 琼脂；培养皿",
+      "example": "The bacteria grew on agar."
+    },
+    {
+      "word": "albedo",
+      "phonetic": "/ælˈbiːdəʊ/",
+      "meaning": "n. 反照率",
+      "example": "Ice has a high albedo."
+    },
+    {
+      "word": "algebra",
+      "phonetic": "/ˈældʒɪbrə/",
+      "meaning": "n. 代数学",
+      "example": "She struggled with algebra at first."
+    },
+    {
+      "word": "alkali",
+      "phonetic": "/ˈælkəlaɪ/",
+      "meaning": "n. 碱",
+      "example": "The soil contains too much alkali."
+    },
+    {
+      "word": "allele",
+      "phonetic": "/əˈliːl/",
+      "meaning": "n. 等位基因",
+      "example": "Each gene has two alleles."
+    },
+    {
+      "word": "alternator",
+      "phonetic": "/ˈɔːltəneɪtə/",
+      "meaning": "n. 交流发电机",
+      "example": "The alternator charges the battery."
+    },
+    {
+      "word": "aluminium",
+      "phonetic": "/ˌæljəˈmɪniəm/",
+      "meaning": "n. 铝",
+      "example": "The frame is made of aluminium."
+    },
+    {
+      "word": "amalgam",
+      "phonetic": "/əˈmælɡəm/",
+      "meaning": "n. 汞合金；混合物",
+      "example": "Old fillings used amalgam."
+    },
+    {
+      "word": "ampere",
+      "phonetic": "/ˈæmpeə/",
+      "meaning": "n. 安培",
+      "example": "The fuse is rated at five amperes."
+    },
+    {
+      "word": "amplitude",
+      "phonetic": "/ˈæmplɪtjuːd/",
+      "meaning": "n. 振幅；幅度",
+      "example": "The wave has a large amplitude."
+    },
+    {
+      "word": "anaerobic",
+      "phonetic": "/ˌænəˈrəʊbɪk/",
+      "meaning": "adj. 厌氧的",
+      "example": "Anaerobic bacteria thrive without oxygen."
+    },
+    {
+      "word": "angle",
+      "phonetic": "/ˈæŋɡl/",
+      "meaning": "n. 角度；视角",
+      "example": "The two lines meet at a right angle."
+    },
+    {
+      "word": "anhydrous",
+      "phonetic": "/ænˈhaɪdrəs/",
+      "meaning": "adj. 无水的",
+      "example": "Anhydrous copper sulphate is white."
+    },
+    {
+      "word": "anode",
+      "phonetic": "/ˈænəʊd/",
+      "meaning": "n. 阳极",
+      "example": "Electrons flow to the anode."
+    },
+    {
+      "word": "aperture",
+      "phonetic": "/ˈæpətʃə/",
+      "meaning": "n. 孔径；缝隙",
+      "example": "A wide aperture blurs the background."
+    },
+    {
+      "word": "applied",
+      "phonetic": "/əˈplaɪd/",
+      "meaning": "adj. 应用的；实用的",
+      "example": "She studies applied mathematics."
+    },
+    {
+      "word": "aquifer",
+      "phonetic": "/ˈækwɪfə/",
+      "meaning": "n. 含水层",
+      "example": "The town draws water from an aquifer."
+    },
+    {
+      "word": "arc",
+      "phonetic": "/ɑːk/",
+      "meaning": "n. 弧；弧形",
+      "example": "The ball followed a high arc."
+    },
+    {
+      "word": "arithmetic",
+      "phonetic": "/əˈrɪθmətɪk/",
+      "meaning": "n. 算术；计算",
+      "example": "He is quick at arithmetic."
+    },
+    {
+      "word": "arterial",
+      "phonetic": "/ɑːˈtɪəriəl/",
+      "meaning": "adj. 动脉的；干线的",
+      "example": "The arterial road carries heavy traffic."
+    },
+    {
+      "word": "asbestos",
+      "phonetic": "/æsˈbestɒs/",
+      "meaning": "n. 石棉",
+      "example": "Asbestos was widely used as insulation."
+    },
+    {
+      "word": "asphalt",
+      "phonetic": "/ˈæsfælt/",
+      "meaning": "n. 沥青",
+      "example": "The road is covered with asphalt."
+    },
+    {
+      "word": "assay",
+      "phonetic": "/əˈseɪ/",
+      "meaning": "n. 化验 v. 化验",
+      "example": "The assay showed traces of gold."
+    },
+    {
+      "word": "asteroid",
+      "phonetic": "/ˈæstərɔɪd/",
+      "meaning": "n. 小行星",
+      "example": "An asteroid passed close to earth."
+    },
+    {
+      "word": "atlas",
+      "phonetic": "/ˈætləs/",
+      "meaning": "n. 地图册；atlases 图表集",
+      "example": "He found the country in an atlas."
+    },
+    {
+      "word": "atmospheric",
+      "phonetic": "/ˌætməsˈferɪk/",
+      "meaning": "adj. 大气的；有氛围的",
+      "example": "Atmospheric pressure falls with altitude."
+    },
+    {
+      "word": "atom",
+      "phonetic": "/ˈætəm/",
+      "meaning": "n. 原子；微粒",
+      "example": "An atom has a nucleus and electrons."
+    },
+    {
+      "word": "aural",
+      "phonetic": "/ˈɔːrəl/",
+      "meaning": "adj. 听觉的；耳的",
+      "example": "The examination has an aural test."
+    },
+    {
+      "word": "autoclave",
+      "phonetic": "/ˈɔːtəkleɪv/",
+      "meaning": "n. 高压灭菌器",
+      "example": "Instruments are sterilised in an autoclave."
+    },
+    {
+      "word": "axial",
+      "phonetic": "/ˈæksiəl/",
+      "meaning": "adj. 轴的；轴向的",
+      "example": "The axial load is distributed evenly."
+    },
+    {
+      "word": "azimuth",
+      "phonetic": "/ˈæzɪməθ/",
+      "meaning": "n. 方位角",
+      "example": "The azimuth is measured from north."
+    },
+    {
+      "word": "barometer",
+      "phonetic": "/bəˈrɒmɪtə/",
+      "meaning": "n. 气压计；晴雨表",
+      "example": "The barometer is falling, so expect rain."
+    },
+    {
+      "word": "basalt",
+      "phonetic": "/ˈbæsɔːlt/",
+      "meaning": "n. 玄武岩",
+      "example": "The cliffs are made of basalt."
+    },
+    {
+      "word": "binary",
+      "phonetic": "/ˈbaɪnəri/",
+      "meaning": "adj. 二进制的；二元的",
+      "example": "Computers use binary code."
+    },
+    {
+      "word": "biomass",
+      "phonetic": "/ˈbaɪəʊmæs/",
+      "meaning": "n. 生物质；生物量",
+      "example": "Biomass can be burned for energy."
+    },
+    {
+      "word": "biotic",
+      "phonetic": "/baɪˈɒtɪk/",
+      "meaning": "adj. 生物的",
+      "example": "Biotic factors include predators and food."
+    },
+    {
+      "word": "blot",
+      "phonetic": "/blɒt/",
+      "meaning": "n. 污点 v. 吸干； blotting 印迹",
+      "example": "Blot the stain with a paper towel."
+    },
+    {
+      "word": "boiling",
+      "phonetic": "/ˈbɔɪlɪŋ/",
+      "meaning": "adj. 沸腾的；极热的",
+      "example": "Add the pasta to boiling water."
+    },
+    {
+      "word": "calibration",
+      "phonetic": "/ˌkælɪˈbreɪʃn/",
+      "meaning": "n. 校准；标定",
+      "example": "The instrument needs calibration."
+    },
+    {
+      "word": "capacitance",
+      "phonetic": "/kəˈpæsɪtəns/",
+      "meaning": "n. 电容",
+      "example": "Capacitance is measured in farads."
+    },
+    {
+      "word": "capillary",
+      "phonetic": "/kəˈpɪləri/",
+      "meaning": "n. 毛细管 adj. 毛细的",
+      "example": "Blood flows from arteries into capillaries."
+    },
+    {
+      "word": "carbide",
+      "phonetic": "/ˈkɑːbaɪd/",
+      "meaning": "n. 碳化物",
+      "example": "Tungsten carbide is extremely hard."
+    },
+    {
+      "word": "cascade",
+      "phonetic": "/kæˈskeɪd/",
+      "meaning": "n. 瀑布；级联 v. 倾泻",
+      "example": "The effects cascade through the system."
+    },
+    {
+      "word": "cathode",
+      "phonetic": "/ˈkæθəʊd/",
+      "meaning": "n. 阴极",
+      "example": "Electrons leave the cathode."
+    },
+    {
+      "word": "causal",
+      "phonetic": "/ˈkɔːzl/",
+      "meaning": "adj. 因果的；原因的",
+      "example": "There is no causal link between them."
+    },
+    {
+      "word": "cellulose",
+      "phonetic": "/ˈseljuləʊs/",
+      "meaning": "n. 纤维素",
+      "example": "Plant cell walls contain cellulose."
+    },
+    {
+      "word": "centrifugal",
+      "phonetic": "/ˌsentrɪˈfjuːɡl/",
+      "meaning": "adj. 离心的",
+      "example": "The centrifuge uses centrifugal force."
+    },
+    {
+      "word": "chromatic",
+      "phonetic": "/krəˈmætɪk/",
+      "meaning": "adj. 色彩的；半音的",
+      "example": "The lens corrects chromatic aberration."
+    },
+    {
+      "word": "circadian",
+      "phonetic": "/sɜːˈkeɪdiən/",
+      "meaning": "adj. 昼夜节律的",
+      "example": "The circadian rhythm controls sleep."
+    },
+    {
+      "word": "climatic",
+      "phonetic": "/klaɪˈmætɪk/",
+      "meaning": "adj. 气候的",
+      "example": "Climatic conditions vary greatly."
+    },
+    {
+      "word": "coaxial",
+      "phonetic": "/kəʊˈæksiəl/",
+      "meaning": "adj. 同轴的",
+      "example": "Coaxial cable carries the signal."
+    },
+    {
+      "word": "coefficient",
+      "phonetic": "/ˌkəʊɪˈfɪʃnt/",
+      "meaning": "n. 系数",
+      "example": "The coefficient of friction is low."
+    },
+    {
+      "word": "colloid",
+      "phonetic": "/ˈkɒlɔɪd/",
+      "meaning": "n. 胶体 adj. 胶质的",
+      "example": "Milk is a colloid of fat in water."
+    },
+    {
+      "word": "conduction",
+      "phonetic": "/kənˈdʌkʃn/",
+      "meaning": "n. 传导；导电",
+      "example": "Metals allow rapid heat conduction."
+    },
+    {
+      "word": "congruent",
+      "phonetic": "/ˈkɒŋɡruənt/",
+      "meaning": "adj. 全等的；一致的",
+      "example": "The two triangles are congruent."
+    },
+    {
+      "word": "conical",
+      "phonetic": "/ˈkɒnɪkl/",
+      "meaning": "adj. 圆锥形的",
+      "example": "The hat has a conical shape."
+    },
+    {
+      "word": "contour",
+      "phonetic": "/ˈkɒntʊə/",
+      "meaning": "n. 轮廓；等高线",
+      "example": "The map shows contour lines."
+    },
+    {
+      "word": "convection",
+      "phonetic": "/kənˈvekʃn/",
+      "meaning": "n. 对流",
+      "example": "Convection currents circulate the air."
+    },
+    {
+      "word": "convex",
+      "phonetic": "/ˈkɒnveks/",
+      "meaning": "adj. 凸的；凸面的",
+      "example": "A convex lens magnifies the image."
+    },
+    {
+      "word": "cornea",
+      "phonetic": "/ˈkɔːniə/",
+      "meaning": "n. 角膜",
+      "example": "The cornea covers the iris."
+    },
+    {
+      "word": "corpuscle",
+      "phonetic": "/ˈkɔːpʌsl/",
+      "meaning": "n. 血球；微粒",
+      "example": "Red corpuscles carry oxygen."
+    },
+    {
+      "word": "cosine",
+      "phonetic": "/ˈkəʊsaɪn/",
+      "meaning": "n. 余弦",
+      "example": "Calculate the cosine of the angle."
+    },
+    {
+      "word": "covalent",
+      "phonetic": "/ˌkəʊˈveɪlənt/",
+      "meaning": "adj. 共价的",
+      "example": "Water has covalent bonds."
+    },
+    {
+      "word": "crystalline",
+      "phonetic": "/ˈkrɪstəlaɪn/",
+      "meaning": "adj. 结晶的；晶状的",
+      "example": "The rock has a crystalline structure."
+    },
+    {
+      "word": "cubic",
+      "phonetic": "/ˈkjuːbɪk/",
+      "meaning": "adj. 立方的；立方体的",
+      "example": "The volume is ten cubic metres."
+    },
+    {
+      "word": "curvature",
+      "phonetic": "/ˈkɜːvətʃə/",
+      "meaning": "n. 曲率；弯曲",
+      "example": "The curvature of the earth is measurable."
+    },
+    {
+      "word": "cyclone",
+      "phonetic": "/ˈsaɪkləʊn/",
+      "meaning": "n. 气旋；旋风",
+      "example": "The cyclone caused widespread damage."
+    },
+    {
+      "word": "decibel",
+      "phonetic": "/ˈdesɪbel/",
+      "meaning": "n. 分贝",
+      "example": "The noise reached ninety decibels."
+    },
+    {
+      "word": "decompose",
+      "phonetic": "/ˌdiːkəmˈpəʊz/",
+      "meaning": "v. 分解；腐烂",
+      "example": "Bacteria decompose dead leaves."
+    },
+    {
+      "word": "dielectric",
+      "phonetic": "/ˌdaɪɪˈlektrɪk/",
+      "meaning": "n. 电介质 adj. 介电的",
+      "example": "The dielectric separates the plates."
+    },
+    {
+      "word": "diffusion",
+      "phonetic": "/dɪˈfjuːʒn/",
+      "meaning": "n. 扩散；传播",
+      "example": "Diffusion spreads the gas through the room."
+    },
+    {
+      "word": "dilution",
+      "phonetic": "/daɪˈluːʃn/",
+      "meaning": "n. 稀释；冲淡",
+      "example": "A dilution of one to ten is required."
+    },
+    {
+      "word": "diode",
+      "phonetic": "/ˈdaɪəʊd/",
+      "meaning": "n. 二极管",
+      "example": "A diode allows current in one direction."
+    },
+    {
+      "word": "dispersion",
+      "phonetic": "/dɪˈspɜːʃn/",
+      "meaning": "n. 分散；色散",
+      "example": "A prism causes dispersion of light."
+    },
+    {
+      "word": "displacement",
+      "phonetic": "/dɪsˈpleɪsmənt/",
+      "meaning": "n. 位移；排水量",
+      "example": "The displacement is measured in metres."
+    },
+    {
+      "word": "dissipation",
+      "phonetic": "/ˌdɪsɪˈpeɪʃn/",
+      "meaning": "n. 消散；损耗",
+      "example": "Heat dissipation is a design issue."
+    },
+    {
+      "word": "distillation",
+      "phonetic": "/ˌdɪstɪˈleɪʃn/",
+      "meaning": "n. 蒸馏",
+      "example": "Distillation separates the mixture."
+    },
+    {
+      "word": "dorsal",
+      "phonetic": "/ˈdɔːsl/",
+      "meaning": "adj. 背部的",
+      "example": "The shark has a large dorsal fin."
+    },
+    {
+      "word": "ductile",
+      "phonetic": "/ˈdʌktaɪl/",
+      "meaning": "adj. 易延展的；可塑的",
+      "example": "Copper is a ductile metal."
+    },
+    {
+      "word": "effluent",
+      "phonetic": "/ˈefluənt/",
+      "meaning": "n. 废水；污水",
+      "example": "The factory discharges effluent into the river."
+    },
+    {
+      "word": "elliptical",
+      "phonetic": "/ɪˈlɪptɪkl/",
+      "meaning": "adj. 椭圆的；晦涩的",
+      "example": "The planet follows an elliptical orbit."
+    },
+    {
+      "word": "elongate",
+      "phonetic": "/ˈiːlɒŋɡeɪt/",
+      "meaning": "v. 拉长；延长",
+      "example": "The cells elongate as they grow."
+    },
+    {
+      "word": "endemic",
+      "phonetic": "/enˈdemɪk/",
+      "meaning": "adj. 地方性的；特有的",
+      "example": "The plant is endemic to this island."
+    },
+    {
+      "word": "enthalpy",
+      "phonetic": "/ˈenθəlpi/",
+      "meaning": "n. 焓；热函",
+      "example": "The reaction increases enthalpy."
+    },
+    {
+      "word": "epicentre",
+      "phonetic": "/ˈepɪsentə/",
+      "meaning": "n. 震中；中心",
+      "example": "The epicentre was twenty miles away."
+    },
+    {
+      "word": "epidermis",
+      "phonetic": "/ˌepɪˈdɜːmɪs/",
+      "meaning": "n. 表皮",
+      "example": "The epidermis protects the underlying tissue."
+    },
+    {
+      "word": "evaporation",
+      "phonetic": "/ɪˌvæpəˈreɪʃn/",
+      "meaning": "n. 蒸发",
+      "example": "Evaporation cools the surface."
+    },
+    {
+      "word": "exothermic",
+      "phonetic": "/ˌeksəʊˈθɜːmɪk/",
+      "meaning": "adj. 放热的",
+      "example": "Burning is an exothermic reaction."
+    },
+    {
+      "word": "exponential",
+      "phonetic": "/ˌekspəˈnenʃl/",
+      "meaning": "adj. 指数的；快速增长的",
+      "example": "The population shows exponential growth."
+    },
+    {
+      "word": "extrapolate",
+      "phonetic": "/ɪkˈstræpəleɪt/",
+      "meaning": "v. 推断；外推",
+      "example": "Do not extrapolate from a single case."
+    },
+    {
+      "word": "extrusion",
+      "phonetic": "/ɪkˈstruːʒn/",
+      "meaning": "n. 挤压；挤出",
+      "example": "The pipe is formed by extrusion."
+    },
+    {
+      "word": "fahrenheit",
+      "phonetic": "/ˈfærənhaɪt/",
+      "meaning": "n. 华氏温度 adj. 华氏的",
+      "example": "Water boils at 212 degrees Fahrenheit."
+    },
+    {
+      "word": "fatty",
+      "phonetic": "/ˈfæti/",
+      "meaning": "adj. 脂肪的；油腻的",
+      "example": "Avoid fatty foods."
+    },
+    {
+      "word": "ferrous",
+      "phonetic": "/ˈferəs/",
+      "meaning": "adj. 含铁的；亚铁的",
+      "example": "The scrap is sorted into ferrous and non-ferrous."
+    },
+    {
+      "word": "fibrillation",
+      "phonetic": "/ˌfaɪbrɪˈleɪʃn/",
+      "meaning": "n. 纤维性颤动",
+      "example": "He was treated for atrial fibrillation."
+    },
+    {
+      "word": "filtration",
+      "phonetic": "/fɪlˈtreɪʃn/",
+      "meaning": "n. 过滤",
+      "example": "Filtration removes particles from water."
+    },
+    {
+      "word": "flask",
+      "phonetic": "/flɑːsk/",
+      "meaning": "n. 烧瓶；长颈瓶",
+      "example": "Heat the liquid in a flask."
+    },
+    {
+      "word": "fluorescence",
+      "phonetic": "/flʊəˈresns/",
+      "meaning": "n. 荧光",
+      "example": "Fluorescence makes the dye glow."
+    },
+    {
+      "word": "flux",
+      "phonetic": "/flʌks/",
+      "meaning": "n. 通量；不断变化",
+      "example": "The situation is in flux."
+    },
+    {
+      "word": "focal",
+      "phonetic": "/ˈfəʊkl/",
+      "meaning": "adj. 焦点的；中心的",
+      "example": "The focal point of the room is the fire."
+    },
+    {
+      "word": "formulaic",
+      "phonetic": "/ˌfɔːmjuˈleɪɪk/",
+      "meaning": "adj. 公式化的；刻板的",
+      "example": "The plot is formulaic."
+    },
+    {
+      "word": "galvanise",
+      "phonetic": "/ˈɡælvənaɪz/",
+      "meaning": "v. 镀锌；激励",
+      "example": "The steel is galvanised to prevent rust."
+    },
+    {
+      "word": "gaseous",
+      "phonetic": "/ˈɡæsiəs/",
+      "meaning": "adj. 气态的；气体的",
+      "example": "The substance becomes gaseous when heated."
+    },
+    {
+      "word": "gel",
+      "phonetic": "/dʒel/",
+      "meaning": "n. 凝胶 v. 形成胶体",
+      "example": "The gel is applied to the skin."
+    },
+    {
+      "word": "geothermal",
+      "phonetic": "/ˌdʒiːəʊˈθɜːml/",
+      "meaning": "adj. 地热的",
+      "example": "Iceland uses geothermal energy."
+    },
+    {
+      "word": "germinate",
+      "phonetic": "/ˈdʒɜːmɪneɪt/",
+      "meaning": "v. 发芽；萌芽",
+      "example": "The seeds germinate in spring."
+    },
+    {
+      "word": "glacial",
+      "phonetic": "/ˈɡleɪʃl/",
+      "meaning": "adj. 冰川的；极冷的",
+      "example": "The valley was carved by glacial ice."
+    },
+    {
+      "word": "gradient",
+      "phonetic": "/ˈɡreɪdiənt/",
+      "meaning": "n. 梯度；坡度",
+      "example": "The hill has a steep gradient."
+    },
+    {
+      "word": "graphite",
+      "phonetic": "/ˈɡræfaɪt/",
+      "meaning": "n. 石墨",
+      "example": "Pencil leads contain graphite."
+    },
+    {
+      "word": "gravitational",
+      "phonetic": "/ˌɡrævɪˈteɪʃənl/",
+      "meaning": "adj. 引力的",
+      "example": "Gravitational force holds the moon in orbit."
+    },
+    {
+      "word": "gyroscope",
+      "phonetic": "/ˈdʒaɪrəskəʊp/",
+      "meaning": "n. 陀螺仪",
+      "example": "The gyroscope keeps the drone level."
+    },
+    {
+      "word": "halogen",
+      "phonetic": "/ˈhælədʒən/",
+      "meaning": "n. 卤素",
+      "example": "Chlorine is a halogen."
+    },
+    {
+      "word": "harmonic",
+      "phonetic": "/hɑːˈmɒnɪk/",
+      "meaning": "adj. 和声的；谐波的 n. 泛音",
+      "example": "The signal contains unwanted harmonics."
+    },
+    {
+      "word": "helix",
+      "phonetic": "/ˈhiːlɪks/",
+      "meaning": "n. 螺旋；螺旋结构",
+      "example": "DNA forms a double helix."
+    },
+    {
+      "word": "hertz",
+      "phonetic": "/hɜːts/",
+      "meaning": "n. 赫兹",
+      "example": "The tone is 440 hertz."
+    },
+    {
+      "word": "heterogeneous",
+      "phonetic": "/ˌhetərəˈdʒiːniəs/",
+      "meaning": "adj. 异质的；多样的",
+      "example": "The sample is heterogeneous."
+    },
+    {
+      "word": "hormonal",
+      "phonetic": "/hɔːˈməʊnl/",
+      "meaning": "adj. 激素的；荷尔蒙的",
+      "example": "The change is hormonal."
+    },
+    {
+      "word": "hydrate",
+      "phonetic": "/ˈhaɪdreɪt/",
+      "meaning": "v. 补水；水合 n. 水合物",
+      "example": "Drink water to stay hydrated."
+    },
+    {
+      "word": "hydrocarbon",
+      "phonetic": "/ˌhaɪdrəˈkɑːbən/",
+      "meaning": "n. 碳氢化合物",
+      "example": "Petrol is a mixture of hydrocarbons."
+    },
+    {
+      "word": "hypotenuse",
+      "phonetic": "/haɪˈpɒtənjuːz/",
+      "meaning": "n. 斜边",
+      "example": "The hypotenuse is the longest side."
+    },
+    {
+      "word": "immiscible",
+      "phonetic": "/ɪˈmɪsəbl/",
+      "meaning": "adj. 不相溶的",
+      "example": "Oil and water are immiscible."
+    },
+    {
+      "word": "in vitro",
+      "phonetic": "/ˌɪn ˈviːtrəʊ/",
+      "meaning": "adj. 体外的；试管内的",
+      "example": "The cells were grown in vitro."
+    },
+    {
+      "word": "inert",
+      "phonetic": "/ɪˈnɜːt/",
+      "meaning": "adj. 惰性的；无活力的",
+      "example": "Argon is an inert gas."
+    },
+    {
+      "word": "inertia",
+      "phonetic": "/ɪˈnɜːʃə/",
+      "meaning": "n. 惯性；惰性",
+      "example": "Inertia keeps the object moving."
+    },
+    {
+      "word": "inorganic",
+      "phonetic": "/ˌɪnɔːˈɡænɪk/",
+      "meaning": "adj. 无机的",
+      "example": "The mineral is an inorganic compound."
+    },
+    {
+      "word": "insoluble",
+      "phonetic": "/ɪnˈsɒljəbl/",
+      "meaning": "adj. 不溶的；无法解决的",
+      "example": "The salt is insoluble in water."
+    },
+    {
+      "word": "interface",
+      "phonetic": "/ˈɪntəfeɪs/",
+      "meaning": "n. 界面；接口 v. 连接",
+      "example": "The software has a simple interface."
+    },
+    {
+      "word": "interstellar",
+      "phonetic": "/ˌɪntəˈstelə/",
+      "meaning": "adj. 星际的",
+      "example": "Interstellar travel remains impossible."
+    },
+    {
+      "word": "inverse",
+      "phonetic": "/ˌɪnˈvɜːs/",
+      "meaning": "adj. 相反的；反比的",
+      "example": "Pressure has an inverse relationship with volume."
+    },
+    {
+      "word": "ionic",
+      "phonetic": "/aɪˈɒnɪk/",
+      "meaning": "adj. 离子的",
+      "example": "Salt dissolves into ionic form."
+    },
+    {
+      "word": "isobar",
+      "phonetic": "/ˈaɪsəbɑː/",
+      "meaning": "n. 等压线",
+      "example": "The isobars are close together, so expect wind."
+    },
+    {
+      "word": "isomer",
+      "phonetic": "/ˈaɪsəmə/",
+      "meaning": "n. 同分异构体",
+      "example": "The two compounds are isomers."
+    },
+    {
+      "word": "isothermal",
+      "phonetic": "/ˌaɪsəʊˈθɜːml/",
+      "meaning": "adj. 等温的",
+      "example": "The process is isothermal."
+    },
+    {
+      "word": "joule",
+      "phonetic": "/dʒuːl/",
+      "meaning": "n. 焦耳",
+      "example": "The energy is measured in joules."
+    },
+    {
+      "word": "kinetic",
+      "phonetic": "/kɪˈnetɪk/",
+      "meaning": "adj. 动能的；运动的",
+      "example": "Kinetic energy depends on speed."
+    },
+    {
+      "word": "laminate",
+      "phonetic": "/ˈlæmɪneɪt/",
+      "meaning": "v. 层压 n. 层压板",
+      "example": "The floor is made of laminate."
+    },
+    {
+      "word": "lateral",
+      "phonetic": "/ˈlætərəl/",
+      "meaning": "adj. 侧面的；横向的",
+      "example": "The pipe has a lateral branch."
+    },
+    {
+      "word": "lattice",
+      "phonetic": "/ˈlætɪs/",
+      "meaning": "n. 晶格；格子",
+      "example": "Atoms are arranged in a lattice."
+    },
+    {
+      "word": "leukaemia",
+      "phonetic": "/luːˈkiːmiə/",
+      "meaning": "n. 白血病",
+      "example": "She was treated for leukaemia."
+    },
+    {
+      "word": "lithium",
+      "phonetic": "/ˈlɪθiəm/",
+      "meaning": "n. 锂",
+      "example": "Lithium batteries store a lot of charge."
+    },
+    {
+      "word": "logarithm",
+      "phonetic": "/ˈlɒɡərɪðəm/",
+      "meaning": "n. 对数",
+      "example": "The scale is logarithmic."
+    },
+    {
+      "word": "lubricant",
+      "phonetic": "/ˈluːbrɪkənt/",
+      "meaning": "n. 润滑剂",
+      "example": "Apply lubricant to the joint."
+    },
+    {
+      "word": "lumen",
+      "phonetic": "/ˈluːmən/",
+      "meaning": "n. 流明；腔",
+      "example": "The bulb produces 800 lumens."
+    },
+    {
+      "word": "lymph",
+      "phonetic": "/lɪmf/",
+      "meaning": "n. 淋巴；淋巴液",
+      "example": "The lymph nodes were swollen."
+    },
+    {
+      "word": "malleable",
+      "phonetic": "/ˈmæliəbl/",
+      "meaning": "adj. 可锻的；易受影响的",
+      "example": "Gold is a malleable metal."
+    },
+    {
+      "word": "manifold",
+      "phonetic": "/ˈmænɪfəʊld/",
+      "meaning": "adj. 多样的 n. 歧管",
+      "example": "The benefits are manifold."
+    },
+    {
+      "word": "maser",
+      "phonetic": "/ˈmeɪzə/",
+      "meaning": "n. 微波激射器",
+      "example": "The maser amplifies microwave signals."
+    },
+    {
+      "word": "median",
+      "phonetic": "/ˈmiːdiən/",
+      "meaning": "n. 中位数 adj. 中间的",
+      "example": "The median income is twenty thousand."
+    },
+    {
+      "word": "metabolic",
+      "phonetic": "/ˌmetəˈbɒlɪk/",
+      "meaning": "adj. 新陈代谢的",
+      "example": "The drug increases metabolic rate."
+    },
+    {
+      "word": "methane",
+      "phonetic": "/ˈmiːθeɪn/",
+      "meaning": "n. 甲烷；沼气",
+      "example": "Methane is a potent greenhouse gas."
+    },
+    {
+      "word": "metric",
+      "phonetic": "/ˈmetrɪk/",
+      "meaning": "adj. 公制的 n. 指标",
+      "example": "The measurements are in metric units."
+    },
+    {
+      "word": "micron",
+      "phonetic": "/ˈmaɪkrɒn/",
+      "meaning": "n. 微米",
+      "example": "The filter removes particles above ten microns."
+    },
+    {
+      "word": "millimetre",
+      "phonetic": "/ˈmɪlimiːtə/",
+      "meaning": "n. 毫米",
+      "example": "The gap is two millimetres wide."
+    },
+    {
+      "word": "modulus",
+      "phonetic": "/ˈmɒdjələs/",
+      "meaning": "n. 模数；模量",
+      "example": "Steel has a high modulus of elasticity."
+    },
+    {
+      "word": "molar",
+      "phonetic": "/ˈməʊlə/",
+      "meaning": "adj. 摩尔的；臼齿的 n. 臼齿",
+      "example": "Prepare a molar solution."
+    },
+    {
+      "word": "monoxide",
+      "phonetic": "/məˈnɒksaɪd/",
+      "meaning": "n. 一氧化物",
+      "example": "Carbon monoxide is odourless and poisonous."
+    },
+    {
+      "word": "morphology",
+      "phonetic": "/mɔːˈfɒlədʒi/",
+      "meaning": "n. 形态学；形态",
+      "example": "The study examines cell morphology."
+    },
+    {
+      "word": "mutagen",
+      "phonetic": "/ˈmjuːtədʒən/",
+      "meaning": "n. 诱变剂",
+      "example": "The chemical is a known mutagen."
+    },
+    {
+      "word": "neuron",
+      "phonetic": "/ˈnjʊərɒn/",
+      "meaning": "n. 神经元；神经细胞",
+      "example": "The neuron transmits electrical signals."
+    },
+    {
+      "word": "neutralise",
+      "phonetic": "/ˈnjuːtrəlaɪz/",
+      "meaning": "v. 中和；抵消",
+      "example": "Add alkali to neutralise the acid."
+    },
+    {
+      "word": "neutron",
+      "phonetic": "/ˈnjuːtrɒn/",
+      "meaning": "n. 中子",
+      "example": "The nucleus contains protons and neutrons."
+    },
+    {
+      "word": "nitrate",
+      "phonetic": "/ˈnaɪtreɪt/",
+      "meaning": "n. 硝酸盐",
+      "example": "Nitrates from fertiliser pollute rivers."
+    },
+    {
+      "word": "node",
+      "phonetic": "/nəʊd/",
+      "meaning": "n. 节点；结",
+      "example": "The network has five nodes."
+    },
+    {
+      "word": "nominal",
+      "phonetic": "/ˈnɒmɪnl/",
+      "meaning": "adj. 名义上的；极小的",
+      "example": "A nominal fee is charged."
+    },
+    {
+      "word": "nonlinear",
+      "phonetic": "/ˌnɒnˈlɪniə/",
+      "meaning": "adj. 非线性的",
+      "example": "The system behaves in a nonlinear way."
+    },
+    {
+      "word": "numerical",
+      "phonetic": "/njuːˈmerɪkl/",
+      "meaning": "adj. 数字的；数值的",
+      "example": "The data are in numerical order."
+    },
+    {
+      "word": "optics",
+      "phonetic": "/ˈɒptɪks/",
+      "meaning": "n. 光学",
+      "example": "The instrument relies on fibre optics."
+    },
+    {
+      "word": "orbital",
+      "phonetic": "/ˈɔːbɪtl/",
+      "meaning": "adj. 轨道的 n. 轨道",
+      "example": "The electrons occupy orbitals."
+    },
+    {
+      "word": "oscillate",
+      "phonetic": "/ˈɒsɪleɪt/",
+      "meaning": "v. 振荡；摆动",
+      "example": "The pendulum oscillates slowly."
+    },
+    {
+      "word": "osmosis",
+      "phonetic": "/ɒzˈməʊsɪs/",
+      "meaning": "n. 渗透；潜移默化",
+      "example": "Water passes through the membrane by osmosis."
+    },
+    {
+      "word": "oxidation",
+      "phonetic": "/ˌɒksɪˈdeɪʃn/",
+      "meaning": "n. 氧化",
+      "example": "Rusting is a form of oxidation."
+    },
+    {
+      "word": "palaeontology",
+      "phonetic": "/ˌpæliɒnˈtɒlədʒi/",
+      "meaning": "n. 古生物学",
+      "example": "She studied palaeontology at university."
+    },
+    {
+      "word": "parabola",
+      "phonetic": "/pəˈræbələ/",
+      "meaning": "n. 抛物线",
+      "example": "The path of the ball is a parabola."
+    },
+    {
+      "word": "pendulum",
+      "phonetic": "/ˈpendjələm/",
+      "meaning": "n. 钟摆；摇摆不定的事物",
+      "example": "The pendulum swings every second."
+    },
+    {
+      "word": "permeable",
+      "phonetic": "/ˈpɜːmiəbl/",
+      "meaning": "adj. 可渗透的",
+      "example": "The rock is highly permeable."
+    },
+    {
+      "word": "phosphorus",
+      "phonetic": "/ˈfɒsfərəs/",
+      "meaning": "n. 磷",
+      "example": "Phosphorus is essential for plant growth."
+    },
+    {
+      "word": "photon",
+      "phonetic": "/ˈfəʊtɒn/",
+      "meaning": "n. 光子",
+      "example": "A photon is a particle of light."
+    },
+    {
+      "word": "piezoelectric",
+      "phonetic": "/paɪˌiːzəʊɪˈlektrɪk/",
+      "meaning": "adj. 压电的",
+      "example": "The lighter uses a piezoelectric spark."
+    },
+    {
+      "word": "pixel",
+      "phonetic": "/ˈpɪksl/",
+      "meaning": "n. 像素",
+      "example": "The image is 1000 pixels wide."
+    },
+    {
+      "word": "polarity",
+      "phonetic": "/pəˈlærəti/",
+      "meaning": "n. 极性；对立",
+      "example": "Check the polarity of the battery."
+    },
+    {
+      "word": "porous",
+      "phonetic": "/ˈpɔːrəs/",
+      "meaning": "adj. 多孔的；能渗透的",
+      "example": "The stone is porous and absorbs water."
+    },
+    {
+      "word": "precipitate",
+      "phonetic": "/prɪˈsɪpɪteɪt/",
+      "meaning": "v. 使沉淀；促成 n. 沉淀物",
+      "example": "The reagent precipitates the metal."
+    },
+    {
+      "word": "precision",
+      "phonetic": "/prɪˈsɪʒn/",
+      "meaning": "n. 精度；精确",
+      "example": "The instrument is machined to fine precision."
+    },
+    {
+      "word": "prism",
+      "phonetic": "/ˈprɪzəm/",
+      "meaning": "n. 棱镜；棱柱",
+      "example": "A prism splits white light."
+    },
+    {
+      "word": "probability",
+      "phonetic": "/ˌprɒbəˈbɪləti/",
+      "meaning": "n. 概率；可能性",
+      "example": "The probability of rain is high."
+    },
+    {
+      "word": "projectile",
+      "phonetic": "/prəˈdʒektaɪl/",
+      "meaning": "n. 抛射体；弹丸",
+      "example": "The projectile followed a curved path."
+    },
+    {
+      "word": "proton",
+      "phonetic": "/ˈprəʊtɒn/",
+      "meaning": "n. 质子",
+      "example": "A proton has a positive charge."
+    },
+    {
+      "word": "pulley",
+      "phonetic": "/ˈpʊli/",
+      "meaning": "n. 滑轮；皮带轮",
+      "example": "The pulley makes lifting easier."
+    },
+    {
+      "word": "pyramid",
+      "phonetic": "/ˈpɪrəmɪd/",
+      "meaning": "n. 金字塔；锥体",
+      "example": "The population pyramid shows an ageing society."
+    },
+    {
+      "word": "quadrant",
+      "phonetic": "/ˈkwɒdrənt/",
+      "meaning": "n. 象限；四分之一圆",
+      "example": "The point lies in the first quadrant."
+    },
+    {
+      "word": "quantum",
+      "phonetic": "/ˈkwɒntəm/",
+      "meaning": "n. 量子；定量",
+      "example": "Quantum theory describes the very small."
+    },
+    {
+      "word": "quartz",
+      "phonetic": "/kwɔːts/",
+      "meaning": "n. 石英",
+      "example": "The watch uses a quartz crystal."
+    },
+    {
+      "word": "radian",
+      "phonetic": "/ˈreɪdiən/",
+      "meaning": "n. 弧度",
+      "example": "The angle is measured in radians."
+    },
+    {
+      "word": "radiator",
+      "phonetic": "/ˈreɪdieɪtə/",
+      "meaning": "n. 散热器；暖气片",
+      "example": "Bleed the radiator to release air."
+    },
+    {
+      "word": "radioactivity",
+      "phonetic": "/ˌreɪdiəʊækˈtɪvəti/",
+      "meaning": "n. 放射性",
+      "example": "Radioactivity was detected in the sample."
+    },
+    {
+      "word": "reactant",
+      "phonetic": "/riˈæktənt/",
+      "meaning": "n. 反应物",
+      "example": "The reactants combine to form a product."
+    },
+    {
+      "word": "rectangular",
+      "phonetic": "/rekˈtæŋɡjələ/",
+      "meaning": "adj. 矩形的",
+      "example": "The room is rectangular."
+    },
+    {
+      "word": "refraction",
+      "phonetic": "/rɪˈfrækʃn/",
+      "meaning": "n. 折射",
+      "example": "Refraction bends light in water."
+    },
+    {
+      "word": "refrigerant",
+      "phonetic": "/rɪˈfrɪdʒərənt/",
+      "meaning": "n. 制冷剂",
+      "example": "The refrigerant leaks from old units."
+    },
+    {
+      "word": "resilience",
+      "phonetic": "/rɪˈzɪliəns/",
+      "meaning": "n. 弹性；恢复力",
+      "example": "The material has good resilience."
+    },
+    {
+      "word": "rheostat",
+      "phonetic": "/ˈriːəstæt/",
+      "meaning": "n. 变阻器",
+      "example": "Adjust the rheostat to change the current."
+    },
+    {
+      "word": "rotary",
+      "phonetic": "/ˈrəʊtəri/",
+      "meaning": "adj. 旋转的 n. 旋转式机器",
+      "example": "The engine uses a rotary design."
+    },
+    {
+      "word": "saline",
+      "phonetic": "/ˈseɪlaɪn/",
+      "meaning": "adj. 盐的；含盐的",
+      "example": "The patient received saline solution."
+    },
+    {
+      "word": "scalar",
+      "phonetic": "/ˈskeɪlə/",
+      "meaning": "n. 标量 adj. 标量的",
+      "example": "Mass is a scalar quantity."
+    },
+    {
+      "word": "seismic",
+      "phonetic": "/ˈsaɪzmɪk/",
+      "meaning": "adj. 地震的；影响深远的",
+      "example": "The building is designed for seismic activity."
+    },
+    {
+      "word": "semiconductor",
+      "phonetic": "/ˌsemikənˈdʌktə/",
+      "meaning": "n. 半导体",
+      "example": "Silicon is the commonest semiconductor."
+    },
+    {
+      "word": "sine",
+      "phonetic": "/saɪn/",
+      "meaning": "n. 正弦",
+      "example": "The sine of thirty degrees is a half."
+    },
+    {
+      "word": "solute",
+      "phonetic": "/ˈsɒljuːt/",
+      "meaning": "n. 溶质",
+      "example": "The solute dissolves in the solvent."
+    },
+    {
+      "word": "spectral",
+      "phonetic": "/ˈspektrəl/",
+      "meaning": "adj. 光谱的；幽灵般的",
+      "example": "The spectral lines reveal the elements."
+    },
+    {
+      "word": "statics",
+      "phonetic": "/ˈstætɪks/",
+      "meaning": "n. 静力学",
+      "example": "Statics deals with forces in balance."
+    },
+    {
+      "word": "stator",
+      "phonetic": "/ˈsteɪtə/",
+      "meaning": "n. 定子",
+      "example": "The stator surrounds the rotor."
+    },
+    {
+      "word": "substrate",
+      "phonetic": "/ˈsʌbstreɪt/",
+      "meaning": "n. 基质；底物",
+      "example": "The enzyme binds to the substrate."
+    },
+    {
+      "word": "sulphate",
+      "phonetic": "/ˈsʌlfeɪt/",
+      "meaning": "n. 硫酸盐",
+      "example": "Copper sulphate is blue."
+    },
+    {
+      "word": "superconducting",
+      "phonetic": "/ˌsuːpəkənˈdʌktɪŋ/",
+      "meaning": "adj. 超导的",
+      "example": "Superconducting magnets are used in scanners."
+    },
+    {
+      "word": "tangent",
+      "phonetic": "/ˈtændʒənt/",
+      "meaning": "n. 切线；正切",
+      "example": "Draw a tangent to the curve."
+    },
+    {
+      "word": "tensile",
+      "phonetic": "/ˈtensaɪl/",
+      "meaning": "adj. 张力的；可拉长的",
+      "example": "Test the tensile strength of the wire."
+    },
+    {
+      "word": "theorem",
+      "phonetic": "/ˈθɪərəm/",
+      "meaning": "n. 定理",
+      "example": "The proof follows from the theorem."
+    },
+    {
+      "word": "thermodynamics",
+      "phonetic": "/ˌθɜːməʊdaɪˈnæmɪks/",
+      "meaning": "n. 热力学",
+      "example": "The laws of thermodynamics govern engines."
+    },
+    {
+      "word": "thermometer",
+      "phonetic": "/θəˈmɒmɪtə/",
+      "meaning": "n. 温度计",
+      "example": "The thermometer reads thirty degrees."
+    },
+    {
+      "word": "titanium",
+      "phonetic": "/tɪˈteɪniəm/",
+      "meaning": "n. 钛",
+      "example": "The frame is made of titanium."
+    },
+    {
+      "word": "torque",
+      "phonetic": "/tɔːk/",
+      "meaning": "n. 扭矩；转矩",
+      "example": "The engine produces high torque."
+    },
+    {
+      "word": "toxicology",
+      "phonetic": "/ˌtɒksɪˈkɒlədʒi/",
+      "meaning": "n. 毒理学",
+      "example": "The results went to toxicology."
+    },
+    {
+      "word": "transducer",
+      "phonetic": "/trænzˈdjuːsə/",
+      "meaning": "n. 换能器；传感器",
+      "example": "The transducer converts pressure into voltage."
+    },
+    {
+      "word": "transformer",
+      "phonetic": "/trænsˈfɔːmə/",
+      "meaning": "n. 变压器",
+      "example": "The transformer steps down the voltage."
+    },
+    {
+      "word": "transistor",
+      "phonetic": "/trænˈzɪstə/",
+      "meaning": "n. 晶体管",
+      "example": "The chip contains millions of transistors."
+    },
+    {
+      "word": "transverse",
+      "phonetic": "/ˈtrænzvɜːs/",
+      "meaning": "adj. 横向的；横断的",
+      "example": "The wave is transverse."
+    },
+    {
+      "word": "tribology",
+      "phonetic": "/traɪˈbɒlədʒi/",
+      "meaning": "n. 摩擦学",
+      "example": "Tribology studies friction and wear."
+    },
+    {
+      "word": "trigonometry",
+      "phonetic": "/ˌtrɪɡəˈnɒmətri/",
+      "meaning": "n. 三角学",
+      "example": "Trigonometry is used in surveying."
+    },
+    {
+      "word": "turbulence",
+      "phonetic": "/ˈtɜːbjələns/",
+      "meaning": "n. 湍流；动荡",
+      "example": "The plane hit severe turbulence."
+    },
+    {
+      "word": "ultrasound",
+      "phonetic": "/ˈʌltrəsaʊnd/",
+      "meaning": "n. 超声；超声波",
+      "example": "The scan uses ultrasound."
+    },
+    {
+      "word": "undulate",
+      "phonetic": "/ˈʌndjuleɪt/",
+      "meaning": "v. 波动；起伏",
+      "example": "The hills undulate into the distance."
+    },
+    {
+      "word": "uniaxial",
+      "phonetic": "/ˌjuːniˈæksiəl/",
+      "meaning": "adj. 单轴的",
+      "example": "The crystal is uniaxial."
+    },
+    {
+      "word": "uranium",
+      "phonetic": "/jʊˈreɪniəm/",
+      "meaning": "n. 铀",
+      "example": "Uranium is used as nuclear fuel."
+    },
+    {
+      "word": "valence",
+      "phonetic": "/ˈveɪləns/",
+      "meaning": "n. 化合价",
+      "example": "Carbon has a valence of four."
+    },
+    {
+      "word": "vector",
+      "phonetic": "/ˈvektə/",
+      "meaning": "n. 矢量；媒介",
+      "example": "Velocity is a vector quantity."
+    },
+    {
+      "word": "velocity",
+      "phonetic": "/vəˈlɒsəti/",
+      "meaning": "n. 速度；速率",
+      "example": "The velocity increased steadily."
+    },
+    {
+      "word": "ventral",
+      "phonetic": "/ˈventrəl/",
+      "meaning": "adj. 腹部的",
+      "example": "The ventral surface is lighter."
+    },
+    {
+      "word": "vertex",
+      "phonetic": "/ˈvɜːteks/",
+      "meaning": "n. 顶点；最高点",
+      "example": "The triangle has three vertices."
+    },
+    {
+      "word": "viscosity",
+      "phonetic": "/vɪˈskɒsəti/",
+      "meaning": "n. 粘度；黏性",
+      "example": "Heat reduces the viscosity of oil."
+    },
+    {
+      "word": "volatile",
+      "phonetic": "/ˈvɒlətaɪl/",
+      "meaning": "adj. 易挥发的；不稳定的",
+      "example": "The solvent is highly volatile."
+    },
+    {
+      "word": "wattage",
+      "phonetic": "/ˈwɒtɪdʒ/",
+      "meaning": "n. 瓦数；功率",
+      "example": "Check the wattage of the bulb."
+    }
+  ]
+}

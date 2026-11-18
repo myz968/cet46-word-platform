@@ -1,0 +1,67 @@
+{
+  "name": "cet46-word-desktop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "四六级单词闯关背诵平台 - 桌面端（Electron 外壳）",
+  "author": "cet46-word-platform",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --win nsis",
+    "pack": "electron-builder --win portable"
+  },
+  "devDependencies": {
+    "electron": "^33.0.0",
+    "electron-builder": "^25.1.8"
+  },
+  "build": {
+    "appId": "com.cet46.wordplatform",
+    "productName": "四六级单词闯关",
+    "copyright": "个人学习项目",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "main.js",
+      "package.json"
+    ],
+    "extraResources": [
+      {
+        "from": "../backend/target/cet46-word-platform.jar",
+        "to": "backend/cet46-word-platform.jar"
+      },
+      {
+        "from": "../frontend/dist",
+        "to": "frontend"
+      },
+      {
+        "from": "runtime/jre",
+        "to": "jre"
+      }
+    ],
+    "win": {
+      "signAndEditExecutable": false,
+      "target": [
+        {
+          "target": "nsis",
+          "arch": ["x64"]
+        }
+      ]
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "四六级单词闯关",
+      "artifactName": "四六级单词闯关-${version}-安装包.${ext}"
+    },
+    "portable": {
+      "artifactName": "四六级单词闯关-${version}-便携版.${ext}"
+    },
+    "electronDownload": {
+      "mirror": "https://npmmirror.com/mirrors/electron/"
+    }
+  }
+}

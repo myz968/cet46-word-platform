@@ -1,0 +1,2202 @@
+{
+  "level": 3,
+  "note": "低频难词 N-T 段：学术、书面、抽象名词与动词",
+  "words": [
+    {
+      "word": "naive",
+      "phonetic": "/naɪˈiːv/",
+      "meaning": "adj. 天真的；幼稚的",
+      "example": "It would be naive to assume the problem will simply disappear."
+    },
+    {
+      "word": "narrate",
+      "phonetic": "/nəˈreɪt/",
+      "meaning": "v. 叙述；讲述",
+      "example": "The author narrates the story through the eyes of a child."
+    },
+    {
+      "word": "nasty",
+      "phonetic": "/ˈnɑːsti/",
+      "meaning": "adj. 恶劣的；讨厌的",
+      "example": "He left a nasty comment on the article."
+    },
+    {
+      "word": "negligible",
+      "phonetic": "/ˈneɡlɪdʒəbl/",
+      "meaning": "adj. 微不足道的；可忽略的",
+      "example": "The difference in cost is negligible."
+    },
+    {
+      "word": "nostalgia",
+      "phonetic": "/nɒˈstældʒə/",
+      "meaning": "n. 怀旧；乡愁",
+      "example": "The old photographs filled her with nostalgia."
+    },
+    {
+      "word": "novelty",
+      "phonetic": "/ˈnɒvlti/",
+      "meaning": "n. 新奇；新奇事物",
+      "example": "The novelty of the new phone wore off quickly."
+    },
+    {
+      "word": "nuisance",
+      "phonetic": "/ˈnjuːsns/",
+      "meaning": "n. 讨厌的人或事；麻烦",
+      "example": "The constant noise is a real nuisance."
+    },
+    {
+      "word": "nurture",
+      "phonetic": "/ˈnɜːtʃə/",
+      "meaning": "v. 养育；培育 n. 教养",
+      "example": "Teachers should nurture curiosity in their students."
+    },
+    {
+      "word": "obedient",
+      "phonetic": "/əˈbiːdiənt/",
+      "meaning": "adj. 服从的；顺从的",
+      "example": "The dog was remarkably obedient."
+    },
+    {
+      "word": "objection",
+      "phonetic": "/əbˈdʒekʃn/",
+      "meaning": "n. 反对；异议",
+      "example": "She raised a strong objection to the plan."
+    },
+    {
+      "word": "obligation",
+      "phonetic": "/ˌɒblɪˈɡeɪʃn/",
+      "meaning": "n. 义务；责任",
+      "example": "Employers have an obligation to provide a safe workplace."
+    },
+    {
+      "word": "oblige",
+      "phonetic": "/əˈblaɪdʒ/",
+      "meaning": "v. 迫使；使感激",
+      "example": "Bad weather obliged us to cancel the trip."
+    },
+    {
+      "word": "obstacle",
+      "phonetic": "/ˈɒbstəkl/",
+      "meaning": "n. 障碍；障碍物",
+      "example": "Lack of funding is the main obstacle to the project."
+    },
+    {
+      "word": "obstruct",
+      "phonetic": "/əbˈstrʌkt/",
+      "meaning": "v. 阻塞；阻碍",
+      "example": "A fallen tree obstructed the road."
+    },
+    {
+      "word": "occupation",
+      "phonetic": "/ˌɒkjuˈpeɪʃn/",
+      "meaning": "n. 职业；占领",
+      "example": "Please state your name and occupation."
+    },
+    {
+      "word": "occurrence",
+      "phonetic": "/əˈkʌrəns/",
+      "meaning": "n. 发生；事件",
+      "example": "Such accidents are rare occurrences."
+    },
+    {
+      "word": "offence",
+      "phonetic": "/əˈfens/",
+      "meaning": "n. 罪行；冒犯",
+      "example": "Driving without a licence is an offence."
+    },
+    {
+      "word": "ominous",
+      "phonetic": "/ˈɒmɪnəs/",
+      "meaning": "adj. 不祥的；预兆性的",
+      "example": "There were ominous clouds on the horizon."
+    },
+    {
+      "word": "omit",
+      "phonetic": "/əˈmɪt/",
+      "meaning": "v. 省略；遗漏",
+      "example": "He omitted several important details."
+    },
+    {
+      "word": "onset",
+      "phonetic": "/ˈɒnset/",
+      "meaning": "n. 开始；发作",
+      "example": "The onset of winter brought heavy snow."
+    },
+    {
+      "word": "opaque",
+      "phonetic": "/əʊˈpeɪk/",
+      "meaning": "adj. 不透明的；难懂的",
+      "example": "The glass was opaque, so we could not see inside."
+    },
+    {
+      "word": "operate",
+      "phonetic": "/ˈɒpəreɪt/",
+      "meaning": "v. 操作；运转；动手术",
+      "example": "The machine operates on solar power."
+    },
+    {
+      "word": "oppress",
+      "phonetic": "/əˈpres/",
+      "meaning": "v. 压迫；使沮丧",
+      "example": "The regime oppressed anyone who criticised it."
+    },
+    {
+      "word": "optimism",
+      "phonetic": "/ˈɒptɪmɪzəm/",
+      "meaning": "n. 乐观；乐观主义",
+      "example": "There is cautious optimism about the economy."
+    },
+    {
+      "word": "oral",
+      "phonetic": "/ˈɔːrəl/",
+      "meaning": "adj. 口头的；口部的",
+      "example": "Students take both a written and an oral exam."
+    },
+    {
+      "word": "orchestra",
+      "phonetic": "/ˈɔːkɪstrə/",
+      "meaning": "n. 管弦乐队",
+      "example": "She plays the violin in a symphony orchestra."
+    },
+    {
+      "word": "organic",
+      "phonetic": "/ɔːˈɡænɪk/",
+      "meaning": "adj. 有机的；有机物的",
+      "example": "This farm grows organic vegetables only."
+    },
+    {
+      "word": "originate",
+      "phonetic": "/əˈrɪdʒɪneɪt/",
+      "meaning": "v. 起源；创始",
+      "example": "The custom originated in ancient China."
+    },
+    {
+      "word": "ornament",
+      "phonetic": "/ˈɔːnəmənt/",
+      "meaning": "n. 装饰品 v. 装饰",
+      "example": "The hall was ornamented with flowers."
+    },
+    {
+      "word": "orthodox",
+      "phonetic": "/ˈɔːθədɒks/",
+      "meaning": "adj. 正统的；传统的",
+      "example": "He challenged orthodox economic theory."
+    },
+    {
+      "word": "outbreak",
+      "phonetic": "/ˈaʊtbreɪk/",
+      "meaning": "n. 爆发；暴发",
+      "example": "The outbreak of flu closed several schools."
+    },
+    {
+      "word": "outfit",
+      "phonetic": "/ˈaʊtfɪt/",
+      "meaning": "n. 全套服装；装备",
+      "example": "She wore a smart outfit to the interview."
+    },
+    {
+      "word": "outgoing",
+      "phonetic": "/ˈaʊtɡəʊɪŋ/",
+      "meaning": "adj. 外向的；离去的",
+      "example": "He has an outgoing personality."
+    },
+    {
+      "word": "outlet",
+      "phonetic": "/ˈaʊtlet/",
+      "meaning": "n. 出口；发泄途径",
+      "example": "Sport is a good outlet for stress."
+    },
+    {
+      "word": "outrage",
+      "phonetic": "/ˈaʊtreɪdʒ/",
+      "meaning": "n. 愤怒；暴行 v. 激怒",
+      "example": "The decision caused public outrage."
+    },
+    {
+      "word": "outset",
+      "phonetic": "/ˈaʊtset/",
+      "meaning": "n. 开始；开端",
+      "example": "From the outset, the plan was flawed."
+    },
+    {
+      "word": "outweigh",
+      "phonetic": "/ˌaʊtˈweɪ/",
+      "meaning": "v. 胜过；比…重要",
+      "example": "The benefits outweigh the risks."
+    },
+    {
+      "word": "overdue",
+      "phonetic": "/ˌəʊvəˈdjuː/",
+      "meaning": "adj. 过期的；早该有的",
+      "example": "The library book is two weeks overdue."
+    },
+    {
+      "word": "overlap",
+      "phonetic": "/ˌəʊvəˈlæp/",
+      "meaning": "v. 重叠 n. 重叠部分",
+      "example": "Our responsibilities overlap to some extent."
+    },
+    {
+      "word": "overnight",
+      "phonetic": "/ˌəʊvəˈnaɪt/",
+      "meaning": "adv. 一夜之间 adj. 通宵的",
+      "example": "The software became popular overnight."
+    },
+    {
+      "word": "overseas",
+      "phonetic": "/ˌəʊvəˈsiːz/",
+      "meaning": "adv. 在海外 adj. 海外的",
+      "example": "He studied overseas for three years."
+    },
+    {
+      "word": "oversee",
+      "phonetic": "/ˌəʊvəˈsiː/",
+      "meaning": "v. 监督；监管",
+      "example": "A committee oversees the spending."
+    },
+    {
+      "word": "overtake",
+      "phonetic": "/ˌəʊvəˈteɪk/",
+      "meaning": "v. 超过；追上",
+      "example": "Electric cars may overtake petrol models in sales."
+    },
+    {
+      "word": "overthrow",
+      "phonetic": "/ˌəʊvəˈθrəʊ/",
+      "meaning": "v. 推翻；打倒",
+      "example": "The rebels sought to overthrow the government."
+    },
+    {
+      "word": "overturn",
+      "phonetic": "/ˌəʊvəˈtɜːn/",
+      "meaning": "v. 推翻；翻转",
+      "example": "The court overturned the earlier ruling."
+    },
+    {
+      "word": "overwhelm",
+      "phonetic": "/ˌəʊvəˈwelm/",
+      "meaning": "v. 压倒；使不知所措",
+      "example": "She was overwhelmed by the amount of work."
+    },
+    {
+      "word": "oxide",
+      "phonetic": "/ˈɒksaɪd/",
+      "meaning": "n. 氧化物",
+      "example": "Iron oxide gives rust its red colour."
+    },
+    {
+      "word": "oxygen",
+      "phonetic": "/ˈɒksɪdʒən/",
+      "meaning": "n. 氧；氧气",
+      "example": "Plants release oxygen during photosynthesis."
+    },
+    {
+      "word": "pact",
+      "phonetic": "/pækt/",
+      "meaning": "n. 协定；条约",
+      "example": "The two countries signed a non-aggression pact."
+    },
+    {
+      "word": "pamphlet",
+      "phonetic": "/ˈpæmflət/",
+      "meaning": "n. 小册子",
+      "example": "The clinic hands out a pamphlet on healthy eating."
+    },
+    {
+      "word": "paradigm",
+      "phonetic": "/ˈpærədaɪm/",
+      "meaning": "n. 范式；典范",
+      "example": "The discovery created a new scientific paradigm."
+    },
+    {
+      "word": "paragraph",
+      "phonetic": "/ˈpærəɡrɑːf/",
+      "meaning": "n. 段落",
+      "example": "Each paragraph should make one main point."
+    },
+    {
+      "word": "paralyse",
+      "phonetic": "/ˈpærəlaɪz/",
+      "meaning": "v. 使瘫痪；使麻痹",
+      "example": "The strike paralysed the transport system."
+    },
+    {
+      "word": "parameter",
+      "phonetic": "/pəˈræmɪtə/",
+      "meaning": "n. 参数；界限",
+      "example": "We must work within the parameters set by the budget."
+    },
+    {
+      "word": "parliament",
+      "phonetic": "/ˈpɑːləmənt/",
+      "meaning": "n. 议会；国会",
+      "example": "The bill passed through parliament last week."
+    },
+    {
+      "word": "partial",
+      "phonetic": "/ˈpɑːʃl/",
+      "meaning": "adj. 部分的；偏袒的",
+      "example": "We received only a partial refund."
+    },
+    {
+      "word": "particle",
+      "phonetic": "/ˈpɑːtɪkl/",
+      "meaning": "n. 微粒；粒子",
+      "example": "Dust particles floated in the sunlight."
+    },
+    {
+      "word": "patch",
+      "phonetic": "/pætʃ/",
+      "meaning": "n. 补丁；小块 v. 修补",
+      "example": "They patched the roof before winter."
+    },
+    {
+      "word": "pathetic",
+      "phonetic": "/pəˈθetɪk/",
+      "meaning": "adj. 可怜的；无力的",
+      "example": "His excuse was rather pathetic."
+    },
+    {
+      "word": "patriotic",
+      "phonetic": "/ˌpætriˈɒtɪk/",
+      "meaning": "adj. 爱国的",
+      "example": "Patriotic songs filled the stadium."
+    },
+    {
+      "word": "patrol",
+      "phonetic": "/pəˈtrəʊl/",
+      "meaning": "v. 巡逻 n. 巡逻队",
+      "example": "Guards patrol the building at night."
+    },
+    {
+      "word": "peasant",
+      "phonetic": "/ˈpeznt/",
+      "meaning": "n. 农民；佃农",
+      "example": "Most of the population were peasants."
+    },
+    {
+      "word": "peculiar",
+      "phonetic": "/pɪˈkjuːliə/",
+      "meaning": "adj. 奇怪的；特有的",
+      "example": "There was a peculiar smell in the room."
+    },
+    {
+      "word": "pedestrian",
+      "phonetic": "/pəˈdestriən/",
+      "meaning": "n. 行人 adj. 平淡的",
+      "example": "Pedestrians should use the crossing."
+    },
+    {
+      "word": "penalty",
+      "phonetic": "/ˈpenəlti/",
+      "meaning": "n. 处罚；罚款",
+      "example": "There is a heavy penalty for late payment."
+    },
+    {
+      "word": "perception",
+      "phonetic": "/pəˈsepʃn/",
+      "meaning": "n. 知觉；看法",
+      "example": "Public perception of the company has improved."
+    },
+    {
+      "word": "perfection",
+      "phonetic": "/pəˈfekʃn/",
+      "meaning": "n. 完美；完善",
+      "example": "She practised the piece to perfection."
+    },
+    {
+      "word": "perfume",
+      "phonetic": "/ˈpɜːfjuːm/",
+      "meaning": "n. 香水；香味",
+      "example": "The garden was full of the perfume of roses."
+    },
+    {
+      "word": "perimeter",
+      "phonetic": "/pəˈrɪmɪtə/",
+      "meaning": "n. 周长；周边",
+      "example": "A fence marks the perimeter of the site."
+    },
+    {
+      "word": "periodic",
+      "phonetic": "/ˌpɪəriˈɒdɪk/",
+      "meaning": "adj. 周期的；定期的",
+      "example": "The equipment needs periodic inspection."
+    },
+    {
+      "word": "perish",
+      "phonetic": "/ˈperɪʃ/",
+      "meaning": "v. 死亡；毁灭",
+      "example": "Many plants perish in cold weather."
+    },
+    {
+      "word": "permeate",
+      "phonetic": "/ˈpɜːmieɪt/",
+      "meaning": "v. 渗透；弥漫",
+      "example": "The smell of coffee permeated the office."
+    },
+    {
+      "word": "permissible",
+      "phonetic": "/pəˈmɪsəbl/",
+      "meaning": "adj. 可允许的",
+      "example": "It is not permissible to park here."
+    },
+    {
+      "word": "perpetual",
+      "phonetic": "/pəˈpetʃuəl/",
+      "meaning": "adj. 永久的；不断的",
+      "example": "The region suffers perpetual drought."
+    },
+    {
+      "word": "perplex",
+      "phonetic": "/pəˈpleks/",
+      "meaning": "v. 使困惑",
+      "example": "The question perplexed the experts."
+    },
+    {
+      "word": "persecute",
+      "phonetic": "/ˈpɜːsɪkjuːt/",
+      "meaning": "v. 迫害；困扰",
+      "example": "The group was persecuted for its beliefs."
+    },
+    {
+      "word": "personality",
+      "phonetic": "/ˌpɜːsəˈnæləti/",
+      "meaning": "n. 个性；人格；名人",
+      "example": "She has a warm and friendly personality."
+    },
+    {
+      "word": "pessimistic",
+      "phonetic": "/ˌpesɪˈmɪstɪk/",
+      "meaning": "adj. 悲观的",
+      "example": "He is pessimistic about finding a job."
+    },
+    {
+      "word": "petition",
+      "phonetic": "/pəˈtɪʃn/",
+      "meaning": "n. 请愿书 v. 请愿",
+      "example": "Thousands signed the petition against the closure."
+    },
+    {
+      "word": "petroleum",
+      "phonetic": "/pəˈtrəʊliəm/",
+      "meaning": "n. 石油",
+      "example": "Petroleum is the main source of fuel."
+    },
+    {
+      "word": "pharmacy",
+      "phonetic": "/ˈfɑːməsi/",
+      "meaning": "n. 药房；药剂学",
+      "example": "The pharmacy stays open until midnight."
+    },
+    {
+      "word": "physician",
+      "phonetic": "/fɪˈzɪʃn/",
+      "meaning": "n. 内科医生",
+      "example": "Consult your physician before taking the drug."
+    },
+    {
+      "word": "pierce",
+      "phonetic": "/pɪəs/",
+      "meaning": "v. 刺穿；穿透",
+      "example": "A nail pierced the tyre."
+    },
+    {
+      "word": "pioneer",
+      "phonetic": "/ˌpaɪəˈnɪə/",
+      "meaning": "n. 先驱；开拓者 v. 开创",
+      "example": "She pioneered research into solar cells."
+    },
+    {
+      "word": "plea",
+      "phonetic": "/pliː/",
+      "meaning": "n. 恳求；辩解",
+      "example": "She made a plea for calm."
+    },
+    {
+      "word": "pledge",
+      "phonetic": "/pledʒ/",
+      "meaning": "n. 承诺；保证 v. 保证",
+      "example": "The government pledged to cut emissions."
+    },
+    {
+      "word": "plunge",
+      "phonetic": "/plʌndʒ/",
+      "meaning": "v. 猛跌；跳入",
+      "example": "Share prices plunged on Monday."
+    },
+    {
+      "word": "poise",
+      "phonetic": "/pɔɪz/",
+      "meaning": "n. 沉着；仪态",
+      "example": "She answered the questions with great poise."
+    },
+    {
+      "word": "pollution",
+      "phonetic": "/pəˈluːʃn/",
+      "meaning": "n. 污染",
+      "example": "Air pollution is a serious health risk."
+    },
+    {
+      "word": "portray",
+      "phonetic": "/pɔːˈtreɪ/",
+      "meaning": "v. 描绘；扮演",
+      "example": "The novel portrays rural life in the 1930s."
+    },
+    {
+      "word": "pose",
+      "phonetic": "/pəʊz/",
+      "meaning": "v. 造成；提出；摆姿势",
+      "example": "The new rules pose a challenge for small firms."
+    },
+    {
+      "word": "postpone",
+      "phonetic": "/pəˈspəʊn/",
+      "meaning": "v. 推迟；延期",
+      "example": "The match was postponed because of rain."
+    },
+    {
+      "word": "practically",
+      "phonetic": "/ˈpræktɪkli/",
+      "meaning": "adv. 几乎；实际上",
+      "example": "The room is practically empty."
+    },
+    {
+      "word": "precaution",
+      "phonetic": "/prɪˈkɔːʃn/",
+      "meaning": "n. 预防措施",
+      "example": "Take precautions against infection."
+    },
+    {
+      "word": "precedent",
+      "phonetic": "/ˈpresɪdənt/",
+      "meaning": "n. 先例；惯例",
+      "example": "The ruling sets an important precedent."
+    },
+    {
+      "word": "predecessor",
+      "phonetic": "/ˈpriːdɪsesə/",
+      "meaning": "n. 前任；前身",
+      "example": "She improved on her predecessor's reforms."
+    },
+    {
+      "word": "predominant",
+      "phonetic": "/prɪˈdɒmɪnənt/",
+      "meaning": "adj. 主要的；占优势的",
+      "example": "Rice is the predominant crop in the region."
+    },
+    {
+      "word": "preference",
+      "phonetic": "/ˈprefrəns/",
+      "meaning": "n. 偏爱；优先",
+      "example": "Do you have a preference for tea or coffee?"
+    },
+    {
+      "word": "pregnancy",
+      "phonetic": "/ˈpreɡnənsi/",
+      "meaning": "n. 怀孕；妊娠",
+      "example": "Regular check-ups are important during pregnancy."
+    },
+    {
+      "word": "premium",
+      "phonetic": "/ˈpriːmiəm/",
+      "meaning": "n. 保险费；额外费用 adj. 优质的",
+      "example": "Premiums rise if you smoke."
+    },
+    {
+      "word": "prescribe",
+      "phonetic": "/prɪˈskraɪb/",
+      "meaning": "v. 开药；规定",
+      "example": "The doctor prescribed antibiotics."
+    },
+    {
+      "word": "presentation",
+      "phonetic": "/ˌpreznˈteɪʃn/",
+      "meaning": "n. 演示；表演；赠送",
+      "example": "She gave a fine presentation on climate change."
+    },
+    {
+      "word": "primitive",
+      "phonetic": "/ˈprɪmɪtɪv/",
+      "meaning": "adj. 原始的；简陋的",
+      "example": "The tribe used primitive tools."
+    },
+    {
+      "word": "principal",
+      "phonetic": "/ˈprɪnsəpl/",
+      "meaning": "adj. 主要的 n. 校长；本金",
+      "example": "Coffee is the country's principal export."
+    },
+    {
+      "word": "privilege",
+      "phonetic": "/ˈprɪvəlɪdʒ/",
+      "meaning": "n. 特权；荣幸",
+      "example": "Education should be a right, not a privilege."
+    },
+    {
+      "word": "probe",
+      "phonetic": "/prəʊb/",
+      "meaning": "v. 调查；探查 n. 探针",
+      "example": "Police are probing the cause of the fire."
+    },
+    {
+      "word": "proclaim",
+      "phonetic": "/prəˈkleɪm/",
+      "meaning": "v. 宣布；声明",
+      "example": "The country proclaimed independence in 1960."
+    },
+    {
+      "word": "productive",
+      "phonetic": "/prəˈdʌktɪv/",
+      "meaning": "adj. 多产的；富有成效的",
+      "example": "We had a very productive meeting."
+    },
+    {
+      "word": "proficiency",
+      "phonetic": "/prəˈfɪʃnsi/",
+      "meaning": "n. 熟练；精通",
+      "example": "She has a high proficiency in English."
+    },
+    {
+      "word": "profile",
+      "phonetic": "/ˈprəʊfaɪl/",
+      "meaning": "n. 侧面；简介 v. 概述",
+      "example": "The company keeps a low profile."
+    },
+    {
+      "word": "profitable",
+      "phonetic": "/ˈprɒfɪtəbl/",
+      "meaning": "adj. 有利可图的；有益的",
+      "example": "The business became profitable in its third year."
+    },
+    {
+      "word": "promising",
+      "phonetic": "/ˈprɒmɪsɪŋ/",
+      "meaning": "adj. 有前途的；有希望的",
+      "example": "He is a promising young scientist."
+    },
+    {
+      "word": "prone",
+      "phonetic": "/prəʊn/",
+      "meaning": "adj. 易于…的；俯卧的",
+      "example": "This model is prone to overheating."
+    },
+    {
+      "word": "pronounced",
+      "phonetic": "/prəˈnaʊnst/",
+      "meaning": "adj. 明显的；显著的",
+      "example": "There is a pronounced difference between the two groups."
+    },
+    {
+      "word": "proposal",
+      "phonetic": "/prəˈpəʊzl/",
+      "meaning": "n. 提议；求婚",
+      "example": "The proposal was rejected by the board."
+    },
+    {
+      "word": "prosper",
+      "phonetic": "/ˈprɒspə/",
+      "meaning": "v. 繁荣；兴旺",
+      "example": "The town prospered after the railway arrived."
+    },
+    {
+      "word": "prosperity",
+      "phonetic": "/prɒˈsperəti/",
+      "meaning": "n. 繁荣；成功",
+      "example": "The war ended a long period of prosperity."
+    },
+    {
+      "word": "psychological",
+      "phonetic": "/ˌsaɪkəˈlɒdʒɪkl/",
+      "meaning": "adj. 心理的；心理学的",
+      "example": "The injury had a psychological effect on him."
+    },
+    {
+      "word": "publicity",
+      "phonetic": "/pʌbˈlɪsəti/",
+      "meaning": "n. 宣传；公众注意",
+      "example": "The film received a lot of publicity."
+    },
+    {
+      "word": "punctual",
+      "phonetic": "/ˈpʌŋktʃuəl/",
+      "meaning": "adj. 准时的",
+      "example": "Please be punctual for the interview."
+    },
+    {
+      "word": "pursuit",
+      "phonetic": "/pəˈsjuːt/",
+      "meaning": "n. 追求；追踪",
+      "example": "He devoted his life to the pursuit of knowledge."
+    },
+    {
+      "word": "puzzle",
+      "phonetic": "/ˈpʌzl/",
+      "meaning": "n. 谜；难题 v. 使困惑",
+      "example": "Her behaviour puzzled everyone."
+    },
+    {
+      "word": "qualification",
+      "phonetic": "/ˌkwɒlɪfɪˈkeɪʃn/",
+      "meaning": "n. 资格；学历",
+      "example": "He has the right qualifications for the job."
+    },
+    {
+      "word": "qualitative",
+      "phonetic": "/ˈkwɒlɪtətɪv/",
+      "meaning": "adj. 定性的；质量的",
+      "example": "The study used qualitative interviews."
+    },
+    {
+      "word": "quantify",
+      "phonetic": "/ˈkwɒntɪfaɪ/",
+      "meaning": "v. 量化；用数量表示",
+      "example": "It is hard to quantify the benefits."
+    },
+    {
+      "word": "quantitative",
+      "phonetic": "/ˈkwɒntɪtətɪv/",
+      "meaning": "adj. 定量的；数量的",
+      "example": "Quantitative data were collected from 500 students."
+    },
+    {
+      "word": "quarantine",
+      "phonetic": "/ˈkwɒrəntiːn/",
+      "meaning": "n. 隔离 v. 隔离",
+      "example": "Travellers were put in quarantine."
+    },
+    {
+      "word": "quarterly",
+      "phonetic": "/ˈkwɔːtəli/",
+      "meaning": "adj. 季度的 adv. 按季度",
+      "example": "The report is published quarterly."
+    },
+    {
+      "word": "quench",
+      "phonetic": "/kwentʃ/",
+      "meaning": "v. 解渴；熄灭",
+      "example": "He quenched his thirst with cold water."
+    },
+    {
+      "word": "query",
+      "phonetic": "/ˈkwɪəri/",
+      "meaning": "n. 疑问 v. 质疑",
+      "example": "She queried the accuracy of the figures."
+    },
+    {
+      "word": "quest",
+      "phonetic": "/kwest/",
+      "meaning": "n. 探索；追求",
+      "example": "The quest for a cure continues."
+    },
+    {
+      "word": "questionnaire",
+      "phonetic": "/ˌkwestʃəˈneə/",
+      "meaning": "n. 调查问卷",
+      "example": "Please complete the questionnaire and return it."
+    },
+    {
+      "word": "queue",
+      "phonetic": "/kjuː/",
+      "meaning": "n. 队列 v. 排队",
+      "example": "People queued for hours to buy tickets."
+    },
+    {
+      "word": "quotation",
+      "phonetic": "/kwəʊˈteɪʃn/",
+      "meaning": "n. 引语；报价",
+      "example": "The essay opens with a quotation from Shakespeare."
+    },
+    {
+      "word": "radioactive",
+      "phonetic": "/ˌreɪdiəʊˈæktɪv/",
+      "meaning": "adj. 放射性的",
+      "example": "Radioactive waste must be stored safely."
+    },
+    {
+      "word": "radius",
+      "phonetic": "/ˈreɪdiəs/",
+      "meaning": "n. 半径；范围",
+      "example": " Everyone within a radius of five miles was evacuated."
+    },
+    {
+      "word": "rag",
+      "phonetic": "/ræɡ/",
+      "meaning": "n. 破布；抹布",
+      "example": "He wiped the table with a rag."
+    },
+    {
+      "word": "raid",
+      "phonetic": "/reɪd/",
+      "meaning": "n. 突袭 v. 突击搜捕",
+      "example": "Police raided the warehouse at dawn."
+    },
+    {
+      "word": "rally",
+      "phonetic": "/ˈræli/",
+      "meaning": "n. 集会 v. 集合；恢复",
+      "example": "Supporters held a rally in the square."
+    },
+    {
+      "word": "rap",
+      "phonetic": "/ræp/",
+      "meaning": "v. 敲击 n. 说唱音乐",
+      "example": "She rapped on the door twice."
+    },
+    {
+      "word": "rash",
+      "phonetic": "/ræʃ/",
+      "meaning": "adj. 轻率的 n. 皮疹",
+      "example": "It would be rash to decide without more evidence."
+    },
+    {
+      "word": "rational",
+      "phonetic": "/ˈræʃnəl/",
+      "meaning": "adj. 理性的；合理的",
+      "example": "We need a rational discussion, not an argument."
+    },
+    {
+      "word": "realm",
+      "phonetic": "/relm/",
+      "meaning": "n. 领域；王国",
+      "example": "This is beyond the realm of possibility."
+    },
+    {
+      "word": "reap",
+      "phonetic": "/riːp/",
+      "meaning": "v. 收割；获得",
+      "example": "They reaped the rewards of years of effort."
+    },
+    {
+      "word": "recede",
+      "phonetic": "/rɪˈsiːd/",
+      "meaning": "v. 后退；减弱",
+      "example": "The floodwater slowly receded."
+    },
+    {
+      "word": "recession",
+      "phonetic": "/rɪˈseʃn/",
+      "meaning": "n. 衰退；不景气",
+      "example": "Many jobs were lost during the recession."
+    },
+    {
+      "word": "recipe",
+      "phonetic": "/ˈresəpi/",
+      "meaning": "n. 食谱；秘诀",
+      "example": "Follow the recipe carefully."
+    },
+    {
+      "word": "recite",
+      "phonetic": "/rɪˈsaɪt/",
+      "meaning": "v. 背诵；朗诵",
+      "example": "Each pupil had to recite a poem."
+    },
+    {
+      "word": "reckless",
+      "phonetic": "/ˈrekləs/",
+      "meaning": "adj. 鲁莽的；不顾后果的",
+      "example": "He was fined for reckless driving."
+    },
+    {
+      "word": "reckon",
+      "phonetic": "/ˈrekən/",
+      "meaning": "v. 认为；估算",
+      "example": "I reckon it will take about an hour."
+    },
+    {
+      "word": "reclaim",
+      "phonetic": "/rɪˈkleɪm/",
+      "meaning": "v. 收回；开垦",
+      "example": "You can reclaim the tax you paid."
+    },
+    {
+      "word": "rectangle",
+      "phonetic": "/ˈrektæŋɡl/",
+      "meaning": "n. 长方形；矩形",
+      "example": "Draw a rectangle on the board."
+    },
+    {
+      "word": "recur",
+      "phonetic": "/rɪˈkɜː/",
+      "meaning": "v. 再发生；重新出现",
+      "example": "The problem may recur if untreated."
+    },
+    {
+      "word": "refrain",
+      "phonetic": "/rɪˈfreɪn/",
+      "meaning": "v. 抑制；避免",
+      "example": "Please refrain from smoking here."
+    },
+    {
+      "word": "refuge",
+      "phonetic": "/ˈrefjuːdʒ/",
+      "meaning": "n. 避难所；庇护",
+      "example": "They took refuge from the storm."
+    },
+    {
+      "word": "refund",
+      "phonetic": "/ˈriːfʌnd/",
+      "meaning": "n. 退款 v. 退款",
+      "example": "You can get a full refund within thirty days."
+    },
+    {
+      "word": "rehearse",
+      "phonetic": "/rɪˈhɜːs/",
+      "meaning": "v. 排练；演习",
+      "example": "The band rehearsed every evening."
+    },
+    {
+      "word": "reign",
+      "phonetic": "/reɪn/",
+      "meaning": "n. 统治 v. 统治",
+      "example": "The queen reigned for forty years."
+    },
+    {
+      "word": "rejoice",
+      "phonetic": "/rɪˈdʒɔɪs/",
+      "meaning": "v. 欣喜；高兴",
+      "example": "The whole town rejoiced at the news."
+    },
+    {
+      "word": "relay",
+      "phonetic": "/ˈriːleɪ/",
+      "meaning": "v. 转达；接力 n. 接力赛",
+      "example": "Could you relay the message to him?"
+    },
+    {
+      "word": "relic",
+      "phonetic": "/ˈrelɪk/",
+      "meaning": "n. 遗迹；遗物",
+      "example": "The museum displays relics from the Bronze Age."
+    },
+    {
+      "word": "relieve",
+      "phonetic": "/rɪˈliːv/",
+      "meaning": "v. 减轻；缓解",
+      "example": "The medicine relieved her headache."
+    },
+    {
+      "word": "remainder",
+      "phonetic": "/rɪˈmeɪndə/",
+      "meaning": "n. 剩余部分",
+      "example": "The remainder of the day was spent resting."
+    },
+    {
+      "word": "renew",
+      "phonetic": "/rɪˈnjuː/",
+      "meaning": "v. 更新；续期",
+      "example": "Remember to renew your passport."
+    },
+    {
+      "word": "renowned",
+      "phonetic": "/rɪˈnaʊnd/",
+      "meaning": "adj. 著名的；有声望的",
+      "example": "He is renowned for his honesty."
+    },
+    {
+      "word": "repay",
+      "phonetic": "/rɪˈpeɪ/",
+      "meaning": "v. 偿还；报答",
+      "example": "She repaid the loan within a year."
+    },
+    {
+      "word": "repel",
+      "phonetic": "/rɪˈpel/",
+      "meaning": "v. 击退；排斥",
+      "example": "This spray repels mosquitoes."
+    },
+    {
+      "word": "reproach",
+      "phonetic": "/rɪˈprəʊtʃ/",
+      "meaning": "v. 责备 n. 责备",
+      "example": "She reproached him for being late."
+    },
+    {
+      "word": "reproduce",
+      "phonetic": "/ˌriːprəˈdjuːs/",
+      "meaning": "v. 繁殖；复制",
+      "example": "These fish reproduce in fresh water."
+    },
+    {
+      "word": "resent",
+      "phonetic": "/rɪˈzent/",
+      "meaning": "v. 愤恨；怨恨",
+      "example": "He resented being treated like a child."
+    },
+    {
+      "word": "resign",
+      "phonetic": "/rɪˈzaɪn/",
+      "meaning": "v. 辞职；顺从",
+      "example": "She resigned from her post in June."
+    },
+    {
+      "word": "resort",
+      "phonetic": "/rɪˈzɔːt/",
+      "meaning": "n. 度假地；手段 v. 诉诸",
+      "example": "We should never resort to violence."
+    },
+    {
+      "word": "resume",
+      "phonetic": "/rɪˈzjuːm/",
+      "meaning": "v. 重新开始；恢复",
+      "example": "Talks will resume next week."
+    },
+    {
+      "word": "retort",
+      "phonetic": "/rɪˈtɔːt/",
+      "meaning": "v. 反驳 n. 反驳",
+      "example": "\"That is not true,\" she retorted."
+    },
+    {
+      "word": "retreat",
+      "phonetic": "/rɪˈtriːt/",
+      "meaning": "v. 撤退 n. 撤退；隐居处",
+      "example": "The army retreated across the river."
+    },
+    {
+      "word": "retrospect",
+      "phonetic": "/ˈretrəspekt/",
+      "meaning": "n. 回顾；回想",
+      "example": "In retrospect, I should have said no."
+    },
+    {
+      "word": "revoke",
+      "phonetic": "/rɪˈvəʊk/",
+      "meaning": "v. 撤销；废除",
+      "example": "His licence was revoked after the accident."
+    },
+    {
+      "word": "revolt",
+      "phonetic": "/rɪˈvəʊlt/",
+      "meaning": "n. 起义 v. 反抗",
+      "example": "The peasants rose in revolt."
+    },
+    {
+      "word": "rhetoric",
+      "phonetic": "/ˈretərɪk/",
+      "meaning": "n. 修辞；华丽的辞藻",
+      "example": "We need action, not rhetoric."
+    },
+    {
+      "word": "ridicule",
+      "phonetic": "/ˈrɪdɪkjuːl/",
+      "meaning": "v. 嘲笑 n. 嘲笑",
+      "example": "His ideas were ridiculed at the time."
+    },
+    {
+      "word": "ridiculous",
+      "phonetic": "/rɪˈdɪkjələs/",
+      "meaning": "adj. 荒谬的；可笑的",
+      "example": "That is a ridiculous price for a coffee."
+    },
+    {
+      "word": "riot",
+      "phonetic": "/ˈraɪət/",
+      "meaning": "n. 暴乱 v. 参与暴乱",
+      "example": "Riots broke out after the match."
+    },
+    {
+      "word": "ripe",
+      "phonetic": "/raɪp/",
+      "meaning": "adj. 成熟的；时机成熟的",
+      "example": "The apples are ripe in September."
+    },
+    {
+      "word": "roam",
+      "phonetic": "/rəʊm/",
+      "meaning": "v. 漫游；闲逛",
+      "example": "Deer roam freely in the park."
+    },
+    {
+      "word": "rod",
+      "phonetic": "/rɒd/",
+      "meaning": "n. 杆；棒",
+      "example": "He fixed the curtain with an iron rod."
+    },
+    {
+      "word": "romance",
+      "phonetic": "/rəʊˈmæns/",
+      "meaning": "n. 爱情；传奇故事",
+      "example": "They had a holiday romance."
+    },
+    {
+      "word": "rot",
+      "phonetic": "/rɒt/",
+      "meaning": "v. 腐烂 n. 腐烂",
+      "example": "The fruit began to rot in the heat."
+    },
+    {
+      "word": "rotate",
+      "phonetic": "/rəʊˈteɪt/",
+      "meaning": "v. 旋转；轮换",
+      "example": "The earth rotates once a day."
+    },
+    {
+      "word": "rub",
+      "phonetic": "/rʌb/",
+      "meaning": "v. 摩擦；擦",
+      "example": "She rubbed her eyes sleepily."
+    },
+    {
+      "word": "rubbish",
+      "phonetic": "/ˈrʌbɪʃ/",
+      "meaning": "n. 垃圾；废话",
+      "example": "Please put the rubbish out on Monday."
+    },
+    {
+      "word": "ruin",
+      "phonetic": "/ˈruːɪn/",
+      "meaning": "v. 毁灭 n. 废墟；毁灭",
+      "example": "The rain ruined our picnic."
+    },
+    {
+      "word": "rumour",
+      "phonetic": "/ˈruːmə/",
+      "meaning": "n. 谣言；传闻",
+      "example": "There is a rumour that the factory will close."
+    },
+    {
+      "word": "rust",
+      "phonetic": "/rʌst/",
+      "meaning": "n. 锈 v. 生锈",
+      "example": "The gate had rusted shut."
+    },
+    {
+      "word": "sacred",
+      "phonetic": "/ˈseɪkrɪd/",
+      "meaning": "adj. 神圣的；宗教的",
+      "example": "The grove is sacred to the local people."
+    },
+    {
+      "word": "saddle",
+      "phonetic": "/ˈsædl/",
+      "meaning": "n. 马鞍 v. 给…装鞍",
+      "example": "He put the saddle on the horse."
+    },
+    {
+      "word": "sake",
+      "phonetic": "/seɪk/",
+      "meaning": "n. 缘故；利益",
+      "example": "For the sake of your health, stop smoking."
+    },
+    {
+      "word": "salute",
+      "phonetic": "/səˈluːt/",
+      "meaning": "v. 致敬 n. 敬礼",
+      "example": "The soldiers saluted the flag."
+    },
+    {
+      "word": "sane",
+      "phonetic": "/seɪn/",
+      "meaning": "adj. 神志正常的；明智的",
+      "example": "No sane person would do that."
+    },
+    {
+      "word": "satisfaction",
+      "phonetic": "/ˌsætɪsˈfækʃn/",
+      "meaning": "n. 满意；满足",
+      "example": "She smiled with satisfaction."
+    },
+    {
+      "word": "saturate",
+      "phonetic": "/ˈsætʃəreɪt/",
+      "meaning": "v. 使饱和；浸透",
+      "example": "The market is saturated with cheap phones."
+    },
+    {
+      "word": "savage",
+      "phonetic": "/ˈsævɪdʒ/",
+      "meaning": "adj. 野蛮的；凶猛的",
+      "example": "The article was a savage attack on the minister."
+    },
+    {
+      "word": "scandal",
+      "phonetic": "/ˈskændl/",
+      "meaning": "n. 丑闻；流言",
+      "example": "The scandal forced the minister to resign."
+    },
+    {
+      "word": "scope",
+      "phonetic": "/skəʊp/",
+      "meaning": "n. 范围；余地",
+      "example": "This is beyond the scope of the study."
+    },
+    {
+      "word": "scorn",
+      "phonetic": "/skɔːn/",
+      "meaning": "n. 轻蔑 v. 蔑视",
+      "example": "He poured scorn on the idea."
+    },
+    {
+      "word": "scrape",
+      "phonetic": "/skreɪp/",
+      "meaning": "v. 刮；擦伤",
+      "example": "He scraped the ice off the windscreen."
+    },
+    {
+      "word": "scratch",
+      "phonetic": "/skrætʃ/",
+      "meaning": "v. 抓；划破 n. 划痕",
+      "example": "The cat scratched my arm."
+    },
+    {
+      "word": "segment",
+      "phonetic": "/ˈseɡmənt/",
+      "meaning": "n. 部分；片段",
+      "example": "This segment of the market is growing fast."
+    },
+    {
+      "word": "seminar",
+      "phonetic": "/ˈsemɪnɑː/",
+      "meaning": "n. 研讨会；讨论课",
+      "example": "He gave a seminar on modern poetry."
+    },
+    {
+      "word": "senate",
+      "phonetic": "/ˈsenət/",
+      "meaning": "n. 参议院；评议会",
+      "example": "The bill passed the senate by a narrow margin."
+    },
+    {
+      "word": "sensation",
+      "phonetic": "/senˈseɪʃn/",
+      "meaning": "n. 感觉；轰动",
+      "example": "The book caused a sensation."
+    },
+    {
+      "word": "sentiment",
+      "phonetic": "/ˈsentɪmənt/",
+      "meaning": "n. 情感；意见",
+      "example": "Public sentiment turned against the war."
+    },
+    {
+      "word": "serial",
+      "phonetic": "/ˈsɪəriəl/",
+      "meaning": "adj. 连续的 n. 连续剧",
+      "example": "The novel was adapted into a television serial."
+    },
+    {
+      "word": "sermon",
+      "phonetic": "/ˈsɜːmən/",
+      "meaning": "n. 布道；说教",
+      "example": "The priest delivered a short sermon."
+    },
+    {
+      "word": "shatter",
+      "phonetic": "/ˈʃætə/",
+      "meaning": "v. 粉碎；使破灭",
+      "example": "The glass shattered on the floor."
+    },
+    {
+      "word": "shed",
+      "phonetic": "/ʃed/",
+      "meaning": "n. 棚屋 v. 脱落；流下",
+      "example": "The garden shed is full of tools."
+    },
+    {
+      "word": "shield",
+      "phonetic": "/ʃiːld/",
+      "meaning": "n. 盾牌 v. 保护",
+      "example": "These trees shield the house from wind."
+    },
+    {
+      "word": "shrug",
+      "phonetic": "/ʃrʌɡ/",
+      "meaning": "v. 耸肩",
+      "example": "He shrugged and walked away."
+    },
+    {
+      "word": "siege",
+      "phonetic": "/siːdʒ/",
+      "meaning": "n. 围攻；包围",
+      "example": "The city was under siege for months."
+    },
+    {
+      "word": "signify",
+      "phonetic": "/ˈsɪɡnɪfaɪ/",
+      "meaning": "v. 表示；意味着",
+      "example": "A red light signifies danger."
+    },
+    {
+      "word": "simultaneous",
+      "phonetic": "/ˌsɪmlˈteɪniəs/",
+      "meaning": "adj. 同时发生的",
+      "example": "The two events were simultaneous."
+    },
+    {
+      "word": "skeleton",
+      "phonetic": "/ˈskelɪtn/",
+      "meaning": "n. 骨骼；框架",
+      "example": "The museum displays a dinosaur skeleton."
+    },
+    {
+      "word": "sketch",
+      "phonetic": "/sketʃ/",
+      "meaning": "n. 素描；概略 v. 概述",
+      "example": "He sketched the outline of the plan."
+    },
+    {
+      "word": "slack",
+      "phonetic": "/slæk/",
+      "meaning": "adj. 松弛的；萧条的",
+      "example": "Business is slack during the summer."
+    },
+    {
+      "word": "slam",
+      "phonetic": "/slæm/",
+      "meaning": "v. 猛关；抨击",
+      "example": "She slammed the door behind her."
+    },
+    {
+      "word": "slaughter",
+      "phonetic": "/ˈslɔːtə/",
+      "meaning": "n. 屠杀 v. 屠宰",
+      "example": "The animals are slaughtered humanely."
+    },
+    {
+      "word": "slavery",
+      "phonetic": "/ˈsleɪvəri/",
+      "meaning": "n. 奴隶制；奴役",
+      "example": "Slavery was abolished in the nineteenth century."
+    },
+    {
+      "word": "slender",
+      "phonetic": "/ˈslendə/",
+      "meaning": "adj. 细长的；微薄的",
+      "example": "There is a slender chance of success."
+    },
+    {
+      "word": "slice",
+      "phonetic": "/slaɪs/",
+      "meaning": "n. 薄片 v. 切片",
+      "example": "She cut a slice of bread."
+    },
+    {
+      "word": "slim",
+      "phonetic": "/slɪm/",
+      "meaning": "adj. 苗条的；渺茫的",
+      "example": "The chances of winning are slim."
+    },
+    {
+      "word": "slope",
+      "phonetic": "/sləʊp/",
+      "meaning": "n. 斜坡 v. 倾斜",
+      "example": "The garden slopes down to the river."
+    },
+    {
+      "word": "slot",
+      "phonetic": "/slɒt/",
+      "meaning": "n. 狭槽；时段 v. 插入",
+      "example": "Put the coin in the slot."
+    },
+    {
+      "word": "smash",
+      "phonetic": "/smæʃ/",
+      "meaning": "v. 打碎；猛撞",
+      "example": "The vase smashed into pieces."
+    },
+    {
+      "word": "snatch",
+      "phonetic": "/snætʃ/",
+      "meaning": "v. 抢夺；抓住",
+      "example": "A thief snatched her bag."
+    },
+    {
+      "word": "soak",
+      "phonetic": "/səʊk/",
+      "meaning": "v. 浸泡；湿透",
+      "example": "Soak the beans overnight."
+    },
+    {
+      "word": "soar",
+      "phonetic": "/sɔː/",
+      "meaning": "v. 猛增；翱翔",
+      "example": "House prices have soared."
+    },
+    {
+      "word": "sober",
+      "phonetic": "/ˈsəʊbə/",
+      "meaning": "adj. 清醒的；冷静的",
+      "example": "He was sober enough to drive."
+    },
+    {
+      "word": "sole",
+      "phonetic": "/səʊl/",
+      "meaning": "adj. 唯一的 n. 脚底",
+      "example": "The sole purpose of the visit was business."
+    },
+    {
+      "word": "solicitor",
+      "phonetic": "/səˈlɪsɪtə/",
+      "meaning": "n. 律师；法务官",
+      "example": "Ask your solicitor to check the contract."
+    },
+    {
+      "word": "solitary",
+      "phonetic": "/ˈsɒlətri/",
+      "meaning": "adj. 孤独的；单独的",
+      "example": "He led a solitary life in the countryside."
+    },
+    {
+      "word": "soluble",
+      "phonetic": "/ˈsɒljəbl/",
+      "meaning": "adj. 可溶的；可解决的",
+      "example": "Sugar is soluble in water."
+    },
+    {
+      "word": "sore",
+      "phonetic": "/sɔː/",
+      "meaning": "adj. 疼痛的 n. 痛处",
+      "example": "I have a sore throat."
+    },
+    {
+      "word": "sovereign",
+      "phonetic": "/ˈsɒvrɪn/",
+      "meaning": "n. 君主 adj. 有主权的",
+      "example": "Every state has sovereign rights over its territory."
+    },
+    {
+      "word": "span",
+      "phonetic": "/spæn/",
+      "meaning": "n. 跨度；一段时间 v. 横跨",
+      "example": "The bridge spans the river."
+    },
+    {
+      "word": "spark",
+      "phonetic": "/spɑːk/",
+      "meaning": "n. 火花 v. 引发",
+      "example": "The remark sparked a heated debate."
+    },
+    {
+      "word": "specialise",
+      "phonetic": "/ˈspeʃəlaɪz/",
+      "meaning": "v. 专门研究；专攻",
+      "example": "She specialises in criminal law."
+    },
+    {
+      "word": "specimen",
+      "phonetic": "/ˈspesɪmən/",
+      "meaning": "n. 样本；标本",
+      "example": "The doctor took a blood specimen."
+    },
+    {
+      "word": "spectacle",
+      "phonetic": "/ˈspektəkl/",
+      "meaning": "n. 景象；壮观场面",
+      "example": "The fireworks were a magnificent spectacle."
+    },
+    {
+      "word": "spectator",
+      "phonetic": "/spekˈteɪtə/",
+      "meaning": "n. 观众；旁观者",
+      "example": "Thousands of spectators lined the route."
+    },
+    {
+      "word": "spectrum",
+      "phonetic": "/ˈspektrəm/",
+      "meaning": "n. 光谱；范围",
+      "example": "Support covers a wide spectrum of opinion."
+    },
+    {
+      "word": "sphere",
+      "phonetic": "/sfɪə/",
+      "meaning": "n. 球体；领域",
+      "example": "She is well known in the political sphere."
+    },
+    {
+      "word": "spin",
+      "phonetic": "/spɪn/",
+      "meaning": "v. 旋转；纺纱",
+      "example": "The wheels spun on the ice."
+    },
+    {
+      "word": "spine",
+      "phonetic": "/spaɪn/",
+      "meaning": "n. 脊柱；书脊",
+      "example": "He injured his spine in the fall."
+    },
+    {
+      "word": "splash",
+      "phonetic": "/splæʃ/",
+      "meaning": "v. 溅 n. 溅声",
+      "example": "The children splashed in the pool."
+    },
+    {
+      "word": "spontaneous",
+      "phonetic": "/spɒnˈteɪniəs/",
+      "meaning": "adj. 自发的；自然的",
+      "example": "The audience broke into spontaneous applause."
+    },
+    {
+      "word": "spouse",
+      "phonetic": "/spaʊs/",
+      "meaning": "n. 配偶",
+      "example": "Employees may bring a spouse to the dinner."
+    },
+    {
+      "word": "sprout",
+      "phonetic": "/spraʊt/",
+      "meaning": "v. 发芽 n. 芽",
+      "example": "The seeds sprouted within a week."
+    },
+    {
+      "word": "spur",
+      "phonetic": "/spɜː/",
+      "meaning": "n. 刺激；马刺 v. 激励",
+      "example": "The award spurred him to work harder."
+    },
+    {
+      "word": "squad",
+      "phonetic": "/skwɒd/",
+      "meaning": "n. 小队；班",
+      "example": "The rescue squad arrived quickly."
+    },
+    {
+      "word": "squeeze",
+      "phonetic": "/skwiːz/",
+      "meaning": "v. 挤压；挤进",
+      "example": "She squeezed the lemon into the glass."
+    },
+    {
+      "word": "stabilise",
+      "phonetic": "/ˈsteɪbəlaɪz/",
+      "meaning": "v. 使稳定；稳定下来",
+      "example": "The patient's condition has stabilised."
+    },
+    {
+      "word": "stack",
+      "phonetic": "/stæk/",
+      "meaning": "n. 一堆 v. 堆叠",
+      "example": "A stack of books lay on the desk."
+    },
+    {
+      "word": "stadium",
+      "phonetic": "/ˈsteɪdiəm/",
+      "meaning": "n. 体育场",
+      "example": "The stadium holds eighty thousand people."
+    },
+    {
+      "word": "stagger",
+      "phonetic": "/ˈstæɡə/",
+      "meaning": "v. 蹒跚；使震惊",
+      "example": "He staggered out of the room."
+    },
+    {
+      "word": "stale",
+      "phonetic": "/steɪl/",
+      "meaning": "adj. 不新鲜的；陈旧的",
+      "example": "The bread had gone stale."
+    },
+    {
+      "word": "stall",
+      "phonetic": "/stɔːl/",
+      "meaning": "n. 摊位 v. 熄火；拖延",
+      "example": "He bought fruit from a market stall."
+    },
+    {
+      "word": "stance",
+      "phonetic": "/stæns/",
+      "meaning": "n. 立场；站姿",
+      "example": "The party changed its stance on the issue."
+    },
+    {
+      "word": "staple",
+      "phonetic": "/ˈsteɪpl/",
+      "meaning": "n. 主要产品 adj. 主要的",
+      "example": "Rice is a staple food in many countries."
+    },
+    {
+      "word": "stark",
+      "phonetic": "/stɑːk/",
+      "meaning": "adj. 鲜明的；荒凉的",
+      "example": "The report draws a stark contrast between rich and poor."
+    },
+    {
+      "word": "startle",
+      "phonetic": "/ˈstɑːtl/",
+      "meaning": "v. 使惊吓；使吃惊",
+      "example": "The sudden noise startled her."
+    },
+    {
+      "word": "statue",
+      "phonetic": "/ˈstætʃuː/",
+      "meaning": "n. 雕像；塑像",
+      "example": "A bronze statue stands in the square."
+    },
+    {
+      "word": "steer",
+      "phonetic": "/stɪə/",
+      "meaning": "v. 驾驶；引导",
+      "example": "She steered the boat towards the shore."
+    },
+    {
+      "word": "stem",
+      "phonetic": "/stem/",
+      "meaning": "n. 茎 v. 起源于",
+      "example": "The problem stems from poor planning."
+    },
+    {
+      "word": "stereotype",
+      "phonetic": "/ˈsteriətaɪp/",
+      "meaning": "n. 刻板印象 v. 使定型",
+      "example": "The film challenges gender stereotypes."
+    },
+    {
+      "word": "stern",
+      "phonetic": "/stɜːn/",
+      "meaning": "adj. 严厉的；严峻的",
+      "example": "The teacher gave him a stern look."
+    },
+    {
+      "word": "sting",
+      "phonetic": "/stɪŋ/",
+      "meaning": "v. 刺；叮 n. 刺痛",
+      "example": "A bee stung him on the arm."
+    },
+    {
+      "word": "stir",
+      "phonetic": "/stɜː/",
+      "meaning": "v. 搅拌；激起",
+      "example": "Stir the soup gently."
+    },
+    {
+      "word": "stove",
+      "phonetic": "/stəʊv/",
+      "meaning": "n. 炉子；厨灶",
+      "example": "She left the pot on the stove."
+    },
+    {
+      "word": "straightforward",
+      "phonetic": "/ˌstreɪtˈfɔːwəd/",
+      "meaning": "adj. 直接的；简单的",
+      "example": "The instructions are quite straightforward."
+    },
+    {
+      "word": "strain",
+      "phonetic": "/streɪn/",
+      "meaning": "n. 压力； strain v. 拉紧；扭伤",
+      "example": "The long hours put a strain on his health."
+    },
+    {
+      "word": "strand",
+      "phonetic": "/strænd/",
+      "meaning": "n. 股；缕 v. 使搁浅",
+      "example": "A strand of hair fell across her face."
+    },
+    {
+      "word": "straw",
+      "phonetic": "/strɔː/",
+      "meaning": "n. 稻草；吸管",
+      "example": "He drank the juice through a straw."
+    },
+    {
+      "word": "streak",
+      "phonetic": "/striːk/",
+      "meaning": "n. 条纹；倾向 v. 飞跑",
+      "example": "She has a competitive streak."
+    },
+    {
+      "word": "stream",
+      "phonetic": "/striːm/",
+      "meaning": "n. 溪流；流 v. 流动",
+      "example": "A stream runs behind the house."
+    },
+    {
+      "word": "strengthen",
+      "phonetic": "/ˈstreŋθn/",
+      "meaning": "v. 加强；巩固",
+      "example": "The bridge was strengthened with steel plates."
+    },
+    {
+      "word": "stride",
+      "phonetic": "/straɪd/",
+      "meaning": "n. 大步；进展 v. 大步走",
+      "example": "She walked with long strides."
+    },
+    {
+      "word": "striking",
+      "phonetic": "/ˈstraɪkɪŋ/",
+      "meaning": "adj. 显著的；引人注目的",
+      "example": "There is a striking similarity between the two."
+    },
+    {
+      "word": "strip",
+      "phonetic": "/strɪp/",
+      "meaning": "v. 剥去；脱去 n. 条",
+      "example": "He stripped the wallpaper from the wall."
+    },
+    {
+      "word": "stroke",
+      "phonetic": "/strəʊk/",
+      "meaning": "n. 中风；笔画；击打 v. 抚摸",
+      "example": "He suffered a stroke last winter."
+    },
+    {
+      "word": "stroll",
+      "phonetic": "/strəʊl/",
+      "meaning": "v. 散步 n. 散步",
+      "example": "They strolled along the beach."
+    },
+    {
+      "word": "stubborn",
+      "phonetic": "/ˈstʌbən/",
+      "meaning": "adj. 固执的；顽固的",
+      "example": "He is too stubborn to admit he is wrong."
+    },
+    {
+      "word": "stumble",
+      "phonetic": "/ˈstʌmbl/",
+      "meaning": "v. 绊倒；结巴",
+      "example": "She stumbled over a loose stone."
+    },
+    {
+      "word": "stun",
+      "phonetic": "/stʌn/",
+      "meaning": "v. 使震惊；使昏迷",
+      "example": "The news stunned the whole country."
+    },
+    {
+      "word": "sturdy",
+      "phonetic": "/ˈstɜːdi/",
+      "meaning": "adj. 结实的；坚定的",
+      "example": "The table is made of sturdy oak."
+    },
+    {
+      "word": "subjective",
+      "phonetic": "/səbˈdʒektɪv/",
+      "meaning": "adj. 主观的",
+      "example": "Beauty is a subjective judgement."
+    },
+    {
+      "word": "subscribe",
+      "phonetic": "/səbˈskraɪb/",
+      "meaning": "v. 订阅；赞同",
+      "example": "I subscribe to two monthly magazines."
+    },
+    {
+      "word": "succession",
+      "phonetic": "/səkˈseʃn/",
+      "meaning": "n. 连续；继承",
+      "example": "The team won three games in succession."
+    },
+    {
+      "word": "successive",
+      "phonetic": "/səkˈsesɪv/",
+      "meaning": "adj. 连续的；接连的",
+      "example": "Sales rose for the third successive year."
+    },
+    {
+      "word": "suck",
+      "phonetic": "/sʌk/",
+      "meaning": "v. 吸；吮",
+      "example": "The baby sucked on a dummy."
+    },
+    {
+      "word": "sue",
+      "phonetic": "/suː/",
+      "meaning": "v. 起诉；控告",
+      "example": "She sued the company for damages."
+    },
+    {
+      "word": "suicide",
+      "phonetic": "/ˈsuːɪsaɪd/",
+      "meaning": "n. 自杀",
+      "example": "The charity offers support to prevent suicide."
+    },
+    {
+      "word": "suite",
+      "phonetic": "/swiːt/",
+      "meaning": "n. 套房；一组家具",
+      "example": "They booked a suite on the top floor."
+    },
+    {
+      "word": "summarise",
+      "phonetic": "/ˈsʌməraɪz/",
+      "meaning": "v. 总结；概括",
+      "example": "Summarise the main points in one paragraph."
+    },
+    {
+      "word": "summit",
+      "phonetic": "/ˈsʌmɪt/",
+      "meaning": "n. 顶峰；峰会",
+      "example": "World leaders met at the climate summit."
+    },
+    {
+      "word": "summon",
+      "phonetic": "/ˈsʌmən/",
+      "meaning": "v. 召唤；召集",
+      "example": "He was summoned to appear in court."
+    },
+    {
+      "word": "supervise",
+      "phonetic": "/ˈsuːpəvaɪz/",
+      "meaning": "v. 监督；指导",
+      "example": "A teacher supervises the exam."
+    },
+    {
+      "word": "supreme",
+      "phonetic": "/suːˈpriːm/",
+      "meaning": "adj. 最高的；至上的",
+      "example": "The Supreme Court will hear the case."
+    },
+    {
+      "word": "surgeon",
+      "phonetic": "/ˈsɜːdʒən/",
+      "meaning": "n. 外科医生",
+      "example": "The surgeon performed a three-hour operation."
+    },
+    {
+      "word": "surpass",
+      "phonetic": "/səˈpɑːs/",
+      "meaning": "v. 超过；胜过",
+      "example": "The results surpassed our expectations."
+    },
+    {
+      "word": "surrender",
+      "phonetic": "/səˈrendə/",
+      "meaning": "v. 投降；放弃 n. 投降",
+      "example": "The rebels surrendered after a week."
+    },
+    {
+      "word": "suspicion",
+      "phonetic": "/səˈspɪʃn/",
+      "meaning": "n. 怀疑；嫌疑",
+      "example": "His behaviour aroused suspicion."
+    },
+    {
+      "word": "swallow",
+      "phonetic": "/ˈswɒləʊ/",
+      "meaning": "v. 吞下；忍受 n. 燕子",
+      "example": "He swallowed the pill with water."
+    },
+    {
+      "word": "swap",
+      "phonetic": "/swɒp/",
+      "meaning": "v. 交换 n. 交换",
+      "example": "Let us swap seats."
+    },
+    {
+      "word": "sway",
+      "phonetic": "/sweɪ/",
+      "meaning": "v. 摇摆；影响",
+      "example": "The trees swayed in the wind."
+    },
+    {
+      "word": "swear",
+      "phonetic": "/sweə/",
+      "meaning": "v. 发誓；咒骂",
+      "example": "He swore to tell the truth."
+    },
+    {
+      "word": "sweat",
+      "phonetic": "/swet/",
+      "meaning": "n. 汗水 v. 出汗",
+      "example": "His shirt was soaked with sweat."
+    },
+    {
+      "word": "swell",
+      "phonetic": "/swel/",
+      "meaning": "v. 肿胀；增大",
+      "example": "Her ankle began to swell."
+    },
+    {
+      "word": "swift",
+      "phonetic": "/swɪft/",
+      "meaning": "adj. 迅速的；敏捷的",
+      "example": "The government took swift action."
+    },
+    {
+      "word": "symmetry",
+      "phonetic": "/ˈsɪmətri/",
+      "meaning": "n. 对称；匀称",
+      "example": "The building has perfect symmetry."
+    },
+    {
+      "word": "synthetic",
+      "phonetic": "/sɪnˈθetɪk/",
+      "meaning": "adj. 合成的；人造的",
+      "example": "The jacket is made of synthetic fibres."
+    },
+    {
+      "word": "systematic",
+      "phonetic": "/ˌsɪstəˈmætɪk/",
+      "meaning": "adj. 系统的；有条理的",
+      "example": "They carried out a systematic review."
+    },
+    {
+      "word": "tackle",
+      "phonetic": "/ˈtækl/",
+      "meaning": "v. 处理；对付 n. 用具",
+      "example": "We must tackle the problem of waste."
+    },
+    {
+      "word": "tap",
+      "phonetic": "/tæp/",
+      "meaning": "v. 轻敲 n. 水龙头",
+      "example": "She tapped on the window."
+    },
+    {
+      "word": "tease",
+      "phonetic": "/tiːz/",
+      "meaning": "v. 取笑；戏弄",
+      "example": "The boys teased him about his accent."
+    },
+    {
+      "word": "tempt",
+      "phonetic": "/tempt/",
+      "meaning": "v. 引诱；吸引",
+      "example": "I was tempted to stay in bed."
+    },
+    {
+      "word": "tenant",
+      "phonetic": "/ˈtenənt/",
+      "meaning": "n. 房客；承租人",
+      "example": "The tenant pays rent monthly."
+    },
+    {
+      "word": "tender",
+      "phonetic": "/ˈtendə/",
+      "meaning": "adj. 温柔的；嫩的",
+      "example": "The meat was tender and juicy."
+    },
+    {
+      "word": "terminal",
+      "phonetic": "/ˈtɜːmɪnl/",
+      "meaning": "n. 终点站；终端 adj. 末期的",
+      "example": "The bus stops at the terminal."
+    },
+    {
+      "word": "terrain",
+      "phonetic": "/təˈreɪn/",
+      "meaning": "n. 地形；地势",
+      "example": "The terrain is rough and mountainous."
+    },
+    {
+      "word": "texture",
+      "phonetic": "/ˈtekstʃə/",
+      "meaning": "n. 质地；纹理",
+      "example": "The fabric has a soft texture."
+    },
+    {
+      "word": "theft",
+      "phonetic": "/θeft/",
+      "meaning": "n. 偷窃；盗窃罪",
+      "example": "He was arrested for theft."
+    },
+    {
+      "word": "therapy",
+      "phonetic": "/ˈθerəpi/",
+      "meaning": "n. 治疗；疗法",
+      "example": "She is receiving therapy for her back."
+    },
+    {
+      "word": "thereby",
+      "phonetic": "/ˌðeəˈbaɪ/",
+      "meaning": "adv. 因此；从而",
+      "example": "He signed the form, thereby accepting the terms."
+    },
+    {
+      "word": "thermal",
+      "phonetic": "/ˈθɜːml/",
+      "meaning": "adj. 热的；保暖的",
+      "example": "The building uses thermal insulation."
+    },
+    {
+      "word": "thrill",
+      "phonetic": "/θrɪl/",
+      "meaning": "n. 激动 v. 使激动",
+      "example": "He felt a thrill of excitement."
+    },
+    {
+      "word": "thrust",
+      "phonetic": "/θrʌst/",
+      "meaning": "v. 猛推 n. 推力；要点",
+      "example": "He thrust the letter into her hand."
+    },
+    {
+      "word": "tidy",
+      "phonetic": "/ˈtaɪdi/",
+      "meaning": "adj. 整洁的 v. 整理",
+      "example": "Please keep your desk tidy."
+    },
+    {
+      "word": "tighten",
+      "phonetic": "/ˈtaɪtn/",
+      "meaning": "v. 使变紧；加强",
+      "example": "The government tightened the rules."
+    },
+    {
+      "word": "timid",
+      "phonetic": "/ˈtɪmɪd/",
+      "meaning": "adj. 胆怯的；羞怯的",
+      "example": "She gave a timid smile."
+    },
+    {
+      "word": "tissue",
+      "phonetic": "/ˈtɪʃuː/",
+      "meaning": "n. 纸巾；组织",
+      "example": "The virus attacks lung tissue."
+    },
+    {
+      "word": "toll",
+      "phonetic": "/təʊl/",
+      "meaning": "n. 通行费；伤亡人数",
+      "example": "Drivers pay a toll to cross the bridge."
+    },
+    {
+      "word": "tone",
+      "phonetic": "/təʊn/",
+      "meaning": "n. 语气；音调；色调",
+      "example": "Her tone was polite but firm."
+    },
+    {
+      "word": "torture",
+      "phonetic": "/ˈtɔːtʃə/",
+      "meaning": "n. 折磨 v. 折磨",
+      "example": "The waiting was sheer torture."
+    },
+    {
+      "word": "trademark",
+      "phonetic": "/ˈtreɪdmɑːk/",
+      "meaning": "n. 商标；特征",
+      "example": "The logo is a registered trademark."
+    },
+    {
+      "word": "trait",
+      "phonetic": "/treɪt/",
+      "meaning": "n. 特征；特点",
+      "example": "Patience is a valuable trait in a teacher."
+    },
+    {
+      "word": "trample",
+      "phonetic": "/ˈtræmpl/",
+      "meaning": "v. 踩踏；践踏",
+      "example": "The crops were trampled by cattle."
+    },
+    {
+      "word": "transcript",
+      "phonetic": "/ˈtrænskrɪpt/",
+      "meaning": "n. 抄本；成绩单",
+      "example": "You can request a transcript from the university."
+    },
+    {
+      "word": "transit",
+      "phonetic": "/ˈtrænzɪt/",
+      "meaning": "n. 运输；过境",
+      "example": "The goods were damaged in transit."
+    },
+    {
+      "word": "transmit",
+      "phonetic": "/trænzˈmɪt/",
+      "meaning": "v. 传播；传送",
+      "example": "The disease is transmitted by mosquitoes."
+    },
+    {
+      "word": "transplant",
+      "phonetic": "/trænsˈplɑːnt/",
+      "meaning": "v. 移植 n. 移植",
+      "example": "He received a heart transplant."
+    },
+    {
+      "word": "trauma",
+      "phonetic": "/ˈtrɔːmə/",
+      "meaning": "n. 创伤；精神创伤",
+      "example": "She never recovered from the trauma."
+    },
+    {
+      "word": "tread",
+      "phonetic": "/tred/",
+      "meaning": "v. 踩；踏",
+      "example": "Do not tread on the wet floor."
+    },
+    {
+      "word": "treaty",
+      "phonetic": "/ˈtriːti/",
+      "meaning": "n. 条约；协定",
+      "example": "The two countries signed a peace treaty."
+    },
+    {
+      "word": "tremendous",
+      "phonetic": "/trəˈmendəs/",
+      "meaning": "adj. 巨大的；极好的",
+      "example": "She made a tremendous effort."
+    },
+    {
+      "word": "trench",
+      "phonetic": "/trentʃ/",
+      "meaning": "n. 沟；战壕",
+      "example": "Workers dug a trench for the pipes."
+    },
+    {
+      "word": "tribute",
+      "phonetic": "/ˈtrɪbjuːt/",
+      "meaning": "n. 致敬；贡品",
+      "example": "The concert was a tribute to her work."
+    },
+    {
+      "word": "triumph",
+      "phonetic": "/ˈtraɪʌmf/",
+      "meaning": "n. 胜利 v. 获胜",
+      "example": "The concert was a triumph."
+    },
+    {
+      "word": "trumpet",
+      "phonetic": "/ˈtrʌmpɪt/",
+      "meaning": "n. 小号 v. 吹嘘",
+      "example": "He plays the trumpet in a jazz band."
+    },
+    {
+      "word": "trunk",
+      "phonetic": "/trʌŋk/",
+      "meaning": "n. 树干；后备箱；躯干",
+      "example": "Put the suitcase in the trunk."
+    },
+    {
+      "word": "trustee",
+      "phonetic": "/trʌˈstiː/",
+      "meaning": "n. 受托人；理事",
+      "example": "The trustees meet twice a year."
+    },
+    {
+      "word": "tuition",
+      "phonetic": "/tjuˈɪʃn/",
+      "meaning": "n. 学费；教学",
+      "example": "Tuition fees rose again this year."
+    },
+    {
+      "word": "tumble",
+      "phonetic": "/ˈtʌmbl/",
+      "meaning": "v. 跌倒；暴跌",
+      "example": "Share prices tumbled overnight."
+    },
+    {
+      "word": "tune",
+      "phonetic": "/tjuːn/",
+      "meaning": "n. 曲调 v. 调音；调整",
+      "example": "He tuned the guitar before playing."
+    },
+    {
+      "word": "turbine",
+      "phonetic": "/ˈtɜːbaɪn/",
+      "meaning": "n. 涡轮机",
+      "example": "Wind turbines generate clean electricity."
+    },
+    {
+      "word": "turbulent",
+      "phonetic": "/ˈtɜːbjələnt/",
+      "meaning": "adj. 混乱的；湍流的",
+      "example": "The country went through turbulent times."
+    },
+    {
+      "word": "twilight",
+      "phonetic": "/ˈtwaɪlaɪt/",
+      "meaning": "n. 黄昏；暮色",
+      "example": "The garden looked beautiful at twilight."
+    },
+    {
+      "word": "twist",
+      "phonetic": "/twɪst/",
+      "meaning": "v. 扭曲；转动 n. 转折",
+      "example": "She twisted her ankle on the step."
+    }
+  ]
+}

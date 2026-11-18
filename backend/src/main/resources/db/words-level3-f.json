@@ -1,0 +1,942 @@
+{
+  "level": 3,
+  "note": "低频难词 A-D 段：学术书面语、抽象名词、正式动词",
+  "words": [
+    {
+      "word": "abbreviate",
+      "phonetic": "/əˈbriːvieɪt/",
+      "meaning": "v. 缩写；缩短",
+      "example": "\"Kilometre\" is usually abbreviated to \"km\"."
+    },
+    {
+      "word": "abdicate",
+      "phonetic": "/ˈæbdɪkeɪt/",
+      "meaning": "v. 退位；放弃",
+      "example": "The king abdicated in favour of his son."
+    },
+    {
+      "word": "abhor",
+      "phonetic": "/əbˈhɔː/",
+      "meaning": "v. 憎恶；厌恶",
+      "example": "She abhors any form of cruelty."
+    },
+    {
+      "word": "abject",
+      "phonetic": "/ˈæbdʒekt/",
+      "meaning": "adj. 悲惨的；卑贱的",
+      "example": "They live in abject poverty."
+    },
+    {
+      "word": "abound",
+      "phonetic": "/əˈbaʊnd/",
+      "meaning": "v. 大量存在；充满",
+      "example": "Rumours abound about the merger."
+    },
+    {
+      "word": "abrasive",
+      "phonetic": "/əˈbreɪsɪv/",
+      "meaning": "adj. 磨损的；粗鲁的",
+      "example": "His abrasive manner upset the team."
+    },
+    {
+      "word": "accede",
+      "phonetic": "/əkˈsiːd/",
+      "meaning": "v. 同意；就任",
+      "example": "The government refused to accede to the demand."
+    },
+    {
+      "word": "acquaint",
+      "phonetic": "/əˈkweɪnt/",
+      "meaning": "v. 使熟悉；告知",
+      "example": "Please acquaint yourself with the rules."
+    },
+    {
+      "word": "acumen",
+      "phonetic": "/ˈækjəmən/",
+      "meaning": "n. 敏锐；精明",
+      "example": "Her business acumen is widely respected."
+    },
+    {
+      "word": "adamant",
+      "phonetic": "/ˈædəmənt/",
+      "meaning": "adj. 坚决的；固执的",
+      "example": "She was adamant that she had done nothing wrong."
+    },
+    {
+      "word": "addict",
+      "phonetic": "/ˈædɪkt/",
+      "meaning": "n. 上瘾者 v. 使上瘾",
+      "example": "He became addicted to painkillers."
+    },
+    {
+      "word": "adjourn",
+      "phonetic": "/əˈdʒɜːn/",
+      "meaning": "v. 休会；延期",
+      "example": "The meeting was adjourned until Monday."
+    },
+    {
+      "word": "adjudicate",
+      "phonetic": "/əˈdʒuːdɪkeɪt/",
+      "meaning": "v. 裁决；评判",
+      "example": "A panel will adjudicate the competition."
+    },
+    {
+      "word": "admonish",
+      "phonetic": "/ədˈmɒnɪʃ/",
+      "meaning": "v. 告诫；责备",
+      "example": "The judge admonished him for interrupting."
+    },
+    {
+      "word": "adorn",
+      "phonetic": "/əˈdɔːn/",
+      "meaning": "v. 装饰；佩戴",
+      "example": "The walls were adorned with paintings."
+    },
+    {
+      "word": "advent",
+      "phonetic": "/ˈædvent/",
+      "meaning": "n. 到来；出现",
+      "example": "The advent of the internet changed everything."
+    },
+    {
+      "word": "adversary",
+      "phonetic": "/ˈædvəsəri/",
+      "meaning": "n. 对手；敌手",
+      "example": "He respected his political adversary."
+    },
+    {
+      "word": "adversity",
+      "phonetic": "/ədˈvɜːsəti/",
+      "meaning": "n. 逆境；不幸",
+      "example": "She showed courage in adversity."
+    },
+    {
+      "word": "agile",
+      "phonetic": "/ˈædʒaɪl/",
+      "meaning": "adj. 敏捷的；灵活的",
+      "example": "She is agile enough to climb the wall."
+    },
+    {
+      "word": "alienate",
+      "phonetic": "/ˈeɪliəneɪt/",
+      "meaning": "v. 使疏远；使孤立",
+      "example": "His remarks alienated his supporters."
+    },
+    {
+      "word": "align",
+      "phonetic": "/əˈlaɪn/",
+      "meaning": "v. 对齐；使一致",
+      "example": "Align the text to the left margin."
+    },
+    {
+      "word": "allude",
+      "phonetic": "/əˈluːd/",
+      "meaning": "v. 暗指；提及",
+      "example": "She alluded to the problem without naming it."
+    },
+    {
+      "word": "aloof",
+      "phonetic": "/əˈluːf/",
+      "meaning": "adj. 冷淡的；疏远的",
+      "example": "He remained aloof from the argument."
+    },
+    {
+      "word": "altruism",
+      "phonetic": "/ˈæltruɪzəm/",
+      "meaning": "n. 利他主义",
+      "example": "Her act was one of pure altruism."
+    },
+    {
+      "word": "amalgamate",
+      "phonetic": "/əˈmælɡəmeɪt/",
+      "meaning": "v. 合并；混合",
+      "example": "The two societies amalgamated in 1990."
+    },
+    {
+      "word": "amateur",
+      "phonetic": "/ˈæmətə/",
+      "meaning": "n. 业余爱好者 adj. 业余的",
+      "example": "He plays cricket as an amateur."
+    },
+    {
+      "word": "ambivalent",
+      "phonetic": "/æmˈbɪvələnt/",
+      "meaning": "adj. 矛盾的；模棱两可的",
+      "example": "She felt ambivalent about the move."
+    },
+    {
+      "word": "ameliorate",
+      "phonetic": "/əˈmiːliəreɪt/",
+      "meaning": "v. 改善；改良",
+      "example": "The reforms ameliorated living conditions."
+    },
+    {
+      "word": "amiable",
+      "phonetic": "/ˈeɪmiəbl/",
+      "meaning": "adj. 和蔼的；亲切的",
+      "example": "He is an amiable host."
+    },
+    {
+      "word": "animate",
+      "phonetic": "/ˈænɪmeɪt/",
+      "meaning": "v. 使有生气 adj. 有生命的",
+      "example": "Her presence animated the whole room."
+    },
+    {
+      "word": "annex",
+      "phonetic": "/əˈneks/",
+      "meaning": "v. 兼并 n. 附属建筑",
+      "example": "The territory was annexed by force."
+    },
+    {
+      "word": "annihilate",
+      "phonetic": "/əˈnaɪəleɪt/",
+      "meaning": "v. 消灭；彻底击败",
+      "example": "The team was annihilated in the final."
+    },
+    {
+      "word": "antagonise",
+      "phonetic": "/ænˈtæɡənaɪz/",
+      "meaning": "v. 使敌对；激怒",
+      "example": "He antagonised his colleagues with constant criticism."
+    },
+    {
+      "word": "anthology",
+      "phonetic": "/ænˈθɒlədʒi/",
+      "meaning": "n. 选集；文集",
+      "example": "The poem appears in a modern anthology."
+    },
+    {
+      "word": "anthropology",
+      "phonetic": "/ˌænθrəˈpɒlədʒi/",
+      "meaning": "n. 人类学",
+      "example": "She studied anthropology at university."
+    },
+    {
+      "word": "antibiotic",
+      "phonetic": "/ˌæntibaɪˈɒtɪk/",
+      "meaning": "n. 抗生素 adj. 抗菌的",
+      "example": "Antibiotics do not cure viral infections."
+    },
+    {
+      "word": "apathy",
+      "phonetic": "/ˈæpəθi/",
+      "meaning": "n. 冷漠；无动于衷",
+      "example": "Voter apathy is a growing problem."
+    },
+    {
+      "word": "apex",
+      "phonetic": "/ˈeɪpeks/",
+      "meaning": "n. 顶点；最高点",
+      "example": "He reached the apex of his career."
+    },
+    {
+      "word": "appall",
+      "phonetic": "/əˈpɔːl/",
+      "meaning": "v. 使震惊；使惊骇",
+      "example": "We were appalled by the conditions."
+    },
+    {
+      "word": "append",
+      "phonetic": "/əˈpend/",
+      "meaning": "v. 附加；增补",
+      "example": "Please append your signature at the end."
+    },
+    {
+      "word": "appraise",
+      "phonetic": "/əˈpreɪz/",
+      "meaning": "v. 评估；估价",
+      "example": "The property was appraised at two million."
+    },
+    {
+      "word": "apprehensive",
+      "phonetic": "/ˌæprɪˈhensɪv/",
+      "meaning": "adj. 忧虑的；担心的",
+      "example": "She was apprehensive about the interview."
+    },
+    {
+      "word": "arbitrate",
+      "phonetic": "/ˈɑːbɪtreɪt/",
+      "meaning": "v. 仲裁；公断",
+      "example": "An independent panel arbitrated the dispute."
+    },
+    {
+      "word": "ardent",
+      "phonetic": "/ˈɑːdnt/",
+      "meaning": "adj. 热心的；热情的",
+      "example": "He is an ardent supporter of the arts."
+    },
+    {
+      "word": "arid",
+      "phonetic": "/ˈærɪd/",
+      "meaning": "adj. 干旱的；贫瘠的",
+      "example": "Farming is difficult in arid regions."
+    },
+    {
+      "word": "ascetic",
+      "phonetic": "/əˈsetɪk/",
+      "meaning": "adj. 苦行的 n. 苦行者",
+      "example": "He led an ascetic life in the mountains."
+    },
+    {
+      "word": "assail",
+      "phonetic": "/əˈseɪl/",
+      "meaning": "v. 攻击；抨击",
+      "example": "The proposal was assailed by critics."
+    },
+    {
+      "word": "assiduous",
+      "phonetic": "/əˈsɪdjuəs/",
+      "meaning": "adj. 勤勉的；刻苦的",
+      "example": "She was assiduous in her research."
+    },
+    {
+      "word": "assort",
+      "phonetic": "/əˈsɔːt/",
+      "meaning": "v. 分类；搭配",
+      "example": "The shop stocks assorted sweets."
+    },
+    {
+      "word": "astute",
+      "phonetic": "/əˈstjuːt/",
+      "meaning": "adj. 精明的；敏锐的",
+      "example": "An astute observer would notice the change."
+    },
+    {
+      "word": "atrocity",
+      "phonetic": "/əˈtrɒsəti/",
+      "meaning": "n. 暴行；残暴",
+      "example": "The report documented wartime atrocities."
+    },
+    {
+      "word": "attenuate",
+      "phonetic": "/əˈtenjueɪt/",
+      "meaning": "v. 减弱；使变细",
+      "example": "The signal was attenuated by distance."
+    },
+    {
+      "word": "attest",
+      "phonetic": "/əˈtest/",
+      "meaning": "v. 证明；表明",
+      "example": "Her success attests to her ability."
+    },
+    {
+      "word": "audacious",
+      "phonetic": "/ɔːˈdeɪʃəs/",
+      "meaning": "adj. 大胆的；无礼的",
+      "example": "It was an audacious plan."
+    },
+    {
+      "word": "augment",
+      "phonetic": "/ɔːɡˈment/",
+      "meaning": "v. 增加；扩充",
+      "example": "He augmented his income by teaching."
+    },
+    {
+      "word": "auspicious",
+      "phonetic": "/ɔːˈspɪʃəs/",
+      "meaning": "adj. 吉利的；有前途的",
+      "example": "The new year began on an auspicious note."
+    },
+    {
+      "word": "austere",
+      "phonetic": "/ɒˈstɪə/",
+      "meaning": "adj. 朴素的；严峻的",
+      "example": "The room was clean but austere."
+    },
+    {
+      "word": "authorise",
+      "phonetic": "/ˈɔːθəraɪz/",
+      "meaning": "v. 授权；批准",
+      "example": "Only the manager can authorise a refund."
+    },
+    {
+      "word": "autonomous",
+      "phonetic": "/ɔːˈtɒnəməs/",
+      "meaning": "adj. 自治的；自主的",
+      "example": "The region is largely autonomous."
+    },
+    {
+      "word": "avarice",
+      "phonetic": "/ˈævərɪs/",
+      "meaning": "n. 贪婪；贪财",
+      "example": "The story is a warning against avarice."
+    },
+    {
+      "word": "avenge",
+      "phonetic": "/əˈvendʒ/",
+      "meaning": "v. 为…报仇",
+      "example": "He vowed to avenge his brother's death."
+    },
+    {
+      "word": "baffle",
+      "phonetic": "/ˈbæfl/",
+      "meaning": "v. 使困惑 n. 隔板",
+      "example": "The cause of the fire baffled investigators."
+    },
+    {
+      "word": "banish",
+      "phonetic": "/ˈbænɪʃ/",
+      "meaning": "v. 放逐；消除",
+      "example": "He was banished from the kingdom."
+    },
+    {
+      "word": "belittle",
+      "phonetic": "/bɪˈlɪtl/",
+      "meaning": "v. 轻视；贬低",
+      "example": "Do not belittle her achievements."
+    },
+    {
+      "word": "bereave",
+      "phonetic": "/bɪˈriːv/",
+      "meaning": "v. 使丧失亲人",
+      "example": "She was bereaved at an early age."
+    },
+    {
+      "word": "besiege",
+      "phonetic": "/bɪˈsiːdʒ/",
+      "meaning": "v. 围攻；困扰",
+      "example": "The office was besieged by reporters."
+    },
+    {
+      "word": "bestow",
+      "phonetic": "/bɪˈstəʊ/",
+      "meaning": "v. 授予；给予",
+      "example": "The honour was bestowed on her by the queen."
+    },
+    {
+      "word": "blatant",
+      "phonetic": "/ˈbleɪtnt/",
+      "meaning": "adj. 明显的；公然的",
+      "example": "It was a blatant breach of the rules."
+    },
+    {
+      "word": "blunder",
+      "phonetic": "/ˈblʌndə/",
+      "meaning": "n. 大错 v. 犯大错",
+      "example": "The report was a serious blunder."
+    },
+    {
+      "word": "bolster",
+      "phonetic": "/ˈbəʊlstə/",
+      "meaning": "v. 支持；增强",
+      "example": "The figures bolster our argument."
+    },
+    {
+      "word": "brevity",
+      "phonetic": "/ˈbrevəti/",
+      "meaning": "n. 简短；简洁",
+      "example": "The brevity of the report surprised us."
+    },
+    {
+      "word": "cajole",
+      "phonetic": "/kəˈdʒəʊl/",
+      "meaning": "v. 哄骗；劝诱",
+      "example": "She cajoled him into joining the trip."
+    },
+    {
+      "word": "callous",
+      "phonetic": "/ˈkæləs/",
+      "meaning": "adj. 冷酷无情的",
+      "example": "His callous remark upset everyone."
+    },
+    {
+      "word": "capitulate",
+      "phonetic": "/kəˈpɪtʃuleɪt/",
+      "meaning": "v. 投降；屈服",
+      "example": "The company refused to capitulate to the demands."
+    },
+    {
+      "word": "capricious",
+      "phonetic": "/kəˈprɪʃəs/",
+      "meaning": "adj. 反复无常的",
+      "example": "The weather here is capricious."
+    },
+    {
+      "word": "castigate",
+      "phonetic": "/ˈkæstɪɡeɪt/",
+      "meaning": "v. 严厉批评；斥责",
+      "example": "The report castigated the management."
+    },
+    {
+      "word": "catalyst",
+      "phonetic": "/ˈkætəlɪst/",
+      "meaning": "n. 催化剂；促进因素",
+      "example": "The report acted as a catalyst for reform."
+    },
+    {
+      "word": "caustic",
+      "phonetic": "/ˈkɔːstɪk/",
+      "meaning": "adj. 腐蚀性的；尖刻的",
+      "example": "She is known for her caustic wit."
+    },
+    {
+      "word": "censure",
+      "phonetic": "/ˈsenʃə/",
+      "meaning": "v. 谴责 n. 谴责",
+      "example": "The committee censured the minister."
+    },
+    {
+      "word": "cessation",
+      "phonetic": "/seˈseɪʃn/",
+      "meaning": "n. 停止；中止",
+      "example": "The cessation of fighting was welcomed."
+    },
+    {
+      "word": "chastise",
+      "phonetic": "/tʃæˈstaɪz/",
+      "meaning": "v. 严厉责罚；斥责",
+      "example": "He was chastised for his carelessness."
+    },
+    {
+      "word": "circumvent",
+      "phonetic": "/ˌsɜːkəmˈvent/",
+      "meaning": "v. 规避；绕过",
+      "example": "They tried to circumvent the rules."
+    },
+    {
+      "word": "clandestine",
+      "phonetic": "/klænˈdestɪn/",
+      "meaning": "adj. 秘密的；暗中的",
+      "example": "The group held clandestine meetings."
+    },
+    {
+      "word": "coerce",
+      "phonetic": "/kəʊˈɜːs/",
+      "meaning": "v. 强迫；胁迫",
+      "example": "He claimed he had been coerced into signing."
+    },
+    {
+      "word": "cogent",
+      "phonetic": "/ˈkəʊdʒənt/",
+      "meaning": "adj. 有说服力的",
+      "example": "She presented a cogent argument."
+    },
+    {
+      "word": "cognitive",
+      "phonetic": "/ˈkɒɡnətɪv/",
+      "meaning": "adj. 认知的；认识的",
+      "example": "The study examines cognitive development."
+    },
+    {
+      "word": "cohesion",
+      "phonetic": "/kəʊˈhiːʒn/",
+      "meaning": "n. 凝聚力；结合",
+      "example": "Sport builds social cohesion."
+    },
+    {
+      "word": "collateral",
+      "phonetic": "/kəˈlætərəl/",
+      "meaning": "n. 抵押品 adj. 附带的",
+      "example": "He used his house as collateral."
+    },
+    {
+      "word": "collide",
+      "phonetic": "/kəˈlaɪd/",
+      "meaning": "v. 碰撞；冲突",
+      "example": "Two buses collided in the fog."
+    },
+    {
+      "word": "commensurate",
+      "phonetic": "/kəˈmenʃərət/",
+      "meaning": "adj. 相称的；相当的",
+      "example": "Salary is commensurate with experience."
+    },
+    {
+      "word": "commiserate",
+      "phonetic": "/kəˈmɪzəreɪt/",
+      "meaning": "v. 同情；慰问",
+      "example": "We commiserated with her over the loss."
+    },
+    {
+      "word": "commodious",
+      "phonetic": "/kəˈməʊdiəs/",
+      "meaning": "adj. 宽敞的；便利的",
+      "example": "The flat is commodious and bright."
+    },
+    {
+      "word": "complicity",
+      "phonetic": "/kəmˈplɪsəti/",
+      "meaning": "n. 同谋；共犯",
+      "example": "He was accused of complicity in the fraud."
+    },
+    {
+      "word": "conciliatory",
+      "phonetic": "/kənˈsɪliətəri/",
+      "meaning": "adj. 安抚的；调和的",
+      "example": "She made a conciliatory gesture."
+    },
+    {
+      "word": "condone",
+      "phonetic": "/kənˈdəʊn/",
+      "meaning": "v. 宽恕；容忍",
+      "example": "The school does not condone bullying."
+    },
+    {
+      "word": "confide",
+      "phonetic": "/kənˈfaɪd/",
+      "meaning": "v. 倾诉；信赖",
+      "example": "She confided in her closest friend."
+    },
+    {
+      "word": "congenial",
+      "phonetic": "/kənˈdʒiːniəl/",
+      "meaning": "adj. 意气相投的；宜人的",
+      "example": "He found the work congenial."
+    },
+    {
+      "word": "conjecture",
+      "phonetic": "/kənˈdʒektʃə/",
+      "meaning": "n. 推测 v. 推测",
+      "example": "The cause remains a matter of conjecture."
+    },
+    {
+      "word": "conjure",
+      "phonetic": "/ˈkʌndʒə/",
+      "meaning": "v. 变戏法；唤起",
+      "example": "The smell conjured up memories of home."
+    },
+    {
+      "word": "connoisseur",
+      "phonetic": "/ˌkɒnəˈsɜː/",
+      "meaning": "n. 鉴赏家；行家",
+      "example": "He is a connoisseur of fine wine."
+    },
+    {
+      "word": "connotation",
+      "phonetic": "/ˌkɒnəˈteɪʃn/",
+      "meaning": "n. 含义；隐含意义",
+      "example": "The word has negative connotations."
+    },
+    {
+      "word": "console",
+      "phonetic": "/kənˈsəʊl/",
+      "meaning": "v. 安慰 n. 控制台",
+      "example": "She consoled him after the defeat."
+    },
+    {
+      "word": "conspire",
+      "phonetic": "/kənˈspaɪə/",
+      "meaning": "v. 密谋；共同导致",
+      "example": "They conspired to overthrow the government."
+    },
+    {
+      "word": "constituent",
+      "phonetic": "/kənˈstɪtjuənt/",
+      "meaning": "n. 成分；选民 adj. 构成的",
+      "example": "Water is a constituent of all living things."
+    },
+    {
+      "word": "consultation",
+      "phonetic": "/ˌkɒnslˈteɪʃn/",
+      "meaning": "n. 咨询；磋商",
+      "example": "The plan was drawn up after public consultation."
+    },
+    {
+      "word": "contentious",
+      "phonetic": "/kənˈtenʃəs/",
+      "meaning": "adj. 有争议的",
+      "example": "It is a highly contentious issue."
+    },
+    {
+      "word": "contiguous",
+      "phonetic": "/kənˈtɪɡjuəs/",
+      "meaning": "adj. 相邻的；连绵的",
+      "example": "The two plots are contiguous."
+    },
+    {
+      "word": "contingent",
+      "phonetic": "/kənˈtɪndʒənt/",
+      "meaning": "adj. 视情况而定的 n. 分遣队",
+      "example": "Payment is contingent on delivery."
+    },
+    {
+      "word": "contrive",
+      "phonetic": "/kənˈtraɪv/",
+      "meaning": "v. 设法做到；策划",
+      "example": "She contrived to finish on time."
+    },
+    {
+      "word": "conversely",
+      "phonetic": "/ˈkɒnvɜːsli/",
+      "meaning": "adv. 相反地",
+      "example": "Conversely, some studies found no link."
+    },
+    {
+      "word": "convivial",
+      "phonetic": "/kənˈvɪviəl/",
+      "meaning": "adj. 欢乐的；友好的",
+      "example": "It was a convivial evening."
+    },
+    {
+      "word": "convoluted",
+      "phonetic": "/ˈkɒnvəluːtɪd/",
+      "meaning": "adj. 复杂难懂的；盘绕的",
+      "example": "The plot is unnecessarily convoluted."
+    },
+    {
+      "word": "corroborate",
+      "phonetic": "/kəˈrɒbəreɪt/",
+      "meaning": "v. 证实；支持",
+      "example": "Two witnesses corroborated his account."
+    },
+    {
+      "word": "covert",
+      "phonetic": "/ˈkʌvət/",
+      "meaning": "adj. 隐蔽的；秘密的",
+      "example": "The agency ran covert operations."
+    },
+    {
+      "word": "covet",
+      "phonetic": "/ˈkʌvət/",
+      "meaning": "v. 贪求；垂涎",
+      "example": "He coveted his neighbour's success."
+    },
+    {
+      "word": "credulous",
+      "phonetic": "/ˈkredjələs/",
+      "meaning": "adj. 轻信的；易受骗的",
+      "example": "She was too credulous to doubt him."
+    },
+    {
+      "word": "culminate",
+      "phonetic": "/ˈkʌlmɪneɪt/",
+      "meaning": "v. 达到顶点；告终",
+      "example": "The festival culminated in a firework display."
+    },
+    {
+      "word": "culpable",
+      "phonetic": "/ˈkʌlpəbl/",
+      "meaning": "adj. 有罪的；应受责备的",
+      "example": "The company was culpable for the accident."
+    },
+    {
+      "word": "cumbersome",
+      "phonetic": "/ˈkʌmbəsəm/",
+      "meaning": "adj. 笨重的；繁琐的",
+      "example": "The procedure is slow and cumbersome."
+    },
+    {
+      "word": "cursory",
+      "phonetic": "/ˈkɜːsəri/",
+      "meaning": "adj. 粗略的；草率的",
+      "example": "He gave the report a cursory glance."
+    },
+    {
+      "word": "daunt",
+      "phonetic": "/dɔːnt/",
+      "meaning": "v. 使胆怯；使畏缩",
+      "example": "The task did not daunt her."
+    },
+    {
+      "word": "dearth",
+      "phonetic": "/dɜːθ/",
+      "meaning": "n. 缺乏；不足",
+      "example": "There is a dearth of skilled workers."
+    },
+    {
+      "word": "debilitate",
+      "phonetic": "/dɪˈbɪlɪteɪt/",
+      "meaning": "v. 使虚弱；削弱",
+      "example": "The illness left him debilitated."
+    },
+    {
+      "word": "decorum",
+      "phonetic": "/dɪˈkɔːrəm/",
+      "meaning": "n. 礼仪；得体",
+      "example": "The guests behaved with decorum."
+    },
+    {
+      "word": "deferential",
+      "phonetic": "/ˌdefəˈrenʃl/",
+      "meaning": "adj. 恭敬的；顺从的",
+      "example": "He was deferential towards his seniors."
+    },
+    {
+      "word": "deleterious",
+      "phonetic": "/ˌdeləˈtɪəriəs/",
+      "meaning": "adj. 有害的",
+      "example": "Smoking has deleterious effects on health."
+    },
+    {
+      "word": "deliberation",
+      "phonetic": "/dɪˌlɪbəˈreɪʃn/",
+      "meaning": "n. 审议；深思熟虑",
+      "example": "After long deliberation the jury agreed."
+    },
+    {
+      "word": "delineate",
+      "phonetic": "/dɪˈlɪnieɪt/",
+      "meaning": "v. 描绘；界定",
+      "example": "The report delineates the main problems."
+    },
+    {
+      "word": "demeanour",
+      "phonetic": "/dɪˈmiːnə/",
+      "meaning": "n. 举止；风度",
+      "example": "Her demeanour was calm and professional."
+    },
+    {
+      "word": "demise",
+      "phonetic": "/dɪˈmaɪz/",
+      "meaning": "n. 终止；死亡",
+      "example": "The demise of the industry was swift."
+    },
+    {
+      "word": "deplore",
+      "phonetic": "/dɪˈplɔː/",
+      "meaning": "v. 谴责；哀叹",
+      "example": "We deplore the use of violence."
+    },
+    {
+      "word": "deport",
+      "phonetic": "/dɪˈpɔːt/",
+      "meaning": "v. 驱逐出境",
+      "example": "He was deported for overstaying his visa."
+    },
+    {
+      "word": "depreciate",
+      "phonetic": "/dɪˈpriːʃieɪt/",
+      "meaning": "v. 贬值；贬低",
+      "example": "The car depreciates quickly in value."
+    },
+    {
+      "word": "deride",
+      "phonetic": "/dɪˈraɪd/",
+      "meaning": "v. 嘲笑；讥讽",
+      "example": "His ideas were derided at first."
+    },
+    {
+      "word": "derogatory",
+      "phonetic": "/dɪˈrɒɡətri/",
+      "meaning": "adj. 贬损的；侮辱的",
+      "example": "He made derogatory remarks about her work."
+    },
+    {
+      "word": "despicable",
+      "phonetic": "/dɪˈspɪkəbl/",
+      "meaning": "adj. 可鄙的；卑劣的",
+      "example": "It was a despicable act of cruelty."
+    },
+    {
+      "word": "destitute",
+      "phonetic": "/ˈdestɪtjuːt/",
+      "meaning": "adj. 赤贫的；缺乏的",
+      "example": "The family was left destitute."
+    },
+    {
+      "word": "devious",
+      "phonetic": "/ˈdiːviəs/",
+      "meaning": "adj. 不正直的；迂回的",
+      "example": "He took a devious route to avoid traffic."
+    },
+    {
+      "word": "dexterity",
+      "phonetic": "/dekˈsterəti/",
+      "meaning": "n. 灵巧；敏捷",
+      "example": "The work requires manual dexterity."
+    },
+    {
+      "word": "didactic",
+      "phonetic": "/daɪˈdæktɪk/",
+      "meaning": "adj. 说教的；教导的",
+      "example": "The novel is rather didactic."
+    },
+    {
+      "word": "diffident",
+      "phonetic": "/ˈdɪfɪdənt/",
+      "meaning": "adj. 缺乏自信的；羞怯的",
+      "example": "He was diffident about his own abilities."
+    },
+    {
+      "word": "digress",
+      "phonetic": "/daɪˈɡres/",
+      "meaning": "v. 离题；跑题",
+      "example": "Let me digress for a moment."
+    },
+    {
+      "word": "dilapidated",
+      "phonetic": "/dɪˈlæpɪdeɪtɪd/",
+      "meaning": "adj. 破旧的；失修的",
+      "example": "They bought a dilapidated cottage."
+    },
+    {
+      "word": "diminutive",
+      "phonetic": "/dɪˈmɪnjətɪv/",
+      "meaning": "adj. 小巧的；微小的",
+      "example": "She is a diminutive but determined woman."
+    },
+    {
+      "word": "disillusion",
+      "phonetic": "/ˌdɪsɪˈluːʒn/",
+      "meaning": "v. 使醒悟；使失望",
+      "example": "He was disillusioned by the results."
+    },
+    {
+      "word": "dismal",
+      "phonetic": "/ˈdɪzməl/",
+      "meaning": "adj. 阴沉的；凄凉的",
+      "example": "The team's performance was dismal."
+    },
+    {
+      "word": "dispassionate",
+      "phonetic": "/dɪsˈpæʃənət/",
+      "meaning": "adj. 冷静的；不带偏见的",
+      "example": "We need a dispassionate analysis."
+    },
+    {
+      "word": "dispel",
+      "phonetic": "/dɪˈspel/",
+      "meaning": "v. 驱散；消除",
+      "example": "The statement dispelled the rumours."
+    },
+    {
+      "word": "disruptive",
+      "phonetic": "/dɪsˈrʌptɪv/",
+      "meaning": "adj. 破坏性的；引起混乱的",
+      "example": "Disruptive pupils were sent out."
+    },
+    {
+      "word": "dissipate",
+      "phonetic": "/ˈdɪsɪpeɪt/",
+      "meaning": "v. 消散；挥霍",
+      "example": "The fog dissipated by noon."
+    },
+    {
+      "word": "distinctive",
+      "phonetic": "/dɪˈstɪŋktɪv/",
+      "meaning": "adj. 独特的；有特色的",
+      "example": "The bird has a distinctive song."
+    },
+    {
+      "word": "diverge",
+      "phonetic": "/daɪˈvɜːdʒ/",
+      "meaning": "v. 分叉；分歧",
+      "example": "Our views diverge on this issue."
+    },
+    {
+      "word": "divulge",
+      "phonetic": "/daɪˈvʌldʒ/",
+      "meaning": "v. 泄露；透露",
+      "example": "He refused to divulge his sources."
+    },
+    {
+      "word": "docile",
+      "phonetic": "/ˈdəʊsaɪl/",
+      "meaning": "adj. 温顺的；听话的",
+      "example": "The horse is docile and easy to ride."
+    },
+    {
+      "word": "dogmatic",
+      "phonetic": "/dɒɡˈmætɪk/",
+      "meaning": "adj. 教条的；武断的",
+      "example": "He is dogmatic about his beliefs."
+    },
+    {
+      "word": "dwindle",
+      "phonetic": "/ˈdwɪndl/",
+      "meaning": "v. 减少；缩小",
+      "example": "Membership has dwindled in recent years."
+    }
+  ]
+}

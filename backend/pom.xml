@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <!-- 继承 SpringBoot 官方父工程，统一管理依赖版本，避免手动指定版本号导致冲突 -->
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>3.2.5</version>
+        <relativePath/>
+    </parent>
+
+    <groupId>com.cet46</groupId>
+    <artifactId>word-platform-backend</artifactId>
+    <version>1.0.0</version>
+    <name>cet46-word-platform-backend</name>
+    <description>四六级单词闯关背诵平台 - 后端</description>
+
+    <properties>
+        <!-- 锁定编译目标为 JDK17：即使本机 JAVA_HOME 指向 JDK25，产物也保持 17 兼容 -->
+        <java.version>17</java.version>
+        <maven.compiler.release>17</maven.compiler.release>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <mybatis-starter.version>3.0.3</mybatis-starter.version>
+        <sqlite-jdbc.version>3.45.3.0</sqlite-jdbc.version>
+    </properties>
+
+    <dependencies>
+        <!-- Web 能力：内嵌 Tomcat + SpringMVC + Jackson(JSON 序列化) -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <!-- 参数校验：@NotBlank / @Size 等注解，配合全局异常处理返回友好提示 -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-validation</artifactId>
+        </dependency>
+
+        <!-- MyBatis：手写 SQL 的持久层框架，3.0.x 才兼容 SpringBoot 3 -->
+        <dependency>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+            <version>${mybatis-starter.version}</version>
+        </dependency>
+
+        <!-- SQLite JDBC 驱动：纯 Java 实现，无需安装数据库服务，数据库就是一个 .db 文件 -->
+        <dependency>
+            <groupId>org.xerial</groupId>
+            <artifactId>sqlite-jdbc</artifactId>
+            <version>${sqlite-jdbc.version}</version>
+        </dependency>
+
+        <!-- Lombok：编译期生成 getter/setter，减少样板代码（仅编译期，不进入运行时依赖） -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <optional>true</optional>
+        </dependency>
+
+        <!-- 单元测试（MVP 阶段未编写用例，保留标准骨架） -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <!-- 固定产物名，Electron 打包脚本按此文件名拷贝 jar -->
+        <finalName>cet46-word-platform</finalName>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <configuration>
+                    <mainClass>com.cet46.WordPlatformApplication</mainClass>
+                    <excludes>
+                        <!-- Lombok 只在编译期需要，排除出可执行 jar 减小体积 -->
+                        <exclude>
+                            <groupId>org.projectlombok</groupId>
+                            <artifactId>lombok</artifactId>
+                        </exclude>
+                    </excludes>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>

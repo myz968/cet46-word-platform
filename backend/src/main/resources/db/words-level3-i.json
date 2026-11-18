@@ -1,0 +1,1224 @@
+{
+  "level": 3,
+  "note": "低频难词 I 批：科技、医学、生物、环境、工程主题",
+  "words": [
+    {
+      "word": "absorption",
+      "phonetic": "/əbˈzɔːpʃn/",
+      "meaning": "n. 吸收；专注",
+      "example": "The absorption of water by the soil is slow."
+    },
+    {
+      "word": "acceleration",
+      "phonetic": "/əkˌseləˈreɪʃn/",
+      "meaning": "n. 加速；加速度",
+      "example": "The car has good acceleration."
+    },
+    {
+      "word": "acidity",
+      "phonetic": "/əˈsɪdəti/",
+      "meaning": "n. 酸度；酸性",
+      "example": "The acidity of the soil affects growth."
+    },
+    {
+      "word": "aerobic",
+      "phonetic": "/eəˈrəʊbɪk/",
+      "meaning": "adj. 有氧的；需氧的",
+      "example": "Aerobic exercise strengthens the heart."
+    },
+    {
+      "word": "aerosol",
+      "phonetic": "/ˈeərəsɒl/",
+      "meaning": "n. 气雾剂；悬浮颗粒",
+      "example": "Aerosols damage the ozone layer."
+    },
+    {
+      "word": "algae",
+      "phonetic": "/ˈældʒiː/",
+      "meaning": "n. 藻类；水藻",
+      "example": "Green algae covered the pond."
+    },
+    {
+      "word": "allergy",
+      "phonetic": "/ˈælədʒi/",
+      "meaning": "n. 过敏；反感",
+      "example": "She has a severe nut allergy."
+    },
+    {
+      "word": "alternating",
+      "phonetic": "/ˈɔːltəneɪtɪŋ/",
+      "meaning": "adj. 交替的；交流的",
+      "example": "The motor runs on alternating current."
+    },
+    {
+      "word": "ammonia",
+      "phonetic": "/əˈməʊniə/",
+      "meaning": "n. 氨；氨水",
+      "example": "Ammonia is used in cleaning products."
+    },
+    {
+      "word": "anaemia",
+      "phonetic": "/əˈniːmiə/",
+      "meaning": "n. 贫血；贫血症",
+      "example": "Iron deficiency can cause anaemia."
+    },
+    {
+      "word": "anaesthetic",
+      "phonetic": "/ˌænəsˈθetɪk/",
+      "meaning": "n. 麻醉剂 adj. 麻醉的",
+      "example": "The operation was performed under anaesthetic."
+    },
+    {
+      "word": "analogue",
+      "phonetic": "/ˈænəlɒɡ/",
+      "meaning": "n. 类似物 adj. 模拟的",
+      "example": "Analogue signals are being phased out."
+    },
+    {
+      "word": "anatomy",
+      "phonetic": "/əˈnætəmi/",
+      "meaning": "n. 解剖学；结构",
+      "example": "She studied anatomy at medical school."
+    },
+    {
+      "word": "antenna",
+      "phonetic": "/ænˈtenə/",
+      "meaning": "n. 天线；触角",
+      "example": "The antenna picks up weak signals."
+    },
+    {
+      "word": "antibody",
+      "phonetic": "/ˈæntibɒdi/",
+      "meaning": "n. 抗体",
+      "example": "The body produces antibodies against the virus."
+    },
+    {
+      "word": "aquarium",
+      "phonetic": "/əˈkweəriəm/",
+      "meaning": "n. 水族馆；鱼缸",
+      "example": "The children loved the aquarium."
+    },
+    {
+      "word": "aquatic",
+      "phonetic": "/əˈkwætɪk/",
+      "meaning": "adj. 水生的；水中的",
+      "example": "The lake supports many aquatic plants."
+    },
+    {
+      "word": "artery",
+      "phonetic": "/ˈɑːtəri/",
+      "meaning": "n. 动脉；干线",
+      "example": "The condition narrows the arteries."
+    },
+    {
+      "word": "arthritis",
+      "phonetic": "/ɑːˈθraɪtɪs/",
+      "meaning": "n. 关节炎",
+      "example": "He suffers from arthritis in his knees."
+    },
+    {
+      "word": "asthma",
+      "phonetic": "/ˈæsmə/",
+      "meaning": "n. 哮喘；气喘",
+      "example": "Dust can trigger an asthma attack."
+    },
+    {
+      "word": "biochemistry",
+      "phonetic": "/ˌbaɪəʊˈkemɪstri/",
+      "meaning": "n. 生物化学",
+      "example": "She lectures in biochemistry."
+    },
+    {
+      "word": "biological",
+      "phonetic": "/ˌbaɪəˈlɒdʒɪkl/",
+      "meaning": "adj. 生物的；生物学的",
+      "example": "The park protects biological diversity."
+    },
+    {
+      "word": "biopsy",
+      "phonetic": "/ˈbaɪɒpsi/",
+      "meaning": "n. 活检；活组织检查",
+      "example": "A biopsy confirmed the diagnosis."
+    },
+    {
+      "word": "blade",
+      "phonetic": "/bleɪd/",
+      "meaning": "n. 刀片；叶片",
+      "example": "The blade of the knife needs sharpening."
+    },
+    {
+      "word": "boiler",
+      "phonetic": "/ˈbɔɪlə/",
+      "meaning": "n. 锅炉；热水器",
+      "example": "The boiler broke down in winter."
+    },
+    {
+      "word": "cable",
+      "phonetic": "/ˈkeɪbl/",
+      "meaning": "n. 电缆；缆绳 v. 发电报",
+      "example": "The cable connects the two buildings."
+    },
+    {
+      "word": "cancer",
+      "phonetic": "/ˈkænsə/",
+      "meaning": "n. 癌症；毒瘤",
+      "example": "Smoking increases the risk of cancer."
+    },
+    {
+      "word": "capacitor",
+      "phonetic": "/kəˈpæsɪtə/",
+      "meaning": "n. 电容器",
+      "example": "The capacitor stores electrical charge."
+    },
+    {
+      "word": "carcass",
+      "phonetic": "/ˈkɑːkəs/",
+      "meaning": "n. 尸体；残骸",
+      "example": "The carcass of a whale lay on the beach."
+    },
+    {
+      "word": "cardiac",
+      "phonetic": "/ˈkɑːdiæk/",
+      "meaning": "adj. 心脏的",
+      "example": "He was admitted with cardiac problems."
+    },
+    {
+      "word": "cartilage",
+      "phonetic": "/ˈkɑːtɪlɪdʒ/",
+      "meaning": "n. 软骨",
+      "example": "The knee joint contains cartilage."
+    },
+    {
+      "word": "cellular",
+      "phonetic": "/ˈseljələ/",
+      "meaning": "adj. 细胞的；蜂窝状的",
+      "example": "Cellular damage accelerates ageing."
+    },
+    {
+      "word": "centigrade",
+      "phonetic": "/ˈsentɪɡreɪd/",
+      "meaning": "adj. 摄氏的 n. 摄氏度",
+      "example": "Water boils at 100 degrees centigrade."
+    },
+    {
+      "word": "chemotherapy",
+      "phonetic": "/ˌkiːməʊˈθerəpi/",
+      "meaning": "n. 化疗",
+      "example": "She underwent six months of chemotherapy."
+    },
+    {
+      "word": "chlorine",
+      "phonetic": "/ˈklɔːriːn/",
+      "meaning": "n. 氯；氯气",
+      "example": "Chlorine is added to swimming pools."
+    },
+    {
+      "word": "cholesterol",
+      "phonetic": "/kəˈlestərɒl/",
+      "meaning": "n. 胆固醇",
+      "example": "High cholesterol raises heart risk."
+    },
+    {
+      "word": "chromosome",
+      "phonetic": "/ˈkrəʊməsəʊm/",
+      "meaning": "n. 染色体",
+      "example": "Humans have 46 chromosomes."
+    },
+    {
+      "word": "clinical",
+      "phonetic": "/ˈklɪnɪkl/",
+      "meaning": "adj. 临床的；冷静客观的",
+      "example": "The drug is undergoing clinical trials."
+    },
+    {
+      "word": "combustion",
+      "phonetic": "/kəmˈbʌstʃən/",
+      "meaning": "n. 燃烧；燃烧过程",
+      "example": "Combustion produces carbon dioxide."
+    },
+    {
+      "word": "compression",
+      "phonetic": "/kəmˈpreʃn/",
+      "meaning": "n. 压缩；压紧",
+      "example": "The file uses data compression."
+    },
+    {
+      "word": "conductor",
+      "phonetic": "/kənˈdʌktə/",
+      "meaning": "n. 导体；指挥；售票员",
+      "example": "Copper is a good conductor of heat."
+    },
+    {
+      "word": "contagious",
+      "phonetic": "/kənˈteɪdʒəs/",
+      "meaning": "adj. 传染的；有感染力的",
+      "example": "The disease is highly contagious."
+    },
+    {
+      "word": "conversion",
+      "phonetic": "/kənˈvɜːʃn/",
+      "meaning": "n. 转换；改变",
+      "example": "The conversion to digital was costly."
+    },
+    {
+      "word": "conveyor",
+      "phonetic": "/kənˈveɪə/",
+      "meaning": "n. 传送带；运送者",
+      "example": "Boxes move along the conveyor belt."
+    },
+    {
+      "word": "corrosion",
+      "phonetic": "/kəˈrəʊʒn/",
+      "meaning": "n. 腐蚀；侵蚀",
+      "example": "Salt water speeds up corrosion."
+    },
+    {
+      "word": "crisp",
+      "phonetic": "/krɪsp/",
+      "meaning": "adj. 脆的；清新的",
+      "example": "The air was crisp and cold."
+    },
+    {
+      "word": "decompress",
+      "phonetic": "/ˌdiːkəmˈpres/",
+      "meaning": "v. 减压；解压",
+      "example": "Divers must decompress slowly."
+    },
+    {
+      "word": "dementia",
+      "phonetic": "/dɪˈmenʃə/",
+      "meaning": "n. 痴呆；失智症",
+      "example": "Dementia affects memory and reasoning."
+    },
+    {
+      "word": "density",
+      "phonetic": "/ˈdensəti/",
+      "meaning": "n. 密度；稠密",
+      "example": "The density of water is one gram per millilitre."
+    },
+    {
+      "word": "depletion",
+      "phonetic": "/dɪˈpliːʃn/",
+      "meaning": "n. 枯竭；耗尽",
+      "example": "The depletion of fish stocks is alarming."
+    },
+    {
+      "word": "detergent",
+      "phonetic": "/dɪˈtɜːdʒənt/",
+      "meaning": "n. 洗涤剂 adj. 清洁的",
+      "example": "Use a mild detergent for wool."
+    },
+    {
+      "word": "diabetes",
+      "phonetic": "/ˌdaɪəˈbiːtiːz/",
+      "meaning": "n. 糖尿病",
+      "example": "He was diagnosed with diabetes."
+    },
+    {
+      "word": "dialysis",
+      "phonetic": "/daɪˈæləsɪs/",
+      "meaning": "n. 透析",
+      "example": "She needs dialysis twice a week."
+    },
+    {
+      "word": "diesel",
+      "phonetic": "/ˈdiːzl/",
+      "meaning": "n. 柴油；柴油机",
+      "example": "The van runs on diesel."
+    },
+    {
+      "word": "disinfect",
+      "phonetic": "/ˌdɪsɪnˈfekt/",
+      "meaning": "v. 消毒；杀菌",
+      "example": "Disinfect the surface after cleaning."
+    },
+    {
+      "word": "disintegration",
+      "phonetic": "/dɪsˌɪntɪˈɡreɪʃn/",
+      "meaning": "n. 分解；崩溃",
+      "example": "The disintegration of the empire took years."
+    },
+    {
+      "word": "dissection",
+      "phonetic": "/daɪˈsekʃn/",
+      "meaning": "n. 解剖；剖析",
+      "example": "Students performed a dissection in class."
+    },
+    {
+      "word": "distill",
+      "phonetic": "/dɪˈstɪl/",
+      "meaning": "v. 蒸馏；提炼",
+      "example": "Whisky is distilled from grain."
+    },
+    {
+      "word": "drill",
+      "phonetic": "/drɪl/",
+      "meaning": "n. 钻头；演习 v. 钻孔",
+      "example": "Fire drills are held each term."
+    },
+    {
+      "word": "duct",
+      "phonetic": "/dʌkt/",
+      "meaning": "n. 管道；导管",
+      "example": "Air passes through the duct."
+    },
+    {
+      "word": "dwarf",
+      "phonetic": "/dwɔːf/",
+      "meaning": "n. 矮子；矮星 v. 使相形见绌",
+      "example": "The building dwarfs its neighbours."
+    },
+    {
+      "word": "electrode",
+      "phonetic": "/ɪˈlektrəʊd/",
+      "meaning": "n. 电极",
+      "example": "The electrode conducts the current."
+    },
+    {
+      "word": "electromagnetic",
+      "phonetic": "/ɪˌlektrəʊmæɡˈnetɪk/",
+      "meaning": "adj. 电磁的",
+      "example": "Visible light is electromagnetic radiation."
+    },
+    {
+      "word": "elevation",
+      "phonetic": "/ˌelɪˈveɪʃn/",
+      "meaning": "n. 海拔；提升",
+      "example": "The village lies at an elevation of 900 metres."
+    },
+    {
+      "word": "embryo",
+      "phonetic": "/ˈembriəʊ/",
+      "meaning": "n. 胚胎；雏形",
+      "example": "The plan is still in embryo."
+    },
+    {
+      "word": "emulsion",
+      "phonetic": "/ɪˈmʌlʃn/",
+      "meaning": "n. 乳剂；乳胶",
+      "example": "The paint is a water-based emulsion."
+    },
+    {
+      "word": "engineer",
+      "phonetic": "/ˌendʒɪˈnɪə/",
+      "meaning": "n. 工程师 v. 设计",
+      "example": "The bridge was engineered to withstand storms."
+    },
+    {
+      "word": "enzyme",
+      "phonetic": "/ˈenzaɪm/",
+      "meaning": "n. 酶",
+      "example": "Enzymes speed up digestion."
+    },
+    {
+      "word": "erosion",
+      "phonetic": "/ɪˈrəʊʒn/",
+      "meaning": "n. 侵蚀；削弱",
+      "example": "Coastal erosion threatens the village."
+    },
+    {
+      "word": "evolution",
+      "phonetic": "/ˌiːvəˈluːʃn/",
+      "meaning": "n. 进化；演变",
+      "example": "Evolution explains the diversity of species."
+    },
+    {
+      "word": "excrete",
+      "phonetic": "/ɪkˈskriːt/",
+      "meaning": "v. 排泄；分泌",
+      "example": "The kidneys excrete waste products."
+    },
+    {
+      "word": "expansion",
+      "phonetic": "/ɪkˈspænʃn/",
+      "meaning": "n. 扩张；膨胀",
+      "example": "Thermal expansion cracked the rail."
+    },
+    {
+      "word": "exposure",
+      "phonetic": "/ɪkˈspəʊʒə/",
+      "meaning": "n. 暴露；接触；曝光",
+      "example": "Prolonged exposure to sun damages skin."
+    },
+    {
+      "word": "extraction",
+      "phonetic": "/ɪkˈstrækʃn/",
+      "meaning": "n. 提取；开采",
+      "example": "Coal extraction has fallen sharply."
+    },
+    {
+      "word": "fabrication",
+      "phonetic": "/ˌfæbrɪˈkeɪʃn/",
+      "meaning": "n. 制造；捏造",
+      "example": "The story was a complete fabrication."
+    },
+    {
+      "word": "feedback",
+      "phonetic": "/ˈfiːdbæk/",
+      "meaning": "n. 反馈；回应",
+      "example": "The system uses feedback to adjust itself."
+    },
+    {
+      "word": "fermentation",
+      "phonetic": "/ˌfɜːmenˈteɪʃn/",
+      "meaning": "n. 发酵",
+      "example": "Beer is made by fermentation."
+    },
+    {
+      "word": "fission",
+      "phonetic": "/ˈfɪʃn/",
+      "meaning": "n. 裂变；分裂",
+      "example": "Nuclear fission releases enormous energy."
+    },
+    {
+      "word": "fluorescent",
+      "phonetic": "/ˌflʊəˈresnt/",
+      "meaning": "adj. 荧光的",
+      "example": "The office uses fluorescent lights."
+    },
+    {
+      "word": "fracture",
+      "phonetic": "/ˈfræktʃə/",
+      "meaning": "n. 骨折；断裂 v. 折断",
+      "example": "She suffered a fracture in her wrist."
+    },
+    {
+      "word": "frequency",
+      "phonetic": "/ˈfriːkwənsi/",
+      "meaning": "n. 频率；频繁",
+      "example": "The signal has a high frequency."
+    },
+    {
+      "word": "fungus",
+      "phonetic": "/ˈfʌŋɡəs/",
+      "meaning": "n. 真菌；霉菌",
+      "example": "The fungus grows on damp wood."
+    },
+    {
+      "word": "furnace",
+      "phonetic": "/ˈfɜːnɪs/",
+      "meaning": "n. 熔炉；火炉",
+      "example": "The furnace heats the whole building."
+    },
+    {
+      "word": "fusion",
+      "phonetic": "/ˈfjuːʒn/",
+      "meaning": "n. 聚变；融合",
+      "example": "Fusion power could be limitless."
+    },
+    {
+      "word": "gastric",
+      "phonetic": "/ˈɡæstrɪk/",
+      "meaning": "adj. 胃的",
+      "example": "He suffers from gastric ulcers."
+    },
+    {
+      "word": "generator",
+      "phonetic": "/ˈdʒenəreɪtə/",
+      "meaning": "n. 发电机；生成器",
+      "example": "A backup generator supplies power."
+    },
+    {
+      "word": "gland",
+      "phonetic": "/ɡlænd/",
+      "meaning": "n. 腺；腺体",
+      "example": "The thyroid gland regulates metabolism."
+    },
+    {
+      "word": "glucose",
+      "phonetic": "/ˈɡluːkəʊs/",
+      "meaning": "n. 葡萄糖",
+      "example": "Glucose provides energy for cells."
+    },
+    {
+      "word": "hormone",
+      "phonetic": "/ˈhɔːməʊn/",
+      "meaning": "n. 荷尔蒙；激素",
+      "example": "Growth hormone affects development."
+    },
+    {
+      "word": "hydraulic",
+      "phonetic": "/haɪˈdrɒlɪk/",
+      "meaning": "adj. 液压的；水力的",
+      "example": "The brakes are hydraulic."
+    },
+    {
+      "word": "immunity",
+      "phonetic": "/ɪˈmjuːnəti/",
+      "meaning": "n. 免疫力；豁免权",
+      "example": "Immunity develops after infection."
+    },
+    {
+      "word": "implant",
+      "phonetic": "/ɪmˈplɑːnt/",
+      "meaning": "v. 植入 n. 植入物",
+      "example": "The device was implanted under the skin."
+    },
+    {
+      "word": "incubator",
+      "phonetic": "/ˈɪŋkjubeɪtə/",
+      "meaning": "n. 孵化器；恒温箱",
+      "example": "The premature baby was in an incubator."
+    },
+    {
+      "word": "induction",
+      "phonetic": "/ɪnˈdʌkʃn/",
+      "meaning": "n. 感应；就职；归纳",
+      "example": "New staff attend an induction course."
+    },
+    {
+      "word": "infection",
+      "phonetic": "/ɪnˈfekʃn/",
+      "meaning": "n. 感染；传染病",
+      "example": "The wound became infected."
+    },
+    {
+      "word": "inflammation",
+      "phonetic": "/ˌɪnfləˈmeɪʃn/",
+      "meaning": "n. 炎症；发炎",
+      "example": "The drug reduces inflammation."
+    },
+    {
+      "word": "infrared",
+      "phonetic": "/ˌɪnfrəˈred/",
+      "meaning": "adj. 红外线的 n. 红外线",
+      "example": "The camera detects infrared light."
+    },
+    {
+      "word": "inhaler",
+      "phonetic": "/ɪnˈheɪlə/",
+      "meaning": "n. 吸入器",
+      "example": "She keeps an inhaler in her bag."
+    },
+    {
+      "word": "injection",
+      "phonetic": "/ɪnˈdʒekʃn/",
+      "meaning": "n. 注射；注入",
+      "example": "The nurse gave him an injection."
+    },
+    {
+      "word": "insecticide",
+      "phonetic": "/ɪnˈsektɪsaɪd/",
+      "meaning": "n. 杀虫剂",
+      "example": "Insecticides can harm bees."
+    },
+    {
+      "word": "insulation",
+      "phonetic": "/ˌɪnsjuˈleɪʃn/",
+      "meaning": "n. 绝缘；隔热",
+      "example": "Better insulation cuts heating bills."
+    },
+    {
+      "word": "insulin",
+      "phonetic": "/ˈɪnsjəlɪn/",
+      "meaning": "n. 胰岛素",
+      "example": "Diabetics may need insulin injections."
+    },
+    {
+      "word": "intake",
+      "phonetic": "/ˈɪnteɪk/",
+      "meaning": "n. 摄入量；进气口",
+      "example": "Reduce your salt intake."
+    },
+    {
+      "word": "intensity",
+      "phonetic": "/ɪnˈtensəti/",
+      "meaning": "n. 强度；强烈",
+      "example": "The storm increased in intensity."
+    },
+    {
+      "word": "ion",
+      "phonetic": "/ˈaɪən/",
+      "meaning": "n. 离子",
+      "example": "Salt separates into ions in water."
+    },
+    {
+      "word": "isotope",
+      "phonetic": "/ˈaɪsətəʊp/",
+      "meaning": "n. 同位素",
+      "example": "Carbon isotopes reveal the age of bones."
+    },
+    {
+      "word": "laboratory",
+      "phonetic": "/ləˈbɒrətri/",
+      "meaning": "n. 实验室",
+      "example": "The samples were tested in a laboratory."
+    },
+    {
+      "word": "lesion",
+      "phonetic": "/ˈliːʒn/",
+      "meaning": "n. 损伤；病变",
+      "example": "A small lesion was found on the lung."
+    },
+    {
+      "word": "ligament",
+      "phonetic": "/ˈlɪɡəmənt/",
+      "meaning": "n. 韧带",
+      "example": "He tore a ligament in his knee."
+    },
+    {
+      "word": "malaria",
+      "phonetic": "/məˈleəriə/",
+      "meaning": "n. 疟疾",
+      "example": "Malaria is spread by mosquitoes."
+    },
+    {
+      "word": "malignant",
+      "phonetic": "/məˈlɪɡnənt/",
+      "meaning": "adj. 恶性的；恶毒的",
+      "example": "The tumour was found to be malignant."
+    },
+    {
+      "word": "marrow",
+      "phonetic": "/ˈmærəʊ/",
+      "meaning": "n. 骨髓；精华",
+      "example": "A bone marrow transplant saved her life."
+    },
+    {
+      "word": "mercury",
+      "phonetic": "/ˈmɜːkjəri/",
+      "meaning": "n. 水银；汞",
+      "example": "Old thermometers contain mercury."
+    },
+    {
+      "word": "metabolism",
+      "phonetic": "/məˈtæbəlɪzəm/",
+      "meaning": "n. 新陈代谢",
+      "example": "Exercise speeds up metabolism."
+    },
+    {
+      "word": "microbe",
+      "phonetic": "/ˈmaɪkrəʊb/",
+      "meaning": "n. 微生物；细菌",
+      "example": "Some microbes cause disease."
+    },
+    {
+      "word": "microscope",
+      "phonetic": "/ˈmaɪkrəskəʊp/",
+      "meaning": "n. 显微镜",
+      "example": "Cells are visible under a microscope."
+    },
+    {
+      "word": "migraine",
+      "phonetic": "/ˈmaɪɡreɪn/",
+      "meaning": "n. 偏头痛",
+      "example": "Bright light triggers her migraines."
+    },
+    {
+      "word": "mutation",
+      "phonetic": "/mjuːˈteɪʃn/",
+      "meaning": "n. 突变；变异",
+      "example": "The mutation made the virus more contagious."
+    },
+    {
+      "word": "nitrogen",
+      "phonetic": "/ˈnaɪtrədʒən/",
+      "meaning": "n. 氮",
+      "example": "Nitrogen makes up most of the atmosphere."
+    },
+    {
+      "word": "nocturnal",
+      "phonetic": "/nɒkˈtɜːnl/",
+      "meaning": "adj. 夜间活动的；夜间的",
+      "example": "Owls are nocturnal hunters."
+    },
+    {
+      "word": "nozzle",
+      "phonetic": "/ˈnɒzl/",
+      "meaning": "n. 喷嘴；管口",
+      "example": "Clean the nozzle after use."
+    },
+    {
+      "word": "nutrient",
+      "phonetic": "/ˈnjuːtriənt/",
+      "meaning": "n. 营养物 adj. 营养的",
+      "example": "Soil nutrients are depleted by farming."
+    },
+    {
+      "word": "organism",
+      "phonetic": "/ˈɔːɡənɪzəm/",
+      "meaning": "n. 生物；有机体",
+      "example": "Single-celled organisms live in water."
+    },
+    {
+      "word": "ozone",
+      "phonetic": "/ˈəʊzəʊn/",
+      "meaning": "n. 臭氧",
+      "example": "The ozone layer absorbs ultraviolet light."
+    },
+    {
+      "word": "pancreas",
+      "phonetic": "/ˈpæŋkriəs/",
+      "meaning": "n. 胰腺",
+      "example": "The pancreas produces insulin."
+    },
+    {
+      "word": "parasite",
+      "phonetic": "/ˈpærəsaɪt/",
+      "meaning": "n. 寄生虫；寄生生物",
+      "example": "The parasite lives in the host's gut."
+    },
+    {
+      "word": "pathogen",
+      "phonetic": "/ˈpæθədʒən/",
+      "meaning": "n. 病原体",
+      "example": "The pathogen spreads through droplets."
+    },
+    {
+      "word": "pedal",
+      "phonetic": "/ˈpedl/",
+      "meaning": "n. 踏板 v. 踩踏板",
+      "example": "Press the brake pedal firmly."
+    },
+    {
+      "word": "pesticide",
+      "phonetic": "/ˈpestɪsaɪd/",
+      "meaning": "n. 杀虫剂；农药",
+      "example": "Pesticides can contaminate groundwater."
+    },
+    {
+      "word": "petrol",
+      "phonetic": "/ˈpetrəl/",
+      "meaning": "n. 汽油",
+      "example": "Petrol prices have risen again."
+    },
+    {
+      "word": "photosynthesis",
+      "phonetic": "/ˌfəʊtəʊˈsɪnθəsɪs/",
+      "meaning": "n. 光合作用",
+      "example": "Plants use photosynthesis to make food."
+    },
+    {
+      "word": "physiology",
+      "phonetic": "/ˌfɪziˈɒlədʒi/",
+      "meaning": "n. 生理学；生理机能",
+      "example": "She studied human physiology."
+    },
+    {
+      "word": "pigment",
+      "phonetic": "/ˈpɪɡmənt/",
+      "meaning": "n. 色素；颜料",
+      "example": "The pigment gives the flower its colour."
+    },
+    {
+      "word": "pipeline",
+      "phonetic": "/ˈpaɪplaɪn/",
+      "meaning": "n. 管道；渠道",
+      "example": "A gas pipeline crosses the country."
+    },
+    {
+      "word": "piston",
+      "phonetic": "/ˈpɪstən/",
+      "meaning": "n. 活塞",
+      "example": "The piston moves inside the cylinder."
+    },
+    {
+      "word": "plasma",
+      "phonetic": "/ˈplæzmə/",
+      "meaning": "n. 血浆；等离子体",
+      "example": "Plasma carries nutrients in the blood."
+    },
+    {
+      "word": "plumber",
+      "phonetic": "/ˈplʌmə/",
+      "meaning": "n. 管道工；水暖工",
+      "example": "The plumber fixed the leak."
+    },
+    {
+      "word": "pneumonia",
+      "phonetic": "/njuːˈməʊniə/",
+      "meaning": "n. 肺炎",
+      "example": "He was hospitalised with pneumonia."
+    },
+    {
+      "word": "polymer",
+      "phonetic": "/ˈpɒlɪmə/",
+      "meaning": "n. 聚合物；高分子",
+      "example": "Plastics are synthetic polymers."
+    },
+    {
+      "word": "precipitation",
+      "phonetic": "/prɪˌsɪpɪˈteɪʃn/",
+      "meaning": "n. 降水；沉淀",
+      "example": "Annual precipitation averages 800 millimetres."
+    },
+    {
+      "word": "predator",
+      "phonetic": "/ˈpredətə/",
+      "meaning": "n. 捕食者；掠夺者",
+      "example": "Wolves are natural predators of deer."
+    },
+    {
+      "word": "pump",
+      "phonetic": "/pʌmp/",
+      "meaning": "n. 泵 v. 抽水；注射",
+      "example": "The pump failed during the flood."
+    },
+    {
+      "word": "reactor",
+      "phonetic": "/riˈæktə/",
+      "meaning": "n. 反应堆；反应器",
+      "example": "The reactor was shut down for repairs."
+    },
+    {
+      "word": "reagent",
+      "phonetic": "/riˈeɪdʒənt/",
+      "meaning": "n. 试剂",
+      "example": "Add the reagent drop by drop."
+    },
+    {
+      "word": "receptor",
+      "phonetic": "/rɪˈseptə/",
+      "meaning": "n. 受体；感受器",
+      "example": "The drug blocks the receptor."
+    },
+    {
+      "word": "refrigerator",
+      "phonetic": "/rɪˈfrɪdʒəreɪtə/",
+      "meaning": "n. 冰箱；冷藏库",
+      "example": "Store the vaccine in a refrigerator."
+    },
+    {
+      "word": "reservoir",
+      "phonetic": "/ˈrezəvwɑː/",
+      "meaning": "n. 水库；储藏",
+      "example": "The reservoir supplies the city."
+    },
+    {
+      "word": "respiration",
+      "phonetic": "/ˌrespəˈreɪʃn/",
+      "meaning": "n. 呼吸；呼吸作用",
+      "example": "Respiration releases energy from food."
+    },
+    {
+      "word": "retina",
+      "phonetic": "/ˈretɪnə/",
+      "meaning": "n. 视网膜",
+      "example": "The image forms on the retina."
+    },
+    {
+      "word": "rheumatism",
+      "phonetic": "/ˈruːmətɪzəm/",
+      "meaning": "n. 风湿病",
+      "example": "Her rheumatism worsens in cold weather."
+    },
+    {
+      "word": "rotor",
+      "phonetic": "/ˈrəʊtə/",
+      "meaning": "n. 转子；旋翼",
+      "example": "The helicopter's rotor spun rapidly."
+    },
+    {
+      "word": "sanitary",
+      "phonetic": "/ˈsænətri/",
+      "meaning": "adj. 卫生的；清洁的",
+      "example": "The camp lacked sanitary facilities."
+    },
+    {
+      "word": "saturation",
+      "phonetic": "/ˌsætʃəˈreɪʃn/",
+      "meaning": "n. 饱和；浸透",
+      "example": "Oxygen saturation is measured by a monitor."
+    },
+    {
+      "word": "secretion",
+      "phonetic": "/sɪˈkriːʃn/",
+      "meaning": "n. 分泌；分泌物",
+      "example": "The gland controls hormone secretion."
+    },
+    {
+      "word": "sediment",
+      "phonetic": "/ˈsedɪmənt/",
+      "meaning": "n. 沉积物；沉淀",
+      "example": "Sediment settled at the bottom of the tank."
+    },
+    {
+      "word": "sensor",
+      "phonetic": "/ˈsensə/",
+      "meaning": "n. 传感器；感应器",
+      "example": "The sensor detects movement."
+    },
+    {
+      "word": "sewage",
+      "phonetic": "/ˈsuːɪdʒ/",
+      "meaning": "n. 污水；下水道污物",
+      "example": "Untreated sewage flowed into the river."
+    },
+    {
+      "word": "shaft",
+      "phonetic": "/ʃɑːft/",
+      "meaning": "n. 轴；竖井；光束",
+      "example": "The lift shaft is being repaired."
+    },
+    {
+      "word": "solar",
+      "phonetic": "/ˈsəʊlə/",
+      "meaning": "adj. 太阳的；太阳能的",
+      "example": "Solar panels cover the roof."
+    },
+    {
+      "word": "spinal",
+      "phonetic": "/ˈspaɪnl/",
+      "meaning": "adj. 脊柱的",
+      "example": "He suffered a spinal injury."
+    },
+    {
+      "word": "sterile",
+      "phonetic": "/ˈsteraɪl/",
+      "meaning": "adj. 无菌的；不育的",
+      "example": "Use a sterile needle."
+    },
+    {
+      "word": "sterilise",
+      "phonetic": "/ˈsterəlaɪz/",
+      "meaning": "v. 消毒；使绝育",
+      "example": "The instruments were sterilised."
+    },
+    {
+      "word": "stimulus",
+      "phonetic": "/ˈstɪmjələs/",
+      "meaning": "n. 刺激；刺激物",
+      "example": "Light is a stimulus for plants."
+    },
+    {
+      "word": "sulphur",
+      "phonetic": "/ˈsʌlfə/",
+      "meaning": "n. 硫；硫磺",
+      "example": "Burning coal releases sulphur dioxide."
+    },
+    {
+      "word": "surgery",
+      "phonetic": "/ˈsɜːdʒəri/",
+      "meaning": "n. 手术；诊所",
+      "example": "She needs surgery on her knee."
+    },
+    {
+      "word": "surgical",
+      "phonetic": "/ˈsɜːdʒɪkl/",
+      "meaning": "adj. 外科的；手术的",
+      "example": "The surgical team worked through the night."
+    },
+    {
+      "word": "tablet",
+      "phonetic": "/ˈtæblət/",
+      "meaning": "n. 药片；平板电脑",
+      "example": "Take two tablets after meals."
+    },
+    {
+      "word": "telescope",
+      "phonetic": "/ˈtelɪskəʊp/",
+      "meaning": "n. 望远镜",
+      "example": "The telescope revealed a new comet."
+    },
+    {
+      "word": "tendon",
+      "phonetic": "/ˈtendən/",
+      "meaning": "n. 腱；肌腱",
+      "example": "He damaged a tendon in his leg."
+    },
+    {
+      "word": "thorax",
+      "phonetic": "/ˈθɔːræks/",
+      "meaning": "n. 胸腔；胸部",
+      "example": "The insect's thorax bears the wings."
+    },
+    {
+      "word": "thrombosis",
+      "phonetic": "/θrɒmˈbəʊsɪs/",
+      "meaning": "n. 血栓形成",
+      "example": "Long flights increase the risk of thrombosis."
+    },
+    {
+      "word": "toxic",
+      "phonetic": "/ˈtɒksɪk/",
+      "meaning": "adj. 有毒的；中毒的",
+      "example": "The waste contains toxic chemicals."
+    },
+    {
+      "word": "toxin",
+      "phonetic": "/ˈtɒksɪn/",
+      "meaning": "n. 毒素",
+      "example": "The bacteria release a harmful toxin."
+    },
+    {
+      "word": "traction",
+      "phonetic": "/ˈtrækʃn/",
+      "meaning": "n. 牵引；牵引力",
+      "example": "The tyres have poor traction on ice."
+    },
+    {
+      "word": "transfusion",
+      "phonetic": "/trænsˈfjuːʒn/",
+      "meaning": "n. 输血；输液",
+      "example": "He needed a blood transfusion."
+    },
+    {
+      "word": "transmission",
+      "phonetic": "/trænzˈmɪʃn/",
+      "meaning": "n. 传播；传输",
+      "example": "The virus spreads by airborne transmission."
+    },
+    {
+      "word": "tumour",
+      "phonetic": "/ˈtjuːmə/",
+      "meaning": "n. 肿瘤；肿块",
+      "example": "The tumour was removed surgically."
+    },
+    {
+      "word": "ultrasonic",
+      "phonetic": "/ˌʌltrəˈsɒnɪk/",
+      "meaning": "adj. 超声的",
+      "example": "Ultrasonic cleaning removes dirt from jewellery."
+    },
+    {
+      "word": "ultraviolet",
+      "phonetic": "/ˌʌltrəˈvaɪələt/",
+      "meaning": "adj. 紫外线的",
+      "example": "Ultraviolet light damages the eyes."
+    },
+    {
+      "word": "vaccine",
+      "phonetic": "/ˈvæksiːn/",
+      "meaning": "n. 疫苗",
+      "example": "The vaccine was tested on volunteers."
+    },
+    {
+      "word": "vacuum",
+      "phonetic": "/ˈvækjuːm/",
+      "meaning": "n. 真空；真空吸尘器 v. 用吸尘器打扫",
+      "example": "Sound cannot travel in a vacuum."
+    },
+    {
+      "word": "valve",
+      "phonetic": "/vælv/",
+      "meaning": "n. 阀门；瓣膜",
+      "example": "The valve controls the flow of gas."
+    },
+    {
+      "word": "vapour",
+      "phonetic": "/ˈveɪpə/",
+      "meaning": "n. 蒸汽；水汽",
+      "example": "Water vapour rises into the air."
+    },
+    {
+      "word": "vegetation",
+      "phonetic": "/ˌvedʒəˈteɪʃn/",
+      "meaning": "n. 植被；植物",
+      "example": "Dense vegetation covered the hillside."
+    },
+    {
+      "word": "vein",
+      "phonetic": "/veɪn/",
+      "meaning": "n. 静脉；纹理",
+      "example": "Blood returns to the heart through veins."
+    },
+    {
+      "word": "ventilation",
+      "phonetic": "/ˌventɪˈleɪʃn/",
+      "meaning": "n. 通风；通风设备",
+      "example": "Poor ventilation spreads infection."
+    },
+    {
+      "word": "vertebrate",
+      "phonetic": "/ˈvɜːtɪbrət/",
+      "meaning": "n. 脊椎动物 adj. 有脊椎的",
+      "example": "Fish are the oldest vertebrates."
+    },
+    {
+      "word": "vessel",
+      "phonetic": "/ˈvesl/",
+      "meaning": "n. 血管；容器；船",
+      "example": "The blood vessel was blocked."
+    },
+    {
+      "word": "vibrate",
+      "phonetic": "/vaɪˈbreɪt/",
+      "meaning": "v. 振动；颤动",
+      "example": "The phone vibrates when a message arrives."
+    },
+    {
+      "word": "viral",
+      "phonetic": "/ˈvaɪrəl/",
+      "meaning": "adj. 病毒的；病毒性的",
+      "example": "The video went viral within hours."
+    },
+    {
+      "word": "virus",
+      "phonetic": "/ˈvaɪrəs/",
+      "meaning": "n. 病毒",
+      "example": "The virus mutates rapidly."
+    },
+    {
+      "word": "vitamin",
+      "phonetic": "/ˈvɪtəmɪn/",
+      "meaning": "n. 维生素",
+      "example": "Oranges are rich in vitamin C."
+    },
+    {
+      "word": "voltage",
+      "phonetic": "/ˈvəʊltɪdʒ/",
+      "meaning": "n. 电压；伏特数",
+      "example": "Check the voltage before plugging it in."
+    },
+    {
+      "word": "wastewater",
+      "phonetic": "/ˈweɪstwɔːtə/",
+      "meaning": "n. 废水；污水",
+      "example": "The plant treats industrial wastewater."
+    },
+    {
+      "word": "waterproof",
+      "phonetic": "/ˈwɔːtəpruːf/",
+      "meaning": "adj. 防水的 v. 使防水",
+      "example": "Wear a waterproof jacket."
+    },
+    {
+      "word": "watt",
+      "phonetic": "/wɒt/",
+      "meaning": "n. 瓦特",
+      "example": "The bulb uses forty watts."
+    },
+    {
+      "word": "wavelength",
+      "phonetic": "/ˈweɪvleŋθ/",
+      "meaning": "n. 波长",
+      "example": "Blue light has a short wavelength."
+    },
+    {
+      "word": "weld",
+      "phonetic": "/weld/",
+      "meaning": "v. 焊接 n. 焊缝",
+      "example": "The plates were welded together."
+    },
+    {
+      "word": "wildlife",
+      "phonetic": "/ˈwaɪldlaɪf/",
+      "meaning": "n. 野生动物；野生生物",
+      "example": "The reserve protects local wildlife."
+    },
+    {
+      "word": "wireless",
+      "phonetic": "/ˈwaɪələs/",
+      "meaning": "adj. 无线的 n. 无线电",
+      "example": "The office has wireless internet."
+    },
+    {
+      "word": "x-ray",
+      "phonetic": "/ˈeksreɪ/",
+      "meaning": "n. X 射线 v. 用 X 光检查",
+      "example": "The x-ray showed no fracture."
+    },
+    {
+      "word": "yeast",
+      "phonetic": "/jiːst/",
+      "meaning": "n. 酵母；发酵粉",
+      "example": "Yeast makes the bread rise."
+    },
+    {
+      "word": "zinc",
+      "phonetic": "/zɪŋk/",
+      "meaning": "n. 锌",
+      "example": "Zinc protects steel from rust."
+    }
+  ]
+}

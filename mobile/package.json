@@ -1,0 +1,24 @@
+{
+  "name": "cet46-word-mobile",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "四六级单词闯关 - 移动端 H5（离线版，手机浏览器直接打开）",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "node scripts/serve.mjs",
+    "build:words": "node scripts/build-words.mjs",
+    "build:icons": "node scripts/build-icons.mjs",
+    "check": "node scripts/check-words.mjs"
+  },
+  "dependencies": {
+    "vue": "^3.4.38",
+    "vue-router": "^4.4.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "vite": "^5.4.8"
+  }
+}

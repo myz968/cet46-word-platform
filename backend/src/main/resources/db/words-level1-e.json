@@ -1,0 +1,786 @@
+{
+  "level": 1,
+  "note": "高频基础词（第 5 批）——工作、科技、社交与情感",
+  "words": [
+    {
+      "word": "agenda",
+      "phonetic": "əˈdʒendə",
+      "meaning": "n. 议程",
+      "example": "Check today's agenda."
+    },
+    {
+      "word": "ahead",
+      "phonetic": "əˈhed",
+      "meaning": "adv. 在前面；提前",
+      "example": "Go straight ahead."
+    },
+    {
+      "word": "announce",
+      "phonetic": "əˈnaʊns",
+      "meaning": "v. 宣布",
+      "example": "They announced the results."
+    },
+    {
+      "word": "apologize",
+      "phonetic": "əˈpɒlədʒaɪz",
+      "meaning": "v. 道歉",
+      "example": "He apologized for being late."
+    },
+    {
+      "word": "appointment",
+      "phonetic": "əˈpɔɪntmənt",
+      "meaning": "n. 约会；任命",
+      "example": "I have an appointment at three."
+    },
+    {
+      "word": "arrange",
+      "phonetic": "əˈreɪndʒ",
+      "meaning": "v. 安排；整理",
+      "example": "Let me arrange the meeting."
+    },
+    {
+      "word": "assist",
+      "phonetic": "əˈsɪst",
+      "meaning": "v. 协助",
+      "example": "She assisted the teacher."
+    },
+    {
+      "word": "assume",
+      "phonetic": "əˈsjuːm",
+      "meaning": "v. 假定；承担",
+      "example": "Do not assume too much."
+    },
+    {
+      "word": "attach",
+      "phonetic": "əˈtætʃ",
+      "meaning": "v. 附上；系上",
+      "example": "Attach the file to the email."
+    },
+    {
+      "word": "available",
+      "phonetic": "əˈveɪləbl",
+      "meaning": "adj. 可用的；有空的",
+      "example": "Are you available tomorrow?"
+    },
+    {
+      "word": "average",
+      "phonetic": "ˈævərɪdʒ",
+      "meaning": "adj. 平均的 n. 平均数",
+      "example": "His score is above average."
+    },
+    {
+      "word": "belong",
+      "phonetic": "bɪˈlɒŋ",
+      "meaning": "v. 属于",
+      "example": "This book belongs to me."
+    },
+    {
+      "word": "boss",
+      "phonetic": "bɒs",
+      "meaning": "n. 老板",
+      "example": "The boss is in a meeting."
+    },
+    {
+      "word": "brand",
+      "phonetic": "brænd",
+      "meaning": "n. 品牌",
+      "example": "It is a famous brand."
+    },
+    {
+      "word": "budget",
+      "phonetic": "ˈbʌdʒɪt",
+      "meaning": "n. 预算",
+      "example": "We must cut the budget."
+    },
+    {
+      "word": "career",
+      "phonetic": "kəˈrɪə",
+      "meaning": "n. 职业；生涯",
+      "example": "She built a career in law."
+    },
+    {
+      "word": "celebrate",
+      "phonetic": "ˈselɪbreɪt",
+      "meaning": "v. 庆祝",
+      "example": "We celebrated her birthday."
+    },
+    {
+      "word": "challenge",
+      "phonetic": "ˈtʃælɪndʒ",
+      "meaning": "n. 挑战 v. 挑战",
+      "example": "This job is a big challenge."
+    },
+    {
+      "word": "character",
+      "phonetic": "ˈkærəktə",
+      "meaning": "n. 性格；角色；字符",
+      "example": "He has a strong character."
+    },
+    {
+      "word": "charge",
+      "phonetic": "tʃɑːdʒ",
+      "meaning": "v. 收费；充电 n. 费用",
+      "example": "They charge ten yuan an hour."
+    },
+    {
+      "word": "choice",
+      "phonetic": "tʃɔɪs",
+      "meaning": "n. 选择",
+      "example": "You have two choices."
+    },
+    {
+      "word": "client",
+      "phonetic": "ˈklaɪənt",
+      "meaning": "n. 客户",
+      "example": "The client agrees with us."
+    },
+    {
+      "word": "colleague",
+      "phonetic": "ˈkɒliːɡ",
+      "meaning": "n. 同事",
+      "example": "My colleague helps me a lot."
+    },
+    {
+      "word": "comfortable",
+      "phonetic": "ˈkʌmftəbl",
+      "meaning": "adj. 舒适的",
+      "example": "The chair is comfortable."
+    },
+    {
+      "word": "comment",
+      "phonetic": "ˈkɒment",
+      "meaning": "n./v. 评论",
+      "example": "He made a short comment."
+    },
+    {
+      "word": "communicate",
+      "phonetic": "kəˈmjuːnɪkeɪt",
+      "meaning": "v. 沟通",
+      "example": "We communicate by email."
+    },
+    {
+      "word": "complain",
+      "phonetic": "kəmˈpleɪn",
+      "meaning": "v. 抱怨",
+      "example": "He complained about the noise."
+    },
+    {
+      "word": "contact",
+      "phonetic": "ˈkɒntækt",
+      "meaning": "n./v. 联系",
+      "example": "Contact me by phone."
+    },
+    {
+      "word": "customer",
+      "phonetic": "ˈkʌstəmə",
+      "meaning": "n. 顾客",
+      "example": "Customers like this shop."
+    },
+    {
+      "word": "device",
+      "phonetic": "dɪˈvaɪs",
+      "meaning": "n. 设备",
+      "example": "This device saves power."
+    },
+    {
+      "word": "download",
+      "phonetic": "ˌdaʊnˈləʊd",
+      "meaning": "v./n. 下载",
+      "example": "Download the file first."
+    },
+    {
+      "word": "employ",
+      "phonetic": "ɪmˈplɔɪ",
+      "meaning": "v. 雇用；使用",
+      "example": "The firm employs fifty people."
+    },
+    {
+      "word": "employee",
+      "phonetic": "ɪmˈplɔɪiː",
+      "meaning": "n. 雇员",
+      "example": "Every employee gets training."
+    },
+    {
+      "word": "energy",
+      "phonetic": "ˈenədʒi",
+      "meaning": "n. 能量；精力",
+      "example": "Solar energy is clean."
+    },
+    {
+      "word": "enjoy",
+      "phonetic": "ɪnˈdʒɔɪ",
+      "meaning": "v. 享受",
+      "example": "I enjoy reading at night."
+    },
+    {
+      "word": "equipment",
+      "phonetic": "ɪˈkwɪpmənt",
+      "meaning": "n. 设备",
+      "example": "The equipment is expensive."
+    },
+    {
+      "word": "express",
+      "phonetic": "ɪkˈspres",
+      "meaning": "v. 表达 adj. 快速的",
+      "example": "Express your ideas clearly."
+    },
+    {
+      "word": "feature",
+      "phonetic": "ˈfiːtʃə",
+      "meaning": "n. 特征；功能",
+      "example": "This app has many features."
+    },
+    {
+      "word": "fee",
+      "phonetic": "fiː",
+      "meaning": "n. 费用",
+      "example": "The fee is paid online."
+    },
+    {
+      "word": "finance",
+      "phonetic": "ˈfaɪnæns",
+      "meaning": "n. 财务；金融 v. 资助",
+      "example": "He works in finance."
+    },
+    {
+      "word": "freedom",
+      "phonetic": "ˈfriːdəm",
+      "meaning": "n. 自由",
+      "example": "Everyone wants freedom."
+    },
+    {
+      "word": "handle",
+      "phonetic": "ˈhændl",
+      "meaning": "v. 处理 n. 把手",
+      "example": "She handled the problem well."
+    },
+    {
+      "word": "hire",
+      "phonetic": "ˈhaɪə",
+      "meaning": "v. 雇用；租用",
+      "example": "They hired two workers."
+    },
+    {
+      "word": "however",
+      "phonetic": "haʊˈevə",
+      "meaning": "adv. 然而",
+      "example": "However, the plan failed."
+    },
+    {
+      "word": "import",
+      "phonetic": "ɪmˈpɔːt",
+      "meaning": "v./n. 进口",
+      "example": "They import coffee beans."
+    },
+    {
+      "word": "issue",
+      "phonetic": "ˈɪʃuː",
+      "meaning": "n. 问题；期号 v. 发布",
+      "example": "This is a serious issue."
+    },
+    {
+      "word": "leader",
+      "phonetic": "ˈliːdə",
+      "meaning": "n. 领导者",
+      "example": "She is a good leader."
+    },
+    {
+      "word": "online",
+      "phonetic": "ˌɒnˈlaɪn",
+      "meaning": "adj./adv. 在线的",
+      "example": "I buy books online."
+    },
+    {
+      "word": "process",
+      "phonetic": "ˈprəʊses",
+      "meaning": "n. 过程 v. 处理",
+      "example": "The process takes two days."
+    },
+    {
+      "word": "product",
+      "phonetic": "ˈprɒdʌkt",
+      "meaning": "n. 产品",
+      "example": "The product sells well."
+    },
+    {
+      "word": "realize",
+      "phonetic": "ˈrɪəlaɪz",
+      "meaning": "v. 意识到；实现",
+      "example": "I realized my mistake."
+    },
+    {
+      "word": "recommend",
+      "phonetic": "ˌrekəˈmend",
+      "meaning": "v. 推荐",
+      "example": "Can you recommend a book?"
+    },
+    {
+      "word": "record",
+      "phonetic": "ˈrekɔːd",
+      "meaning": "n. 记录 v. 录制",
+      "example": "Keep a record of it."
+    },
+    {
+      "word": "reduce",
+      "phonetic": "rɪˈdjuːs",
+      "meaning": "v. 减少",
+      "example": "Reduce your screen time."
+    },
+    {
+      "word": "refuse",
+      "phonetic": "rɪˈfjuːz",
+      "meaning": "v. 拒绝",
+      "example": "He refused the offer."
+    },
+    {
+      "word": "regard",
+      "phonetic": "rɪˈɡɑːd",
+      "meaning": "v. 认为 n. 关心",
+      "example": "I regard him as a friend."
+    },
+    {
+      "word": "regular",
+      "phonetic": "ˈreɡjələ",
+      "meaning": "adj. 规律的；定期的",
+      "example": "Keep regular hours."
+    },
+    {
+      "word": "remain",
+      "phonetic": "rɪˈmeɪn",
+      "meaning": "v. 保持；剩下",
+      "example": "Few seats remain."
+    },
+    {
+      "word": "remind",
+      "phonetic": "rɪˈmaɪnd",
+      "meaning": "v. 提醒",
+      "example": "Remind me to call her."
+    },
+    {
+      "word": "remove",
+      "phonetic": "rɪˈmuːv",
+      "meaning": "v. 移除",
+      "example": "Remove your shoes here."
+    },
+    {
+      "word": "repair",
+      "phonetic": "rɪˈpeə",
+      "meaning": "v./n. 修理",
+      "example": "The bike needs repair."
+    },
+    {
+      "word": "replace",
+      "phonetic": "rɪˈpleɪs",
+      "meaning": "v. 取代；更换",
+      "example": "Replace the old battery."
+    },
+    {
+      "word": "reply",
+      "phonetic": "rɪˈplaɪ",
+      "meaning": "v./n. 回复",
+      "example": "Please reply soon."
+    },
+    {
+      "word": "report",
+      "phonetic": "rɪˈpɔːt",
+      "meaning": "n./v. 报告",
+      "example": "Write a short report."
+    },
+    {
+      "word": "require",
+      "phonetic": "rɪˈkwaɪə",
+      "meaning": "v. 需要；要求",
+      "example": "This job requires patience."
+    },
+    {
+      "word": "research",
+      "phonetic": "rɪˈsɜːtʃ",
+      "meaning": "n./v. 研究",
+      "example": "She does research on health."
+    },
+    {
+      "word": "respect",
+      "phonetic": "rɪˈspekt",
+      "meaning": "n./v. 尊重",
+      "example": "Respect your teachers."
+    },
+    {
+      "word": "result",
+      "phonetic": "rɪˈzʌlt",
+      "meaning": "n. 结果 v. 导致",
+      "example": "The result surprised us."
+    },
+    {
+      "word": "return",
+      "phonetic": "rɪˈtɜːn",
+      "meaning": "v. 返回；归还",
+      "example": "Return the book on time."
+    },
+    {
+      "word": "review",
+      "phonetic": "rɪˈvjuː",
+      "meaning": "v./n. 复习；评论",
+      "example": "Review your notes nightly."
+    },
+    {
+      "word": "reward",
+      "phonetic": "rɪˈwɔːd",
+      "meaning": "n./v. 奖励",
+      "example": "Hard work brings reward."
+    },
+    {
+      "word": "salary",
+      "phonetic": "ˈsæləri",
+      "meaning": "n. 薪水",
+      "example": "Her salary is quite good."
+    },
+    {
+      "word": "satisfy",
+      "phonetic": "ˈsætɪsfaɪ",
+      "meaning": "v. 使满意",
+      "example": "The answer satisfied him."
+    },
+    {
+      "word": "schedule",
+      "phonetic": "ˈʃedjuːl",
+      "meaning": "n. 时间表 v. 安排",
+      "example": "Check the schedule first."
+    },
+    {
+      "word": "search",
+      "phonetic": "sɜːtʃ",
+      "meaning": "v./n. 搜索",
+      "example": "Search the word online."
+    },
+    {
+      "word": "secret",
+      "phonetic": "ˈsiːkrət",
+      "meaning": "n. 秘密 adj. 秘密的",
+      "example": "Keep it a secret."
+    },
+    {
+      "word": "select",
+      "phonetic": "sɪˈlekt",
+      "meaning": "v. 选择",
+      "example": "Select one answer only."
+    },
+    {
+      "word": "sense",
+      "phonetic": "sens",
+      "meaning": "n. 感觉；意义",
+      "example": "That makes sense to me."
+    },
+    {
+      "word": "serious",
+      "phonetic": "ˈsɪəriəs",
+      "meaning": "adj. 严肃的；严重的",
+      "example": "This is a serious problem."
+    },
+    {
+      "word": "service",
+      "phonetic": "ˈsɜːvɪs",
+      "meaning": "n. 服务",
+      "example": "The service is very good."
+    },
+    {
+      "word": "sign",
+      "phonetic": "saɪn",
+      "meaning": "n. 标志 v. 签名",
+      "example": "Sign here please."
+    },
+    {
+      "word": "similar",
+      "phonetic": "ˈsɪmələ",
+      "meaning": "adj. 相似的",
+      "example": "Our answers are similar."
+    },
+    {
+      "word": "simple",
+      "phonetic": "ˈsɪmpl",
+      "meaning": "adj. 简单的",
+      "example": "Keep the plan simple."
+    },
+    {
+      "word": "situation",
+      "phonetic": "ˌsɪtʃuˈeɪʃn",
+      "meaning": "n. 情况",
+      "example": "The situation is improving."
+    },
+    {
+      "word": "skill",
+      "phonetic": "skɪl",
+      "meaning": "n. 技能",
+      "example": "Typing is a useful skill."
+    },
+    {
+      "word": "social",
+      "phonetic": "ˈsəʊʃl",
+      "meaning": "adj. 社会的；社交的",
+      "example": "He has a busy social life."
+    },
+    {
+      "word": "society",
+      "phonetic": "səˈsaɪəti",
+      "meaning": "n. 社会",
+      "example": "Society is changing fast."
+    },
+    {
+      "word": "solve",
+      "phonetic": "sɒlv",
+      "meaning": "v. 解决",
+      "example": "Let us solve it together."
+    },
+    {
+      "word": "source",
+      "phonetic": "sɔːs",
+      "meaning": "n. 来源",
+      "example": "The source is reliable."
+    },
+    {
+      "word": "special",
+      "phonetic": "ˈspeʃl",
+      "meaning": "adj. 特别的",
+      "example": "Today is a special day."
+    },
+    {
+      "word": "spread",
+      "phonetic": "spred",
+      "meaning": "v. 传播；铺开",
+      "example": "News spreads very fast."
+    },
+    {
+      "word": "standard",
+      "phonetic": "ˈstændəd",
+      "meaning": "n. 标准 adj. 标准的",
+      "example": "The standard is quite high."
+    },
+    {
+      "word": "state",
+      "phonetic": "steɪt",
+      "meaning": "n. 状态；国家 v. 陈述",
+      "example": "State your reason clearly."
+    },
+    {
+      "word": "style",
+      "phonetic": "staɪl",
+      "meaning": "n. 风格",
+      "example": "I like her writing style."
+    },
+    {
+      "word": "success",
+      "phonetic": "səkˈses",
+      "meaning": "n. 成功",
+      "example": "Success needs patience."
+    },
+    {
+      "word": "suggest",
+      "phonetic": "səˈdʒest",
+      "meaning": "v. 建议",
+      "example": "I suggest we start early."
+    },
+    {
+      "word": "support",
+      "phonetic": "səˈpɔːt",
+      "meaning": "v./n. 支持",
+      "example": "Thanks for your support."
+    },
+    {
+      "word": "suppose",
+      "phonetic": "səˈpəʊz",
+      "meaning": "v. 假设；认为",
+      "example": "I suppose he is right."
+    },
+    {
+      "word": "surface",
+      "phonetic": "ˈsɜːfɪs",
+      "meaning": "n. 表面",
+      "example": "The surface is very smooth."
+    },
+    {
+      "word": "surprise",
+      "phonetic": "səˈpraɪz",
+      "meaning": "n. 惊喜 v. 使惊讶",
+      "example": "The gift was a surprise."
+    },
+    {
+      "word": "survey",
+      "phonetic": "ˈsɜːveɪ",
+      "meaning": "n./v. 调查",
+      "example": "They did a survey online."
+    },
+    {
+      "word": "system",
+      "phonetic": "ˈsɪstəm",
+      "meaning": "n. 系统",
+      "example": "The system works well."
+    },
+    {
+      "word": "task",
+      "phonetic": "tɑːsk",
+      "meaning": "n. 任务",
+      "example": "Finish the task today."
+    },
+    {
+      "word": "technology",
+      "phonetic": "tekˈnɒlədʒi",
+      "meaning": "n. 技术",
+      "example": "Technology changes our life."
+    },
+    {
+      "word": "term",
+      "phonetic": "tɜːm",
+      "meaning": "n. 术语；学期；条款",
+      "example": "The new term starts Monday."
+    },
+    {
+      "word": "test",
+      "phonetic": "test",
+      "meaning": "n./v. 测试",
+      "example": "We have a test tomorrow."
+    },
+    {
+      "word": "though",
+      "phonetic": "ðəʊ",
+      "meaning": "conj. 虽然 adv. 不过",
+      "example": "Though tired, he continued."
+    },
+    {
+      "word": "thought",
+      "phonetic": "θɔːt",
+      "meaning": "n. 想法；思考",
+      "example": "That is a kind thought."
+    },
+    {
+      "word": "tool",
+      "phonetic": "tuːl",
+      "meaning": "n. 工具",
+      "example": "A pen is a simple tool."
+    },
+    {
+      "word": "topic",
+      "phonetic": "ˈtɒpɪk",
+      "meaning": "n. 话题",
+      "example": "The topic is interesting."
+    },
+    {
+      "word": "total",
+      "phonetic": "ˈtəʊtl",
+      "meaning": "adj. 总的 n. 总数",
+      "example": "The total is fifty yuan."
+    },
+    {
+      "word": "towards",
+      "phonetic": "təˈwɔːdz",
+      "meaning": "prep. 朝向；对于",
+      "example": "He walked towards the door."
+    },
+    {
+      "word": "traffic",
+      "phonetic": "ˈtræfɪk",
+      "meaning": "n. 交通",
+      "example": "The traffic is heavy."
+    },
+    {
+      "word": "transfer",
+      "phonetic": "trænsˈfɜː",
+      "meaning": "v./n. 转移；转账",
+      "example": "Transfer the money today."
+    },
+    {
+      "word": "treat",
+      "phonetic": "triːt",
+      "meaning": "v. 对待；治疗",
+      "example": "Treat others with respect."
+    },
+    {
+      "word": "trust",
+      "phonetic": "trʌst",
+      "meaning": "v./n. 信任",
+      "example": "I trust his words."
+    },
+    {
+      "word": "type",
+      "phonetic": "taɪp",
+      "meaning": "n. 类型 v. 打字",
+      "example": "What type of music?"
+    },
+    {
+      "word": "unless",
+      "phonetic": "ənˈles",
+      "meaning": "conj. 除非",
+      "example": "Do not go unless needed."
+    },
+    {
+      "word": "update",
+      "phonetic": "ˌʌpˈdeɪt",
+      "meaning": "v./n. 更新",
+      "example": "Update the app first."
+    },
+    {
+      "word": "useful",
+      "phonetic": "ˈjuːsfl",
+      "meaning": "adj. 有用的",
+      "example": "This tip is very useful."
+    },
+    {
+      "word": "usual",
+      "phonetic": "ˈjuːʒuəl",
+      "meaning": "adj. 通常的",
+      "example": "He came at the usual time."
+    },
+    {
+      "word": "value",
+      "phonetic": "ˈvæljuː",
+      "meaning": "n. 价值 v. 重视",
+      "example": "The house has high value."
+    },
+    {
+      "word": "view",
+      "phonetic": "vjuː",
+      "meaning": "n. 观点；景色 v. 看待",
+      "example": "The view is wonderful."
+    },
+    {
+      "word": "voice",
+      "phonetic": "vɔɪs",
+      "meaning": "n. 声音",
+      "example": "Her voice is very soft."
+    },
+    {
+      "word": "waste",
+      "phonetic": "weɪst",
+      "meaning": "v./n. 浪费；废物",
+      "example": "Do not waste water."
+    },
+    {
+      "word": "weight",
+      "phonetic": "weɪt",
+      "meaning": "n. 重量",
+      "example": "Check your bag weight."
+    },
+    {
+      "word": "welcome",
+      "phonetic": "ˈwelkəm",
+      "meaning": "v. 欢迎 adj. 受欢迎的",
+      "example": "Welcome to our school."
+    },
+    {
+      "word": "whole",
+      "phonetic": "həʊl",
+      "meaning": "adj. 整个的 n. 全部",
+      "example": "He ate the whole cake."
+    },
+    {
+      "word": "wonderful",
+      "phonetic": "ˈwʌndəfl",
+      "meaning": "adj. 精彩的",
+      "example": "We had a wonderful time."
+    },
+    {
+      "word": "worth",
+      "phonetic": "wɜːθ",
+      "meaning": "adj. 值得的 n. 价值",
+      "example": "The book is worth reading."
+    }
+  ]
+}

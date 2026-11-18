@@ -1,0 +1,312 @@
+{
+  "level": 2,
+  "note": "中频词（第 3 批）——四级常见动词与抽象名词",
+  "words": [
+    {
+      "word": "aboard",
+      "phonetic": "əˈbɔːd",
+      "meaning": "adv. 在船（车、机）上",
+      "example": "All passengers are aboard."
+    },
+    {
+      "word": "academic",
+      "phonetic": "ˌækəˈdemɪk",
+      "meaning": "adj. 学术的",
+      "example": "He has academic interests."
+    },
+    {
+      "word": "access",
+      "phonetic": "ˈækses",
+      "meaning": "n. 通道；使用权 v. 访问",
+      "example": "Students have free access."
+    },
+    {
+      "word": "accidental",
+      "phonetic": "ˌæksɪˈdentl",
+      "meaning": "adj. 意外的",
+      "example": "It was an accidental meeting."
+    },
+    {
+      "word": "accommodate",
+      "phonetic": "əˈkɒmədeɪt",
+      "meaning": "v. 容纳；适应",
+      "example": "The hall accommodates 200 people."
+    },
+    {
+      "word": "accord",
+      "phonetic": "əˈkɔːd",
+      "meaning": "n. 一致 v. 给予",
+      "example": "They reached an accord."
+    },
+    {
+      "word": "accountant",
+      "phonetic": "əˈkaʊntənt",
+      "meaning": "n. 会计",
+      "example": "She is a chief accountant."
+    },
+    {
+      "word": "accustom",
+      "phonetic": "əˈkʌstəm",
+      "meaning": "v. 使习惯",
+      "example": "He accustomed himself to cold."
+    },
+    {
+      "word": "acquaintance",
+      "phonetic": "əˈkweɪntəns",
+      "meaning": "n. 熟人；了解",
+      "example": "He is an old acquaintance."
+    },
+    {
+      "word": "addition",
+      "phonetic": "əˈdɪʃn",
+      "meaning": "n. 增加；加法",
+      "example": "In addition, we need time."
+    },
+    {
+      "word": "additional",
+      "phonetic": "əˈdɪʃənl",
+      "meaning": "adj. 额外的",
+      "example": "We need additional staff."
+    },
+    {
+      "word": "administration",
+      "phonetic": "ədˌmɪnɪˈstreɪʃn",
+      "meaning": "n. 管理；行政",
+      "example": "She works in administration."
+    },
+    {
+      "word": "advanced",
+      "phonetic": "ədˈvɑːnst",
+      "meaning": "adj. 先进的；高级的",
+      "example": "This is an advanced course."
+    },
+    {
+      "word": "adventure",
+      "phonetic": "ədˈventʃə",
+      "meaning": "n. 冒险",
+      "example": "The trip was an adventure."
+    },
+    {
+      "word": "advertisement",
+      "phonetic": "ədˈvɜːtɪsmənt",
+      "meaning": "n. 广告",
+      "example": "I saw the advertisement online."
+    },
+    {
+      "word": "affair",
+      "phonetic": "əˈfeə",
+      "meaning": "n. 事务；事件",
+      "example": "It is a private affair."
+    },
+    {
+      "word": "afterwards",
+      "phonetic": "ˈɑːftəwədz",
+      "meaning": "adv. 之后",
+      "example": "We talked afterwards."
+    },
+    {
+      "word": "alike",
+      "phonetic": "əˈlaɪk",
+      "meaning": "adj. 相似的 adv. 同样地",
+      "example": "The twins look alike."
+    },
+    {
+      "word": "allege",
+      "phonetic": "əˈledʒ",
+      "meaning": "v. 断言；指控",
+      "example": "They allege he stole it."
+    },
+    {
+      "word": "alliance",
+      "phonetic": "əˈlaɪəns",
+      "meaning": "n. 联盟",
+      "example": "The two firms formed an alliance."
+    },
+    {
+      "word": "allocate",
+      "phonetic": "ˈæləkeɪt",
+      "meaning": "v. 分配",
+      "example": "Allocate time for review."
+    },
+    {
+      "word": "apart",
+      "phonetic": "əˈpɑːt",
+      "meaning": "adv. 分开地",
+      "example": "They live two miles apart."
+    },
+    {
+      "word": "apology",
+      "phonetic": "əˈpɒlədʒi",
+      "meaning": "n. 道歉",
+      "example": "He made a sincere apology."
+    },
+    {
+      "word": "ascend",
+      "phonetic": "əˈsend",
+      "meaning": "v. 上升；攀登",
+      "example": "They ascended the hill."
+    },
+    {
+      "word": "aside",
+      "phonetic": "əˈsaɪd",
+      "meaning": "adv. 在旁边",
+      "example": "Step aside please."
+    },
+    {
+      "word": "assemble",
+      "phonetic": "əˈsembl",
+      "meaning": "v. 集合；组装",
+      "example": "Assemble the desk first."
+    },
+    {
+      "word": "asset",
+      "phonetic": "ˈæset",
+      "meaning": "n. 资产；财富",
+      "example": "Health is a great asset."
+    },
+    {
+      "word": "assistant",
+      "phonetic": "əˈsɪstənt",
+      "meaning": "n. 助手 adj. 辅助的",
+      "example": "She is my assistant."
+    },
+    {
+      "word": "atomic",
+      "phonetic": "əˈtɒmɪk",
+      "meaning": "adj. 原子的",
+      "example": "Atomic energy is powerful."
+    },
+    {
+      "word": "attractive",
+      "phonetic": "əˈtræktɪv",
+      "meaning": "adj. 有吸引力的",
+      "example": "It is an attractive offer."
+    },
+    {
+      "word": "awareness",
+      "phonetic": "əˈweənəs",
+      "meaning": "n. 意识",
+      "example": "Raise public awareness."
+    },
+    {
+      "word": "bacteria",
+      "phonetic": "bækˈtɪəriə",
+      "meaning": "n. 细菌",
+      "example": "Bacteria grow in warm food."
+    },
+    {
+      "word": "behaviour",
+      "phonetic": "bɪˈheɪvjə",
+      "meaning": "n. 行为",
+      "example": "His behaviour surprised us."
+    },
+    {
+      "word": "beneficial",
+      "phonetic": "ˌbenɪˈfɪʃl",
+      "meaning": "adj. 有益的",
+      "example": "Walking is beneficial."
+    },
+    {
+      "word": "bias",
+      "phonetic": "ˈbaɪəs",
+      "meaning": "n. 偏见",
+      "example": "The report shows bias."
+    },
+    {
+      "word": "biology",
+      "phonetic": "baɪˈɒlədʒi",
+      "meaning": "n. 生物学",
+      "example": "He majors in biology."
+    },
+    {
+      "word": "broadcast",
+      "phonetic": "ˈbrɔːdkɑːst",
+      "meaning": "v./n. 广播",
+      "example": "The match was broadcast live."
+    },
+    {
+      "word": "cargo",
+      "phonetic": "ˈkɑːɡəʊ",
+      "meaning": "n. 货物",
+      "example": "The ship carries cargo."
+    },
+    {
+      "word": "cautious",
+      "phonetic": "ˈkɔːʃəs",
+      "meaning": "adj. 谨慎的",
+      "example": "Be cautious with money."
+    },
+    {
+      "word": "cell",
+      "phonetic": "sel",
+      "meaning": "n. 细胞；小房间",
+      "example": "Every cell needs water."
+    },
+    {
+      "word": "century",
+      "phonetic": "ˈsentʃəri",
+      "meaning": "n. 世纪",
+      "example": "It was built a century ago."
+    },
+    {
+      "word": "competition",
+      "phonetic": "ˌkɒmpəˈtɪʃn",
+      "meaning": "n. 竞争；比赛",
+      "example": "The competition is strong."
+    },
+    {
+      "word": "conclusion",
+      "phonetic": "kənˈkluːʒn",
+      "meaning": "n. 结论",
+      "example": "The conclusion is clear."
+    },
+    {
+      "word": "confident",
+      "phonetic": "ˈkɒnfɪdənt",
+      "meaning": "adj. 自信的",
+      "example": "He is confident of success."
+    },
+    {
+      "word": "conquer",
+      "phonetic": "ˈkɒŋkə",
+      "meaning": "v. 征服；克服",
+      "example": "He conquered his fear."
+    },
+    {
+      "word": "contribution",
+      "phonetic": "ˌkɒntrɪˈbjuːʃn",
+      "meaning": "n. 贡献",
+      "example": "Thanks for your contribution."
+    },
+    {
+      "word": "crime",
+      "phonetic": "kraɪm",
+      "meaning": "n. 犯罪",
+      "example": "The crime rate fell."
+    },
+    {
+      "word": "democracy",
+      "phonetic": "dɪˈmɒkrəsi",
+      "meaning": "n. 民主",
+      "example": "They value democracy."
+    },
+    {
+      "word": "dense",
+      "phonetic": "dens",
+      "meaning": "adj. 密集的",
+      "example": "The forest is very dense."
+    },
+    {
+      "word": "department",
+      "phonetic": "dɪˈpɑːtmənt",
+      "meaning": "n. 部门；系",
+      "example": "She works in sales department."
+    },
+    {
+      "word": "emphasize",
+      "phonetic": "ˈemfəsaɪz",
+      "meaning": "v. 强调",
+      "example": "She emphasized the deadline."
+    }
+  ]
+}

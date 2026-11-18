@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- viewport-fit=cover 让页面能延伸到 iPhone 刘海屏底部，配合 CSS 的 safe-area 使用 -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover"
+    />
+    <!-- 手机浏览器状态栏配色，和页面主色一致，看起来更像原生 App -->
+    <meta name="theme-color" content="#409eff" />
+    <meta name="description" content="四六级单词闯关背诵 - 手机网页版，离线可用，无需下载安装" />
+    <!-- iOS 添加到主屏幕后以全屏方式打开 -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="四六级单词" />
+    <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
+    <link rel="icon" type="image/svg+xml" href="./icons/favicon.svg" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <title>四六级单词闯关</title>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

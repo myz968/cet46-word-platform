@@ -1,0 +1,516 @@
+{
+  "level": 3,
+  "note": "低频难词（第 2 批）",
+  "words": [
+    {
+      "word": "meticulous",
+      "phonetic": "məˈtɪkjələs",
+      "meaning": "adj. 一丝不苟的；细致的",
+      "example": "She keeps meticulous records."
+    },
+    {
+      "word": "mitigate",
+      "phonetic": "ˈmɪtɪɡeɪt",
+      "meaning": "v. 减轻；缓和",
+      "example": "Trees help mitigate air pollution."
+    },
+    {
+      "word": "monotonous",
+      "phonetic": "məˈnɒtənəs",
+      "meaning": "adj. 单调的；无变化的",
+      "example": "The work is monotonous."
+    },
+    {
+      "word": "negligent",
+      "phonetic": "ˈneɡlɪdʒənt",
+      "meaning": "adj. 疏忽的；失职的",
+      "example": "He was negligent in his duty."
+    },
+    {
+      "word": "notorious",
+      "phonetic": "nəʊˈtɔːriəs",
+      "meaning": "adj. 臭名昭著的",
+      "example": "The road is notorious for jams."
+    },
+    {
+      "word": "nourish",
+      "phonetic": "ˈnʌrɪʃ",
+      "meaning": "v. 滋养；培养",
+      "example": "Good food nourishes the body."
+    },
+    {
+      "word": "obsolete",
+      "phonetic": "ˈɒbsəliːt",
+      "meaning": "adj. 过时的；废弃的",
+      "example": "This phone is now obsolete."
+    },
+    {
+      "word": "offset",
+      "phonetic": "ˈɒfset",
+      "meaning": "v. 抵消；弥补",
+      "example": "Savings offset the higher price."
+    },
+    {
+      "word": "optimal",
+      "phonetic": "ˈɒptɪməl",
+      "meaning": "adj. 最佳的；最理想的",
+      "example": "Find the optimal study time."
+    },
+    {
+      "word": "paradox",
+      "phonetic": "ˈpærədɒks",
+      "meaning": "n. 悖论；矛盾的事",
+      "example": "It is a paradox of modern life."
+    },
+    {
+      "word": "paramount",
+      "phonetic": "ˈpærəmaʊnt",
+      "meaning": "adj. 至高无上的；首要的",
+      "example": "Safety is paramount."
+    },
+    {
+      "word": "pragmatic",
+      "phonetic": "præɡˈmætɪk",
+      "meaning": "adj. 务实的；实用的",
+      "example": "We need a pragmatic approach."
+    },
+    {
+      "word": "prevalent",
+      "phonetic": "ˈprevələnt",
+      "meaning": "adj. 普遍的；流行的",
+      "example": "The habit is prevalent among teens."
+    },
+    {
+      "word": "propel",
+      "phonetic": "prəˈpel",
+      "meaning": "v. 推进；驱使",
+      "example": "Wind propelled the boat forward."
+    },
+    {
+      "word": "provoke",
+      "phonetic": "prəˈvəʊk",
+      "meaning": "v. 激起；挑衅",
+      "example": "The news provoked anger."
+    },
+    {
+      "word": "prudent",
+      "phonetic": "ˈpruːdnt",
+      "meaning": "adj. 谨慎的；精明的",
+      "example": "It is prudent to save money."
+    },
+    {
+      "word": "radical",
+      "phonetic": "ˈrædɪkl",
+      "meaning": "adj. 激进的；根本的",
+      "example": "They made radical changes."
+    },
+    {
+      "word": "reciprocal",
+      "phonetic": "rɪˈsɪprəkl",
+      "meaning": "adj. 相互的；互惠的",
+      "example": "Respect should be reciprocal."
+    },
+    {
+      "word": "redundant",
+      "phonetic": "rɪˈdʌndənt",
+      "meaning": "adj. 多余的；被裁减的",
+      "example": "Delete redundant words."
+    },
+    {
+      "word": "refute",
+      "phonetic": "rɪˈfjuːt",
+      "meaning": "v. 驳斥；反驳",
+      "example": "The data refute the theory."
+    },
+    {
+      "word": "reiterate",
+      "phonetic": "riˈɪtəreɪt",
+      "meaning": "v. 重申；反复说",
+      "example": "Let me reiterate the key point."
+    },
+    {
+      "word": "reluctant",
+      "phonetic": "rɪˈlʌktənt",
+      "meaning": "adj. 不情愿的；勉强的",
+      "example": "He was reluctant to admit it."
+    },
+    {
+      "word": "replicate",
+      "phonetic": "ˈreplɪkeɪt",
+      "meaning": "v. 复制；重复（实验）",
+      "example": "Others could not replicate the result."
+    },
+    {
+      "word": "skeptical",
+      "phonetic": "ˈskeptɪkl",
+      "meaning": "adj. 怀疑的；不轻信的",
+      "example": "I remain skeptical about it."
+    },
+    {
+      "word": "stagnate",
+      "phonetic": "stæɡˈneɪt",
+      "meaning": "v. 停滞；不发展",
+      "example": "Without practice, skills stagnate."
+    },
+    {
+      "word": "strive",
+      "phonetic": "straɪv",
+      "meaning": "v. 努力；奋斗",
+      "example": "Strive for steady progress."
+    },
+    {
+      "word": "subordinate",
+      "phonetic": "səˈbɔːdɪnət",
+      "meaning": "adj. 次要的 n. 下属",
+      "example": "Details are subordinate to the goal."
+    },
+    {
+      "word": "subtle",
+      "phonetic": "ˈsʌtl",
+      "meaning": "adj. 微妙的；细微的",
+      "example": "There is a subtle difference."
+    },
+    {
+      "word": "superficial",
+      "phonetic": "ˌsuːpəˈfɪʃl",
+      "meaning": "adj. 表面的；浅薄的",
+      "example": "His knowledge is superficial."
+    },
+    {
+      "word": "supplement",
+      "phonetic": "ˈsʌplɪment",
+      "meaning": "v./n. 补充；增补",
+      "example": "Supplement reading with listening."
+    },
+    {
+      "word": "suppress",
+      "phonetic": "səˈpres",
+      "meaning": "v. 压制；抑制",
+      "example": "He suppressed a laugh."
+    },
+    {
+      "word": "surge",
+      "phonetic": "sɜːdʒ",
+      "meaning": "n./v. 激增；涌动",
+      "example": "There was a surge in demand."
+    },
+    {
+      "word": "tedious",
+      "phonetic": "ˈtiːdiəs",
+      "meaning": "adj. 冗长乏味的",
+      "example": "Copying data is tedious."
+    },
+    {
+      "word": "terminate",
+      "phonetic": "ˈtɜːmɪneɪt",
+      "meaning": "v. 终止；结束",
+      "example": "They terminated the contract."
+    },
+    {
+      "word": "thrive",
+      "phonetic": "θraɪv",
+      "meaning": "v. 繁荣；茁壮成长",
+      "example": "Small shops thrive online."
+    },
+    {
+      "word": "transient",
+      "phonetic": "ˈtrænziənt",
+      "meaning": "adj. 短暂的；临时的",
+      "example": "Fame is often transient."
+    },
+    {
+      "word": "trivial",
+      "phonetic": "ˈtrɪviəl",
+      "meaning": "adj. 琐碎的；不重要的",
+      "example": "Don't argue over trivial things."
+    },
+    {
+      "word": "underlying",
+      "phonetic": "ˌʌndəˈlaɪɪŋ",
+      "meaning": "adj. 潜在的；根本的",
+      "example": "Find the underlying cause."
+    },
+    {
+      "word": "undertake",
+      "phonetic": "ˌʌndəˈteɪk",
+      "meaning": "v. 承担；着手做",
+      "example": "She undertook a large project."
+    },
+    {
+      "word": "utilize",
+      "phonetic": "ˈjuːtəlaɪz",
+      "meaning": "v. 利用；使用",
+      "example": "Utilize every spare minute."
+    },
+    {
+      "word": "versatile",
+      "phonetic": "ˈvɜːsətaɪl",
+      "meaning": "adj. 多才多艺的；多用途的",
+      "example": "He is a versatile player."
+    },
+    {
+      "word": "vigorous",
+      "phonetic": "ˈvɪɡərəs",
+      "meaning": "adj. 有力的；精力充沛的",
+      "example": "They had a vigorous debate."
+    },
+    {
+      "word": "violate",
+      "phonetic": "ˈvaɪəleɪt",
+      "meaning": "v. 违反；侵犯",
+      "example": "Don't violate the rules."
+    },
+    {
+      "word": "warrant",
+      "phonetic": "ˈwɒrənt",
+      "meaning": "v. 使有必要 n. 授权令",
+      "example": "The case warrants attention."
+    },
+    {
+      "word": "ubiquitous",
+      "phonetic": "juːˈbɪkwɪtəs",
+      "meaning": "adj. 无处不在的；普遍存在的",
+      "example": "Smartphones are ubiquitous today."
+    },
+    {
+      "word": "unanimous",
+      "phonetic": "juˈnænɪməs",
+      "meaning": "adj. 一致同意的；无异议的",
+      "example": "The decision was unanimous."
+    },
+    {
+      "word": "unprecedented",
+      "phonetic": "ʌnˈpresɪdentɪd",
+      "meaning": "adj. 前所未有的；空前的",
+      "example": "It was an unprecedented event."
+    },
+    {
+      "word": "utter",
+      "phonetic": "ˈʌtə",
+      "meaning": "adj. 完全的 v. 说出",
+      "example": "The room was in utter silence."
+    },
+    {
+      "word": "vain",
+      "phonetic": "veɪn",
+      "meaning": "adj. 徒劳的；自负的",
+      "example": "All our efforts were in vain."
+    },
+    {
+      "word": "vertical",
+      "phonetic": "ˈvɜːtɪkl",
+      "meaning": "adj. 垂直的；竖直的",
+      "example": "Draw a vertical line here."
+    },
+    {
+      "word": "visual",
+      "phonetic": "ˈvɪʒuəl",
+      "meaning": "adj. 视觉的；看得见的",
+      "example": "Visual aids help memory."
+    },
+    {
+      "word": "void",
+      "phonetic": "vɔɪd",
+      "meaning": "adj. 无效的；空的 n. 空白",
+      "example": "The contract is void."
+    },
+    {
+      "word": "zeal",
+      "phonetic": "ziːl",
+      "meaning": "n. 热情；狂热",
+      "example": "He works with great zeal."
+    },
+    {
+      "word": "concur",
+      "phonetic": "kənˈkɜː",
+      "meaning": "v. 同意；同时发生",
+      "example": "I concur with your view."
+    },
+    {
+      "word": "conducive",
+      "phonetic": "kənˈdjuːsɪv",
+      "meaning": "adj. 有助于…的",
+      "example": "Quiet is conducive to study."
+    },
+    {
+      "word": "defy",
+      "phonetic": "dɪˈfaɪ",
+      "meaning": "v. 违抗；使难以",
+      "example": "He defied his parents' advice."
+    },
+    {
+      "word": "deplete",
+      "phonetic": "dɪˈpliːt",
+      "meaning": "v. 耗尽；使枯竭",
+      "example": "Overfishing depletes the ocean."
+    },
+    {
+      "word": "deter",
+      "phonetic": "dɪˈtɜː",
+      "meaning": "v. 阻止；使不敢",
+      "example": "High prices deter buyers."
+    },
+    {
+      "word": "detrimental",
+      "phonetic": "ˌdetrɪˈmentl",
+      "meaning": "adj. 有害的；不利的",
+      "example": "Stress is detrimental to health."
+    },
+    {
+      "word": "disparity",
+      "phonetic": "dɪˈspærəti",
+      "meaning": "n. 差异；悬殊",
+      "example": "There is a wide disparity in pay."
+    },
+    {
+      "word": "elicit",
+      "phonetic": "iˈlɪsɪt",
+      "meaning": "v. 引出；诱出",
+      "example": "The question elicited a long reply."
+    },
+    {
+      "word": "elusive",
+      "phonetic": "iˈluːsɪv",
+      "meaning": "adj. 难以捉摸的；难实现的",
+      "example": "Success can be elusive."
+    },
+    {
+      "word": "eminent",
+      "phonetic": "ˈemɪnənt",
+      "meaning": "adj. 杰出的；著名的",
+      "example": "An eminent scholar gave the talk."
+    },
+    {
+      "word": "envisage",
+      "phonetic": "ɪnˈvɪzɪdʒ",
+      "meaning": "v. 设想；展望",
+      "example": "We envisage rapid growth."
+    },
+    {
+      "word": "equitable",
+      "phonetic": "ˈekwɪtəbl",
+      "meaning": "adj. 公平的；合理的",
+      "example": "We need an equitable solution."
+    },
+    {
+      "word": "evade",
+      "phonetic": "ɪˈveɪd",
+      "meaning": "v. 逃避；躲避",
+      "example": "He tried to evade the question."
+    },
+    {
+      "word": "exacerbate",
+      "phonetic": "ɪɡˈzæsəbeɪt",
+      "meaning": "v. 加剧；使恶化",
+      "example": "Noise exacerbated his headache."
+    },
+    {
+      "word": "exemplify",
+      "phonetic": "ɪɡˈzemplɪfaɪ",
+      "meaning": "v. 是…的典型；举例说明",
+      "example": "This case exemplifies the problem."
+    },
+    {
+      "word": "expend",
+      "phonetic": "ɪkˈspend",
+      "meaning": "v. 花费；消耗",
+      "example": "Don't expend energy on worries."
+    },
+    {
+      "word": "facilitate",
+      "phonetic": "fəˈsɪlɪteɪt",
+      "meaning": "v. 促进；使便利",
+      "example": "The tool facilitates learning."
+    },
+    {
+      "word": "fallacy",
+      "phonetic": "ˈfæləsi",
+      "meaning": "n. 谬见；谬论",
+      "example": "That is a common fallacy."
+    },
+    {
+      "word": "forge",
+      "phonetic": "fɔːdʒ",
+      "meaning": "v. 锻造；建立；伪造",
+      "example": "They forged a strong partnership."
+    },
+    {
+      "word": "frugal",
+      "phonetic": "ˈfruːɡl",
+      "meaning": "adj. 节俭的；简朴的",
+      "example": "She leads a frugal life."
+    },
+    {
+      "word": "gauge",
+      "phonetic": "ɡeɪdʒ",
+      "meaning": "v. 判断；测量 n. 仪表",
+      "example": "It is hard to gauge his mood."
+    },
+    {
+      "word": "harass",
+      "phonetic": "ˈhærəs",
+      "meaning": "v. 骚扰；侵扰",
+      "example": "Stop harassing your classmates."
+    },
+    {
+      "word": "hinder",
+      "phonetic": "ˈhɪndə",
+      "meaning": "v. 阻碍；妨碍",
+      "example": "Bad weather hindered the search."
+    },
+    {
+      "word": "illuminate",
+      "phonetic": "ɪˈluːmɪneɪt",
+      "meaning": "v. 照亮；阐明",
+      "example": "The lamp illuminated the room."
+    },
+    {
+      "word": "immerse",
+      "phonetic": "ɪˈmɜːs",
+      "meaning": "v. 使沉浸；使浸没",
+      "example": "Immerse yourself in English."
+    },
+    {
+      "word": "incur",
+      "phonetic": "ɪnˈkɜː",
+      "meaning": "v. 招致；引起",
+      "example": "Late payment incurs a fee."
+    },
+    {
+      "word": "indignant",
+      "phonetic": "ɪnˈdɪɡnənt",
+      "meaning": "adj. 愤怒的；愤慨的",
+      "example": "She was indignant at the insult."
+    },
+    {
+      "word": "ingenious",
+      "phonetic": "ɪnˈdʒiːniəs",
+      "meaning": "adj. 巧妙的；有独创性的",
+      "example": "That is an ingenious solution."
+    },
+    {
+      "word": "inherit",
+      "phonetic": "ɪnˈherɪt",
+      "meaning": "v. 继承；遗传",
+      "example": "She inherited the family business."
+    },
+    {
+      "word": "lethal",
+      "phonetic": "ˈliːθl",
+      "meaning": "adj. 致命的；危害极大的",
+      "example": "The poison is lethal."
+    },
+    {
+      "word": "leverage",
+      "phonetic": "ˈliːvərɪdʒ",
+      "meaning": "n. 杠杆作用 v. 利用",
+      "example": "Leverage your strengths."
+    },
+    {
+      "word": "linger",
+      "phonetic": "ˈlɪŋɡə",
+      "meaning": "v. 逗留；继续存留",
+      "example": "The smell lingered for hours."
+    }
+  ]
+}

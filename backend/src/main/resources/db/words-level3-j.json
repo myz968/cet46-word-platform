@@ -1,0 +1,1806 @@
+{
+  "level": 3,
+  "note": "低频难词 J 批：心理、教育、文学、艺术、哲学主题",
+  "words": [
+    {
+      "word": "abreaction",
+      "phonetic": "/ˌæbriˈækʃn/",
+      "meaning": "n. 宣泄；情绪释放",
+      "example": "Therapy encouraged abreaction of the trauma."
+    },
+    {
+      "word": "abstraction",
+      "phonetic": "/æbˈstrækʃn/",
+      "meaning": "n. 抽象；抽象概念",
+      "example": "Children struggle with abstraction at first."
+    },
+    {
+      "word": "academia",
+      "phonetic": "/ˌækəˈdiːmiə/",
+      "meaning": "n. 学术界",
+      "example": "She spent her career in academia."
+    },
+    {
+      "word": "accolade",
+      "phonetic": "/ˈækəleɪd/",
+      "meaning": "n. 荣誉；赞扬",
+      "example": "The film received accolades worldwide."
+    },
+    {
+      "word": "acquiesce",
+      "phonetic": "/ˌækwiˈes/",
+      "meaning": "v. 默许；勉强同意",
+      "example": "He acquiesced in the decision."
+    },
+    {
+      "word": "acrimony",
+      "phonetic": "/ˈækrɪməni/",
+      "meaning": "n. 尖刻；敌意",
+      "example": "The divorce was marked by acrimony."
+    },
+    {
+      "word": "adage",
+      "phonetic": "/ˈædɪdʒ/",
+      "meaning": "n. 谚语；格言",
+      "example": "The old adage still holds true."
+    },
+    {
+      "word": "adept",
+      "phonetic": "/əˈdept/",
+      "meaning": "adj. 熟练的 n. 内行",
+      "example": "He is adept at negotiation."
+    },
+    {
+      "word": "adulation",
+      "phonetic": "/ˌædjuˈleɪʃn/",
+      "meaning": "n. 奉承；崇拜",
+      "example": "The singer basked in public adulation."
+    },
+    {
+      "word": "affinity",
+      "phonetic": "/əˈfɪnəti/",
+      "meaning": "n. 亲近感；亲和力",
+      "example": "She has an affinity with animals."
+    },
+    {
+      "word": "alacrity",
+      "phonetic": "/əˈlækrəti/",
+      "meaning": "n. 欣然；敏捷",
+      "example": "He accepted the invitation with alacrity."
+    },
+    {
+      "word": "allegiance",
+      "phonetic": "/əˈliːdʒəns/",
+      "meaning": "n. 忠诚；效忠",
+      "example": "They pledged allegiance to the new leader."
+    },
+    {
+      "word": "alliteration",
+      "phonetic": "/əˌlɪtəˈreɪʃn/",
+      "meaning": "n. 头韵",
+      "example": "The slogan uses alliteration for effect."
+    },
+    {
+      "word": "allusion",
+      "phonetic": "/əˈluːʒn/",
+      "meaning": "n. 暗指；典故",
+      "example": "The poem contains many biblical allusions."
+    },
+    {
+      "word": "ambiguity",
+      "phonetic": "/ˌæmbɪˈɡjuːəti/",
+      "meaning": "n. 模糊；歧义",
+      "example": "The ambiguity of the wording caused problems."
+    },
+    {
+      "word": "ambivalence",
+      "phonetic": "/æmˈbɪvələns/",
+      "meaning": "n. 矛盾心理",
+      "example": "He felt ambivalence towards the plan."
+    },
+    {
+      "word": "amnesia",
+      "phonetic": "/æmˈniːziə/",
+      "meaning": "n. 失忆；健忘",
+      "example": "He suffered temporary amnesia after the fall."
+    },
+    {
+      "word": "animosity",
+      "phonetic": "/ˌænɪˈmɒsəti/",
+      "meaning": "n. 敌意；憎恶",
+      "example": "There is deep animosity between them."
+    },
+    {
+      "word": "annotate",
+      "phonetic": "/ˈænəteɪt/",
+      "meaning": "v. 注释；加注解",
+      "example": "She annotated the text in pencil."
+    },
+    {
+      "word": "anomaly",
+      "phonetic": "/əˈnɒməli/",
+      "meaning": "n. 异常；反常现象",
+      "example": "The data show an anomaly near the equator."
+    },
+    {
+      "word": "antipathy",
+      "phonetic": "/ænˈtɪpəθi/",
+      "meaning": "n. 反感；厌恶",
+      "example": "He has a strong antipathy to noise."
+    },
+    {
+      "word": "antithesis",
+      "phonetic": "/ænˈtɪθəsɪs/",
+      "meaning": "n. 对立；对照",
+      "example": "The two styles are the antithesis of each other."
+    },
+    {
+      "word": "aphorism",
+      "phonetic": "/ˈæfərɪzəm/",
+      "meaning": "n. 格言；警句",
+      "example": "The essay opens with a well-known aphorism."
+    },
+    {
+      "word": "aptitude",
+      "phonetic": "/ˈæptɪtjuːd/",
+      "meaning": "n. 天资；倾向",
+      "example": "She showed an aptitude for music."
+    },
+    {
+      "word": "archaic",
+      "phonetic": "/ɑːˈkeɪɪk/",
+      "meaning": "adj. 古老的；过时的",
+      "example": "The law uses archaic language."
+    },
+    {
+      "word": "archetype",
+      "phonetic": "/ˈɑːkitaɪp/",
+      "meaning": "n. 原型；典型",
+      "example": "The hero is an archetype in literature."
+    },
+    {
+      "word": "ardour",
+      "phonetic": "/ˈɑːdə/",
+      "meaning": "n. 热情；激情",
+      "example": "Time did not cool his ardour."
+    },
+    {
+      "word": "articulation",
+      "phonetic": "/ɑːˌtɪkjuˈleɪʃn/",
+      "meaning": "n. 表达；发音",
+      "example": "Clear articulation makes a speech effective."
+    },
+    {
+      "word": "ascendancy",
+      "phonetic": "/əˈsendənsi/",
+      "meaning": "n. 优势；支配地位",
+      "example": "The party gained ascendancy in the 1990s."
+    },
+    {
+      "word": "assiduity",
+      "phonetic": "/ˌæsɪˈdjuːəti/",
+      "meaning": "n. 勤勉；刻苦",
+      "example": "She studied with great assiduity."
+    },
+    {
+      "word": "attainment",
+      "phonetic": "/əˈteɪnmənt/",
+      "meaning": "n. 成就；达到",
+      "example": "Educational attainment varies by region."
+    },
+    {
+      "word": "auditory",
+      "phonetic": "/ˈɔːdətri/",
+      "meaning": "adj. 听觉的",
+      "example": "The test measures auditory memory."
+    },
+    {
+      "word": "authoritarian",
+      "phonetic": "/ɔːˌθɒrɪˈteəriən/",
+      "meaning": "adj. 专制的 n. 独裁者",
+      "example": "The school had an authoritarian regime."
+    },
+    {
+      "word": "autobiography",
+      "phonetic": "/ˌɔːtəbaɪˈɒɡrəfi/",
+      "meaning": "n. 自传",
+      "example": "Her autobiography sold a million copies."
+    },
+    {
+      "word": "behaviourism",
+      "phonetic": "/bɪˈheɪvjərɪzəm/",
+      "meaning": "n. 行为主义",
+      "example": "Behaviourism dominated psychology in the 1950s."
+    },
+    {
+      "word": "bilingual",
+      "phonetic": "/ˌbaɪˈlɪŋɡwəl/",
+      "meaning": "adj. 双语的 n. 双语者",
+      "example": "Bilingual children often switch easily."
+    },
+    {
+      "word": "blasphemy",
+      "phonetic": "/ˈblæsfəmi/",
+      "meaning": "n. 亵渎；不敬",
+      "example": "The play was accused of blasphemy."
+    },
+    {
+      "word": "bravado",
+      "phonetic": "/brəˈvɑːdəʊ/",
+      "meaning": "n. 虚张声势；逞强",
+      "example": "His courage was mostly bravado."
+    },
+    {
+      "word": "burlesque",
+      "phonetic": "/bɜːˈlesk/",
+      "meaning": "n. 滑稽模仿 adj. 滑稽的",
+      "example": "The play is a burlesque of opera."
+    },
+    {
+      "word": "cadence",
+      "phonetic": "/ˈkeɪdns/",
+      "meaning": "n. 韵律；节奏",
+      "example": "The poem has a gentle cadence."
+    },
+    {
+      "word": "caricature",
+      "phonetic": "/ˈkærɪkətʃʊə/",
+      "meaning": "n. 漫画；讽刺画 v. 讽刺",
+      "example": "The magazine published a caricature of the mayor."
+    },
+    {
+      "word": "catharsis",
+      "phonetic": "/kəˈθɑːsɪs/",
+      "meaning": "n. 宣泄；净化",
+      "example": "Tragedy offers the audience catharsis."
+    },
+    {
+      "word": "cerebral",
+      "phonetic": "/ˈserəbrəl/",
+      "meaning": "adj. 大脑的； intellectual 的",
+      "example": "The novel is rather cerebral."
+    },
+    {
+      "word": "charisma",
+      "phonetic": "/kəˈrɪzmə/",
+      "meaning": "n. 魅力；感召力",
+      "example": "The leader had enormous charisma."
+    },
+    {
+      "word": "chronicle",
+      "phonetic": "/ˈkrɒnɪkl/",
+      "meaning": "n. 编年史 v. 记录",
+      "example": "The book chronicles the war years."
+    },
+    {
+      "word": "cipher",
+      "phonetic": "/ˈsaɪfə/",
+      "meaning": "n. 密码；无关紧要的人",
+      "example": "The message was written in cipher."
+    },
+    {
+      "word": "clairvoyant",
+      "phonetic": "/kleəˈvɔɪənt/",
+      "meaning": "adj. 有洞察力的 n. 预言者",
+      "example": "She claims to be clairvoyant."
+    },
+    {
+      "word": "clarity",
+      "phonetic": "/ˈklærəti/",
+      "meaning": "n. 清晰；明确",
+      "example": "The essay lacks clarity."
+    },
+    {
+      "word": "cliche",
+      "phonetic": "/ˈkliːʃeɪ/",
+      "meaning": "n. 陈词滥调 adj. 陈腐的",
+      "example": "The speech was full of clichés."
+    },
+    {
+      "word": "coercive",
+      "phonetic": "/kəʊˈɜːsɪv/",
+      "meaning": "adj. 强制的；胁迫的",
+      "example": "Coercive measures rarely work long term."
+    },
+    {
+      "word": "cognition",
+      "phonetic": "/kɒɡˈnɪʃn/",
+      "meaning": "n. 认知；认识过程",
+      "example": "The study looks at cognition in infants."
+    },
+    {
+      "word": "coherence",
+      "phonetic": "/kəʊˈhɪərəns/",
+      "meaning": "n. 连贯性；一致性",
+      "example": "The argument lacks coherence."
+    },
+    {
+      "word": "colloquial",
+      "phonetic": "/kəˈləʊkwiəl/",
+      "meaning": "adj. 口语的；通俗的",
+      "example": "The phrase is too colloquial for an essay."
+    },
+    {
+      "word": "commemorative",
+      "phonetic": "/kəˈmemərətɪv/",
+      "meaning": "adj. 纪念的",
+      "example": "A commemorative coin was issued."
+    },
+    {
+      "word": "competence",
+      "phonetic": "/ˈkɒmpɪtəns/",
+      "meaning": "n. 能力；胜任",
+      "example": "Nobody doubted her professional competence."
+    },
+    {
+      "word": "comprehension",
+      "phonetic": "/ˌkɒmprɪˈhenʃn/",
+      "meaning": "n. 理解；理解力",
+      "example": "The test measures reading comprehension."
+    },
+    {
+      "word": "compulsion",
+      "phonetic": "/kəmˈpʌlʃn/",
+      "meaning": "n. 强迫；冲动",
+      "example": "He felt a compulsion to check the door."
+    },
+    {
+      "word": "conceit",
+      "phonetic": "/kənˈsiːt/",
+      "meaning": "n. 自负；比喻",
+      "example": "His conceit made him unpopular."
+    },
+    {
+      "word": "conceptual",
+      "phonetic": "/kənˈseptʃuəl/",
+      "meaning": "adj. 概念的；概念上的",
+      "example": "The paper is largely conceptual."
+    },
+    {
+      "word": "concerto",
+      "phonetic": "/kənˈtʃɜːtəʊ/",
+      "meaning": "n. 协奏曲",
+      "example": "She played a piano concerto."
+    },
+    {
+      "word": "condescend",
+      "phonetic": "/ˌkɒndɪˈsend/",
+      "meaning": "v. 屈尊；居高临下",
+      "example": "He condescended to explain the rule."
+    },
+    {
+      "word": "conformity",
+      "phonetic": "/kənˈfɔːməti/",
+      "meaning": "n. 遵从；一致",
+      "example": "Teenagers often rebel against conformity."
+    },
+    {
+      "word": "consciousness",
+      "phonetic": "/ˈkɒnʃəsnəs/",
+      "meaning": "n. 意识；知觉",
+      "example": "He regained consciousness after an hour."
+    },
+    {
+      "word": "consonant",
+      "phonetic": "/ˈkɒnsənənt/",
+      "meaning": "n. 辅音 adj. 一致的",
+      "example": "English has more consonants than vowels."
+    },
+    {
+      "word": "contemplation",
+      "phonetic": "/ˌkɒntəmˈpleɪʃn/",
+      "meaning": "n. 沉思；冥想",
+      "example": "He sat in quiet contemplation."
+    },
+    {
+      "word": "contemptuous",
+      "phonetic": "/kənˈtemptʃuəs/",
+      "meaning": "adj. 轻蔑的；藐视的",
+      "example": "She gave him a contemptuous glance."
+    },
+    {
+      "word": "contentment",
+      "phonetic": "/kənˈtentmənt/",
+      "meaning": "n. 满足；知足",
+      "example": "He found contentment in simple things."
+    },
+    {
+      "word": "contradiction",
+      "phonetic": "/ˌkɒntrəˈdɪkʃn/",
+      "meaning": "n. 矛盾；反驳",
+      "example": "There is a contradiction in the argument."
+    },
+    {
+      "word": "counterfeit",
+      "phonetic": "/ˈkaʊntəfɪt/",
+      "meaning": "adj. 伪造的 v. 伪造",
+      "example": "Counterfeit notes were seized."
+    },
+    {
+      "word": "credibility",
+      "phonetic": "/ˌkredəˈbɪləti/",
+      "meaning": "n. 可信度；信誉",
+      "example": "The scandal damaged his credibility."
+    },
+    {
+      "word": "creed",
+      "phonetic": "/kriːd/",
+      "meaning": "n. 信条；教义",
+      "example": "The school accepts pupils of any creed."
+    },
+    {
+      "word": "critique",
+      "phonetic": "/krɪˈtiːk/",
+      "meaning": "n. 评论；批评 v. 评论",
+      "example": "She wrote a critique of the theory."
+    },
+    {
+      "word": "crux",
+      "phonetic": "/krʌks/",
+      "meaning": "n. 关键；症结",
+      "example": "That is the crux of the problem."
+    },
+    {
+      "word": "cull",
+      "phonetic": "/kʌl/",
+      "meaning": "v. 挑选；剔除",
+      "example": "The editor culled the weaker essays."
+    },
+    {
+      "word": "cultural",
+      "phonetic": "/ˈkʌltʃərəl/",
+      "meaning": "adj. 文化的",
+      "example": "The city has a rich cultural life."
+    },
+    {
+      "word": "cynicism",
+      "phonetic": "/ˈsɪnɪsɪzəm/",
+      "meaning": "n. 愤世嫉俗；怀疑",
+      "example": "Public cynicism about politics is growing."
+    },
+    {
+      "word": "declaim",
+      "phonetic": "/dɪˈkleɪm/",
+      "meaning": "v. 慷慨陈词；朗诵",
+      "example": "He declaimed against the injustice."
+    },
+    {
+      "word": "dedication",
+      "phonetic": "/ˌdedɪˈkeɪʃn/",
+      "meaning": "n. 奉献；献身",
+      "example": "Her dedication to teaching is remarkable."
+    },
+    {
+      "word": "deference",
+      "phonetic": "/ˈdefərəns/",
+      "meaning": "n. 尊敬；顺从",
+      "example": "He spoke with deference to his teacher."
+    },
+    {
+      "word": "degradation",
+      "phonetic": "/ˌdeɡrəˈdeɪʃn/",
+      "meaning": "n. 退化；堕落",
+      "example": "Soil degradation threatens food supply."
+    },
+    {
+      "word": "delusion",
+      "phonetic": "/dɪˈluːʒn/",
+      "meaning": "n. 错觉；妄想",
+      "example": "He is under the delusion that he is famous."
+    },
+    {
+      "word": "denunciation",
+      "phonetic": "/dɪˌnʌnsiˈeɪʃn/",
+      "meaning": "n. 谴责；告发",
+      "example": "The speech was a denunciation of corruption."
+    },
+    {
+      "word": "derivative",
+      "phonetic": "/dɪˈrɪvətɪv/",
+      "meaning": "adj. 衍生的 n. 派生物",
+      "example": "The work is derivative and unoriginal."
+    },
+    {
+      "word": "detachment",
+      "phonetic": "/dɪˈtætʃmənt/",
+      "meaning": "n. 超然；分离",
+      "example": "He described the events with detachment."
+    },
+    {
+      "word": "devotion",
+      "phonetic": "/dɪˈvəʊʃn/",
+      "meaning": "n. 献身；热爱",
+      "example": "Her devotion to her family is total."
+    },
+    {
+      "word": "dialectic",
+      "phonetic": "/ˌdaɪəˈlektɪk/",
+      "meaning": "n. 辩证法 adj. 辩证的",
+      "example": "The essay uses a dialectic structure."
+    },
+    {
+      "word": "diction",
+      "phonetic": "/ˈdɪkʃn/",
+      "meaning": "n. 措辞；发音",
+      "example": "The poem's diction is deliberately archaic."
+    },
+    {
+      "word": "disciple",
+      "phonetic": "/dɪˈsaɪpl/",
+      "meaning": "n. 门徒；追随者",
+      "example": "He was a disciple of the great master."
+    },
+    {
+      "word": "discord",
+      "phonetic": "/ˈdɪskɔːd/",
+      "meaning": "n. 不和；不和谐",
+      "example": "The decision caused discord in the team."
+    },
+    {
+      "word": "disenchanted",
+      "phonetic": "/ˌdɪsɪnˈtʃɑːntɪd/",
+      "meaning": "adj. 不再着迷的；失望的",
+      "example": "Voters became disenchanted with the party."
+    },
+    {
+      "word": "disparage",
+      "phonetic": "/dɪˈspærɪdʒ/",
+      "meaning": "v. 贬低；轻视",
+      "example": "Do not disparage your colleagues' work."
+    },
+    {
+      "word": "dispirit",
+      "phonetic": "/dɪˈspɪrɪt/",
+      "meaning": "v. 使沮丧；使气馁",
+      "example": "The defeat dispirited the whole team."
+    },
+    {
+      "word": "dissertation",
+      "phonetic": "/ˌdɪsəˈteɪʃn/",
+      "meaning": "n. 学位论文",
+      "example": "She is writing her dissertation on Chaucer."
+    },
+    {
+      "word": "dissonance",
+      "phonetic": "/ˈdɪsənəns/",
+      "meaning": "n. 不和谐；不一致",
+      "example": "The music is full of deliberate dissonance."
+    },
+    {
+      "word": "dogma",
+      "phonetic": "/ˈdɒɡmə/",
+      "meaning": "n. 教条；信条",
+      "example": "Science questions dogma."
+    },
+    {
+      "word": "eclectic",
+      "phonetic": "/ɪˈklektɪk/",
+      "meaning": "adj. 兼收并蓄的；折衷的",
+      "example": "Her taste in music is eclectic."
+    },
+    {
+      "word": "ego",
+      "phonetic": "/ˈiːɡəʊ/",
+      "meaning": "n. 自我；自尊心",
+      "example": "His ego was bruised by the criticism."
+    },
+    {
+      "word": "elegy",
+      "phonetic": "/ˈelədʒi/",
+      "meaning": "n. 挽歌；哀歌",
+      "example": "The poem is an elegy for a lost friend."
+    },
+    {
+      "word": "eloquence",
+      "phonetic": "/ˈeləkwəns/",
+      "meaning": "n. 雄辩；口才",
+      "example": "She spoke with great eloquence."
+    },
+    {
+      "word": "elucidate",
+      "phonetic": "/iˈluːsɪdeɪt/",
+      "meaning": "v. 阐明；解释",
+      "example": "Could you elucidate that point further?"
+    },
+    {
+      "word": "eminence",
+      "phonetic": "/ˈemɪnəns/",
+      "meaning": "n. 卓越；显赫",
+      "example": "He achieved eminence as a surgeon."
+    },
+    {
+      "word": "empathy",
+      "phonetic": "/ˈempəθi/",
+      "meaning": "n. 同理心；共情",
+      "example": "Good doctors show empathy."
+    },
+    {
+      "word": "empiricism",
+      "phonetic": "/ɪmˈpɪrɪsɪzəm/",
+      "meaning": "n. 经验主义",
+      "example": "The approach rests on empiricism."
+    },
+    {
+      "word": "enigma",
+      "phonetic": "/ɪˈnɪɡmə/",
+      "meaning": "n. 谜；神秘的人或物",
+      "example": "Her motives remain an enigma."
+    },
+    {
+      "word": "enrolment",
+      "phonetic": "/ɪnˈrəʊlmənt/",
+      "meaning": "n. 注册；入学人数",
+      "example": "Enrolment has doubled in five years."
+    },
+    {
+      "word": "enthral",
+      "phonetic": "/ɪnˈθrɔːl/",
+      "meaning": "v. 使着迷；吸引",
+      "example": "The story enthralled the children."
+    },
+    {
+      "word": "epic",
+      "phonetic": "/ˈepɪk/",
+      "meaning": "n. 史诗 adj. 宏大的",
+      "example": "The film is an epic about migration."
+    },
+    {
+      "word": "epitome",
+      "phonetic": "/ɪˈpɪtəmi/",
+      "meaning": "n. 典型；缩影",
+      "example": "She is the epitome of elegance."
+    },
+    {
+      "word": "equivocal",
+      "phonetic": "/ɪˈkwɪvəkl/",
+      "meaning": "adj. 模棱两可的；含糊的",
+      "example": "His answer was deliberately equivocal."
+    },
+    {
+      "word": "erudite",
+      "phonetic": "/ˈerudaɪt/",
+      "meaning": "adj. 博学的",
+      "example": "The book is erudite but readable."
+    },
+    {
+      "word": "esoteric",
+      "phonetic": "/ˌesəˈterɪk/",
+      "meaning": "adj. 深奥的；只有内行才懂的",
+      "example": "The paper is too esoteric for general readers."
+    },
+    {
+      "word": "ethic",
+      "phonetic": "/ˈeθɪk/",
+      "meaning": "n. 道德准则；伦理",
+      "example": "She has a strong work ethic."
+    },
+    {
+      "word": "euphemism",
+      "phonetic": "/ˈjuːfəmɪzəm/",
+      "meaning": "n. 委婉语",
+      "example": "\"Passed away\" is a euphemism for \"died\"."
+    },
+    {
+      "word": "exhort",
+      "phonetic": "/ɪɡˈzɔːt/",
+      "meaning": "v. 劝告；激励",
+      "example": "The coach exhorted the team to fight on."
+    },
+    {
+      "word": "exposition",
+      "phonetic": "/ˌekspəˈzɪʃn/",
+      "meaning": "n. 阐述；博览会",
+      "example": "The first chapter is pure exposition."
+    },
+    {
+      "word": "fable",
+      "phonetic": "/ˈfeɪbl/",
+      "meaning": "n. 寓言；无稽之谈",
+      "example": "Aesop's fables teach simple lessons."
+    },
+    {
+      "word": "facile",
+      "phonetic": "/ˈfæsaɪl/",
+      "meaning": "adj. 肤浅的；轻易的",
+      "example": "He offered a facile explanation."
+    },
+    {
+      "word": "fanatic",
+      "phonetic": "/fəˈnætɪk/",
+      "meaning": "n. 狂热者 adj. 狂热的",
+      "example": "He is a football fanatic."
+    },
+    {
+      "word": "fantasy",
+      "phonetic": "/ˈfæntəsi/",
+      "meaning": "n. 幻想；幻想作品",
+      "example": "She writes fantasy novels for children."
+    },
+    {
+      "word": "feasibility",
+      "phonetic": "/ˌfiːzəˈbɪləti/",
+      "meaning": "n. 可行性",
+      "example": "A feasibility study was commissioned."
+    },
+    {
+      "word": "fervour",
+      "phonetic": "/ˈfɜːvə/",
+      "meaning": "n. 热情；热烈",
+      "example": "The crowd cheered with fervour."
+    },
+    {
+      "word": "flamboyant",
+      "phonetic": "/flæmˈbɔɪənt/",
+      "meaning": "adj. 炫耀的；华丽的",
+      "example": "He is known for his flamboyant style."
+    },
+    {
+      "word": "fluency",
+      "phonetic": "/ˈfluːənsi/",
+      "meaning": "n. 流利；流畅",
+      "example": "She speaks with great fluency."
+    },
+    {
+      "word": "foresight",
+      "phonetic": "/ˈfɔːsaɪt/",
+      "meaning": "n. 远见；先见之明",
+      "example": "With hindsight, his foresight was remarkable."
+    },
+    {
+      "word": "formative",
+      "phonetic": "/ˈfɔːmətɪv/",
+      "meaning": "adj. 形成的；有塑造作用的",
+      "example": "Those were his formative years."
+    },
+    {
+      "word": "frivolous",
+      "phonetic": "/ˈfrɪvələs/",
+      "meaning": "adj. 轻浮的；不严肃的",
+      "example": "The court dismissed the claim as frivolous."
+    },
+    {
+      "word": "genre",
+      "phonetic": "/ˈʒɒnrə/",
+      "meaning": "n. 体裁；类型",
+      "example": "Detective fiction is a popular genre."
+    },
+    {
+      "word": "grandeur",
+      "phonetic": "/ˈɡrændʒə/",
+      "meaning": "n. 宏伟；壮丽",
+      "example": "The grandeur of the mountains awed us."
+    },
+    {
+      "word": "grimace",
+      "phonetic": "/ˈɡrɪməs/",
+      "meaning": "n. 鬼脸 v. 做鬼脸",
+      "example": "He grimaced at the bitter taste."
+    },
+    {
+      "word": "guru",
+      "phonetic": "/ˈɡʊruː/",
+      "meaning": "n. 权威；导师",
+      "example": "He became a management guru."
+    },
+    {
+      "word": "hackneyed",
+      "phonetic": "/ˈhæknid/",
+      "meaning": "adj. 陈腐的；老套的",
+      "example": "The plot is hackneyed and predictable."
+    },
+    {
+      "word": "haphazard",
+      "phonetic": "/ˌhæpˈhæzəd/",
+      "meaning": "adj. 随意的；杂乱的",
+      "example": "The filing system is haphazard."
+    },
+    {
+      "word": "heresy",
+      "phonetic": "/ˈherəsi/",
+      "meaning": "n. 异端；异教",
+      "example": "His views were condemned as heresy."
+    },
+    {
+      "word": "homage",
+      "phonetic": "/ˈhɒmɪdʒ/",
+      "meaning": "n. 敬意；致敬",
+      "example": "The film is a homage to silent cinema."
+    },
+    {
+      "word": "humility",
+      "phonetic": "/hjuːˈmɪləti/",
+      "meaning": "n. 谦逊；谦卑",
+      "example": "He accepted the prize with humility."
+    },
+    {
+      "word": "hyperbole",
+      "phonetic": "/haɪˈpɜːbəli/",
+      "meaning": "n. 夸张；夸张法",
+      "example": "The description is pure hyperbole."
+    },
+    {
+      "word": "hypocrisy",
+      "phonetic": "/hɪˈpɒkrəsi/",
+      "meaning": "n. 虚伪；伪善",
+      "example": "Voters are tired of political hypocrisy."
+    },
+    {
+      "word": "icon",
+      "phonetic": "/ˈaɪkɒn/",
+      "meaning": "n. 偶像；图标；圣像",
+      "example": "She became a fashion icon."
+    },
+    {
+      "word": "idiosyncrasy",
+      "phonetic": "/ˌɪdiəˈsɪŋkrəsi/",
+      "meaning": "n. 个人特质；怪癖",
+      "example": "Everyone has their own idiosyncrasies."
+    },
+    {
+      "word": "idiom",
+      "phonetic": "/ˈɪdiəm/",
+      "meaning": "n. 习语；方言",
+      "example": "The phrase is an English idiom."
+    },
+    {
+      "word": "imagery",
+      "phonetic": "/ˈɪmɪdʒəri/",
+      "meaning": "n. 意象；图像",
+      "example": "The poem is rich in visual imagery."
+    },
+    {
+      "word": "impartial",
+      "phonetic": "/ɪmˈpɑːʃl/",
+      "meaning": "adj. 公正的；不偏不倚的",
+      "example": "An impartial judge is essential."
+    },
+    {
+      "word": "implausible",
+      "phonetic": "/ɪmˈplɔːzəbl/",
+      "meaning": "adj. 难以置信的；不合情理的",
+      "example": "The explanation seems implausible."
+    },
+    {
+      "word": "improvise",
+      "phonetic": "/ˈɪmprəvaɪz/",
+      "meaning": "v. 即兴创作；临时应付",
+      "example": "The pianist improvised for ten minutes."
+    },
+    {
+      "word": "inarticulate",
+      "phonetic": "/ˌɪnɑːˈtɪkjələt/",
+      "meaning": "adj. 不善于表达的；含糊的",
+      "example": "He became inarticulate with anger."
+    },
+    {
+      "word": "incisive",
+      "phonetic": "/ɪnˈsaɪsɪv/",
+      "meaning": "adj. 敏锐的；一针见血的",
+      "example": "She wrote an incisive review."
+    },
+    {
+      "word": "indoctrinate",
+      "phonetic": "/ɪnˈdɒktrɪneɪt/",
+      "meaning": "v. 灌输；教导",
+      "example": "The children were indoctrinated with propaganda."
+    },
+    {
+      "word": "inept",
+      "phonetic": "/ɪˈnept/",
+      "meaning": "adj. 无能的；不称职的",
+      "example": "The handling of the crisis was inept."
+    },
+    {
+      "word": "inference",
+      "phonetic": "/ˈɪnfərəns/",
+      "meaning": "n. 推论；推断",
+      "example": "The inference is that demand is falling."
+    },
+    {
+      "word": "ingenuity",
+      "phonetic": "/ˌɪndʒəˈnjuːəti/",
+      "meaning": "n. 创造力；巧妙",
+      "example": "The device shows great ingenuity."
+    },
+    {
+      "word": "inhibition",
+      "phonetic": "/ˌɪnhɪˈbɪʃn/",
+      "meaning": "n. 抑制；拘谨",
+      "example": "Alcohol reduces social inhibition."
+    },
+    {
+      "word": "innocuous",
+      "phonetic": "/ɪˈnɒkjuəs/",
+      "meaning": "adj. 无害的；无恶意的",
+      "example": "The remark was innocent and innocuous."
+    },
+    {
+      "word": "insinuate",
+      "phonetic": "/ɪnˈsɪnjueɪt/",
+      "meaning": "v. 暗示；含沙射影地说",
+      "example": "Are you insinuating that I lied?"
+    },
+    {
+      "word": "instil",
+      "phonetic": "/ɪnˈstɪl/",
+      "meaning": "v. 逐渐灌输；逐渐培养",
+      "example": "Teachers instil confidence in their pupils."
+    },
+    {
+      "word": "intelligible",
+      "phonetic": "/ɪnˈtelɪdʒəbl/",
+      "meaning": "adj. 可理解的；明白易懂的",
+      "example": "The recording is barely intelligible."
+    },
+    {
+      "word": "interpretation",
+      "phonetic": "/ɪnˌtɜːprɪˈteɪʃn/",
+      "meaning": "n. 解释；演绎",
+      "example": "Her interpretation of the role was original."
+    },
+    {
+      "word": "intimidating",
+      "phonetic": "/ɪnˈtɪmɪdeɪtɪŋ/",
+      "meaning": "adj. 令人胆怯的；吓人的",
+      "example": "The exam hall was intimidating."
+    },
+    {
+      "word": "intricacy",
+      "phonetic": "/ˈɪntrɪkəsi/",
+      "meaning": "n. 复杂；错综",
+      "example": "He explained the intricacies of the law."
+    },
+    {
+      "word": "introspection",
+      "phonetic": "/ˌɪntrəˈspekʃn/",
+      "meaning": "n. 内省；自我反省",
+      "example": "The novel is a work of introspection."
+    },
+    {
+      "word": "jargon",
+      "phonetic": "/ˈdʒɑːɡən/",
+      "meaning": "n. 行话；术语",
+      "example": "The report is full of technical jargon."
+    },
+    {
+      "word": "jeopardise",
+      "phonetic": "/ˈdʒepədaɪz/",
+      "meaning": "v. 危及；损害",
+      "example": "The delay could jeopardise the deal."
+    },
+    {
+      "word": "jubilant",
+      "phonetic": "/ˈdʒuːbɪlənt/",
+      "meaning": "adj. 欢欣鼓舞的",
+      "example": "The jubilant crowd filled the square."
+    },
+    {
+      "word": "judicious",
+      "phonetic": "/dʒuˈdɪʃəs/",
+      "meaning": "adj. 明智的；审慎的",
+      "example": "Judicious use of resources is vital."
+    },
+    {
+      "word": "jurisprudence",
+      "phonetic": "/ˌdʒʊərɪsˈpruːdns/",
+      "meaning": "n. 法学；法律学",
+      "example": "He studied jurisprudence at Oxford."
+    },
+    {
+      "word": "lament",
+      "phonetic": "/ləˈment/",
+      "meaning": "v. 哀悼；抱怨 n. 哀歌",
+      "example": "He lamented the loss of the old library."
+    },
+    {
+      "word": "latent",
+      "phonetic": "/ˈleɪtnt/",
+      "meaning": "adj. 潜在的；潜伏的",
+      "example": "The illness may remain latent for years."
+    },
+    {
+      "word": "laudable",
+      "phonetic": "/ˈlɔːdəbl/",
+      "meaning": "adj. 值得赞扬的",
+      "example": "Her motives were laudable."
+    },
+    {
+      "word": "legendary",
+      "phonetic": "/ˈledʒəndri/",
+      "meaning": "adj. 传说的；极著名的",
+      "example": "His generosity was legendary."
+    },
+    {
+      "word": "lexical",
+      "phonetic": "/ˈleksɪkl/",
+      "meaning": "adj. 词汇的",
+      "example": "The study examines lexical development."
+    },
+    {
+      "word": "linguistics",
+      "phonetic": "/lɪŋˈɡwɪstɪks/",
+      "meaning": "n. 语言学",
+      "example": "She has a degree in linguistics."
+    },
+    {
+      "word": "literate",
+      "phonetic": "/ˈlɪtərət/",
+      "meaning": "adj. 有读写能力的；有文化的",
+      "example": "Most adults in the region are literate."
+    },
+    {
+      "word": "lyric",
+      "phonetic": "/ˈlɪrɪk/",
+      "meaning": "n. 歌词 adj. 抒情的",
+      "example": "The lyrics are simple but moving."
+    },
+    {
+      "word": "magnanimous",
+      "phonetic": "/mæɡˈnænɪməs/",
+      "meaning": "adj. 宽宏大量的",
+      "example": "He was magnanimous in victory."
+    },
+    {
+      "word": "malevolent",
+      "phonetic": "/məˈlevələnt/",
+      "meaning": "adj. 恶毒的；有恶意的",
+      "example": "The characters are malevolent and cruel."
+    },
+    {
+      "word": "manifesto",
+      "phonetic": "/ˌmænɪˈfestəʊ/",
+      "meaning": "n. 宣言；政纲",
+      "example": "The party published its election manifesto."
+    },
+    {
+      "word": "maxim",
+      "phonetic": "/ˈmæksɪm/",
+      "meaning": "n. 格言；箴言",
+      "example": "Her favourite maxim is \"less is more\"."
+    },
+    {
+      "word": "meditate",
+      "phonetic": "/ˈmedɪteɪt/",
+      "meaning": "v. 冥想；沉思",
+      "example": "He meditates for twenty minutes daily."
+    },
+    {
+      "word": "melancholy",
+      "phonetic": "/ˈmelənkəli/",
+      "meaning": "n. 忧郁 adj. 忧郁的",
+      "example": "The music has a melancholy tone."
+    },
+    {
+      "word": "memoir",
+      "phonetic": "/ˈmemwɑː/",
+      "meaning": "n. 回忆录；传记",
+      "example": "She published her memoirs last year."
+    },
+    {
+      "word": "mindset",
+      "phonetic": "/ˈmaɪndset/",
+      "meaning": "n. 心态；思维方式",
+      "example": "Success requires a positive mindset."
+    },
+    {
+      "word": "misconception",
+      "phonetic": "/ˌmɪskənˈsepʃn/",
+      "meaning": "n. 误解；错误观念",
+      "example": "It is a common misconception that fat is always bad."
+    },
+    {
+      "word": "momentous",
+      "phonetic": "/məˈmentəs/",
+      "meaning": "adj. 重大的；重要的",
+      "example": "It was a momentous decision."
+    },
+    {
+      "word": "motif",
+      "phonetic": "/məʊˈtiːf/",
+      "meaning": "n. 主题；图案",
+      "example": "Water is a recurring motif in her work."
+    },
+    {
+      "word": "mundane",
+      "phonetic": "/mʌnˈdeɪn/",
+      "meaning": "adj. 平凡的；世俗的",
+      "example": "He was bored by mundane tasks."
+    },
+    {
+      "word": "myriad",
+      "phonetic": "/ˈmɪriəd/",
+      "meaning": "n. 无数 adj. 无数的",
+      "example": "There are a myriad of possible solutions."
+    },
+    {
+      "word": "naivety",
+      "phonetic": "/naɪˈiːvəti/",
+      "meaning": "n. 天真；幼稚",
+      "example": "His naivety was almost charming."
+    },
+    {
+      "word": "narrative",
+      "phonetic": "/ˈnærətɪv/",
+      "meaning": "n. 叙述；故事 adj. 叙述的",
+      "example": "The novel uses a first-person narrative."
+    },
+    {
+      "word": "nuance",
+      "phonetic": "/ˈnjuːɑːns/",
+      "meaning": "n. 细微差别",
+      "example": "The translation misses the nuances."
+    },
+    {
+      "word": "obligatory",
+      "phonetic": "/əˈblɪɡətri/",
+      "meaning": "adj. 强制的；义务的",
+      "example": "Attendance is obligatory."
+    },
+    {
+      "word": "oblivion",
+      "phonetic": "/əˈblɪviən/",
+      "meaning": "n. 遗忘；湮没",
+      "example": "The book fell into oblivion."
+    },
+    {
+      "word": "obscurity",
+      "phonetic": "/əbˈskjʊərəti/",
+      "meaning": "n. 默默无闻；晦涩",
+      "example": "He rose from obscurity to fame."
+    },
+    {
+      "word": "obsession",
+      "phonetic": "/əbˈseʃn/",
+      "meaning": "n. 痴迷；执念",
+      "example": "Her obsession with detail is exhausting."
+    },
+    {
+      "word": "ode",
+      "phonetic": "/əʊd/",
+      "meaning": "n. 颂诗；颂歌",
+      "example": "Keats wrote an ode to a nightingale."
+    },
+    {
+      "word": "oratory",
+      "phonetic": "/ˈɒrətri/",
+      "meaning": "n. 演讲术；雄辩",
+      "example": "His oratory moved the audience."
+    },
+    {
+      "word": "orthodoxy",
+      "phonetic": "/ˈɔːθədɒksi/",
+      "meaning": "n. 正统观念；正统",
+      "example": "The theory challenged economic orthodoxy."
+    },
+    {
+      "word": "outspoken",
+      "phonetic": "/aʊtˈspəʊkən/",
+      "meaning": "adj. 直言的；坦率的",
+      "example": "She is an outspoken critic of the policy."
+    },
+    {
+      "word": "parable",
+      "phonetic": "/ˈpærəbl/",
+      "meaning": "n. 寓言；比喻",
+      "example": "The story is told as a parable."
+    },
+    {
+      "word": "paraphrase",
+      "phonetic": "/ˈpærəfreɪz/",
+      "meaning": "v. 释义；改写 n. 释义",
+      "example": "Paraphrase the quotation in your own words."
+    },
+    {
+      "word": "parody",
+      "phonetic": "/ˈpærədi/",
+      "meaning": "n. 滑稽模仿 v. 模仿",
+      "example": "The show is a parody of reality TV."
+    },
+    {
+      "word": "patronise",
+      "phonetic": "/ˈpætrənaɪz/",
+      "meaning": "v. 以高人一等的态度对待；光顾",
+      "example": "Do not patronise the students."
+    },
+    {
+      "word": "pedantic",
+      "phonetic": "/pɪˈdæntɪk/",
+      "meaning": "adj. 迂腐的；卖弄学问的",
+      "example": "His pedantic corrections annoyed everyone."
+    },
+    {
+      "word": "penchant",
+      "phonetic": "/ˈpɒ̃ʃɒ̃/",
+      "meaning": "n. 嗜好；倾向",
+      "example": "She has a penchant for drama."
+    },
+    {
+      "word": "perceptive",
+      "phonetic": "/pəˈseptɪv/",
+      "meaning": "adj. 有洞察力的；敏锐的",
+      "example": "The review was unusually perceptive."
+    },
+    {
+      "word": "perfunctory",
+      "phonetic": "/pəˈfʌŋktəri/",
+      "meaning": "adj. 敷衍的；草率的",
+      "example": "He gave the report a perfunctory glance."
+    },
+    {
+      "word": "persevere",
+      "phonetic": "/ˌpɜːsɪˈvɪə/",
+      "meaning": "v. 坚持不懈；锲而不舍",
+      "example": "She persevered despite many setbacks."
+    },
+    {
+      "word": "persona",
+      "phonetic": "/pəˈsəʊnə/",
+      "meaning": "n. 形象；人格面具",
+      "example": "The singer adopts a different persona on stage."
+    },
+    {
+      "word": "persuasive",
+      "phonetic": "/pəˈsweɪsɪv/",
+      "meaning": "adj. 有说服力的",
+      "example": "His argument was clear and persuasive."
+    },
+    {
+      "word": "pertain",
+      "phonetic": "/pəˈteɪn/",
+      "meaning": "v. 有关；属于",
+      "example": "The rules pertain to all staff."
+    },
+    {
+      "word": "pervasive",
+      "phonetic": "/pəˈveɪsɪv/",
+      "meaning": "adj. 普遍的；弥漫的",
+      "example": "Inequality is pervasive in the system."
+    },
+    {
+      "word": "pessimism",
+      "phonetic": "/ˈpesɪmɪzəm/",
+      "meaning": "n. 悲观；悲观主义",
+      "example": "The report was marked by pessimism."
+    },
+    {
+      "word": "philology",
+      "phonetic": "/fɪˈlɒlədʒi/",
+      "meaning": "n. 语文学；文献学",
+      "example": "He specialised in classical philology."
+    },
+    {
+      "word": "plagiarise",
+      "phonetic": "/ˈpleɪdʒəraɪz/",
+      "meaning": "v. 剽窃；抄袭",
+      "example": "Students who plagiarise will fail."
+    },
+    {
+      "word": "platitude",
+      "phonetic": "/ˈplætɪtjuːd/",
+      "meaning": "n. 陈词滥调",
+      "example": "The speech was full of platitudes."
+    },
+    {
+      "word": "poignant",
+      "phonetic": "/ˈpɔɪnjənt/",
+      "meaning": "adj. 令人心酸的；深刻的",
+      "example": "The photographs are poignant reminders of war."
+    },
+    {
+      "word": "ponder",
+      "phonetic": "/ˈpɒndə/",
+      "meaning": "v. 沉思；考虑",
+      "example": "She pondered the question for a moment."
+    },
+    {
+      "word": "portrayal",
+      "phonetic": "/pɔːˈtreɪəl/",
+      "meaning": "n. 描绘；扮演",
+      "example": "Her portrayal of the queen was praised."
+    },
+    {
+      "word": "precept",
+      "phonetic": "/ˈpriːsept/",
+      "meaning": "n. 准则；格言",
+      "example": "The school follows the precepts of its founder."
+    },
+    {
+      "word": "preconception",
+      "phonetic": "/ˌpriːkənˈsepʃn/",
+      "meaning": "n. 先入之见；成见",
+      "example": "The study challenges common preconceptions."
+    },
+    {
+      "word": "predicament",
+      "phonetic": "/prɪˈdɪkəmənt/",
+      "meaning": "n. 困境；窘境",
+      "example": "She found herself in an awkward predicament."
+    },
+    {
+      "word": "predisposition",
+      "phonetic": "/ˌpriːdɪspəˈzɪʃn/",
+      "meaning": "n. 倾向；易感性",
+      "example": "There is a genetic predisposition to the illness."
+    },
+    {
+      "word": "preoccupation",
+      "phonetic": "/priˌɒkjuˈpeɪʃn/",
+      "meaning": "n. 全神贯注；关注的事",
+      "example": "His main preoccupation is money."
+    },
+    {
+      "word": "presumption",
+      "phonetic": "/prɪˈzʌmpʃn/",
+      "meaning": "n. 假定；放肆",
+      "example": "The presumption of innocence is fundamental."
+    },
+    {
+      "word": "pretentious",
+      "phonetic": "/prɪˈtenʃəs/",
+      "meaning": "adj. 自命不凡的；做作的",
+      "example": "The film is pretentious and dull."
+    },
+    {
+      "word": "prolific",
+      "phonetic": "/prəˈlɪfɪk/",
+      "meaning": "adj. 多产的；丰富的",
+      "example": "He is a prolific writer of detective novels."
+    },
+    {
+      "word": "prologue",
+      "phonetic": "/ˈprəʊlɒɡ/",
+      "meaning": "n. 序言；开场白",
+      "example": "The prologue sets the scene."
+    },
+    {
+      "word": "propensity",
+      "phonetic": "/prəˈpensəti/",
+      "meaning": "n. 倾向；习性",
+      "example": "He has a propensity to exaggerate."
+    },
+    {
+      "word": "proponent",
+      "phonetic": "/prəˈpəʊnənt/",
+      "meaning": "n. 支持者；倡导者",
+      "example": "She is a proponent of free education."
+    },
+    {
+      "word": "prose",
+      "phonetic": "/prəʊz/",
+      "meaning": "n. 散文；平淡的文字",
+      "example": "The novel is written in simple prose."
+    },
+    {
+      "word": "protagonist",
+      "phonetic": "/prəˈtæɡənɪst/",
+      "meaning": "n. 主角；主要人物",
+      "example": "The protagonist narrates the story."
+    },
+    {
+      "word": "provocative",
+      "phonetic": "/prəˈvɒkətɪv/",
+      "meaning": "adj. 挑衅的；煽动性的",
+      "example": "The advertisement was deliberately provocative."
+    },
+    {
+      "word": "prudence",
+      "phonetic": "/ˈpruːdns/",
+      "meaning": "n. 谨慎；审慎",
+      "example": "Financial prudence is essential."
+    },
+    {
+      "word": "pseudonym",
+      "phonetic": "/ˈsjuːdənɪm/",
+      "meaning": "n. 笔名；假名",
+      "example": "She writes under a pseudonym."
+    },
+    {
+      "word": "psyche",
+      "phonetic": "/ˈsaɪki/",
+      "meaning": "n. 心灵；精神",
+      "example": "The novel explores the national psyche."
+    },
+    {
+      "word": "pun",
+      "phonetic": "/pʌn/",
+      "meaning": "n. 双关语 v. 用双关语",
+      "example": "The headline contains a clever pun."
+    },
+    {
+      "word": "quaint",
+      "phonetic": "/kweɪnt/",
+      "meaning": "adj. 古雅的；奇特的",
+      "example": "They stayed in a quaint old cottage."
+    },
+    {
+      "word": "quandary",
+      "phonetic": "/ˈkwɒndəri/",
+      "meaning": "n. 困惑；窘境",
+      "example": "She was in a quandary about which offer to accept."
+    },
+    {
+      "word": "quell",
+      "phonetic": "/kwel/",
+      "meaning": "v. 平息；镇压",
+      "example": "Police quelled the disturbance quickly."
+    },
+    {
+      "word": "quirk",
+      "phonetic": "/kwɜːk/",
+      "meaning": "n. 怪癖；偶然事件",
+      "example": "By a quirk of history, the letter survived."
+    },
+    {
+      "word": "rationalise",
+      "phonetic": "/ˈræʃnəlaɪz/",
+      "meaning": "v. 使合理化；为…找理由",
+      "example": "He rationalised his failure as bad luck."
+    },
+    {
+      "word": "reaffirm",
+      "phonetic": "/ˌriːəˈfɜːm/",
+      "meaning": "v. 重申；再次肯定",
+      "example": "The government reaffirmed its commitment."
+    },
+    {
+      "word": "recollection",
+      "phonetic": "/ˌrekəˈlekʃn/",
+      "meaning": "n. 回忆；记忆",
+      "example": "My recollections of that day are vague."
+    },
+    {
+      "word": "reflection",
+      "phonetic": "/rɪˈflekʃn/",
+      "meaning": "n. 反映；反思；倒影",
+      "example": "The book is a reflection of its time."
+    },
+    {
+      "word": "reminisce",
+      "phonetic": "/ˌremɪˈnɪs/",
+      "meaning": "v. 回忆；缅怀",
+      "example": "They reminisced about their school days."
+    },
+    {
+      "word": "remorse",
+      "phonetic": "/rɪˈmɔːs/",
+      "meaning": "n. 悔恨；懊悔",
+      "example": "He showed no remorse for his actions."
+    },
+    {
+      "word": "renaissance",
+      "phonetic": "/rɪˈneɪsns/",
+      "meaning": "n. 文艺复兴；复兴",
+      "example": "The city is enjoying a cultural renaissance."
+    },
+    {
+      "word": "repertoire",
+      "phonetic": "/ˈrepətwɑː/",
+      "meaning": "n. 全部剧目；全部才能",
+      "example": "The orchestra has a wide repertoire."
+    },
+    {
+      "word": "reprimand",
+      "phonetic": "/ˈreprɪmɑːnd/",
+      "meaning": "v. 训斥 n. 训斥",
+      "example": "He was reprimanded for being late."
+    },
+    {
+      "word": "resonance",
+      "phonetic": "/ˈrezənəns/",
+      "meaning": "n. 共鸣；洪亮",
+      "example": "Her words had a deep resonance."
+    },
+    {
+      "word": "retrospective",
+      "phonetic": "/ˌretrəˈspektɪv/",
+      "meaning": "n. 回顾展 adj. 回顾的",
+      "example": "The gallery held a retrospective of his work."
+    },
+    {
+      "word": "reverence",
+      "phonetic": "/ˈrevərəns/",
+      "meaning": "n. 崇敬；敬畏",
+      "example": "They speak of him with reverence."
+    },
+    {
+      "word": "rhetorical",
+      "phonetic": "/rɪˈtɒrɪkl/",
+      "meaning": "adj. 修辞的；反问的",
+      "example": "\"Who knows?\" is a rhetorical question."
+    },
+    {
+      "word": "rigour",
+      "phonetic": "/ˈrɪɡə/",
+      "meaning": "n. 严谨；严格",
+      "example": "The study was conducted with rigour."
+    },
+    {
+      "word": "rustic",
+      "phonetic": "/ˈrʌstɪk/",
+      "meaning": "adj. 乡村的；质朴的",
+      "example": "The restaurant has a rustic charm."
+    },
+    {
+      "word": "saga",
+      "phonetic": "/ˈsɑːɡə/",
+      "meaning": "n. 长篇故事；系列事件",
+      "example": "The saga of the missing painting continues."
+    },
+    {
+      "word": "sagacity",
+      "phonetic": "/səˈɡæsəti/",
+      "meaning": "n. 睿智；精明",
+      "example": "He handled the matter with sagacity."
+    },
+    {
+      "word": "satire",
+      "phonetic": "/ˈsætaɪə/",
+      "meaning": "n. 讽刺；讽刺作品",
+      "example": "The novel is a satire on modern politics."
+    },
+    {
+      "word": "sceptical",
+      "phonetic": "/ˈskeptɪkl/",
+      "meaning": "adj. 怀疑的",
+      "example": "Scientists remain sceptical of the claim."
+    },
+    {
+      "word": "scholarly",
+      "phonetic": "/ˈskɒləli/",
+      "meaning": "adj. 学术的；博学的",
+      "example": "The book is a scholarly study of the period."
+    },
+    {
+      "word": "semantics",
+      "phonetic": "/sɪˈmæntɪks/",
+      "meaning": "n. 语义学；含义",
+      "example": "The argument is largely about semantics."
+    },
+    {
+      "word": "serenity",
+      "phonetic": "/səˈrenəti/",
+      "meaning": "n. 宁静；安详",
+      "example": "The garden has an air of serenity."
+    },
+    {
+      "word": "simile",
+      "phonetic": "/ˈsɪməli/",
+      "meaning": "n. 明喻",
+      "example": "\"As brave as a lion\" is a simile."
+    },
+    {
+      "word": "solace",
+      "phonetic": "/ˈsɒləs/",
+      "meaning": "n. 安慰 v. 安慰",
+      "example": "She found solace in music."
+    },
+    {
+      "word": "solicit",
+      "phonetic": "/səˈlɪsɪt/",
+      "meaning": "v. 征求；请求",
+      "example": "The charity solicited donations door to door."
+    },
+    {
+      "word": "sonnet",
+      "phonetic": "/ˈsɒnɪt/",
+      "meaning": "n. 十四行诗",
+      "example": "He wrote a sonnet for her birthday."
+    },
+    {
+      "word": "sophistry",
+      "phonetic": "/ˈsɒfɪstri/",
+      "meaning": "n. 诡辩；似是而非的论证",
+      "example": "The argument is pure sophistry."
+    },
+    {
+      "word": "spontaneity",
+      "phonetic": "/ˌspɒntəˈneɪəti/",
+      "meaning": "n. 自发性；自然",
+      "example": "The performance had real spontaneity."
+    },
+    {
+      "word": "stagnant",
+      "phonetic": "/ˈstæɡnənt/",
+      "meaning": "adj. 停滞的；不流动的",
+      "example": "The economy has been stagnant for years."
+    },
+    {
+      "word": "stigma",
+      "phonetic": "/ˈstɪɡmə/",
+      "meaning": "n. 耻辱；污名",
+      "example": "There is still a stigma attached to mental illness."
+    },
+    {
+      "word": "stipulate",
+      "phonetic": "/ˈstɪpjuleɪt/",
+      "meaning": "v. 规定；明确要求",
+      "example": "The contract stipulates a two-month notice period."
+    },
+    {
+      "word": "sublime",
+      "phonetic": "/səˈblaɪm/",
+      "meaning": "adj. 崇高的；极美的",
+      "example": "The view from the summit was sublime."
+    },
+    {
+      "word": "submissive",
+      "phonetic": "/səbˈmɪsɪv/",
+      "meaning": "adj. 顺从的；服从的",
+      "example": "He was criticised for being too submissive."
+    },
+    {
+      "word": "suffice",
+      "phonetic": "/səˈfaɪs/",
+      "meaning": "v. 足够；满足",
+      "example": "A brief note will suffice."
+    },
+    {
+      "word": "symbolism",
+      "phonetic": "/ˈsɪmbəlɪzəm/",
+      "meaning": "n. 象征主义；象征意义",
+      "example": "The painting is rich in symbolism."
+    },
+    {
+      "word": "symposium",
+      "phonetic": "/sɪmˈpəʊziəm/",
+      "meaning": "n. 研讨会；专题讨论会",
+      "example": "She spoke at a symposium on ethics."
+    },
+    {
+      "word": "synopsis",
+      "phonetic": "/sɪˈnɒpsɪs/",
+      "meaning": "n. 摘要；梗概",
+      "example": "The publisher asked for a synopsis."
+    },
+    {
+      "word": "tact",
+      "phonetic": "/tækt/",
+      "meaning": "n. 圆通；得体",
+      "example": "She handled the complaint with tact."
+    },
+    {
+      "word": "temperament",
+      "phonetic": "/ˈtemprəmənt/",
+      "meaning": "n. 性情；气质",
+      "example": "He has an artistic temperament."
+    },
+    {
+      "word": "tenet",
+      "phonetic": "/ˈtenɪt/",
+      "meaning": "n. 原则；信条",
+      "example": "Equality is a central tenet of the law."
+    },
+    {
+      "word": "tenuous",
+      "phonetic": "/ˈtenjuəs/",
+      "meaning": "adj. 脆弱的；薄弱的",
+      "example": "The link between the two is tenuous."
+    },
+    {
+      "word": "testament",
+      "phonetic": "/ˈtestəmənt/",
+      "meaning": "n. 证明；遗嘱",
+      "example": "The turnout is a testament to her popularity."
+    },
+    {
+      "word": "tirade",
+      "phonetic": "/taɪˈreɪd/",
+      "meaning": "n. 长篇激烈演说；斥责",
+      "example": "He launched into a tirade against the press."
+    },
+    {
+      "word": "tranquil",
+      "phonetic": "/ˈtræŋkwɪl/",
+      "meaning": "adj. 平静的；安宁的",
+      "example": "The lake was calm and tranquil."
+    },
+    {
+      "word": "transcend",
+      "phonetic": "/trænˈsend/",
+      "meaning": "v. 超越；胜过",
+      "example": "Great art transcends national boundaries."
+    },
+    {
+      "word": "trite",
+      "phonetic": "/traɪt/",
+      "meaning": "adj. 陈腐的；老套的",
+      "example": "The ending is trite and predictable."
+    },
+    {
+      "word": "truism",
+      "phonetic": "/ˈtruːɪzəm/",
+      "meaning": "n. 不言而喻的道理",
+      "example": "It is a truism that change is constant."
+    },
+    {
+      "word": "turmoil",
+      "phonetic": "/ˈtɜːmɔɪl/",
+      "meaning": "n. 混乱；动荡",
+      "example": "The country was in political turmoil."
+    },
+    {
+      "word": "unravel",
+      "phonetic": "/ʌnˈrævl/",
+      "meaning": "v. 解开；阐明",
+      "example": "Investigators slowly unravelled the plot."
+    },
+    {
+      "word": "unwarranted",
+      "phonetic": "/ʌnˈwɒrəntɪd/",
+      "meaning": "adj. 无理由的；不正当的",
+      "example": "The criticism was unwarranted."
+    },
+    {
+      "word": "utopia",
+      "phonetic": "/juːˈtəʊpiə/",
+      "meaning": "n. 乌托邦；理想国",
+      "example": "The novel describes a technological utopia."
+    },
+    {
+      "word": "valorise",
+      "phonetic": "/ˈvæləraɪz/",
+      "meaning": "v. 使增值；评价",
+      "example": "The scheme valorises local products."
+    },
+    {
+      "word": "venerate",
+      "phonetic": "/ˈvenəreɪt/",
+      "meaning": "v. 尊敬；崇敬",
+      "example": "The poet is venerated by later writers."
+    },
+    {
+      "word": "verbose",
+      "phonetic": "/vɜːˈbəʊs/",
+      "meaning": "adj. 啰嗦的；冗长的",
+      "example": "His style is verbose and unclear."
+    },
+    {
+      "word": "vicarious",
+      "phonetic": "/vɪˈkeəriəs/",
+      "meaning": "adj. 间接感受到的；替代的",
+      "example": "He gets vicarious pleasure from his son's success."
+    },
+    {
+      "word": "vigilant",
+      "phonetic": "/ˈvɪdʒɪlənt/",
+      "meaning": "adj. 警惕的；警觉的",
+      "example": "Parents should be vigilant about online safety."
+    },
+    {
+      "word": "vindicate",
+      "phonetic": "/ˈvɪndɪkeɪt/",
+      "meaning": "v. 证明无罪；证实",
+      "example": "The new evidence vindicated him."
+    },
+    {
+      "word": "virtuoso",
+      "phonetic": "/ˌvɜːtʃuˈəʊzəʊ/",
+      "meaning": "n. 艺术大师 adj. 精湛的",
+      "example": "She gave a virtuoso performance."
+    },
+    {
+      "word": "vocation",
+      "phonetic": "/vəʊˈkeɪʃn/",
+      "meaning": "n. 天职；职业",
+      "example": "Nursing is a vocation, not just a job."
+    },
+    {
+      "word": "whimsical",
+      "phonetic": "/ˈwɪmzɪkl/",
+      "meaning": "adj. 异想天开的；古怪的",
+      "example": "The story has a whimsical charm."
+    },
+    {
+      "word": "wistful",
+      "phonetic": "/ˈwɪstfl/",
+      "meaning": "adj. 惆怅的；渴望的",
+      "example": "She gave a wistful smile."
+    },
+    {
+      "word": "zealous",
+      "phonetic": "/ˈzeləs/",
+      "meaning": "adj. 热心的；狂热的",
+      "example": "He is a zealous defender of free speech."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+# ===== 依赖与构建产物（一律不进仓库）=====
+node_modules/
+target/
+dist/
+release/
+runtime/
+.tmp/
+.idea/
+*.iml
+
+# ===== 本地数据库（答题记录属于个人数据，不进仓库）=====
+data/*.db
+data/*.db-journal
+data/*.db-wal
+*.db
+*.sqlite
+*.sqlite3
+
+# ===== 打包产物与日志 =====
+*.exe
+*.jar
+*.zip
+*.7z
+*.log
+*.bak
+*.tmp
+
+# ===== 系统杂项 =====
+.DS_Store
+Thumbs.db
+desktop.ini

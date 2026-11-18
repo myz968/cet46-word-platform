@@ -1,0 +1,57 @@
+server:
+  port: 8080
+  # 只监听本机回环地址：桌面单机应用不需要被局域网访问，更安全
+  address: 127.0.0.1
+  tomcat:
+    # 单机应用并发很低，压缩线程数即可
+    threads:
+      max: 50
+
+spring:
+  application:
+    name: cet46-word-platform
+  datasource:
+    driver-class-name: org.sqlite.JDBC
+    # SQLite 数据库文件路径，通过 --app.db-path=xxx 可在启动时覆盖（Electron 打包后使用用户数据目录）
+    url: jdbc:sqlite:${app.db-path}
+    hikari:
+      # SQLite 同一时刻只允许一个写事务，连接池不宜过大，避免 database is locked
+      maximum-pool-size: 5
+      minimum-idle: 2
+      connection-timeout: 10000
+  sql:
+    init:
+      # always + 建表语句里的 IF NOT EXISTS = 幂等初始化，每次启动都执行也安全
+      mode: always
+      schema-locations: classpath:db/schema.sql
+      encoding: UTF-8
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+
+mybatis:
+  configuration:
+    # 数据库下划线字段 -> Java 驼峰属性 自动映射，省掉大量 resultMap
+    map-underscore-to-camel-case: true
+    default-statement-timeout: 15
+    # 交给 slf4j 统一管理日志：默认不打印 SQL；想看 SQL 时把下面 logging.level.com.cet46.mapper 改成 debug 即可
+    log-impl: org.apache.ibatis.logging.slf4j.Slf4jImpl
+
+# ===== 业务自定义配置 =====
+app:
+  # SQLite 单文件数据库位置（默认 ./data/cet46.db，仓库根下 data 目录；可被 --app.db-path 覆盖）
+  db-path: ./data/cet46.db
+  # 默认每关单词数量，改这一个值即可整体调整关卡粒度（关卡数会按词库总量自动重算）
+  level-size: 20
+  # 登录令牌有效期（天）
+  token-expire-days: 7
+  # 艾宾浩斯复习间隔（天），依次对应第 1~5 次复习：
+  # 0=当天就复习（答错后立刻进今日复习队列），之后 1/2/4/7 天逐步拉长
+  review-intervals: 0,1,2,4,7
+
+logging:
+  level:
+    root: info
+    com.cet46: info
+    # 想学习/排查 SQL 时把这行注释打开，控制台会打印每条 SQL 与参数
+    # com.cet46.mapper: debug

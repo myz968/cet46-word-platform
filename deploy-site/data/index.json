@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0-5547",
+  "total": 5547,
+  "levels": [
+    {
+      "level": 1,
+      "levelName": "高频基础",
+      "description": "最常用的核心词汇，先把地基打牢",
+      "count": 1630,
+      "stageCount": 82,
+      "fileKb": 214
+    },
+    {
+      "level": 2,
+      "levelName": "中频进阶",
+      "description": "四六级常考的重点词，拉开分差的地方",
+      "count": 1488,
+      "stageCount": 75,
+      "fileKb": 206
+    },
+    {
+      "level": 3,
+      "levelName": "低频冲刺",
+      "description": "低频难词，冲刺高分用",
+      "count": 2429,
+      "stageCount": 122,
+      "fileKb": 359
+    }
+  ]
+}

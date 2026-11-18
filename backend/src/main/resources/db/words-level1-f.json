@@ -1,0 +1,852 @@
+{
+  "level": 1,
+  "note": "高频基础词（第 6 批）——数量时间、学习与技术",
+  "words": [
+    {
+      "word": "one",
+      "phonetic": "wʌn",
+      "meaning": "num. 一",
+      "example": "Only one seat is left."
+    },
+    {
+      "word": "two",
+      "phonetic": "tuː",
+      "meaning": "num. 二",
+      "example": "Two cups of tea please."
+    },
+    {
+      "word": "three",
+      "phonetic": "θriː",
+      "meaning": "num. 三",
+      "example": "We have three classes."
+    },
+    {
+      "word": "four",
+      "phonetic": "fɔː",
+      "meaning": "num. 四",
+      "example": "The room has four windows."
+    },
+    {
+      "word": "five",
+      "phonetic": "faɪv",
+      "meaning": "num. 五",
+      "example": "Wait five minutes."
+    },
+    {
+      "word": "six",
+      "phonetic": "sɪks",
+      "meaning": "num. 六",
+      "example": "She gets up at six."
+    },
+    {
+      "word": "seven",
+      "phonetic": "ˈsevn",
+      "meaning": "num. 七",
+      "example": "There are seven days a week."
+    },
+    {
+      "word": "eight",
+      "phonetic": "eɪt",
+      "meaning": "num. 八",
+      "example": "Class begins at eight."
+    },
+    {
+      "word": "nine",
+      "phonetic": "naɪn",
+      "meaning": "num. 九",
+      "example": "The shop opens at nine."
+    },
+    {
+      "word": "ten",
+      "phonetic": "ten",
+      "meaning": "num. 十",
+      "example": "Count to ten slowly."
+    },
+    {
+      "word": "hundred",
+      "phonetic": "ˈhʌndrəd",
+      "meaning": "num. 百",
+      "example": "It costs a hundred yuan."
+    },
+    {
+      "word": "thousand",
+      "phonetic": "ˈθaʊznd",
+      "meaning": "num. 千",
+      "example": "A thousand people came."
+    },
+    {
+      "word": "million",
+      "phonetic": "ˈmɪljən",
+      "meaning": "num. 百万",
+      "example": "The city has millions of people."
+    },
+    {
+      "word": "first",
+      "phonetic": "fɜːst",
+      "meaning": "num. 第一 adj. 最初的",
+      "example": "This is my first try."
+    },
+    {
+      "word": "second",
+      "phonetic": "ˈsekənd",
+      "meaning": "num. 第二 n. 秒",
+      "example": "Wait a second please."
+    },
+    {
+      "word": "third",
+      "phonetic": "θɜːd",
+      "meaning": "num. 第三",
+      "example": "He lives on the third floor."
+    },
+    {
+      "word": "half",
+      "phonetic": "hɑːf",
+      "meaning": "n. 一半",
+      "example": "Give me half of it."
+    },
+    {
+      "word": "single",
+      "phonetic": "ˈsɪŋɡl",
+      "meaning": "adj. 单一的；单人的",
+      "example": "Book a single room."
+    },
+    {
+      "word": "several",
+      "phonetic": "ˈsevrəl",
+      "meaning": "adj. 几个的",
+      "example": "I called several times."
+    },
+    {
+      "word": "none",
+      "phonetic": "nʌn",
+      "meaning": "pron. 没有一个",
+      "example": "None of them came."
+    },
+    {
+      "word": "nothing",
+      "phonetic": "ˈnʌθɪŋ",
+      "meaning": "pron. 没有什么",
+      "example": "There is nothing left."
+    },
+    {
+      "word": "something",
+      "phonetic": "ˈsʌmθɪŋ",
+      "meaning": "pron. 某事",
+      "example": "I want something cold."
+    },
+    {
+      "word": "someone",
+      "phonetic": "ˈsʌmwʌn",
+      "meaning": "pron. 某人",
+      "example": "Someone is at the door."
+    },
+    {
+      "word": "everyone",
+      "phonetic": "ˈevriwʌn",
+      "meaning": "pron. 每个人",
+      "example": "Everyone agreed with him."
+    },
+    {
+      "word": "everything",
+      "phonetic": "ˈevriθɪŋ",
+      "meaning": "pron. 一切",
+      "example": "Everything is ready now."
+    },
+    {
+      "word": "anyone",
+      "phonetic": "ˈeniwʌn",
+      "meaning": "pron. 任何人",
+      "example": "Anyone can join us."
+    },
+    {
+      "word": "anything",
+      "phonetic": "ˈeniθɪŋ",
+      "meaning": "pron. 任何事物",
+      "example": "Do you need anything?"
+    },
+    {
+      "word": "nobody",
+      "phonetic": "ˈnəʊbədi",
+      "meaning": "pron. 没有人",
+      "example": "Nobody knew the answer."
+    },
+    {
+      "word": "each",
+      "phonetic": "iːtʃ",
+      "meaning": "adj. 每个",
+      "example": "Each student gets a book."
+    },
+    {
+      "word": "neither",
+      "phonetic": "ˈnaɪðə",
+      "meaning": "conj. 也不",
+      "example": "Neither answer is correct."
+    },
+    {
+      "word": "may",
+      "phonetic": "meɪ",
+      "meaning": "modal 可以；可能",
+      "example": "May I come in?"
+    },
+    {
+      "word": "must",
+      "phonetic": "mʌst",
+      "meaning": "modal 必须",
+      "example": "You must finish it today."
+    },
+    {
+      "word": "should",
+      "phonetic": "ʃʊd",
+      "meaning": "modal 应该",
+      "example": "You should rest more."
+    },
+    {
+      "word": "could",
+      "phonetic": "kʊd",
+      "meaning": "modal 能够；可能",
+      "example": "Could you help me?"
+    },
+    {
+      "word": "would",
+      "phonetic": "wʊd",
+      "meaning": "modal 将会；愿意",
+      "example": "I would like some tea."
+    },
+    {
+      "word": "might",
+      "phonetic": "maɪt",
+      "meaning": "modal 可能",
+      "example": "He might be late."
+    },
+    {
+      "word": "yet",
+      "phonetic": "jet",
+      "meaning": "adv. 还；已经",
+      "example": "She has not come yet."
+    },
+    {
+      "word": "still",
+      "phonetic": "stɪl",
+      "meaning": "adv. 仍然",
+      "example": "It is still raining."
+    },
+    {
+      "word": "just",
+      "phonetic": "dʒʌst",
+      "meaning": "adv. 刚刚；只是",
+      "example": "I just finished work."
+    },
+    {
+      "word": "nearly",
+      "phonetic": "ˈnɪəli",
+      "meaning": "adv. 几乎",
+      "example": "We are nearly there."
+    },
+    {
+      "word": "quite",
+      "phonetic": "kwaɪt",
+      "meaning": "adv. 相当",
+      "example": "It is quite easy."
+    },
+    {
+      "word": "rather",
+      "phonetic": "ˈrɑːðə",
+      "meaning": "adv. 相当；宁可",
+      "example": "It is rather late."
+    },
+    {
+      "word": "too",
+      "phonetic": "tuː",
+      "meaning": "adv. 也；太",
+      "example": "This coffee is too hot."
+    },
+    {
+      "word": "very",
+      "phonetic": "ˈveri",
+      "meaning": "adv. 非常",
+      "example": "She is very kind."
+    },
+    {
+      "word": "really",
+      "phonetic": "ˈrɪəli",
+      "meaning": "adv. 确实",
+      "example": "I really like it."
+    },
+    {
+      "word": "together",
+      "phonetic": "təˈɡeðə",
+      "meaning": "adv. 一起",
+      "example": "Let us work together."
+    },
+    {
+      "word": "suddenly",
+      "phonetic": "ˈsʌdənli",
+      "meaning": "adv. 突然",
+      "example": "It suddenly began to rain."
+    },
+    {
+      "word": "finally",
+      "phonetic": "ˈfaɪnəli",
+      "meaning": "adv. 最终",
+      "example": "We finally arrived."
+    },
+    {
+      "word": "usually",
+      "phonetic": "ˈjuːʒuəli",
+      "meaning": "adv. 通常",
+      "example": "He usually walks to work."
+    },
+    {
+      "word": "sometimes",
+      "phonetic": "ˈsʌmtaɪmz",
+      "meaning": "adv. 有时",
+      "example": "I sometimes cook at home."
+    },
+    {
+      "word": "often",
+      "phonetic": "ˈɒfn",
+      "meaning": "adv. 经常",
+      "example": "She often reads at night."
+    },
+    {
+      "word": "rarely",
+      "phonetic": "ˈreəli",
+      "meaning": "adv. 很少",
+      "example": "He rarely watches TV."
+    },
+    {
+      "word": "never",
+      "phonetic": "ˈnevə",
+      "meaning": "adv. 从不",
+      "example": "Never give up easily."
+    },
+    {
+      "word": "soon",
+      "phonetic": "suːn",
+      "meaning": "adv. 很快",
+      "example": "Dinner will be ready soon."
+    },
+    {
+      "word": "later",
+      "phonetic": "ˈleɪtə",
+      "meaning": "adv. 后来",
+      "example": "I will call you later."
+    },
+    {
+      "word": "therefore",
+      "phonetic": "ˈðeəfɔː",
+      "meaning": "adv. 因此",
+      "example": "It rained, therefore we stayed."
+    },
+    {
+      "word": "because",
+      "phonetic": "bɪˈkɒz",
+      "meaning": "conj. 因为",
+      "example": "He left because he was ill."
+    },
+    {
+      "word": "while",
+      "phonetic": "waɪl",
+      "meaning": "conj. 当……时；然而",
+      "example": "Read while you wait."
+    },
+    {
+      "word": "until",
+      "phonetic": "ənˈtɪl",
+      "meaning": "conj. 直到",
+      "example": "Wait until I come back."
+    },
+    {
+      "word": "since",
+      "phonetic": "sɪns",
+      "meaning": "conj. 自从；因为",
+      "example": "I have lived here since 2010."
+    },
+    {
+      "word": "whether",
+      "phonetic": "ˈweðə",
+      "meaning": "conj. 是否",
+      "example": "Ask whether he is free."
+    },
+    {
+      "word": "besides",
+      "phonetic": "bɪˈsaɪdz",
+      "meaning": "adv. 此外",
+      "example": "Besides, the price is low."
+    },
+    {
+      "word": "among",
+      "phonetic": "əˈmʌŋ",
+      "meaning": "prep. 在……之中",
+      "example": "She sat among friends."
+    },
+    {
+      "word": "during",
+      "phonetic": "ˈdjʊərɪŋ",
+      "meaning": "prep. 在……期间",
+      "example": "Do not talk during class."
+    },
+    {
+      "word": "through",
+      "phonetic": "θruː",
+      "meaning": "prep. 穿过；通过",
+      "example": "Walk through the park."
+    },
+    {
+      "word": "without",
+      "phonetic": "wɪˈðaʊt",
+      "meaning": "prep. 没有",
+      "example": "Do not go without me."
+    },
+    {
+      "word": "within",
+      "phonetic": "wɪˈðɪn",
+      "meaning": "prep. 在……之内",
+      "example": "Reply within two days."
+    },
+    {
+      "word": "except",
+      "phonetic": "ɪkˈsept",
+      "meaning": "prep. 除……之外",
+      "example": "Everyone came except Tom."
+    },
+    {
+      "word": "including",
+      "phonetic": "ɪnˈkluːdɪŋ",
+      "meaning": "prep. 包括",
+      "example": "Ten people came, including me."
+    },
+    {
+      "word": "according",
+      "phonetic": "əˈkɔːdɪŋ",
+      "meaning": "prep. 根据（according to）",
+      "example": "According to the plan, we start today."
+    },
+    {
+      "word": "despite",
+      "phonetic": "dɪˈspaɪt",
+      "meaning": "prep. 尽管",
+      "example": "Despite the rain, we went."
+    },
+    {
+      "word": "harmful",
+      "phonetic": "ˈhɑːmfl",
+      "meaning": "adj. 有害的",
+      "example": "Smoking is harmful."
+    },
+    {
+      "word": "hopeful",
+      "phonetic": "ˈhəʊpfl",
+      "meaning": "adj. 有希望的",
+      "example": "She is hopeful about the exam."
+    },
+    {
+      "word": "careless",
+      "phonetic": "ˈkeələs",
+      "meaning": "adj. 粗心的",
+      "example": "He made a careless mistake."
+    },
+    {
+      "word": "endless",
+      "phonetic": "ˈendləs",
+      "meaning": "adj. 无尽的",
+      "example": "The queue seemed endless."
+    },
+    {
+      "word": "noisy",
+      "phonetic": "ˈnɔɪzi",
+      "meaning": "adj. 吵闹的",
+      "example": "The street is noisy at night."
+    },
+    {
+      "word": "crowded",
+      "phonetic": "ˈkraʊdɪd",
+      "meaning": "adj. 拥挤的",
+      "example": "The bus is crowded."
+    },
+    {
+      "word": "national",
+      "phonetic": "ˈnæʃnəl",
+      "meaning": "adj. 国家的",
+      "example": "It is a national holiday."
+    },
+    {
+      "word": "international",
+      "phonetic": "ˌɪntəˈnæʃnəl",
+      "meaning": "adj. 国际的",
+      "example": "They fly international routes."
+    },
+    {
+      "word": "personal",
+      "phonetic": "ˈpɜːsənl",
+      "meaning": "adj. 个人的",
+      "example": "It is my personal opinion."
+    },
+    {
+      "word": "natural",
+      "phonetic": "ˈnætʃrəl",
+      "meaning": "adj. 自然的",
+      "example": "It is a natural lake."
+    },
+    {
+      "word": "rude",
+      "phonetic": "ruːd",
+      "meaning": "adj. 粗鲁的",
+      "example": "That was a rude answer."
+    },
+    {
+      "word": "strange",
+      "phonetic": "streɪndʒ",
+      "meaning": "adj. 奇怪的",
+      "example": "I heard a strange noise."
+    },
+    {
+      "word": "crazy",
+      "phonetic": "ˈkreɪzi",
+      "meaning": "adj. 疯狂的",
+      "example": "That is a crazy idea."
+    },
+    {
+      "word": "nervous",
+      "phonetic": "ˈnɜːvəs",
+      "meaning": "adj. 紧张的",
+      "example": "She felt nervous before the test."
+    },
+    {
+      "word": "proud",
+      "phonetic": "praʊd",
+      "meaning": "adj. 自豪的",
+      "example": "We are proud of you."
+    },
+    {
+      "word": "shy",
+      "phonetic": "ʃaɪ",
+      "meaning": "adj. 害羞的",
+      "example": "He is too shy to speak."
+    },
+    {
+      "word": "excited",
+      "phonetic": "ɪkˈsaɪtɪd",
+      "meaning": "adj. 激动的",
+      "example": "The kids are excited."
+    },
+    {
+      "word": "convenient",
+      "phonetic": "kənˈviːniənt",
+      "meaning": "adj. 方便的",
+      "example": "The location is convenient."
+    },
+    {
+      "word": "expensive",
+      "phonetic": "ɪkˈspensɪv",
+      "meaning": "adj. 昂贵的",
+      "example": "The hotel is expensive."
+    },
+    {
+      "word": "successful",
+      "phonetic": "səkˈsesfl",
+      "meaning": "adj. 成功的",
+      "example": "It was a successful test."
+    },
+    {
+      "word": "difficulty",
+      "phonetic": "ˈdɪfɪkəlti",
+      "meaning": "n. 困难",
+      "example": "He had difficulty reading."
+    },
+    {
+      "word": "classroom",
+      "phonetic": "ˈklɑːsruːm",
+      "meaning": "n. 教室",
+      "example": "The classroom is clean."
+    },
+    {
+      "word": "homework",
+      "phonetic": "ˈhəʊmwɜːk",
+      "meaning": "n. 家庭作业",
+      "example": "Finish your homework first."
+    },
+    {
+      "word": "score",
+      "phonetic": "skɔː",
+      "meaning": "n. 分数",
+      "example": "Her score is eighty."
+    },
+    {
+      "word": "subject",
+      "phonetic": "ˈsʌbdʒɪkt",
+      "meaning": "n. 学科；主题",
+      "example": "Maths is my favourite subject."
+    },
+    {
+      "word": "weekend",
+      "phonetic": "ˌwiːkˈend",
+      "meaning": "n. 周末",
+      "example": "What do you do at weekend?"
+    },
+    {
+      "word": "screen",
+      "phonetic": "skriːn",
+      "meaning": "n. 屏幕",
+      "example": "The screen is too bright."
+    },
+    {
+      "word": "keyboard",
+      "phonetic": "ˈkiːbɔːd",
+      "meaning": "n. 键盘",
+      "example": "Clean the keyboard."
+    },
+    {
+      "word": "mouse",
+      "phonetic": "maʊs",
+      "meaning": "n. 鼠标；老鼠",
+      "example": "The mouse does not work."
+    },
+    {
+      "word": "file",
+      "phonetic": "faɪl",
+      "meaning": "n. 文件",
+      "example": "Save the file now."
+    },
+    {
+      "word": "folder",
+      "phonetic": "ˈfəʊldə",
+      "meaning": "n. 文件夹",
+      "example": "Put it in this folder."
+    },
+    {
+      "word": "password",
+      "phonetic": "ˈpɑːswɜːd",
+      "meaning": "n. 密码",
+      "example": "Change your password often."
+    },
+    {
+      "word": "website",
+      "phonetic": "ˈwebsaɪt",
+      "meaning": "n. 网站",
+      "example": "Visit the website first."
+    },
+    {
+      "word": "email",
+      "phonetic": "ˈiːmeɪl",
+      "meaning": "n. 电子邮件",
+      "example": "Send me an email."
+    },
+    {
+      "word": "message",
+      "phonetic": "ˈmesɪdʒ",
+      "meaning": "n. 消息",
+      "example": "I got your message."
+    },
+    {
+      "word": "video",
+      "phonetic": "ˈvɪdiəʊ",
+      "meaning": "n. 视频",
+      "example": "The video is very short."
+    },
+    {
+      "word": "button",
+      "phonetic": "ˈbʌtn",
+      "meaning": "n. 按钮；纽扣",
+      "example": "Press the green button."
+    },
+    {
+      "word": "electricity",
+      "phonetic": "ɪˌlekˈtrɪsəti",
+      "meaning": "n. 电",
+      "example": "Save electricity at home."
+    },
+    {
+      "word": "battery",
+      "phonetic": "ˈbætri",
+      "meaning": "n. 电池",
+      "example": "The battery is low."
+    },
+    {
+      "word": "network",
+      "phonetic": "ˈnetwɜːk",
+      "meaning": "n. 网络",
+      "example": "The network is slow."
+    },
+    {
+      "word": "software",
+      "phonetic": "ˈsɒftweə",
+      "meaning": "n. 软件",
+      "example": "Install the software first."
+    },
+    {
+      "word": "data",
+      "phonetic": "ˈdeɪtə",
+      "meaning": "n. 数据",
+      "example": "The data is correct."
+    },
+    {
+      "word": "program",
+      "phonetic": "ˈprəʊɡræm",
+      "meaning": "n. 程序；节目",
+      "example": "This program is free."
+    },
+    {
+      "word": "click",
+      "phonetic": "klɪk",
+      "meaning": "v./n. 点击",
+      "example": "Click the link to open."
+    },
+    {
+      "word": "delete",
+      "phonetic": "dɪˈliːt",
+      "meaning": "v. 删除",
+      "example": "Delete unnecessary files."
+    },
+    {
+      "word": "print",
+      "phonetic": "prɪnt",
+      "meaning": "v. 打印",
+      "example": "Print two copies please."
+    },
+    {
+      "word": "news",
+      "phonetic": "njuːz",
+      "meaning": "n. 新闻",
+      "example": "I watch news at night."
+    },
+    {
+      "word": "worker",
+      "phonetic": "ˈwɜːkə",
+      "meaning": "n. 工人",
+      "example": "Every worker got a raise."
+    },
+    {
+      "word": "factory",
+      "phonetic": "ˈfæktri",
+      "meaning": "n. 工厂",
+      "example": "The factory runs day and night."
+    },
+    {
+      "word": "income",
+      "phonetic": "ˈɪnkʌm",
+      "meaning": "n. 收入",
+      "example": "His income is steady."
+    },
+    {
+      "word": "expense",
+      "phonetic": "ɪkˈspens",
+      "meaning": "n. 开支",
+      "example": "Cut daily expenses."
+    },
+    {
+      "word": "cash",
+      "phonetic": "kæʃ",
+      "meaning": "n. 现金",
+      "example": "I paid in cash."
+    },
+    {
+      "word": "discount",
+      "phonetic": "ˈdɪskaʊnt",
+      "meaning": "n. 折扣",
+      "example": "There is a student discount."
+    },
+    {
+      "word": "package",
+      "phonetic": "ˈpækɪdʒ",
+      "meaning": "n. 包裹",
+      "example": "The package is here."
+    },
+    {
+      "word": "breakfast",
+      "phonetic": "ˈbrekfəst",
+      "meaning": "n. 早餐",
+      "example": "Eat breakfast every day."
+    },
+    {
+      "word": "menu",
+      "phonetic": "ˈmenjuː",
+      "meaning": "n. 菜单",
+      "example": "Ask for the menu."
+    },
+    {
+      "word": "tip",
+      "phonetic": "tɪp",
+      "meaning": "n. 小费",
+      "example": "Leave a small tip."
+    },
+    {
+      "word": "lobby",
+      "phonetic": "ˈlɒbi",
+      "meaning": "n. 大堂",
+      "example": "Meet me in the lobby."
+    },
+    {
+      "word": "airport",
+      "phonetic": "ˈeəpɔːt",
+      "meaning": "n. 机场",
+      "example": "The airport is far away."
+    },
+    {
+      "word": "flight",
+      "phonetic": "flaɪt",
+      "meaning": "n. 航班",
+      "example": "My flight leaves at noon."
+    },
+    {
+      "word": "luggage",
+      "phonetic": "ˈlʌɡɪdʒ",
+      "meaning": "n. 行李",
+      "example": "Take your luggage with you."
+    },
+    {
+      "word": "direction",
+      "phonetic": "dəˈrekʃn",
+      "meaning": "n. 方向",
+      "example": "We went the wrong direction."
+    },
+    {
+      "word": "neighbour",
+      "phonetic": "ˈneɪbə",
+      "meaning": "n. 邻居",
+      "example": "My neighbour is friendly."
+    },
+    {
+      "word": "community",
+      "phonetic": "kəˈmjuːnəti",
+      "meaning": "n. 社区",
+      "example": "Our community is safe."
+    },
+    {
+      "word": "safety",
+      "phonetic": "ˈseɪfti",
+      "meaning": "n. 安全",
+      "example": "Safety rules are strict."
+    },
+    {
+      "word": "date",
+      "phonetic": "deɪt",
+      "meaning": "n. 日期",
+      "example": "What is the date today?"
+    },
+    {
+      "word": "morning",
+      "phonetic": "ˈmɔːnɪŋ",
+      "meaning": "n. 早上",
+      "example": "I run in the morning."
+    },
+    {
+      "word": "spring",
+      "phonetic": "sprɪŋ",
+      "meaning": "n. 春天",
+      "example": "Flowers bloom in spring."
+    },
+    {
+      "word": "wind",
+      "phonetic": "wɪnd",
+      "meaning": "n. 风",
+      "example": "The wind is strong today."
+    },
+    {
+      "word": "temperature",
+      "phonetic": "ˈtemprətʃə",
+      "meaning": "n. 温度",
+      "example": "The temperature is dropping."
+    }
+  ]
+}

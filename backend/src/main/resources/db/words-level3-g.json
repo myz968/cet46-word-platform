@@ -1,0 +1,918 @@
+{
+  "level": 3,
+  "note": "低频难词 G 批：法律、政治、社会治理、军事外交主题",
+  "words": [
+    {
+      "word": "abduct",
+      "phonetic": "/əbˈdʌkt/",
+      "meaning": "v. 绑架；诱拐",
+      "example": "The child was abducted near the school."
+    },
+    {
+      "word": "abscond",
+      "phonetic": "/əbˈskɒnd/",
+      "meaning": "v. 潜逃；逃匿",
+      "example": "The clerk absconded with the funds."
+    },
+    {
+      "word": "adjournment",
+      "phonetic": "/əˈdʒɜːnmənt/",
+      "meaning": "n. 休会；延期",
+      "example": "The adjournment lasted two weeks."
+    },
+    {
+      "word": "advocacy",
+      "phonetic": "/ˈædvəkəsi/",
+      "meaning": "n. 拥护；倡导",
+      "example": "She works in advocacy for refugees."
+    },
+    {
+      "word": "affidavit",
+      "phonetic": "/ˌæfɪˈdeɪvɪt/",
+      "meaning": "n. 宣誓书；书面证词",
+      "example": "He signed an affidavit confirming the facts."
+    },
+    {
+      "word": "alibi",
+      "phonetic": "/ˈæləbaɪ/",
+      "meaning": "n. 不在场证明；借口",
+      "example": "His alibi was confirmed by two witnesses."
+    },
+    {
+      "word": "amnesty",
+      "phonetic": "/ˈæmnəsti/",
+      "meaning": "n. 大赦；特赦",
+      "example": "The government granted amnesty to prisoners."
+    },
+    {
+      "word": "anarchist",
+      "phonetic": "/ˈænəkɪst/",
+      "meaning": "n. 无政府主义者",
+      "example": "The group was linked to anarchist circles."
+    },
+    {
+      "word": "annexation",
+      "phonetic": "/ˌænekˈseɪʃn/",
+      "meaning": "n. 兼并；吞并",
+      "example": "The annexation was condemned internationally."
+    },
+    {
+      "word": "appellate",
+      "phonetic": "/əˈpelət/",
+      "meaning": "adj. 上诉的；受理上诉的",
+      "example": "The appellate court upheld the sentence."
+    },
+    {
+      "word": "apprehension",
+      "phonetic": "/ˌæprɪˈhenʃn/",
+      "meaning": "n. 忧虑；逮捕；理解",
+      "example": "She felt some apprehension before the exam."
+    },
+    {
+      "word": "arraign",
+      "phonetic": "/əˈreɪn/",
+      "meaning": "v. 提审；控告",
+      "example": "He was arraigned on fraud charges."
+    },
+    {
+      "word": "arson",
+      "phonetic": "/ˈɑːsn/",
+      "meaning": "n. 纵火；放火罪",
+      "example": "The fire was later ruled as arson."
+    },
+    {
+      "word": "assailant",
+      "phonetic": "/əˈseɪlənt/",
+      "meaning": "n. 攻击者；行凶者",
+      "example": "Her assailant was never caught."
+    },
+    {
+      "word": "asylum",
+      "phonetic": "/əˈsaɪləm/",
+      "meaning": "n. 庇护；避难",
+      "example": "They applied for political asylum."
+    },
+    {
+      "word": "barrister",
+      "phonetic": "/ˈbærɪstə/",
+      "meaning": "n. 出庭律师；大律师",
+      "example": "A barrister presented the case."
+    },
+    {
+      "word": "benchmark",
+      "phonetic": "/ˈbentʃmɑːk/",
+      "meaning": "n. 基准；标准",
+      "example": "The test sets a benchmark for quality."
+    },
+    {
+      "word": "bribery",
+      "phonetic": "/ˈbraɪbəri/",
+      "meaning": "n. 行贿；受贿",
+      "example": "He was charged with bribery."
+    },
+    {
+      "word": "brutality",
+      "phonetic": "/bruːˈtæləti/",
+      "meaning": "n. 残暴；野蛮行为",
+      "example": "The report documented police brutality."
+    },
+    {
+      "word": "bureaucrat",
+      "phonetic": "/ˈbjʊərəkræt/",
+      "meaning": "n. 官僚；官员",
+      "example": "The decision was made by faceless bureaucrats."
+    },
+    {
+      "word": "cadet",
+      "phonetic": "/kəˈdet/",
+      "meaning": "n. 军校学员；实习生",
+      "example": "He trained as a police cadet."
+    },
+    {
+      "word": "canvass",
+      "phonetic": "/ˈkænvəs/",
+      "meaning": "v. 拉票；征求意见",
+      "example": "Volunteers canvassed the whole district."
+    },
+    {
+      "word": "censor",
+      "phonetic": "/ˈsensə/",
+      "meaning": "v. 审查；删改 n. 审查员",
+      "example": "The film was heavily censored."
+    },
+    {
+      "word": "censorship",
+      "phonetic": "/ˈsensəʃɪp/",
+      "meaning": "n. 审查制度；审查",
+      "example": "Strict censorship was imposed on the press."
+    },
+    {
+      "word": "chancellor",
+      "phonetic": "/ˈtʃɑːnsələ/",
+      "meaning": "n. 大臣；总理；校长",
+      "example": "The chancellor announced tax cuts."
+    },
+    {
+      "word": "citizenship",
+      "phonetic": "/ˈsɪtɪzənʃɪp/",
+      "meaning": "n. 公民身份；国籍",
+      "example": "She applied for citizenship last year."
+    },
+    {
+      "word": "clemency",
+      "phonetic": "/ˈklemənsi/",
+      "meaning": "n. 宽恕；仁慈",
+      "example": "The governor granted him clemency."
+    },
+    {
+      "word": "coercion",
+      "phonetic": "/kəʊˈɜːʃn/",
+      "meaning": "n. 强迫；胁迫",
+      "example": "The confession was obtained by coercion."
+    },
+    {
+      "word": "collusion",
+      "phonetic": "/kəˈluːʒn/",
+      "meaning": "n. 串通；勾结",
+      "example": "The firms were accused of collusion."
+    },
+    {
+      "word": "commissioner",
+      "phonetic": "/kəˈmɪʃənə/",
+      "meaning": "n. 委员；专员",
+      "example": "The police commissioner resigned."
+    },
+    {
+      "word": "confiscate",
+      "phonetic": "/ˈkɒnfɪskeɪt/",
+      "meaning": "v. 没收；充公",
+      "example": "Officials confiscated the smuggled goods."
+    },
+    {
+      "word": "conscription",
+      "phonetic": "/kənˈskrɪpʃn/",
+      "meaning": "n. 征兵；征召",
+      "example": "Conscription was abolished after the war."
+    },
+    {
+      "word": "constituency",
+      "phonetic": "/kənˈstɪtjuənsi/",
+      "meaning": "n. 选区；支持者",
+      "example": "He won the constituency by a narrow margin."
+    },
+    {
+      "word": "constitution",
+      "phonetic": "/ˌkɒnstɪˈtjuːʃn/",
+      "meaning": "n. 宪法；体质",
+      "example": "The constitution guarantees free speech."
+    },
+    {
+      "word": "contraband",
+      "phonetic": "/ˈkɒntrəbænd/",
+      "meaning": "n. 走私品；违禁品",
+      "example": "Customs seized the contraband."
+    },
+    {
+      "word": "councillor",
+      "phonetic": "/ˈkaʊnsələ/",
+      "meaning": "n. 地方议员；委员",
+      "example": "She was elected as a local councillor."
+    },
+    {
+      "word": "coup",
+      "phonetic": "/kuː/",
+      "meaning": "n. 政变；成功之举",
+      "example": "The government was overthrown in a coup."
+    },
+    {
+      "word": "defamation",
+      "phonetic": "/ˌdefəˈmeɪʃn/",
+      "meaning": "n. 诽谤；中伤",
+      "example": "He sued the paper for defamation."
+    },
+    {
+      "word": "defector",
+      "phonetic": "/dɪˈfektə/",
+      "meaning": "n. 叛逃者；背叛者",
+      "example": "The defector gave details to reporters."
+    },
+    {
+      "word": "delegation",
+      "phonetic": "/ˌdelɪˈɡeɪʃn/",
+      "meaning": "n. 代表团；委派",
+      "example": "A trade delegation visited Beijing."
+    },
+    {
+      "word": "deportation",
+      "phonetic": "/ˌdiːpɔːˈteɪʃn/",
+      "meaning": "n. 驱逐出境",
+      "example": "He faced deportation after the trial."
+    },
+    {
+      "word": "deprivation",
+      "phonetic": "/ˌdeprɪˈveɪʃn/",
+      "meaning": "n. 剥夺；贫困",
+      "example": "The children suffered from sleep deprivation."
+    },
+    {
+      "word": "detention",
+      "phonetic": "/dɪˈtenʃn/",
+      "meaning": "n. 拘留；课后留校",
+      "example": "He was held in detention for a week."
+    },
+    {
+      "word": "deterrent",
+      "phonetic": "/dɪˈterənt/",
+      "meaning": "n. 威慑物 adj. 威慑的",
+      "example": "The cameras act as a deterrent to thieves."
+    },
+    {
+      "word": "dictator",
+      "phonetic": "/dɪkˈteɪtə/",
+      "meaning": "n. 独裁者；霸道的人",
+      "example": "The dictator ruled for thirty years."
+    },
+    {
+      "word": "diplomat",
+      "phonetic": "/ˈdɪpləmæt/",
+      "meaning": "n. 外交官；善交际的人",
+      "example": "A senior diplomat was expelled."
+    },
+    {
+      "word": "disarm",
+      "phonetic": "/dɪsˈɑːm/",
+      "meaning": "v. 解除武装；缓和",
+      "example": "Her smile disarmed him completely."
+    },
+    {
+      "word": "discrimination",
+      "phonetic": "/dɪˌskrɪmɪˈneɪʃn/",
+      "meaning": "n. 歧视；辨别力",
+      "example": "The law bans age discrimination."
+    },
+    {
+      "word": "disenfranchise",
+      "phonetic": "/ˌdɪsɪnˈfræntʃaɪz/",
+      "meaning": "v. 剥夺选举权",
+      "example": "Many voters felt disenfranchised."
+    },
+    {
+      "word": "disruption",
+      "phonetic": "/dɪsˈrʌpʃn/",
+      "meaning": "n. 中断；扰乱",
+      "example": "The strike caused serious disruption."
+    },
+    {
+      "word": "docket",
+      "phonetic": "/ˈdɒkɪt/",
+      "meaning": "n. 议事日程；诉讼清单",
+      "example": "The case is on the court docket."
+    },
+    {
+      "word": "domicile",
+      "phonetic": "/ˈdɒmɪsaɪl/",
+      "meaning": "n. 住所；永久居所",
+      "example": "His domicile is in Scotland."
+    },
+    {
+      "word": "election",
+      "phonetic": "/ɪˈlekʃn/",
+      "meaning": "n. 选举；当选",
+      "example": "A general election will be held in May."
+    },
+    {
+      "word": "electorate",
+      "phonetic": "/ɪˈlektərət/",
+      "meaning": "n. 全体选民",
+      "example": "The electorate rejected the proposal."
+    },
+    {
+      "word": "embargo",
+      "phonetic": "/ɪmˈbɑːɡəʊ/",
+      "meaning": "n. 禁运 v. 禁运",
+      "example": "An arms embargo was imposed."
+    },
+    {
+      "word": "embezzle",
+      "phonetic": "/ɪmˈbezl/",
+      "meaning": "v. 挪用；盗用",
+      "example": "He embezzled money from the charity."
+    },
+    {
+      "word": "enlist",
+      "phonetic": "/ɪnˈlɪst/",
+      "meaning": "v. 参军；争取",
+      "example": "He enlisted in the navy at eighteen."
+    },
+    {
+      "word": "envoy",
+      "phonetic": "/ˈenvɔɪ/",
+      "meaning": "n. 使者；特使",
+      "example": "A special envoy was sent to negotiate."
+    },
+    {
+      "word": "espionage",
+      "phonetic": "/ˈespiənɑːʒ/",
+      "meaning": "n. 间谍活动；刺探",
+      "example": "He was convicted of industrial espionage."
+    },
+    {
+      "word": "evict",
+      "phonetic": "/ɪˈvɪkt/",
+      "meaning": "v. 驱逐；赶出",
+      "example": "The tenants were evicted for non-payment."
+    },
+    {
+      "word": "extradition",
+      "phonetic": "/ˌekstrəˈdɪʃn/",
+      "meaning": "n. 引渡",
+      "example": "The court ordered his extradition."
+    },
+    {
+      "word": "felony",
+      "phonetic": "/ˈfeləni/",
+      "meaning": "n. 重罪",
+      "example": "He was charged with a felony."
+    },
+    {
+      "word": "feud",
+      "phonetic": "/fjuːd/",
+      "meaning": "n. 长期争斗 v. 争斗",
+      "example": "The two families have a long feud."
+    },
+    {
+      "word": "filibuster",
+      "phonetic": "/ˈfɪlɪbʌstə/",
+      "meaning": "n. 阻挠议事 v. 阻挠",
+      "example": "The senator used a filibuster to block the bill."
+    },
+    {
+      "word": "forensic",
+      "phonetic": "/fəˈrensɪk/",
+      "meaning": "adj. 法医的；法庭的",
+      "example": "Forensic evidence proved decisive."
+    },
+    {
+      "word": "forgery",
+      "phonetic": "/ˈfɔːdʒəri/",
+      "meaning": "n. 伪造；赝品",
+      "example": "The painting was exposed as a forgery."
+    },
+    {
+      "word": "franchise",
+      "phonetic": "/ˈfræntʃaɪz/",
+      "meaning": "n. 选举权；特许经营权",
+      "example": "The franchise was extended to all adults."
+    },
+    {
+      "word": "grievance",
+      "phonetic": "/ˈɡriːvəns/",
+      "meaning": "n. 不满；委屈",
+      "example": "Staff can raise a grievance with the manager."
+    },
+    {
+      "word": "guardian",
+      "phonetic": "/ˈɡɑːdiən/",
+      "meaning": "n. 监护人；守护者",
+      "example": "Her aunt became her legal guardian."
+    },
+    {
+      "word": "guerrilla",
+      "phonetic": "/ɡəˈrɪlə/",
+      "meaning": "n. 游击队员 adj. 游击的",
+      "example": "Guerrilla fighters controlled the hills."
+    },
+    {
+      "word": "hegemony",
+      "phonetic": "/hɪˈɡeməni/",
+      "meaning": "n. 霸权；领导权",
+      "example": "The region resisted foreign hegemony."
+    },
+    {
+      "word": "hostage",
+      "phonetic": "/ˈhɒstɪdʒ/",
+      "meaning": "n. 人质",
+      "example": "The hostages were released unharmed."
+    },
+    {
+      "word": "humanitarian",
+      "phonetic": "/hjuːˌmænɪˈteəriən/",
+      "meaning": "adj. 人道主义的 n. 人道主义者",
+      "example": "Aid agencies sent humanitarian supplies."
+    },
+    {
+      "word": "impeach",
+      "phonetic": "/ɪmˈpiːtʃ/",
+      "meaning": "v. 弹劾；控告",
+      "example": "Congress moved to impeach the president."
+    },
+    {
+      "word": "imperial",
+      "phonetic": "/ɪmˈpɪəriəl/",
+      "meaning": "adj. 帝国的；皇帝的",
+      "example": "The building dates from the imperial era."
+    },
+    {
+      "word": "implicate",
+      "phonetic": "/ˈɪmplɪkeɪt/",
+      "meaning": "v. 牵连；涉及",
+      "example": "Two officials were implicated in the scandal."
+    },
+    {
+      "word": "imprison",
+      "phonetic": "/ɪmˈprɪzn/",
+      "meaning": "v. 监禁；关押",
+      "example": "He was imprisoned for five years."
+    },
+    {
+      "word": "inaugurate",
+      "phonetic": "/ɪˈnɔːɡjəreɪt/",
+      "meaning": "v. 举行就职典礼；开创",
+      "example": "The new president was inaugurated in January."
+    },
+    {
+      "word": "incarcerate",
+      "phonetic": "/ɪnˈkɑːsəreɪt/",
+      "meaning": "v. 监禁；关押",
+      "example": "He was incarcerated for a decade."
+    },
+    {
+      "word": "incite",
+      "phonetic": "/ɪnˈsaɪt/",
+      "meaning": "v. 煽动；激起",
+      "example": "He was accused of inciting violence."
+    },
+    {
+      "word": "indict",
+      "phonetic": "/ɪnˈdaɪt/",
+      "meaning": "v. 起诉；控告",
+      "example": "The grand jury indicted four men."
+    },
+    {
+      "word": "infringe",
+      "phonetic": "/ɪnˈfrɪndʒ/",
+      "meaning": "v. 侵犯；违反",
+      "example": "The copy infringes the copyright."
+    },
+    {
+      "word": "injunction",
+      "phonetic": "/ɪnˈdʒʌŋkʃn/",
+      "meaning": "n. 禁令；强制令",
+      "example": "The court granted an injunction."
+    },
+    {
+      "word": "inmate",
+      "phonetic": "/ˈɪnmeɪt/",
+      "meaning": "n. 囚犯；同住者",
+      "example": "The prison holds eight hundred inmates."
+    },
+    {
+      "word": "insurgency",
+      "phonetic": "/ɪnˈsɜːdʒənsi/",
+      "meaning": "n. 叛乱；暴动",
+      "example": "The army fought a long insurgency."
+    },
+    {
+      "word": "interim",
+      "phonetic": "/ˈɪntərɪm/",
+      "meaning": "adj. 临时的 n. 过渡期",
+      "example": "An interim government was formed."
+    },
+    {
+      "word": "interrogate",
+      "phonetic": "/ɪnˈterəɡeɪt/",
+      "meaning": "v. 审问；盘问",
+      "example": "Police interrogated him for six hours."
+    },
+    {
+      "word": "intimidate",
+      "phonetic": "/ɪnˈtɪmɪdeɪt/",
+      "meaning": "v. 恐吓；威胁",
+      "example": "Witnesses were intimidated into silence."
+    },
+    {
+      "word": "invade",
+      "phonetic": "/ɪnˈveɪd/",
+      "meaning": "v. 入侵；侵犯",
+      "example": "The army invaded the neighbouring country."
+    },
+    {
+      "word": "juror",
+      "phonetic": "/ˈdʒʊərə/",
+      "meaning": "n. 陪审员",
+      "example": "Each juror listened carefully to the evidence."
+    },
+    {
+      "word": "lawsuit",
+      "phonetic": "/ˈlɔːsuːt/",
+      "meaning": "n. 诉讼；官司",
+      "example": "She filed a lawsuit against her employer."
+    },
+    {
+      "word": "legislature",
+      "phonetic": "/ˈledʒɪsleɪtʃə/",
+      "meaning": "n. 立法机关",
+      "example": "The state legislature passed the bill."
+    },
+    {
+      "word": "liability",
+      "phonetic": "/ˌlaɪəˈbɪləti/",
+      "meaning": "n. 责任；债务；累赘",
+      "example": "The firm accepted liability for the damage."
+    },
+    {
+      "word": "litigation",
+      "phonetic": "/ˌlɪtɪˈɡeɪʃn/",
+      "meaning": "n. 诉讼；打官司",
+      "example": "The dispute ended in litigation."
+    },
+    {
+      "word": "magistrate",
+      "phonetic": "/ˈmædʒɪstreɪt/",
+      "meaning": "n. 地方法官",
+      "example": "The case was heard by a magistrate."
+    },
+    {
+      "word": "mandatory",
+      "phonetic": "/ˈmændətəri/",
+      "meaning": "adj. 强制的；法定的",
+      "example": "Helmets are mandatory for cyclists."
+    },
+    {
+      "word": "manslaughter",
+      "phonetic": "/ˈmænslɔːtə/",
+      "meaning": "n. 过失杀人",
+      "example": "He was convicted of manslaughter."
+    },
+    {
+      "word": "mercenary",
+      "phonetic": "/ˈmɜːsəneri/",
+      "meaning": "n. 雇佣兵 adj. 唯利是图的",
+      "example": "The army hired mercenary troops."
+    },
+    {
+      "word": "militant",
+      "phonetic": "/ˈmɪlɪtənt/",
+      "meaning": "adj. 激进的 n. 激进分子",
+      "example": "Militant groups rejected the peace plan."
+    },
+    {
+      "word": "misconduct",
+      "phonetic": "/ˌmɪsˈkɒndʌkt/",
+      "meaning": "n. 不当行为；渎职",
+      "example": "He was dismissed for gross misconduct."
+    },
+    {
+      "word": "moratorium",
+      "phonetic": "/ˌmɒrəˈtɔːriəm/",
+      "meaning": "n. 暂停；暂缓期",
+      "example": "A moratorium on new building was imposed."
+    },
+    {
+      "word": "neutrality",
+      "phonetic": "/njuːˈtræləti/",
+      "meaning": "n. 中立；中立地位",
+      "example": "The country maintained strict neutrality."
+    },
+    {
+      "word": "noble",
+      "phonetic": "/ˈnəʊbl/",
+      "meaning": "adj. 高尚的；贵族的 n. 贵族",
+      "example": "It was a noble act of self-sacrifice."
+    },
+    {
+      "word": "nomination",
+      "phonetic": "/ˌnɒmɪˈneɪʃn/",
+      "meaning": "n. 提名；任命",
+      "example": "Her nomination was widely welcomed."
+    },
+    {
+      "word": "oath",
+      "phonetic": "/əʊθ/",
+      "meaning": "n. 誓言；宣誓",
+      "example": "Witnesses take an oath to tell the truth."
+    },
+    {
+      "word": "offender",
+      "phonetic": "/əˈfendə/",
+      "meaning": "n. 罪犯；违法者",
+      "example": "First offenders may receive a warning."
+    },
+    {
+      "word": "opposition",
+      "phonetic": "/ˌɒpəˈzɪʃn/",
+      "meaning": "n. 反对；反对党",
+      "example": "The opposition voted against the budget."
+    },
+    {
+      "word": "ordinance",
+      "phonetic": "/ˈɔːdɪnəns/",
+      "meaning": "n. 法令；条例",
+      "example": "A local ordinance bans smoking in parks."
+    },
+    {
+      "word": "parole",
+      "phonetic": "/pəˈrəʊl/",
+      "meaning": "n. 假释 v. 假释",
+      "example": "He was released on parole after four years."
+    },
+    {
+      "word": "partisan",
+      "phonetic": "/ˌpɑːtɪˈzæn/",
+      "meaning": "adj. 党派性的 n. 支持者",
+      "example": "The report was criticised as partisan."
+    },
+    {
+      "word": "perjury",
+      "phonetic": "/ˈpɜːdʒəri/",
+      "meaning": "n. 伪证；伪证罪",
+      "example": "He was charged with perjury."
+    },
+    {
+      "word": "plaintiff",
+      "phonetic": "/ˈpleɪntɪf/",
+      "meaning": "n. 原告；起诉人",
+      "example": "The plaintiff sought damages."
+    },
+    {
+      "word": "plebiscite",
+      "phonetic": "/ˈplebɪsaɪt/",
+      "meaning": "n. 公民投票",
+      "example": "A plebiscite decided the question."
+    },
+    {
+      "word": "pluralism",
+      "phonetic": "/ˈplʊərəlɪzəm/",
+      "meaning": "n. 多元主义；多元化",
+      "example": "The city is known for its cultural pluralism."
+    },
+    {
+      "word": "premises",
+      "phonetic": "/ˈpremɪsɪz/",
+      "meaning": "n. 房屋；经营场所",
+      "example": "Smoking is not allowed on the premises."
+    },
+    {
+      "word": "proclamation",
+      "phonetic": "/ˌprɒkləˈmeɪʃn/",
+      "meaning": "n. 公告；宣言",
+      "example": "The proclamation was read in public."
+    },
+    {
+      "word": "prosecute",
+      "phonetic": "/ˈprɒsɪkjuːt/",
+      "meaning": "v. 起诉；检举",
+      "example": "Shoplifters will be prosecuted."
+    },
+    {
+      "word": "provost",
+      "phonetic": "/ˈprɒvəst/",
+      "meaning": "n. 教务长；院长",
+      "example": "The provost chairs the academic board."
+    },
+    {
+      "word": "proxy",
+      "phonetic": "/ˈprɒksi/",
+      "meaning": "n. 代理人；代理权",
+      "example": "Shareholders may vote by proxy."
+    },
+    {
+      "word": "ratify",
+      "phonetic": "/ˈrætɪfaɪ/",
+      "meaning": "v. 批准；认可",
+      "example": "Parliament must ratify the treaty."
+    },
+    {
+      "word": "rebellion",
+      "phonetic": "/rɪˈbeljən/",
+      "meaning": "n. 叛乱；反抗",
+      "example": "The rebellion was crushed within days."
+    },
+    {
+      "word": "reconciliation",
+      "phonetic": "/ˌrekənsɪliˈeɪʃn/",
+      "meaning": "n. 和解；调和",
+      "example": "Both sides spoke of reconciliation."
+    },
+    {
+      "word": "refugee",
+      "phonetic": "/ˌrefjuˈdʒiː/",
+      "meaning": "n. 难民；避难者",
+      "example": "The camp shelters thousands of refugees."
+    },
+    {
+      "word": "regulation",
+      "phonetic": "/ˌreɡjuˈleɪʃn/",
+      "meaning": "n. 规章；管理",
+      "example": "New regulations come into force in July."
+    },
+    {
+      "word": "rehabilitate",
+      "phonetic": "/ˌriːəˈbɪlɪteɪt/",
+      "meaning": "v. 改造；康复",
+      "example": "The centre rehabilitates injured workers."
+    },
+    {
+      "word": "remand",
+      "phonetic": "/rɪˈmɑːnd/",
+      "meaning": "v. 还押 n. 还押候审",
+      "example": "He was remanded in custody for a week."
+    },
+    {
+      "word": "repeal",
+      "phonetic": "/rɪˈpiːl/",
+      "meaning": "v. 废除 n. 废除",
+      "example": "The law was repealed in 1998."
+    },
+    {
+      "word": "repression",
+      "phonetic": "/rɪˈpreʃn/",
+      "meaning": "n. 镇压；压抑",
+      "example": "The regime used repression to stay in power."
+    },
+    {
+      "word": "republic",
+      "phonetic": "/rɪˈpʌblɪk/",
+      "meaning": "n. 共和国；共和政体",
+      "example": "The country became a republic in 1950."
+    },
+    {
+      "word": "resignation",
+      "phonetic": "/ˌrezɪɡˈneɪʃn/",
+      "meaning": "n. 辞职；顺从",
+      "example": "The minister announced his resignation."
+    },
+    {
+      "word": "resolution",
+      "phonetic": "/ˌrezəˈluːʃn/",
+      "meaning": "n. 决议；决心；解决",
+      "example": "The council passed a resolution unanimously."
+    },
+    {
+      "word": "retribution",
+      "phonetic": "/ˌretrɪˈbjuːʃn/",
+      "meaning": "n. 报应；惩罚",
+      "example": "They feared retribution from the authorities."
+    },
+    {
+      "word": "secede",
+      "phonetic": "/sɪˈsiːd/",
+      "meaning": "v. 退出；脱离",
+      "example": "The region threatened to secede."
+    },
+    {
+      "word": "sedition",
+      "phonetic": "/sɪˈdɪʃn/",
+      "meaning": "n. 煽动叛乱",
+      "example": "He was charged with sedition."
+    },
+    {
+      "word": "segregate",
+      "phonetic": "/ˈseɡrɪɡeɪt/",
+      "meaning": "v. 隔离；分开",
+      "example": "Waste is segregated for recycling."
+    },
+    {
+      "word": "senator",
+      "phonetic": "/ˈsenətə/",
+      "meaning": "n. 参议员",
+      "example": "The senator voted against the bill."
+    },
+    {
+      "word": "sentence",
+      "phonetic": "/ˈsentəns/",
+      "meaning": "n. 判决；句子 v. 判刑",
+      "example": "He received a two-year sentence."
+    },
+    {
+      "word": "sovereignty",
+      "phonetic": "/ˈsɒvrənti/",
+      "meaning": "n. 主权；统治权",
+      "example": "The treaty respects national sovereignty."
+    },
+    {
+      "word": "statute",
+      "phonetic": "/ˈstætʃuːt/",
+      "meaning": "n. 法规；成文法",
+      "example": "The right is protected by statute."
+    },
+    {
+      "word": "subpoena",
+      "phonetic": "/səˈpiːnə/",
+      "meaning": "n. 传票 v. 传唤",
+      "example": "She was subpoenaed to give evidence."
+    },
+    {
+      "word": "suffrage",
+      "phonetic": "/ˈsʌfrɪdʒ/",
+      "meaning": "n. 选举权；投票权",
+      "example": "The movement fought for women's suffrage."
+    },
+    {
+      "word": "tenure",
+      "phonetic": "/ˈtenjə/",
+      "meaning": "n. 任期；终身职位",
+      "example": "She was granted tenure at thirty-five."
+    },
+    {
+      "word": "terrorism",
+      "phonetic": "/ˈterərɪzəm/",
+      "meaning": "n. 恐怖主义",
+      "example": "The law targets organised terrorism."
+    },
+    {
+      "word": "testimony",
+      "phonetic": "/ˈtestɪməni/",
+      "meaning": "n. 证词；证明",
+      "example": "Her testimony convinced the jury."
+    },
+    {
+      "word": "treason",
+      "phonetic": "/ˈtriːzn/",
+      "meaning": "n. 叛国罪；背叛",
+      "example": "He was executed for treason."
+    },
+    {
+      "word": "tribunal",
+      "phonetic": "/traɪˈbjuːnl/",
+      "meaning": "n. 法庭；仲裁庭",
+      "example": "The case went to an employment tribunal."
+    },
+    {
+      "word": "truce",
+      "phonetic": "/truːs/",
+      "meaning": "n. 停战；休战",
+      "example": "Both sides agreed to a temporary truce."
+    },
+    {
+      "word": "tyranny",
+      "phonetic": "/ˈtɪrəni/",
+      "meaning": "n. 暴政；专制",
+      "example": "The people rose against tyranny."
+    },
+    {
+      "word": "usurp",
+      "phonetic": "/juːˈzɜːp/",
+      "meaning": "v. 篡夺；侵占",
+      "example": "He tried to usurp the leader's authority."
+    },
+    {
+      "word": "verdict",
+      "phonetic": "/ˈvɜːdɪkt/",
+      "meaning": "n. 裁决；判决",
+      "example": "The jury reached a unanimous verdict."
+    },
+    {
+      "word": "veto",
+      "phonetic": "/ˈviːtəʊ/",
+      "meaning": "n. 否决权 v. 否决",
+      "example": "The president vetoed the bill."
+    },
+    {
+      "word": "violation",
+      "phonetic": "/ˌvaɪəˈleɪʃn/",
+      "meaning": "n. 违反；侵犯",
+      "example": "The inspection found several violations."
+    }
+  ]
+}

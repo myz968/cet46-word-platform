@@ -1,0 +1,12 @@
+{
+  "name": "cet46-h5-static-host",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CET46 H5 PWA static host with explicit MIME and Cache-Control headers",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}

@@ -1,0 +1,1188 @@
+{
+  "level": 3,
+  "note": "低频难词（第 3 批）——学术与书面语高频",
+  "words": [
+    {
+      "word": "abbreviation",
+      "phonetic": "əˌbriːviˈeɪʃn",
+      "meaning": "n. 缩写",
+      "example": "Write the full form, not the abbreviation."
+    },
+    {
+      "word": "abnormal",
+      "phonetic": "æbˈnɔːml",
+      "meaning": "adj. 反常的",
+      "example": "The result was abnormal."
+    },
+    {
+      "word": "aboriginal",
+      "phonetic": "ˌæbəˈrɪdʒənl",
+      "meaning": "adj. 土著的",
+      "example": "They studied aboriginal art."
+    },
+    {
+      "word": "abstain",
+      "phonetic": "əbˈsteɪn",
+      "meaning": "v. 戒除；弃权",
+      "example": "He abstained from voting."
+    },
+    {
+      "word": "acclaim",
+      "phonetic": "əˈkleɪm",
+      "meaning": "v./n. 称赞",
+      "example": "The film won acclaim."
+    },
+    {
+      "word": "accordance",
+      "phonetic": "əˈkɔːdns",
+      "meaning": "n. 一致（in accordance with）",
+      "example": "Act in accordance with the law."
+    },
+    {
+      "word": "acoustic",
+      "phonetic": "əˈkuːstɪk",
+      "meaning": "adj. 声学的；原声的",
+      "example": "She plays acoustic guitar."
+    },
+    {
+      "word": "acquit",
+      "phonetic": "əˈkwɪt",
+      "meaning": "v. 宣判无罪",
+      "example": "The court acquitted him."
+    },
+    {
+      "word": "adjoin",
+      "phonetic": "əˈdʒɔɪn",
+      "meaning": "v. 毗连",
+      "example": "The garden adjoins the house."
+    },
+    {
+      "word": "affirm",
+      "phonetic": "əˈfɜːm",
+      "meaning": "v. 断言；肯定",
+      "example": "She affirmed her support."
+    },
+    {
+      "word": "alien",
+      "phonetic": "ˈeɪliən",
+      "meaning": "adj. 外来的 n. 外星人",
+      "example": "The custom feels alien to me."
+    },
+    {
+      "word": "alloy",
+      "phonetic": "ˈælɔɪ",
+      "meaning": "n. 合金",
+      "example": "This alloy resists rust."
+    },
+    {
+      "word": "ally",
+      "phonetic": "ˈælaɪ",
+      "meaning": "n. 盟友 v. 结盟",
+      "example": "The two nations are allies."
+    },
+    {
+      "word": "alternate",
+      "phonetic": "ɔːlˈtɜːnət",
+      "meaning": "adj. 交替的 v. 轮流",
+      "example": "They work on alternate days."
+    },
+    {
+      "word": "altitude",
+      "phonetic": "ˈæltɪtjuːd",
+      "meaning": "n. 高度；海拔",
+      "example": "The plane flies at high altitude."
+    },
+    {
+      "word": "amplify",
+      "phonetic": "ˈæmplɪfaɪ",
+      "meaning": "v. 放大；增强",
+      "example": "The device amplifies sound."
+    },
+    {
+      "word": "anchor",
+      "phonetic": "ˈæŋkə",
+      "meaning": "n. 锚 v. 固定",
+      "example": "The ship dropped anchor."
+    },
+    {
+      "word": "anecdote",
+      "phonetic": "ˈænɪkdəʊt",
+      "meaning": "n. 轶事",
+      "example": "He told a funny anecdote."
+    },
+    {
+      "word": "anguish",
+      "phonetic": "ˈæŋɡwɪʃ",
+      "meaning": "n. 痛苦",
+      "example": "She cried in anguish."
+    },
+    {
+      "word": "anticipation",
+      "phonetic": "ænˌtɪsɪˈpeɪʃn",
+      "meaning": "n. 预期",
+      "example": "We waited in anticipation."
+    },
+    {
+      "word": "antique",
+      "phonetic": "ænˈtiːk",
+      "meaning": "n. 古董 adj. 古老的",
+      "example": "This is an antique chair."
+    },
+    {
+      "word": "apartheid",
+      "phonetic": "əˈpɑːthaɪt",
+      "meaning": "n. 种族隔离",
+      "example": "They fought against apartheid."
+    },
+    {
+      "word": "appendix",
+      "phonetic": "əˈpendɪks",
+      "meaning": "n. 附录；阑尾",
+      "example": "See the appendix for data."
+    },
+    {
+      "word": "apprehend",
+      "phonetic": "ˌæprɪˈhend",
+      "meaning": "v. 逮捕；理解",
+      "example": "Police apprehended the thief."
+    },
+    {
+      "word": "apt",
+      "phonetic": "æpt",
+      "meaning": "adj. 恰当的；易于……的",
+      "example": "He is apt to forget names."
+    },
+    {
+      "word": "archaeology",
+      "phonetic": "ˌɑːkiˈɒlədʒi",
+      "meaning": "n. 考古学",
+      "example": "She studies archaeology."
+    },
+    {
+      "word": "arduous",
+      "phonetic": "ˈɑːdjuəs",
+      "meaning": "adj. 艰巨的",
+      "example": "It was an arduous journey."
+    },
+    {
+      "word": "arena",
+      "phonetic": "əˈriːnə",
+      "meaning": "n. 竞技场；领域",
+      "example": "They entered the political arena."
+    },
+    {
+      "word": "array",
+      "phonetic": "əˈreɪ",
+      "meaning": "n. 一系列；排列",
+      "example": "An array of options exists."
+    },
+    {
+      "word": "arrogant",
+      "phonetic": "ˈærəɡənt",
+      "meaning": "adj. 傲慢的",
+      "example": "His tone was arrogant."
+    },
+    {
+      "word": "ascertain",
+      "phonetic": "ˌæsəˈteɪn",
+      "meaning": "v. 查明",
+      "example": "Try to ascertain the facts."
+    },
+    {
+      "word": "ascribe",
+      "phonetic": "əˈskraɪb",
+      "meaning": "v. 归因于",
+      "example": "He ascribed failure to luck."
+    },
+    {
+      "word": "assault",
+      "phonetic": "əˈsɔːlt",
+      "meaning": "n./v. 攻击",
+      "example": "They condemned the assault."
+    },
+    {
+      "word": "astronomy",
+      "phonetic": "əˈstrɒnəmi",
+      "meaning": "n. 天文学",
+      "example": "He studies astronomy."
+    },
+    {
+      "word": "attorney",
+      "phonetic": "əˈtɜːni",
+      "meaning": "n. 律师",
+      "example": "Consult an attorney first."
+    },
+    {
+      "word": "auction",
+      "phonetic": "ˈɔːkʃn",
+      "meaning": "n./v. 拍卖",
+      "example": "The painting went to auction."
+    },
+    {
+      "word": "audit",
+      "phonetic": "ˈɔːdɪt",
+      "meaning": "n./v. 审计",
+      "example": "They conduct an annual audit."
+    },
+    {
+      "word": "avail",
+      "phonetic": "əˈveɪl",
+      "meaning": "v. 有益于（avail oneself of）",
+      "example": "He availed himself of the offer."
+    },
+    {
+      "word": "aviation",
+      "phonetic": "ˌeɪviˈeɪʃn",
+      "meaning": "n. 航空",
+      "example": "Aviation rules are strict."
+    },
+    {
+      "word": "awful",
+      "phonetic": "ˈɔːfl",
+      "meaning": "adj. 糟糕的",
+      "example": "The weather is awful."
+    },
+    {
+      "word": "axis",
+      "phonetic": "ˈæksɪs",
+      "meaning": "n. 轴；轴线",
+      "example": "The earth turns on its axis."
+    },
+    {
+      "word": "bail",
+      "phonetic": "beɪl",
+      "meaning": "n. 保释金 v. 保释",
+      "example": "He was released on bail."
+    },
+    {
+      "word": "bait",
+      "phonetic": "beɪt",
+      "meaning": "n. 诱饵 v. 引诱",
+      "example": "The fish took the bait."
+    },
+    {
+      "word": "ballet",
+      "phonetic": "ˈbæleɪ",
+      "meaning": "n. 芭蕾舞",
+      "example": "She studies ballet."
+    },
+    {
+      "word": "ballot",
+      "phonetic": "ˈbælət",
+      "meaning": "n. 选票；投票",
+      "example": "They cast their ballots."
+    },
+    {
+      "word": "barren",
+      "phonetic": "ˈbærən",
+      "meaning": "adj. 贫瘠的",
+      "example": "The land is barren here."
+    },
+    {
+      "word": "basin",
+      "phonetic": "ˈbeɪsn",
+      "meaning": "n. 盆；流域",
+      "example": "Wash your hands in the basin."
+    },
+    {
+      "word": "bass",
+      "phonetic": "beɪs",
+      "meaning": "n. 低音 adj. 低音的",
+      "example": "He plays the bass guitar."
+    },
+    {
+      "word": "batch",
+      "phonetic": "bætʃ",
+      "meaning": "n. 一批",
+      "example": "The first batch is ready."
+    },
+    {
+      "word": "bathe",
+      "phonetic": "beɪð",
+      "meaning": "v. 洗澡；沐浴",
+      "example": "She bathed the baby."
+    },
+    {
+      "word": "bearing",
+      "phonetic": "ˈbeərɪŋ",
+      "meaning": "n. 关系；举止；轴承",
+      "example": "It has no bearing on the case."
+    },
+    {
+      "word": "beforehand",
+      "phonetic": "bɪˈfɔːhænd",
+      "meaning": "adv. 事先",
+      "example": "Book the seats beforehand."
+    },
+    {
+      "word": "beverage",
+      "phonetic": "ˈbevərɪdʒ",
+      "meaning": "n. 饮料",
+      "example": "Hot beverages are free."
+    },
+    {
+      "word": "bicycle",
+      "phonetic": "ˈbaɪsɪkl",
+      "meaning": "n. 自行车",
+      "example": "He rides a bicycle daily."
+    },
+    {
+      "word": "bilateral",
+      "phonetic": "ˌbaɪˈlætərəl",
+      "meaning": "adj. 双边的",
+      "example": "They signed a bilateral deal."
+    },
+    {
+      "word": "bin",
+      "phonetic": "bɪn",
+      "meaning": "n. 垃圾箱",
+      "example": "Throw it in the bin."
+    },
+    {
+      "word": "biography",
+      "phonetic": "baɪˈɒɡrəfi",
+      "meaning": "n. 传记",
+      "example": "She wrote a biography."
+    },
+    {
+      "word": "bishop",
+      "phonetic": "ˈbɪʃəp",
+      "meaning": "n. 主教",
+      "example": "The bishop gave a speech."
+    },
+    {
+      "word": "bleak",
+      "phonetic": "bliːk",
+      "meaning": "adj. 荒凉的；黯淡的",
+      "example": "The future looks bleak."
+    },
+    {
+      "word": "blessing",
+      "phonetic": "ˈblesɪŋ",
+      "meaning": "n. 祝福；幸事",
+      "example": "Good health is a blessing."
+    },
+    {
+      "word": "blink",
+      "phonetic": "blɪŋk",
+      "meaning": "v. 眨眼；闪烁",
+      "example": "The light blinked twice."
+    },
+    {
+      "word": "blossom",
+      "phonetic": "ˈblɒsəm",
+      "meaning": "n. 花 v. 开花",
+      "example": "The trees blossom in April."
+    },
+    {
+      "word": "blur",
+      "phonetic": "blɜː",
+      "meaning": "v. 模糊 n. 模糊物",
+      "example": "The photo is a blur."
+    },
+    {
+      "word": "bolt",
+      "phonetic": "bəʊlt",
+      "meaning": "n. 螺栓 v. 闩上",
+      "example": "Tighten the bolt firmly."
+    },
+    {
+      "word": "bomb",
+      "phonetic": "bɒm",
+      "meaning": "n. 炸弹",
+      "example": "The bomb was defused."
+    },
+    {
+      "word": "bonus",
+      "phonetic": "ˈbəʊnəs",
+      "meaning": "n. 奖金；额外好处",
+      "example": "Every worker got a bonus."
+    },
+    {
+      "word": "boom",
+      "phonetic": "buːm",
+      "meaning": "n./v. 繁荣；轰鸣",
+      "example": "The city enjoyed a boom."
+    },
+    {
+      "word": "boot",
+      "phonetic": "buːt",
+      "meaning": "n. 靴子",
+      "example": "Wear strong boots outside."
+    },
+    {
+      "word": "bosom",
+      "phonetic": "ˈbʊzəm",
+      "meaning": "n. 胸；内心",
+      "example": "She kept it in her bosom."
+    },
+    {
+      "word": "botany",
+      "phonetic": "ˈbɒtəni",
+      "meaning": "n. 植物学",
+      "example": "He teaches botany."
+    },
+    {
+      "word": "bough",
+      "phonetic": "baʊ",
+      "meaning": "n. 大树枝",
+      "example": "A bough broke in the wind."
+    },
+    {
+      "word": "bourgeois",
+      "phonetic": "ˈbʊəʒwɑː",
+      "meaning": "adj. 资产阶级的",
+      "example": "They criticized bourgeois taste."
+    },
+    {
+      "word": "brace",
+      "phonetic": "breɪs",
+      "meaning": "v. 支撑；做好准备",
+      "example": "Brace yourself for bad news."
+    },
+    {
+      "word": "bracket",
+      "phonetic": "ˈbrækɪt",
+      "meaning": "n. 括号；等级",
+      "example": "Put it in brackets."
+    },
+    {
+      "word": "brass",
+      "phonetic": "brɑːs",
+      "meaning": "n. 黄铜",
+      "example": "The handle is made of brass."
+    },
+    {
+      "word": "breakthrough",
+      "phonetic": "ˈbreɪkθruː",
+      "meaning": "n. 突破",
+      "example": "They made a medical breakthrough."
+    },
+    {
+      "word": "brew",
+      "phonetic": "bruː",
+      "meaning": "v. 冲泡；酿造",
+      "example": "Let the tea brew longer."
+    },
+    {
+      "word": "brick",
+      "phonetic": "brɪk",
+      "meaning": "n. 砖",
+      "example": "The wall is made of brick."
+    },
+    {
+      "word": "bride",
+      "phonetic": "braɪd",
+      "meaning": "n. 新娘",
+      "example": "The bride wore white."
+    },
+    {
+      "word": "brink",
+      "phonetic": "brɪŋk",
+      "meaning": "n. 边缘",
+      "example": "They stood on the brink."
+    },
+    {
+      "word": "brittle",
+      "phonetic": "ˈbrɪtl",
+      "meaning": "adj. 易碎的",
+      "example": "Old paper becomes brittle."
+    },
+    {
+      "word": "bronze",
+      "phonetic": "brɒnz",
+      "meaning": "n. 青铜",
+      "example": "The statue is bronze."
+    },
+    {
+      "word": "brow",
+      "phonetic": "braʊ",
+      "meaning": "n. 眉毛；表情",
+      "example": "He wiped his brow."
+    },
+    {
+      "word": "bruise",
+      "phonetic": "bruːz",
+      "meaning": "n. 瘀伤 v. 使受伤",
+      "example": "She has a bruise on her arm."
+    },
+    {
+      "word": "bud",
+      "phonetic": "bʌd",
+      "meaning": "n. 芽 v. 发芽",
+      "example": "The buds opened in spring."
+    },
+    {
+      "word": "buffer",
+      "phonetic": "ˈbʌfə",
+      "meaning": "n. 缓冲物",
+      "example": "Savings act as a buffer."
+    },
+    {
+      "word": "bug",
+      "phonetic": "bʌɡ",
+      "meaning": "n. 虫子；程序错误",
+      "example": "They fixed the software bug."
+    },
+    {
+      "word": "burial",
+      "phonetic": "ˈberiəl",
+      "meaning": "n. 埋葬",
+      "example": "The burial was private."
+    },
+    {
+      "word": "buzz",
+      "phonetic": "bʌz",
+      "meaning": "v./n. 嗡嗡声",
+      "example": "Bees buzzed in the garden."
+    },
+    {
+      "word": "bypass",
+      "phonetic": "ˈbaɪpɑːs",
+      "meaning": "v. 绕过 n. 旁路",
+      "example": "Take the bypass to avoid traffic."
+    },
+    {
+      "word": "calorie",
+      "phonetic": "ˈkæləri",
+      "meaning": "n. 卡路里",
+      "example": "This meal has few calories."
+    },
+    {
+      "word": "canvas",
+      "phonetic": "ˈkænvəs",
+      "meaning": "n. 帆布；画布",
+      "example": "The painting is on canvas."
+    },
+    {
+      "word": "capsule",
+      "phonetic": "ˈkæpsjuːl",
+      "meaning": "n. 胶囊；太空舱",
+      "example": "Take one capsule daily."
+    },
+    {
+      "word": "caption",
+      "phonetic": "ˈkæpʃn",
+      "meaning": "n. 说明文字",
+      "example": "Read the photo caption."
+    },
+    {
+      "word": "carbohydrate",
+      "phonetic": "ˌkɑːbəʊˈhaɪdreɪt",
+      "meaning": "n. 碳水化合物",
+      "example": "Rice is rich in carbohydrate."
+    },
+    {
+      "word": "carnival",
+      "phonetic": "ˈkɑːnɪvl",
+      "meaning": "n. 狂欢节",
+      "example": "The carnival lasts a week."
+    },
+    {
+      "word": "carriage",
+      "phonetic": "ˈkærɪdʒ",
+      "meaning": "n. 车厢；马车",
+      "example": "Our carriage is at the front."
+    },
+    {
+      "word": "cart",
+      "phonetic": "kɑːt",
+      "meaning": "n. 手推车",
+      "example": "Push the cart carefully."
+    },
+    {
+      "word": "carve",
+      "phonetic": "kɑːv",
+      "meaning": "v. 雕刻；切",
+      "example": "He carved a small bird."
+    },
+    {
+      "word": "cassette",
+      "phonetic": "kəˈset",
+      "meaning": "n. 磁带盒",
+      "example": "The old cassette still plays."
+    },
+    {
+      "word": "catalogue",
+      "phonetic": "ˈkætəlɒɡ",
+      "meaning": "n. 目录",
+      "example": "Check the product catalogue."
+    },
+    {
+      "word": "catastrophe",
+      "phonetic": "kəˈtæstrəfi",
+      "meaning": "n. 大灾难",
+      "example": "The flood was a catastrophe."
+    },
+    {
+      "word": "cathedral",
+      "phonetic": "kəˈθiːdrəl",
+      "meaning": "n. 大教堂",
+      "example": "The cathedral is very old."
+    },
+    {
+      "word": "cave",
+      "phonetic": "keɪv",
+      "meaning": "n. 洞穴",
+      "example": "They explored the cave."
+    },
+    {
+      "word": "celebrity",
+      "phonetic": "səˈlebrəti",
+      "meaning": "n. 名人",
+      "example": "A celebrity visited the shop."
+    },
+    {
+      "word": "cellar",
+      "phonetic": "ˈselə",
+      "meaning": "n. 地窖",
+      "example": "The wine is in the cellar."
+    },
+    {
+      "word": "central",
+      "phonetic": "ˈsentrəl",
+      "meaning": "adj. 中心的；主要的",
+      "example": "It is the central issue."
+    },
+    {
+      "word": "ceramic",
+      "phonetic": "səˈræmɪk",
+      "meaning": "adj. 陶瓷的 n. 陶瓷",
+      "example": "She collects ceramic bowls."
+    },
+    {
+      "word": "cereal",
+      "phonetic": "ˈsɪəriəl",
+      "meaning": "n. 谷物；麦片",
+      "example": "He eats cereal for breakfast."
+    },
+    {
+      "word": "chairman",
+      "phonetic": "ˈtʃeəmən",
+      "meaning": "n. 主席",
+      "example": "The chairman opened the meeting."
+    },
+    {
+      "word": "champion",
+      "phonetic": "ˈtʃæmpiən",
+      "meaning": "n. 冠军；拥护者",
+      "example": "She became the champion."
+    },
+    {
+      "word": "chapel",
+      "phonetic": "ˈtʃæpl",
+      "meaning": "n. 小教堂",
+      "example": "They married in a chapel."
+    },
+    {
+      "word": "chapter",
+      "phonetic": "ˈtʃæptə",
+      "meaning": "n. 章节",
+      "example": "Read chapter three tonight."
+    },
+    {
+      "word": "charcoal",
+      "phonetic": "ˈtʃɑːkəʊl",
+      "meaning": "n. 木炭",
+      "example": "They cooked over charcoal."
+    },
+    {
+      "word": "checkpoint",
+      "phonetic": "ˈtʃekpɔɪnt",
+      "meaning": "n. 检查站",
+      "example": "Stop at the checkpoint."
+    },
+    {
+      "word": "chest",
+      "phonetic": "tʃest",
+      "meaning": "n. 胸部；箱子",
+      "example": "He has chest pain."
+    },
+    {
+      "word": "childish",
+      "phonetic": "ˈtʃaɪldɪʃ",
+      "meaning": "adj. 幼稚的",
+      "example": "Do not be so childish."
+    },
+    {
+      "word": "chill",
+      "phonetic": "tʃɪl",
+      "meaning": "n. 寒意 v. 冷却",
+      "example": "There is a chill in the air."
+    },
+    {
+      "word": "chimney",
+      "phonetic": "ˈtʃɪmni",
+      "meaning": "n. 烟囱",
+      "example": "Smoke rose from the chimney."
+    },
+    {
+      "word": "chin",
+      "phonetic": "tʃɪn",
+      "meaning": "n. 下巴",
+      "example": "He rested his chin on hand."
+    },
+    {
+      "word": "choir",
+      "phonetic": "ˈkwaɪə",
+      "meaning": "n. 合唱团",
+      "example": "She sings in the choir."
+    },
+    {
+      "word": "chop",
+      "phonetic": "tʃɒp",
+      "meaning": "v. 砍；切碎",
+      "example": "Chop the onions finely."
+    },
+    {
+      "word": "chorus",
+      "phonetic": "ˈkɔːrəs",
+      "meaning": "n. 合唱；副歌",
+      "example": "Everyone sang the chorus."
+    },
+    {
+      "word": "chunk",
+      "phonetic": "tʃʌŋk",
+      "meaning": "n. 大块",
+      "example": "Cut it into small chunks."
+    },
+    {
+      "word": "circular",
+      "phonetic": "ˈsɜːkjələ",
+      "meaning": "adj. 圆形的",
+      "example": "The table is circular."
+    },
+    {
+      "word": "circus",
+      "phonetic": "ˈsɜːkəs",
+      "meaning": "n. 马戏团",
+      "example": "The circus came to town."
+    },
+    {
+      "word": "civic",
+      "phonetic": "ˈsɪvɪk",
+      "meaning": "adj. 公民的；城市的",
+      "example": "Civic duty matters."
+    },
+    {
+      "word": "clamp",
+      "phonetic": "klæmp",
+      "meaning": "n. 夹具 v. 夹紧",
+      "example": "Clamp the pieces together."
+    },
+    {
+      "word": "clasp",
+      "phonetic": "klɑːsp",
+      "meaning": "v. 紧握 n. 扣子",
+      "example": "She clasped my hand."
+    },
+    {
+      "word": "classical",
+      "phonetic": "ˈklæsɪkl",
+      "meaning": "adj. 古典的",
+      "example": "He loves classical music."
+    },
+    {
+      "word": "clay",
+      "phonetic": "kleɪ",
+      "meaning": "n. 黏土",
+      "example": "They make pots from clay."
+    },
+    {
+      "word": "cliff",
+      "phonetic": "klɪf",
+      "meaning": "n. 悬崖",
+      "example": "The cliff drops sharply."
+    },
+    {
+      "word": "climax",
+      "phonetic": "ˈklaɪmæks",
+      "meaning": "n. 高潮",
+      "example": "The film reaches its climax."
+    },
+    {
+      "word": "clip",
+      "phonetic": "klɪp",
+      "meaning": "n. 夹子；片段 v. 修剪",
+      "example": "Use a clip to hold it."
+    },
+    {
+      "word": "clockwise",
+      "phonetic": "ˈklɒkwaɪz",
+      "meaning": "adv. 顺时针地",
+      "example": "Turn the handle clockwise."
+    },
+    {
+      "word": "clone",
+      "phonetic": "kləʊn",
+      "meaning": "n./v. 克隆",
+      "example": "They cloned a sheep."
+    },
+    {
+      "word": "closet",
+      "phonetic": "ˈklɒzɪt",
+      "meaning": "n. 壁橱",
+      "example": "The coats are in the closet."
+    },
+    {
+      "word": "clumsy",
+      "phonetic": "ˈklʌmzi",
+      "meaning": "adj. 笨拙的",
+      "example": "He made a clumsy apology."
+    },
+    {
+      "word": "clutch",
+      "phonetic": "klʌtʃ",
+      "meaning": "v. 抓住 n. 离合器",
+      "example": "She clutched her bag."
+    },
+    {
+      "word": "coarse",
+      "phonetic": "kɔːs",
+      "meaning": "adj. 粗糙的",
+      "example": "The cloth feels coarse."
+    },
+    {
+      "word": "coastal",
+      "phonetic": "ˈkəʊstl",
+      "meaning": "adj. 沿海的",
+      "example": "They live in a coastal town."
+    },
+    {
+      "word": "coating",
+      "phonetic": "ˈkəʊtɪŋ",
+      "meaning": "n. 涂层",
+      "example": "Apply a thin coating."
+    },
+    {
+      "word": "cocktail",
+      "phonetic": "ˈkɒkteɪl",
+      "meaning": "n. 鸡尾酒",
+      "example": "They served fruit cocktails."
+    },
+    {
+      "word": "coil",
+      "phonetic": "kɔɪl",
+      "meaning": "n. 线圈 v. 盘绕",
+      "example": "The rope lay in a coil."
+    },
+    {
+      "word": "coin",
+      "phonetic": "kɔɪn",
+      "meaning": "n. 硬币 v. 创造",
+      "example": "He collected old coins."
+    },
+    {
+      "word": "collision",
+      "phonetic": "kəˈlɪʒn",
+      "meaning": "n. 碰撞；冲突",
+      "example": "Two cars had a collision."
+    },
+    {
+      "word": "colonial",
+      "phonetic": "kəˈləʊniəl",
+      "meaning": "adj. 殖民地的",
+      "example": "The colonial buildings remain."
+    },
+    {
+      "word": "columnist",
+      "phonetic": "ˈkɒləmnɪst",
+      "meaning": "n. 专栏作家",
+      "example": "She is a famous columnist."
+    },
+    {
+      "word": "comet",
+      "phonetic": "ˈkɒmɪt",
+      "meaning": "n. 彗星",
+      "example": "A comet appeared last night."
+    },
+    {
+      "word": "comic",
+      "phonetic": "ˈkɒmɪk",
+      "meaning": "adj. 滑稽的 n. 漫画",
+      "example": "He reads comic books."
+    },
+    {
+      "word": "commemorate",
+      "phonetic": "kəˈmeməreɪt",
+      "meaning": "v. 纪念",
+      "example": "They commemorate the day."
+    },
+    {
+      "word": "commend",
+      "phonetic": "kəˈmend",
+      "meaning": "v. 表扬；推荐",
+      "example": "The teacher commended her."
+    },
+    {
+      "word": "commentary",
+      "phonetic": "ˈkɒməntri",
+      "meaning": "n. 评论；解说",
+      "example": "The commentary was helpful."
+    },
+    {
+      "word": "commission",
+      "phonetic": "kəˈmɪʃn",
+      "meaning": "n. 委员会；佣金 v. 委托",
+      "example": "They set up a commission."
+    },
+    {
+      "word": "commute",
+      "phonetic": "kəˈmjuːt",
+      "meaning": "v. 通勤",
+      "example": "He commutes by subway."
+    },
+    {
+      "word": "compact",
+      "phonetic": "kəmˈpækt",
+      "meaning": "adj. 紧凑的",
+      "example": "It is a compact design."
+    },
+    {
+      "word": "companion",
+      "phonetic": "kəmˈpæniən",
+      "meaning": "n. 同伴",
+      "example": "She was a good companion."
+    },
+    {
+      "word": "compass",
+      "phonetic": "ˈkʌmpəs",
+      "meaning": "n. 指南针；圆规",
+      "example": "Use a compass to find north."
+    },
+    {
+      "word": "composite",
+      "phonetic": "ˈkɒmpəzɪt",
+      "meaning": "adj. 复合的",
+      "example": "It is a composite material."
+    },
+    {
+      "word": "compound",
+      "phonetic": "ˈkɒmpaʊnd",
+      "meaning": "n. 化合物 adj. 复合的",
+      "example": "Water is a simple compound."
+    },
+    {
+      "word": "comprehend",
+      "phonetic": "ˌkɒmprɪˈhend",
+      "meaning": "v. 理解",
+      "example": "I cannot comprehend the rule."
+    },
+    {
+      "word": "compress",
+      "phonetic": "kəmˈpres",
+      "meaning": "v. 压缩",
+      "example": "Compress the file before sending."
+    },
+    {
+      "word": "conjunction",
+      "phonetic": "kənˈdʒʌŋkʃn",
+      "meaning": "n. 连词；结合",
+      "example": "Use a conjunction here."
+    },
+    {
+      "word": "conquest",
+      "phonetic": "ˈkɒŋkwest",
+      "meaning": "n. 征服",
+      "example": "The conquest took years."
+    },
+    {
+      "word": "conscience",
+      "phonetic": "ˈkɒnʃəns",
+      "meaning": "n. 良心",
+      "example": "His conscience troubled him."
+    },
+    {
+      "word": "convict",
+      "phonetic": "kənˈvɪkt",
+      "meaning": "v. 定罪 n. 罪犯",
+      "example": "The court convicted him."
+    },
+    {
+      "word": "copper",
+      "phonetic": "ˈkɒpə",
+      "meaning": "n. 铜",
+      "example": "The wire is made of copper."
+    },
+    {
+      "word": "copyright",
+      "phonetic": "ˈkɒpiraɪt",
+      "meaning": "n. 版权",
+      "example": "They own the copyright."
+    },
+    {
+      "word": "cordial",
+      "phonetic": "ˈkɔːdiəl",
+      "meaning": "adj. 热诚的",
+      "example": "They gave a cordial welcome."
+    },
+    {
+      "word": "corps",
+      "phonetic": "kɔː",
+      "meaning": "n. 军团；团",
+      "example": "He joined the medical corps."
+    },
+    {
+      "word": "correspondence",
+      "phonetic": "ˌkɒrəˈspɒndəns",
+      "meaning": "n. 通信；一致",
+      "example": "Keep the correspondence filed."
+    },
+    {
+      "word": "corridor",
+      "phonetic": "ˈkɒrɪdɔː",
+      "meaning": "n. 走廊",
+      "example": "Wait in the corridor."
+    },
+    {
+      "word": "corrode",
+      "phonetic": "kəˈrəʊd",
+      "meaning": "v. 腐蚀",
+      "example": "Salt water corrodes metal."
+    },
+    {
+      "word": "corruption",
+      "phonetic": "kəˈrʌpʃn",
+      "meaning": "n. 腐败",
+      "example": "They fight against corruption."
+    },
+    {
+      "word": "cosmic",
+      "phonetic": "ˈkɒzmɪk",
+      "meaning": "adj. 宇宙的",
+      "example": "Cosmic dust is everywhere."
+    },
+    {
+      "word": "costume",
+      "phonetic": "ˈkɒstjuːm",
+      "meaning": "n. 服装",
+      "example": "She wore a red costume."
+    },
+    {
+      "word": "courteous",
+      "phonetic": "ˈkɜːtiəs",
+      "meaning": "adj. 有礼貌的",
+      "example": "The staff are courteous."
+    },
+    {
+      "word": "courtesy",
+      "phonetic": "ˈkɜːtəsi",
+      "meaning": "n. 礼貌",
+      "example": "He showed great courtesy."
+    },
+    {
+      "word": "coverage",
+      "phonetic": "ˈkʌvərɪdʒ",
+      "meaning": "n. 覆盖范围；报道",
+      "example": "The network coverage is poor."
+    },
+    {
+      "word": "cradle",
+      "phonetic": "ˈkreɪdl",
+      "meaning": "n. 摇篮",
+      "example": "The baby slept in the cradle."
+    },
+    {
+      "word": "crane",
+      "phonetic": "kreɪn",
+      "meaning": "n. 起重机；鹤",
+      "example": "A crane lifted the steel."
+    },
+    {
+      "word": "creek",
+      "phonetic": "kriːk",
+      "meaning": "n. 小溪",
+      "example": "A creek runs behind the house."
+    },
+    {
+      "word": "creep",
+      "phonetic": "kriːp",
+      "meaning": "v. 爬行；蔓延",
+      "example": "Ivy crept up the wall."
+    },
+    {
+      "word": "cricket",
+      "phonetic": "ˈkrɪkɪt",
+      "meaning": "n. 蟋蟀；板球",
+      "example": "They play cricket on Sunday."
+    },
+    {
+      "word": "crimson",
+      "phonetic": "ˈkrɪmzn",
+      "meaning": "adj. 深红色的",
+      "example": "She wore a crimson coat."
+    },
+    {
+      "word": "cripple",
+      "phonetic": "ˈkrɪpl",
+      "meaning": "v. 严重削弱",
+      "example": "The strike crippled the port."
+    },
+    {
+      "word": "critic",
+      "phonetic": "ˈkrɪtɪk",
+      "meaning": "n. 批评家",
+      "example": "The critic praised the film."
+    },
+    {
+      "word": "crooked",
+      "phonetic": "ˈkrʊkɪd",
+      "meaning": "adj. 弯曲的；不诚实的",
+      "example": "The path is crooked."
+    },
+    {
+      "word": "crouch",
+      "phonetic": "kraʊtʃ",
+      "meaning": "v. 蹲下",
+      "example": "He crouched behind the car."
+    },
+    {
+      "word": "cruise",
+      "phonetic": "kruːz",
+      "meaning": "n./v. 巡航；乘船游览",
+      "example": "They went on a cruise."
+    },
+    {
+      "word": "crumb",
+      "phonetic": "krʌm",
+      "meaning": "n. 碎屑",
+      "example": "Sweep the crumbs away."
+    },
+    {
+      "word": "crust",
+      "phonetic": "krʌst",
+      "meaning": "n. 外壳；面包皮",
+      "example": "The bread crust is hard."
+    },
+    {
+      "word": "cunning",
+      "phonetic": "ˈkʌnɪŋ",
+      "meaning": "adj. 狡猾的",
+      "example": "He is a cunning negotiator."
+    },
+    {
+      "word": "curator",
+      "phonetic": "kjʊˈreɪtə",
+      "meaning": "n. 馆长",
+      "example": "The curator showed the collection."
+    },
+    {
+      "word": "curse",
+      "phonetic": "kɜːs",
+      "meaning": "n./v. 诅咒",
+      "example": "He cursed the bad luck."
+    },
+    {
+      "word": "custody",
+      "phonetic": "ˈkʌstədi",
+      "meaning": "n. 监护；拘留",
+      "example": "The child is in her custody."
+    },
+    {
+      "word": "cylinder",
+      "phonetic": "ˈsɪlɪndə",
+      "meaning": "n. 圆柱体",
+      "example": "The tank is a cylinder."
+    }
+  ]
+}

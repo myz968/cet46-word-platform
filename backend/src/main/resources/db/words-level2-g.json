@@ -1,0 +1,966 @@
+{
+  "level": 2,
+  "note": "中频补充：日常行为、性格情绪、生活场景常用词",
+  "words": [
+    {
+      "word": "absent",
+      "phonetic": "/ˈæbsənt/",
+      "meaning": "adj. 缺席的；心不在焉的",
+      "example": "Three pupils were absent today."
+    },
+    {
+      "word": "abundance",
+      "phonetic": "/əˈbʌndəns/",
+      "meaning": "n. 丰富；充裕",
+      "example": "There is an abundance of fresh fruit."
+    },
+    {
+      "word": "accordingly",
+      "phonetic": "/əˈkɔːdɪŋli/",
+      "meaning": "adv. 因此；相应地",
+      "example": "The rules changed, and we acted accordingly."
+    },
+    {
+      "word": "accountable",
+      "phonetic": "/əˈkaʊntəbl/",
+      "meaning": "adj. 负有责任的",
+      "example": "Managers are accountable for their decisions."
+    },
+    {
+      "word": "accumulation",
+      "phonetic": "/əˌkjuːmjəˈleɪʃn/",
+      "meaning": "n. 积累；堆积",
+      "example": "The accumulation of dust caused problems."
+    },
+    {
+      "word": "achievement",
+      "phonetic": "/əˈtʃiːvmənt/",
+      "meaning": "n. 成就；达成",
+      "example": "Winning the prize was a great achievement."
+    },
+    {
+      "word": "activate",
+      "phonetic": "/ˈæktɪveɪt/",
+      "meaning": "v. 激活；启动",
+      "example": "Press this button to activate the alarm."
+    },
+    {
+      "word": "adjustment",
+      "phonetic": "/əˈdʒʌstmənt/",
+      "meaning": "n. 调整；适应",
+      "example": "A small adjustment fixed the machine."
+    },
+    {
+      "word": "admission",
+      "phonetic": "/ədˈmɪʃn/",
+      "meaning": "n. 进入；承认；入场费",
+      "example": "Admission to the museum is free."
+    },
+    {
+      "word": "adolescence",
+      "phonetic": "/ˌædəˈlesns/",
+      "meaning": "n. 青春期",
+      "example": "Adolescence can be a difficult time."
+    },
+    {
+      "word": "adoption",
+      "phonetic": "/əˈdɒpʃn/",
+      "meaning": "n. 采用；收养",
+      "example": "The adoption of the new system took months."
+    },
+    {
+      "word": "adventurous",
+      "phonetic": "/ədˈventʃərəs/",
+      "meaning": "adj. 爱冒险的；新奇的",
+      "example": "She has an adventurous spirit."
+    },
+    {
+      "word": "advisable",
+      "phonetic": "/ədˈvaɪzəbl/",
+      "meaning": "adj. 明智的；可取的",
+      "example": "It is advisable to book in advance."
+    },
+    {
+      "word": "affectionate",
+      "phonetic": "/əˈfekʃənət/",
+      "meaning": "adj. 深情的；慈爱的",
+      "example": "She gave him an affectionate hug."
+    },
+    {
+      "word": "agreement",
+      "phonetic": "/əˈɡriːmənt/",
+      "meaning": "n. 协议；同意",
+      "example": "They reached an agreement after talks."
+    },
+    {
+      "word": "alert",
+      "phonetic": "/əˈlɜːt/",
+      "meaning": "adj. 警觉的 v. 使警觉 n. 警报",
+      "example": "The guard stayed alert all night."
+    },
+    {
+      "word": "amusement",
+      "phonetic": "/əˈmjuːzmənt/",
+      "meaning": "n. 娱乐；乐趣",
+      "example": "The children watched with amusement."
+    },
+    {
+      "word": "analytic",
+      "phonetic": "/ˌænəˈlɪtɪk/",
+      "meaning": "adj. 分析的；善于分析的",
+      "example": "She has a sharp analytic mind."
+    },
+    {
+      "word": "ancestry",
+      "phonetic": "/ˈænsestri/",
+      "meaning": "n. 祖先；血统",
+      "example": "He traced his ancestry to Ireland."
+    },
+    {
+      "word": "annually",
+      "phonetic": "/ˈænjuəli/",
+      "meaning": "adv. 每年；一年一次地",
+      "example": "The festival is held annually."
+    },
+    {
+      "word": "applause",
+      "phonetic": "/əˈplɔːz/",
+      "meaning": "n. 掌声；喝彩",
+      "example": "She left the stage to thunderous applause."
+    },
+    {
+      "word": "appreciation",
+      "phonetic": "/əˌpriːʃiˈeɪʃn/",
+      "meaning": "n. 感激；欣赏；升值",
+      "example": "She wrote to express her appreciation."
+    },
+    {
+      "word": "argument",
+      "phonetic": "/ˈɑːɡjumənt/",
+      "meaning": "n. 争论；论点",
+      "example": "They had an argument about money."
+    },
+    {
+      "word": "arrangement",
+      "phonetic": "/əˈreɪndʒmənt/",
+      "meaning": "n. 安排；布置",
+      "example": "We made arrangements for the visit."
+    },
+    {
+      "word": "artistic",
+      "phonetic": "/ɑːˈtɪstɪk/",
+      "meaning": "adj. 艺术的；有艺术天赋的",
+      "example": "The family has an artistic tradition."
+    },
+    {
+      "word": "assembly",
+      "phonetic": "/əˈsembli/",
+      "meaning": "n. 集会；装配",
+      "example": "The whole school attends morning assembly."
+    },
+    {
+      "word": "assessment",
+      "phonetic": "/əˈsesmənt/",
+      "meaning": "n. 评估；评定",
+      "example": "The assessment takes place in June."
+    },
+    {
+      "word": "assistance",
+      "phonetic": "/əˈsɪstəns/",
+      "meaning": "n. 帮助；援助",
+      "example": "She offered assistance to the visitors."
+    },
+    {
+      "word": "association",
+      "phonetic": "/əˌsəʊsiˈeɪʃn/",
+      "meaning": "n. 协会；关联",
+      "example": "He joined the writers' association."
+    },
+    {
+      "word": "assurance",
+      "phonetic": "/əˈʃʊərəns/",
+      "meaning": "n. 保证；信心",
+      "example": "He gave us an assurance of support."
+    },
+    {
+      "word": "attentive",
+      "phonetic": "/əˈtentɪv/",
+      "meaning": "adj. 专注的；体贴的",
+      "example": "The audience was quiet and attentive."
+    },
+    {
+      "word": "avoidance",
+      "phonetic": "/əˈvɔɪdəns/",
+      "meaning": "n. 避免；逃避",
+      "example": "Tax avoidance is legal, evasion is not."
+    },
+    {
+      "word": "badge",
+      "phonetic": "/bædʒ/",
+      "meaning": "n. 徽章；标记",
+      "example": "All visitors must wear a badge."
+    },
+    {
+      "word": "balcony",
+      "phonetic": "/ˈbælkəni/",
+      "meaning": "n. 阳台；楼座",
+      "example": "We sat on the balcony at sunset."
+    },
+    {
+      "word": "bandage",
+      "phonetic": "/ˈbændɪdʒ/",
+      "meaning": "n. 绷带 v. 包扎",
+      "example": "The nurse put a bandage on his arm."
+    },
+    {
+      "word": "barbecue",
+      "phonetic": "/ˈbɑːbɪkjuː/",
+      "meaning": "n. 烧烤 v. 烧烤",
+      "example": "They held a barbecue in the garden."
+    },
+    {
+      "word": "bare",
+      "phonetic": "/beə/",
+      "meaning": "adj. 赤裸的；空的",
+      "example": "The walls were bare."
+    },
+    {
+      "word": "basement",
+      "phonetic": "/ˈbeɪsmənt/",
+      "meaning": "n. 地下室；地窖",
+      "example": "The files are kept in the basement."
+    },
+    {
+      "word": "beam",
+      "phonetic": "/biːm/",
+      "meaning": "n. 光束；横梁 v. 微笑",
+      "example": "A beam of light crossed the room."
+    },
+    {
+      "word": "beard",
+      "phonetic": "/bɪəd/",
+      "meaning": "n. 胡须",
+      "example": "He has grown a short beard."
+    },
+    {
+      "word": "beast",
+      "phonetic": "/biːst/",
+      "meaning": "n. 野兽；畜生",
+      "example": "The hunters tracked the beast for days."
+    },
+    {
+      "word": "bedding",
+      "phonetic": "/ˈbedɪŋ/",
+      "meaning": "n. 床上用品",
+      "example": "Clean bedding is provided."
+    },
+    {
+      "word": "beehive",
+      "phonetic": "/ˈbiːhaɪv/",
+      "meaning": "n. 蜂箱；蜂巢",
+      "example": "The beehive produced twenty kilos of honey."
+    },
+    {
+      "word": "beggar",
+      "phonetic": "/ˈbeɡə/",
+      "meaning": "n. 乞丐 v. 使贫穷",
+      "example": "A beggar asked him for change."
+    },
+    {
+      "word": "beloved",
+      "phonetic": "/bɪˈlʌvɪd/",
+      "meaning": "adj. 心爱的；挚爱的",
+      "example": "She lost her beloved dog."
+    },
+    {
+      "word": "belt",
+      "phonetic": "/belt/",
+      "meaning": "n. 腰带；地带",
+      "example": "Fasten your seat belt."
+    },
+    {
+      "word": "bench",
+      "phonetic": "/bentʃ/",
+      "meaning": "n. 长凳；工作台",
+      "example": "They sat on a bench in the park."
+    },
+    {
+      "word": "berry",
+      "phonetic": "/ˈberi/",
+      "meaning": "n. 浆果",
+      "example": "The birds ate all the berries."
+    },
+    {
+      "word": "betrayal",
+      "phonetic": "/bɪˈtreɪəl/",
+      "meaning": "n. 背叛；出卖",
+      "example": "He never recovered from the betrayal."
+    },
+    {
+      "word": "biscuit",
+      "phonetic": "/ˈbɪskɪt/",
+      "meaning": "n. 饼干",
+      "example": "Would you like a biscuit with your tea?"
+    },
+    {
+      "word": "blanket",
+      "phonetic": "/ˈblæŋkɪt/",
+      "meaning": "n. 毯子 adj. 全面的",
+      "example": "She pulled the blanket over her shoulders."
+    },
+    {
+      "word": "bliss",
+      "phonetic": "/blɪs/",
+      "meaning": "n. 极乐；幸福",
+      "example": "A hot bath was sheer bliss."
+    },
+    {
+      "word": "boastful",
+      "phonetic": "/ˈbəʊstfl/",
+      "meaning": "adj. 自夸的；吹嘘的",
+      "example": "He is rather boastful about his son."
+    },
+    {
+      "word": "bookcase",
+      "phonetic": "/ˈbʊkkeɪs/",
+      "meaning": "n. 书柜；书架",
+      "example": "The bookcase is full of old novels."
+    },
+    {
+      "word": "booth",
+      "phonetic": "/buːð/",
+      "meaning": "n. 亭；摊位；隔间",
+      "example": "She voted in the booth behind the curtain."
+    },
+    {
+      "word": "boredom",
+      "phonetic": "/ˈbɔːdəm/",
+      "meaning": "n. 厌倦；无聊",
+      "example": "He read to relieve the boredom."
+    },
+    {
+      "word": "bout",
+      "phonetic": "/baʊt/",
+      "meaning": "n. 一阵；一场",
+      "example": "He had a bout of flu last week."
+    },
+    {
+      "word": "bow",
+      "phonetic": "/baʊ/",
+      "meaning": "v. 鞠躬；弯曲 n. 鞠躬",
+      "example": "The actor bowed to the audience."
+    },
+    {
+      "word": "bowl",
+      "phonetic": "/bəʊl/",
+      "meaning": "n. 碗；碗状物",
+      "example": "She ate a bowl of soup."
+    },
+    {
+      "word": "boxing",
+      "phonetic": "/ˈbɒksɪŋ/",
+      "meaning": "n. 拳击",
+      "example": "He took up boxing at school."
+    },
+    {
+      "word": "bracelet",
+      "phonetic": "/ˈbreɪslət/",
+      "meaning": "n. 手镯；手链",
+      "example": "She wore a silver bracelet."
+    },
+    {
+      "word": "brake",
+      "phonetic": "/breɪk/",
+      "meaning": "n. 刹车 v. 刹车",
+      "example": "The brakes failed on the hill."
+    },
+    {
+      "word": "branch",
+      "phonetic": "/brɑːntʃ/",
+      "meaning": "n. 树枝；分支；分店",
+      "example": "The bank opened a new branch."
+    },
+    {
+      "word": "breadth",
+      "phonetic": "/bredθ/",
+      "meaning": "n. 宽度；广度",
+      "example": "The course covers a breadth of topics."
+    },
+    {
+      "word": "breast",
+      "phonetic": "/brest/",
+      "meaning": "n. 胸部；乳房",
+      "example": "He clutched the letter to his breast."
+    },
+    {
+      "word": "briefcase",
+      "phonetic": "/ˈbriːfkeɪs/",
+      "meaning": "n. 公文包",
+      "example": "He put the papers in his briefcase."
+    },
+    {
+      "word": "brighten",
+      "phonetic": "/ˈbraɪtn/",
+      "meaning": "v. 使明亮；使快活",
+      "example": "Her face brightened at the news."
+    },
+    {
+      "word": "broom",
+      "phonetic": "/bruːm/",
+      "meaning": "n. 扫帚",
+      "example": "He swept the yard with a broom."
+    },
+    {
+      "word": "bucket",
+      "phonetic": "/ˈbʌkɪt/",
+      "meaning": "n. 桶；提桶",
+      "example": "Fill the bucket with water."
+    },
+    {
+      "word": "buffet",
+      "phonetic": "/ˈbʊfeɪ/",
+      "meaning": "n. 自助餐 v. 冲击",
+      "example": "Breakfast is served as a buffet."
+    },
+    {
+      "word": "bulky",
+      "phonetic": "/ˈbʌlki/",
+      "meaning": "adj. 笨重的；庞大的",
+      "example": "The parcel was bulky but light."
+    },
+    {
+      "word": "bully",
+      "phonetic": "/ˈbʊli/",
+      "meaning": "v. 欺负 n. 恶霸",
+      "example": "He was bullied at school."
+    },
+    {
+      "word": "bun",
+      "phonetic": "/bʌn/",
+      "meaning": "n. 小圆面包；发髻",
+      "example": "She bought a bun for lunch."
+    },
+    {
+      "word": "burglar",
+      "phonetic": "/ˈbɜːɡlə/",
+      "meaning": "n. 窃贼；入室盗贼",
+      "example": "A burglar entered through the window."
+    },
+    {
+      "word": "bush",
+      "phonetic": "/bʊʃ/",
+      "meaning": "n. 灌木；灌木丛",
+      "example": "A rabbit hid in the bush."
+    },
+    {
+      "word": "butcher",
+      "phonetic": "/ˈbʊtʃə/",
+      "meaning": "n. 屠夫；肉贩",
+      "example": "Buy the meat from the butcher."
+    },
+    {
+      "word": "butterfly",
+      "phonetic": "/ˈbʌtəflaɪ/",
+      "meaning": "n. 蝴蝶",
+      "example": "A butterfly landed on her hand."
+    },
+    {
+      "word": "cabbage",
+      "phonetic": "/ˈkæbɪdʒ/",
+      "meaning": "n. 卷心菜；甘蓝",
+      "example": "She grows cabbage in the garden."
+    },
+    {
+      "word": "cabin",
+      "phonetic": "/ˈkæbɪn/",
+      "meaning": "n. 小屋；船舱；机舱",
+      "example": "They stayed in a wooden cabin."
+    },
+    {
+      "word": "cafe",
+      "phonetic": "/ˈkæfeɪ/",
+      "meaning": "n. 咖啡馆；小餐馆",
+      "example": "We met in a cafe near the station."
+    },
+    {
+      "word": "cage",
+      "phonetic": "/keɪdʒ/",
+      "meaning": "n. 笼子 v. 关入笼中",
+      "example": "The bird sang in its cage."
+    },
+    {
+      "word": "calendar",
+      "phonetic": "/ˈkælɪndə/",
+      "meaning": "n. 日历；日程表",
+      "example": "Mark the date on your calendar."
+    },
+    {
+      "word": "camel",
+      "phonetic": "/ˈkæml/",
+      "meaning": "n. 骆驼",
+      "example": "Camels can survive for days without water."
+    },
+    {
+      "word": "candy",
+      "phonetic": "/ˈkændi/",
+      "meaning": "n. 糖果",
+      "example": "The children were given candy."
+    },
+    {
+      "word": "cane",
+      "phonetic": "/keɪn/",
+      "meaning": "n. 手杖；藤条",
+      "example": "He walks with a cane."
+    },
+    {
+      "word": "cannon",
+      "phonetic": "/ˈkænən/",
+      "meaning": "n. 大炮",
+      "example": "The old cannon stands in the square."
+    },
+    {
+      "word": "canoe",
+      "phonetic": "/kəˈnuː/",
+      "meaning": "n. 独木舟 v. 划独木舟",
+      "example": "They paddled a canoe down the river."
+    },
+    {
+      "word": "cap",
+      "phonetic": "/kæp/",
+      "meaning": "n. 帽子；盖子 v. 覆盖",
+      "example": "He wore a baseball cap."
+    },
+    {
+      "word": "carpenter",
+      "phonetic": "/ˈkɑːpəntə/",
+      "meaning": "n. 木匠；木工",
+      "example": "The carpenter repaired the door."
+    },
+    {
+      "word": "carpet",
+      "phonetic": "/ˈkɑːpɪt/",
+      "meaning": "n. 地毯 v. 铺地毯",
+      "example": "The room has a thick carpet."
+    },
+    {
+      "word": "cashier",
+      "phonetic": "/kæˈʃɪə/",
+      "meaning": "n. 出纳员；收银员",
+      "example": "Pay the cashier at the desk."
+    },
+    {
+      "word": "castle",
+      "phonetic": "/ˈkɑːsl/",
+      "meaning": "n. 城堡",
+      "example": "The castle dates from the twelfth century."
+    },
+    {
+      "word": "cauliflower",
+      "phonetic": "/ˈkɒliflaʊə/",
+      "meaning": "n. 花椰菜",
+      "example": "She cooked cauliflower with cheese."
+    },
+    {
+      "word": "cedar",
+      "phonetic": "/ˈsiːdə/",
+      "meaning": "n. 雪松；杉木",
+      "example": "The chest is made of cedar."
+    },
+    {
+      "word": "cemetery",
+      "phonetic": "/ˈsemətri/",
+      "meaning": "n. 墓地；公墓",
+      "example": "The cemetery lies behind the church."
+    },
+    {
+      "word": "centimetre",
+      "phonetic": "/ˈsentɪmiːtə/",
+      "meaning": "n. 厘米",
+      "example": "The board is two centimetres thick."
+    },
+    {
+      "word": "chain",
+      "phonetic": "/tʃeɪn/",
+      "meaning": "n. 链条；连锁 v. 拴住",
+      "example": "The supermarket chain has fifty stores."
+    },
+    {
+      "word": "chalk",
+      "phonetic": "/tʃɔːk/",
+      "meaning": "n. 粉笔；白垩",
+      "example": "The teacher wrote with chalk."
+    },
+    {
+      "word": "champagne",
+      "phonetic": "/ʃæmˈpeɪn/",
+      "meaning": "n. 香槟酒",
+      "example": "They toasted with champagne."
+    },
+    {
+      "word": "chandelier",
+      "phonetic": "/ˌʃændəˈlɪə/",
+      "meaning": "n. 枝形吊灯",
+      "example": "A chandelier hung from the ceiling."
+    },
+    {
+      "word": "charming",
+      "phonetic": "/ˈtʃɑːmɪŋ/",
+      "meaning": "adj. 迷人的；可爱的",
+      "example": "The village is utterly charming."
+    },
+    {
+      "word": "chart",
+      "phonetic": "/tʃɑːt/",
+      "meaning": "n. 图表 v. 绘制图表",
+      "example": "The chart shows monthly sales."
+    },
+    {
+      "word": "cheek",
+      "phonetic": "/tʃiːk/",
+      "meaning": "n. 脸颊；厚脸皮",
+      "example": "Tears ran down her cheeks."
+    },
+    {
+      "word": "cheerful",
+      "phonetic": "/ˈtʃɪəfl/",
+      "meaning": "adj. 愉快的；高兴的",
+      "example": "She gave a cheerful greeting."
+    },
+    {
+      "word": "chef",
+      "phonetic": "/ʃef/",
+      "meaning": "n. 厨师；主厨",
+      "example": "The chef prepared a five-course meal."
+    },
+    {
+      "word": "chicken",
+      "phonetic": "/ˈtʃɪkɪn/",
+      "meaning": "n. 鸡；鸡肉；胆小鬼",
+      "example": "We had roast chicken for dinner."
+    },
+    {
+      "word": "china",
+      "phonetic": "/ˈtʃaɪnə/",
+      "meaning": "n. 瓷器",
+      "example": "The cupboard holds her best china."
+    },
+    {
+      "word": "choke",
+      "phonetic": "/tʃəʊk/",
+      "meaning": "v. 噎住；窒息",
+      "example": "He choked on a piece of bread."
+    },
+    {
+      "word": "chore",
+      "phonetic": "/tʃɔː/",
+      "meaning": "n. 家务；例行公事",
+      "example": "Washing up is my least favourite chore."
+    },
+    {
+      "word": "chubby",
+      "phonetic": "/ˈtʃʌbi/",
+      "meaning": "adj. 圆胖的；丰满的",
+      "example": "The baby has chubby cheeks."
+    },
+    {
+      "word": "cigar",
+      "phonetic": "/sɪˈɡɑː/",
+      "meaning": "n. 雪茄烟",
+      "example": "He lit a cigar after dinner."
+    },
+    {
+      "word": "cinnamon",
+      "phonetic": "/ˈsɪnəmən/",
+      "meaning": "n. 肉桂；桂皮",
+      "example": "Add cinnamon to the apple pie."
+    },
+    {
+      "word": "circle",
+      "phonetic": "/ˈsɜːkl/",
+      "meaning": "n. 圆；圈子 v. 环绕",
+      "example": "The children sat in a circle."
+    },
+    {
+      "word": "cloak",
+      "phonetic": "/kləʊk/",
+      "meaning": "n. 斗篷；掩饰",
+      "example": "The plan was carried out under a cloak of secrecy."
+    },
+    {
+      "word": "cloth",
+      "phonetic": "/klɒθ/",
+      "meaning": "n. 布；织物",
+      "example": "Wipe the table with a damp cloth."
+    },
+    {
+      "word": "cocoa",
+      "phonetic": "/ˈkəʊkəʊ/",
+      "meaning": "n. 可可粉；热可可",
+      "example": "A cup of hot cocoa warmed him."
+    },
+    {
+      "word": "coconut",
+      "phonetic": "/ˈkəʊkənʌt/",
+      "meaning": "n. 椰子",
+      "example": "The coconut fell from the tree."
+    },
+    {
+      "word": "coffin",
+      "phonetic": "/ˈkɒfɪn/",
+      "meaning": "n. 棺材",
+      "example": "The coffin was carried by six men."
+    },
+    {
+      "word": "collar",
+      "phonetic": "/ˈkɒlə/",
+      "meaning": "n. 衣领；项圈",
+      "example": "He turned up his collar against the wind."
+    },
+    {
+      "word": "comma",
+      "phonetic": "/ˈkɒmə/",
+      "meaning": "n. 逗号",
+      "example": "Put a comma after the clause."
+    },
+    {
+      "word": "commonplace",
+      "phonetic": "/ˈkɒmənpleɪs/",
+      "meaning": "adj. 平常的 n. 常见的事",
+      "example": "Remote working is now commonplace."
+    },
+    {
+      "word": "complaint",
+      "phonetic": "/kəmˈpleɪnt/",
+      "meaning": "n. 抱怨；投诉；疾病",
+      "example": "We received several complaints."
+    },
+    {
+      "word": "complexion",
+      "phonetic": "/kəmˈplekʃn/",
+      "meaning": "n. 面色；肤色；性质",
+      "example": "Exercise improved her complexion."
+    },
+    {
+      "word": "compliment",
+      "phonetic": "/ˈkɒmplɪmənt/",
+      "meaning": "n. 赞美 v. 称赞",
+      "example": "He paid her a compliment on her work."
+    },
+    {
+      "word": "concerned",
+      "phonetic": "/kənˈsɜːnd/",
+      "meaning": "adj. 担心的；有关的",
+      "example": "The concerned parents contacted the school."
+    },
+    {
+      "word": "confusion",
+      "phonetic": "/kənˈfjuːʒn/",
+      "meaning": "n. 混乱；困惑",
+      "example": "There was some confusion about the time."
+    },
+    {
+      "word": "congratulation",
+      "phonetic": "/kənˌɡrætʃuˈleɪʃn/",
+      "meaning": "n. 祝贺；贺词",
+      "example": "Congratulations on your success!"
+    },
+    {
+      "word": "connection",
+      "phonetic": "/kəˈnekʃn/",
+      "meaning": "n. 联系；连接",
+      "example": "There is a clear connection between the two."
+    },
+    {
+      "word": "conservation",
+      "phonetic": "/ˌkɒnsəˈveɪʃn/",
+      "meaning": "n. 保护；节约",
+      "example": "Wildlife conservation is vital."
+    },
+    {
+      "word": "considerate",
+      "phonetic": "/kənˈsɪdərət/",
+      "meaning": "adj. 体贴的；考虑周到的",
+      "example": "It was considerate of you to call."
+    },
+    {
+      "word": "consideration",
+      "phonetic": "/kənˌsɪdəˈreɪʃn/",
+      "meaning": "n. 考虑；体贴",
+      "example": "After careful consideration, we agreed."
+    },
+    {
+      "word": "container",
+      "phonetic": "/kənˈteɪnə/",
+      "meaning": "n. 容器；集装箱",
+      "example": "Store the food in an airtight container."
+    },
+    {
+      "word": "contest",
+      "phonetic": "/ˈkɒntest/",
+      "meaning": "n. 比赛；争夺 v. 争夺",
+      "example": "He won the singing contest."
+    },
+    {
+      "word": "convenience",
+      "phonetic": "/kənˈviːniəns/",
+      "meaning": "n. 便利；方便",
+      "example": "The shop opens for convenience."
+    },
+    {
+      "word": "conversation",
+      "phonetic": "/ˌkɒnvəˈseɪʃn/",
+      "meaning": "n. 谈话；会话",
+      "example": "They had a long conversation."
+    },
+    {
+      "word": "cooperation",
+      "phonetic": "/kəʊˌɒpəˈreɪʃn/",
+      "meaning": "n. 合作；配合",
+      "example": "The project needs close cooperation."
+    },
+    {
+      "word": "cord",
+      "phonetic": "/kɔːd/",
+      "meaning": "n. 绳；电线",
+      "example": "Pull the cord to stop the train."
+    },
+    {
+      "word": "cork",
+      "phonetic": "/kɔːk/",
+      "meaning": "n. 软木；软木塞",
+      "example": "Push the cork back into the bottle."
+    },
+    {
+      "word": "corporation",
+      "phonetic": "/ˌkɔːpəˈreɪʃn/",
+      "meaning": "n. 公司；法人团体",
+      "example": "The corporation employs thousands."
+    },
+    {
+      "word": "cotton",
+      "phonetic": "/ˈkɒtn/",
+      "meaning": "n. 棉花；棉布",
+      "example": "The shirt is pure cotton."
+    },
+    {
+      "word": "cough",
+      "phonetic": "/kɒf/",
+      "meaning": "v. 咳嗽 n. 咳嗽",
+      "example": "He coughed all night."
+    },
+    {
+      "word": "county",
+      "phonetic": "/ˈkaʊnti/",
+      "meaning": "n. 郡；县",
+      "example": "The county has its own council."
+    },
+    {
+      "word": "couple",
+      "phonetic": "/ˈkʌpl/",
+      "meaning": "n. 一对；夫妇 v. 连接",
+      "example": "A young couple moved in next door."
+    },
+    {
+      "word": "courtyard",
+      "phonetic": "/ˈkɔːtjɑːd/",
+      "meaning": "n. 庭院；院子",
+      "example": "The children played in the courtyard."
+    },
+    {
+      "word": "coward",
+      "phonetic": "/ˈkaʊəd/",
+      "meaning": "n. 懦夫；胆小鬼",
+      "example": "He was called a coward for running away."
+    },
+    {
+      "word": "crab",
+      "phonetic": "/kræb/",
+      "meaning": "n. 蟹；螃蟹",
+      "example": "They caught crabs in the rock pools."
+    },
+    {
+      "word": "cram",
+      "phonetic": "/kræm/",
+      "meaning": "v. 塞满；临时抱佛脚",
+      "example": "She crammed for the exam overnight."
+    },
+    {
+      "word": "crate",
+      "phonetic": "/kreɪt/",
+      "meaning": "n. 板条箱；大箱子",
+      "example": "The apples were packed in crates."
+    },
+    {
+      "word": "crayon",
+      "phonetic": "/ˈkreɪən/",
+      "meaning": "n. 蜡笔；彩色粉笔",
+      "example": "The child drew with crayons."
+    },
+    {
+      "word": "cream",
+      "phonetic": "/kriːm/",
+      "meaning": "n. 奶油；乳霜",
+      "example": "Add cream to the sauce."
+    },
+    {
+      "word": "crease",
+      "phonetic": "/kriːs/",
+      "meaning": "n. 折痕 v. 使起皱",
+      "example": "Iron out the creases in the shirt."
+    },
+    {
+      "word": "crocodile",
+      "phonetic": "/ˈkrɒkədaɪl/",
+      "meaning": "n. 鳄鱼",
+      "example": "Crocodiles live in the river."
+    },
+    {
+      "word": "crossroads",
+      "phonetic": "/ˈkrɒsrəʊdz/",
+      "meaning": "n. 十字路口；关键时刻",
+      "example": "Turn left at the crossroads."
+    },
+    {
+      "word": "crow",
+      "phonetic": "/krəʊ/",
+      "meaning": "n. 乌鸦 v. 啼叫",
+      "example": "A crow sat on the fence."
+    },
+    {
+      "word": "crown",
+      "phonetic": "/kraʊn/",
+      "meaning": "n. 王冠；顶部 v. 加冕",
+      "example": "The crown is kept in the tower."
+    },
+    {
+      "word": "crutch",
+      "phonetic": "/krʌtʃ/",
+      "meaning": "n. 拐杖；依靠",
+      "example": "He walked on crutches for a month."
+    },
+    {
+      "word": "cub",
+      "phonetic": "/kʌb/",
+      "meaning": "n. 幼兽",
+      "example": "The lioness guarded her cubs."
+    },
+    {
+      "word": "cuisine",
+      "phonetic": "/kwɪˈziːn/",
+      "meaning": "n. 烹饪；菜肴",
+      "example": "The restaurant serves French cuisine."
+    },
+    {
+      "word": "curly",
+      "phonetic": "/ˈkɜːli/",
+      "meaning": "adj. 卷曲的",
+      "example": "She has curly brown hair."
+    },
+    {
+      "word": "curtain",
+      "phonetic": "/ˈkɜːtn/",
+      "meaning": "n. 窗帘；幕布",
+      "example": "Draw the curtains at night."
+    }
+  ]
+}

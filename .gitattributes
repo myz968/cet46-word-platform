@@ -1,0 +1,14 @@
+# 行尾统一：源码按平台自动处理，Windows 批处理必须 CRLF（否则 cmd 会读错）
+* text=auto
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+*.sh text eol=lf
+
+# 二进制，别当文本 diff
+*.png binary
+*.jpg binary
+*.webp binary
+*.ico binary
+*.jar binary
+*.db binary

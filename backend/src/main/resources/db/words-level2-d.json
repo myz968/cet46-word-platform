@@ -1,0 +1,1692 @@
+{
+  "level": 2,
+  "note": "中频词（第 4 批）——四级常见词续",
+  "words": [
+    {
+      "word": "faculty",
+      "phonetic": "ˈfæklti",
+      "meaning": "n. 才能；全体教员；系",
+      "example": "The faculty meets weekly."
+    },
+    {
+      "word": "false",
+      "phonetic": "fɔːls",
+      "meaning": "adj. 错误的；假的",
+      "example": "This statement is false."
+    },
+    {
+      "word": "fasten",
+      "phonetic": "ˈfɑːsn",
+      "meaning": "v. 系紧",
+      "example": "Fasten your seat belt."
+    },
+    {
+      "word": "favourable",
+      "phonetic": "ˈfeɪvərəbl",
+      "meaning": "adj. 有利的",
+      "example": "The conditions are favourable."
+    },
+    {
+      "word": "fear",
+      "phonetic": "fɪə",
+      "meaning": "n./v. 害怕",
+      "example": "She has a fear of heights."
+    },
+    {
+      "word": "feather",
+      "phonetic": "ˈfeðə",
+      "meaning": "n. 羽毛",
+      "example": "A feather fell slowly."
+    },
+    {
+      "word": "festival",
+      "phonetic": "ˈfestɪvl",
+      "meaning": "n. 节日",
+      "example": "The spring festival is coming."
+    },
+    {
+      "word": "fetch",
+      "phonetic": "fetʃ",
+      "meaning": "v. 去取",
+      "example": "Fetch me some water."
+    },
+    {
+      "word": "filter",
+      "phonetic": "ˈfɪltə",
+      "meaning": "n. 过滤器 v. 过滤",
+      "example": "Change the water filter."
+    },
+    {
+      "word": "financial",
+      "phonetic": "faɪˈnænʃl",
+      "meaning": "adj. 财务的",
+      "example": "They face financial trouble."
+    },
+    {
+      "word": "flood",
+      "phonetic": "flʌd",
+      "meaning": "n. 洪水 v. 淹没",
+      "example": "The flood damaged crops."
+    },
+    {
+      "word": "fog",
+      "phonetic": "fɒɡ",
+      "meaning": "n. 雾",
+      "example": "Thick fog closed the road."
+    },
+    {
+      "word": "furniture",
+      "phonetic": "ˈfɜːnɪtʃə",
+      "meaning": "n. 家具",
+      "example": "The furniture is quite old."
+    },
+    {
+      "word": "gratitude",
+      "phonetic": "ˈɡrætɪtjuːd",
+      "meaning": "n. 感激",
+      "example": "She expressed her gratitude."
+    },
+    {
+      "word": "harbour",
+      "phonetic": "ˈhɑːbə",
+      "meaning": "n. 港口",
+      "example": "Boats rest in the harbour."
+    },
+    {
+      "word": "hardship",
+      "phonetic": "ˈhɑːdʃɪp",
+      "meaning": "n. 艰难",
+      "example": "He overcame many hardships."
+    },
+    {
+      "word": "harmony",
+      "phonetic": "ˈhɑːməni",
+      "meaning": "n. 和谐",
+      "example": "They live in harmony."
+    },
+    {
+      "word": "harvest",
+      "phonetic": "ˈhɑːvɪst",
+      "meaning": "n./v. 收获",
+      "example": "The harvest was good."
+    },
+    {
+      "word": "heal",
+      "phonetic": "hiːl",
+      "meaning": "v. 治愈",
+      "example": "The wound healed fast."
+    },
+    {
+      "word": "heap",
+      "phonetic": "hiːp",
+      "meaning": "n. 一堆 v. 堆积",
+      "example": "A heap of books lay there."
+    },
+    {
+      "word": "heaven",
+      "phonetic": "ˈhevn",
+      "meaning": "n. 天堂",
+      "example": "This place feels like heaven."
+    },
+    {
+      "word": "heel",
+      "phonetic": "hiːl",
+      "meaning": "n. 脚后跟",
+      "example": "My heel hurts a bit."
+    },
+    {
+      "word": "height",
+      "phonetic": "haɪt",
+      "meaning": "n. 高度",
+      "example": "Measure the height first."
+    },
+    {
+      "word": "helpless",
+      "phonetic": "ˈhelpləs",
+      "meaning": "adj. 无助的",
+      "example": "He felt helpless then."
+    },
+    {
+      "word": "hollow",
+      "phonetic": "ˈhɒləʊ",
+      "meaning": "adj. 空的；空洞的",
+      "example": "The tree is hollow inside."
+    },
+    {
+      "word": "holy",
+      "phonetic": "ˈhəʊli",
+      "meaning": "adj. 神圣的",
+      "example": "It is a holy place."
+    },
+    {
+      "word": "honour",
+      "phonetic": "ˈɒnə",
+      "meaning": "n. 荣誉 v. 尊敬",
+      "example": "It is an honour to help."
+    },
+    {
+      "word": "horrible",
+      "phonetic": "ˈhɒrəbl",
+      "meaning": "adj. 可怕的",
+      "example": "The smell was horrible."
+    },
+    {
+      "word": "host",
+      "phonetic": "həʊst",
+      "meaning": "n. 主人；主持人 v. 主办",
+      "example": "They hosted a big event."
+    },
+    {
+      "word": "housing",
+      "phonetic": "ˈhaʊzɪŋ",
+      "meaning": "n. 住房",
+      "example": "Housing is very expensive."
+    },
+    {
+      "word": "humble",
+      "phonetic": "ˈhʌmbl",
+      "meaning": "adj. 谦逊的；卑微的",
+      "example": "He stays humble despite fame."
+    },
+    {
+      "word": "humid",
+      "phonetic": "ˈhjuːmɪd",
+      "meaning": "adj. 潮湿的",
+      "example": "Summer here is humid."
+    },
+    {
+      "word": "humour",
+      "phonetic": "ˈhjuːmə",
+      "meaning": "n. 幽默",
+      "example": "She has a good sense of humour."
+    },
+    {
+      "word": "hunt",
+      "phonetic": "hʌnt",
+      "meaning": "v./n. 打猎；搜寻",
+      "example": "They hunt for old coins."
+    },
+    {
+      "word": "ideal",
+      "phonetic": "aɪˈdiːəl",
+      "meaning": "adj. 理想的 n. 理想",
+      "example": "This is an ideal place."
+    },
+    {
+      "word": "identity",
+      "phonetic": "aɪˈdentəti",
+      "meaning": "n. 身份",
+      "example": "Show your identity card."
+    },
+    {
+      "word": "illegal",
+      "phonetic": "ɪˈliːɡl",
+      "meaning": "adj. 非法的",
+      "example": "It is illegal to park here."
+    },
+    {
+      "word": "image",
+      "phonetic": "ˈɪmɪdʒ",
+      "meaning": "n. 形象；图像",
+      "example": "The image is very clear."
+    },
+    {
+      "word": "imagination",
+      "phonetic": "ɪˌmædʒɪˈneɪʃn",
+      "meaning": "n. 想象力",
+      "example": "Children have rich imagination."
+    },
+    {
+      "word": "imitate",
+      "phonetic": "ˈɪmɪteɪt",
+      "meaning": "v. 模仿",
+      "example": "He imitates his teacher."
+    },
+    {
+      "word": "impress",
+      "phonetic": "ɪmˈpres",
+      "meaning": "v. 给人深刻印象",
+      "example": "Her speech impressed us."
+    },
+    {
+      "word": "impression",
+      "phonetic": "ɪmˈpreʃn",
+      "meaning": "n. 印象",
+      "example": "He made a good impression."
+    },
+    {
+      "word": "incident",
+      "phonetic": "ˈɪnsɪdənt",
+      "meaning": "n. 事件",
+      "example": "It was a small incident."
+    },
+    {
+      "word": "independent",
+      "phonetic": "ˌɪndɪˈpendənt",
+      "meaning": "adj. 独立的",
+      "example": "She is financially independent."
+    },
+    {
+      "word": "index",
+      "phonetic": "ˈɪndeks",
+      "meaning": "n. 索引；指数",
+      "example": "Check the index page."
+    },
+    {
+      "word": "industrial",
+      "phonetic": "ɪnˈdʌstriəl",
+      "meaning": "adj. 工业的",
+      "example": "It is an industrial area."
+    },
+    {
+      "word": "inform",
+      "phonetic": "ɪnˈfɔːm",
+      "meaning": "v. 通知",
+      "example": "Please inform the manager."
+    },
+    {
+      "word": "injure",
+      "phonetic": "ˈɪndʒə",
+      "meaning": "v. 伤害",
+      "example": "He injured his knee."
+    },
+    {
+      "word": "innocent",
+      "phonetic": "ˈɪnəsnt",
+      "meaning": "adj. 无辜的；天真的",
+      "example": "He was proven innocent."
+    },
+    {
+      "word": "inspect",
+      "phonetic": "ɪnˈspekt",
+      "meaning": "v. 检查",
+      "example": "They inspect the goods."
+    },
+    {
+      "word": "instance",
+      "phonetic": "ˈɪnstəns",
+      "meaning": "n. 例子；实例",
+      "example": "For instance, take this case."
+    },
+    {
+      "word": "instant",
+      "phonetic": "ˈɪnstənt",
+      "meaning": "adj. 立即的 n. 瞬间",
+      "example": "He gave an instant answer."
+    },
+    {
+      "word": "institute",
+      "phonetic": "ˈɪnstɪtjuːt",
+      "meaning": "n. 机构；学院",
+      "example": "She works in a research institute."
+    },
+    {
+      "word": "instruct",
+      "phonetic": "ɪnˈstrʌkt",
+      "meaning": "v. 指示；教授",
+      "example": "He instructed us carefully."
+    },
+    {
+      "word": "instrument",
+      "phonetic": "ˈɪnstrəmənt",
+      "meaning": "n. 仪器；乐器",
+      "example": "The instrument needs repair."
+    },
+    {
+      "word": "insurance",
+      "phonetic": "ɪnˈʃʊərəns",
+      "meaning": "n. 保险",
+      "example": "Buy travel insurance."
+    },
+    {
+      "word": "intelligent",
+      "phonetic": "ɪnˈtelɪdʒənt",
+      "meaning": "adj. 聪明的",
+      "example": "She is an intelligent student."
+    },
+    {
+      "word": "intend",
+      "phonetic": "ɪnˈtend",
+      "meaning": "v. 打算",
+      "example": "I intend to finish today."
+    },
+    {
+      "word": "intention",
+      "phonetic": "ɪnˈtenʃn",
+      "meaning": "n. 意图",
+      "example": "He had good intentions."
+    },
+    {
+      "word": "interfere",
+      "phonetic": "ˌɪntəˈfɪə",
+      "meaning": "v. 干涉；妨碍",
+      "example": "Do not interfere with his work."
+    },
+    {
+      "word": "internal",
+      "phonetic": "ɪnˈtɜːnl",
+      "meaning": "adj. 内部的",
+      "example": "It is an internal matter."
+    },
+    {
+      "word": "interrupt",
+      "phonetic": "ˌɪntəˈrʌpt",
+      "meaning": "v. 打断",
+      "example": "Sorry to interrupt you."
+    },
+    {
+      "word": "interval",
+      "phonetic": "ˈɪntəvl",
+      "meaning": "n. 间隔",
+      "example": "Take a break at intervals."
+    },
+    {
+      "word": "interview",
+      "phonetic": "ˈɪntəvjuː",
+      "meaning": "n./v. 面试；采访",
+      "example": "The interview went well."
+    },
+    {
+      "word": "invest",
+      "phonetic": "ɪnˈvest",
+      "meaning": "v. 投资",
+      "example": "They invest in education."
+    },
+    {
+      "word": "investment",
+      "phonetic": "ɪnˈvestmənt",
+      "meaning": "n. 投资",
+      "example": "Education is a good investment."
+    },
+    {
+      "word": "invitation",
+      "phonetic": "ˌɪnvɪˈteɪʃn",
+      "meaning": "n. 邀请",
+      "example": "Thanks for the invitation."
+    },
+    {
+      "word": "isolate",
+      "phonetic": "ˈaɪsəleɪt",
+      "meaning": "v. 隔离；孤立",
+      "example": "Isolate the broken part."
+    },
+    {
+      "word": "joint",
+      "phonetic": "dʒɔɪnt",
+      "meaning": "adj. 联合的 n. 关节",
+      "example": "They made a joint effort."
+    },
+    {
+      "word": "journal",
+      "phonetic": "ˈdʒɜːnl",
+      "meaning": "n. 期刊；日记",
+      "example": "He writes in a journal."
+    },
+    {
+      "word": "judgement",
+      "phonetic": "ˈdʒʌdʒmənt",
+      "meaning": "n. 判断；判决",
+      "example": "Trust your own judgement."
+    },
+    {
+      "word": "justice",
+      "phonetic": "ˈdʒʌstɪs",
+      "meaning": "n. 正义；司法",
+      "example": "They asked for justice."
+    },
+    {
+      "word": "keen",
+      "phonetic": "kiːn",
+      "meaning": "adj. 热衷的；敏锐的",
+      "example": "He is keen on music."
+    },
+    {
+      "word": "kettle",
+      "phonetic": "ˈketl",
+      "meaning": "n. 水壶",
+      "example": "Boil water in the kettle."
+    },
+    {
+      "word": "label",
+      "phonetic": "ˈleɪbl",
+      "meaning": "n. 标签 v. 贴标签",
+      "example": "Read the label carefully."
+    },
+    {
+      "word": "labour",
+      "phonetic": "ˈleɪbə",
+      "meaning": "n. 劳动；工人",
+      "example": "Labour costs are rising."
+    },
+    {
+      "word": "landscape",
+      "phonetic": "ˈlændskeɪp",
+      "meaning": "n. 风景",
+      "example": "The landscape is beautiful."
+    },
+    {
+      "word": "largely",
+      "phonetic": "ˈlɑːdʒli",
+      "meaning": "adv. 很大程度上",
+      "example": "It largely depends on luck."
+    },
+    {
+      "word": "laser",
+      "phonetic": "ˈleɪzə",
+      "meaning": "n. 激光",
+      "example": "The laser cuts metal."
+    },
+    {
+      "word": "latter",
+      "phonetic": "ˈlætə",
+      "meaning": "adj. 后者的",
+      "example": "I prefer the latter option."
+    },
+    {
+      "word": "laundry",
+      "phonetic": "ˈlɔːndri",
+      "meaning": "n. 洗衣；待洗衣物",
+      "example": "Do the laundry tonight."
+    },
+    {
+      "word": "layer",
+      "phonetic": "ˈleɪə",
+      "meaning": "n. 层",
+      "example": "Apply a thin layer."
+    },
+    {
+      "word": "leak",
+      "phonetic": "liːk",
+      "meaning": "v./n. 漏",
+      "example": "The pipe leaks badly."
+    },
+    {
+      "word": "lean",
+      "phonetic": "liːn",
+      "meaning": "v. 倾斜；倚靠 adj. 瘦的",
+      "example": "Do not lean out of the window."
+    },
+    {
+      "word": "leap",
+      "phonetic": "liːp",
+      "meaning": "v./n. 跳跃",
+      "example": "He leapt over the stream."
+    },
+    {
+      "word": "lecture",
+      "phonetic": "ˈlektʃə",
+      "meaning": "n./v. 讲座",
+      "example": "The lecture lasted an hour."
+    },
+    {
+      "word": "leisure",
+      "phonetic": "ˈleʒə",
+      "meaning": "n. 闲暇",
+      "example": "He reads at leisure."
+    },
+    {
+      "word": "lens",
+      "phonetic": "lenz",
+      "meaning": "n. 镜头；透镜",
+      "example": "Clean the camera lens."
+    },
+    {
+      "word": "liberty",
+      "phonetic": "ˈlɪbəti",
+      "meaning": "n. 自由",
+      "example": "They fought for liberty."
+    },
+    {
+      "word": "lifestyle",
+      "phonetic": "ˈlaɪfstaɪl",
+      "meaning": "n. 生活方式",
+      "example": "He has a healthy lifestyle."
+    },
+    {
+      "word": "likely",
+      "phonetic": "ˈlaɪkli",
+      "meaning": "adj. 可能的",
+      "example": "Rain is likely tonight."
+    },
+    {
+      "word": "link",
+      "phonetic": "lɪŋk",
+      "meaning": "v./n. 连接",
+      "example": "Click the link below."
+    },
+    {
+      "word": "liquid",
+      "phonetic": "ˈlɪkwɪd",
+      "meaning": "n. 液体 adj. 液体的",
+      "example": "Keep the liquid cool."
+    },
+    {
+      "word": "loan",
+      "phonetic": "ləʊn",
+      "meaning": "n. 贷款 v. 借出",
+      "example": "He took out a loan."
+    },
+    {
+      "word": "locate",
+      "phonetic": "ləʊˈkeɪt",
+      "meaning": "v. 定位；位于",
+      "example": "The shop is located downtown."
+    },
+    {
+      "word": "loose",
+      "phonetic": "luːs",
+      "meaning": "adj. 松的",
+      "example": "The screw is loose."
+    },
+    {
+      "word": "lord",
+      "phonetic": "lɔːd",
+      "meaning": "n. 主人；贵族",
+      "example": "The lord owned the land."
+    },
+    {
+      "word": "loss",
+      "phonetic": "lɒs",
+      "meaning": "n. 损失",
+      "example": "The loss was small."
+    },
+    {
+      "word": "lung",
+      "phonetic": "lʌŋ",
+      "meaning": "n. 肺",
+      "example": "Smoking harms the lungs."
+    },
+    {
+      "word": "luxury",
+      "phonetic": "ˈlʌkʃəri",
+      "meaning": "n. 奢侈 adj. 奢华的",
+      "example": "A car is a luxury for him."
+    },
+    {
+      "word": "magic",
+      "phonetic": "ˈmædʒɪk",
+      "meaning": "n. 魔术 adj. 神奇的",
+      "example": "The show was pure magic."
+    },
+    {
+      "word": "magnet",
+      "phonetic": "ˈmæɡnət",
+      "meaning": "n. 磁铁",
+      "example": "The magnet attracts iron."
+    },
+    {
+      "word": "maid",
+      "phonetic": "meɪd",
+      "meaning": "n. 女仆",
+      "example": "The maid cleans daily."
+    },
+    {
+      "word": "mainly",
+      "phonetic": "ˈmeɪnli",
+      "meaning": "adv. 主要地",
+      "example": "He mainly works at night."
+    },
+    {
+      "word": "maintain",
+      "phonetic": "meɪnˈteɪn",
+      "meaning": "v. 维持；保养",
+      "example": "Maintain the machine monthly."
+    },
+    {
+      "word": "major",
+      "phonetic": "ˈmeɪdʒə",
+      "meaning": "adj. 主要的 n. 专业",
+      "example": "Her major is law."
+    },
+    {
+      "word": "majority",
+      "phonetic": "məˈdʒɒrəti",
+      "meaning": "n. 多数",
+      "example": "The majority agreed."
+    },
+    {
+      "word": "male",
+      "phonetic": "meɪl",
+      "meaning": "adj. 男性的 n. 男性",
+      "example": "Most workers are male."
+    },
+    {
+      "word": "mammal",
+      "phonetic": "ˈmæml",
+      "meaning": "n. 哺乳动物",
+      "example": "Whales are mammals."
+    },
+    {
+      "word": "manual",
+      "phonetic": "ˈmænjuəl",
+      "meaning": "adj. 手工的 n. 手册",
+      "example": "Read the manual first."
+    },
+    {
+      "word": "manufacture",
+      "phonetic": "ˌmænjuˈfæktʃə",
+      "meaning": "v./n. 制造",
+      "example": "They manufacture toys."
+    },
+    {
+      "word": "margin",
+      "phonetic": "ˈmɑːdʒɪn",
+      "meaning": "n. 边缘；余地",
+      "example": "Leave a wide margin."
+    },
+    {
+      "word": "marine",
+      "phonetic": "məˈriːn",
+      "meaning": "adj. 海洋的",
+      "example": "Marine life is rich here."
+    },
+    {
+      "word": "marriage",
+      "phonetic": "ˈmærɪdʒ",
+      "meaning": "n. 婚姻",
+      "example": "Their marriage is happy."
+    },
+    {
+      "word": "mass",
+      "phonetic": "mæs",
+      "meaning": "n. 大量；质量 adj. 大众的",
+      "example": "A mass of people gathered."
+    },
+    {
+      "word": "master",
+      "phonetic": "ˈmɑːstə",
+      "meaning": "n. 主人；硕士 v. 掌握",
+      "example": "He mastered two languages."
+    },
+    {
+      "word": "match",
+      "phonetic": "mætʃ",
+      "meaning": "n. 比赛；火柴 v. 匹配",
+      "example": "The match starts at four."
+    },
+    {
+      "word": "mature",
+      "phonetic": "məˈtʃʊə",
+      "meaning": "adj. 成熟的 v. 成熟",
+      "example": "She is very mature."
+    },
+    {
+      "word": "maximum",
+      "phonetic": "ˈmæksɪməm",
+      "meaning": "adj. 最大的 n. 最大值",
+      "example": "The maximum speed is 120."
+    },
+    {
+      "word": "means",
+      "phonetic": "miːnz",
+      "meaning": "n. 方法；手段",
+      "example": "Find another means of travel."
+    },
+    {
+      "word": "meanwhile",
+      "phonetic": "ˈmiːnwaɪl",
+      "meaning": "adv. 与此同时",
+      "example": "Meanwhile, prices kept rising."
+    },
+    {
+      "word": "mechanic",
+      "phonetic": "məˈkænɪk",
+      "meaning": "n. 机械师",
+      "example": "The mechanic fixed the engine."
+    },
+    {
+      "word": "medium",
+      "phonetic": "ˈmiːdiəm",
+      "meaning": "adj. 中等的 n. 媒介",
+      "example": "Order a medium coffee."
+    },
+    {
+      "word": "memorial",
+      "phonetic": "məˈmɔːriəl",
+      "meaning": "n. 纪念碑 adj. 纪念的",
+      "example": "They built a memorial."
+    },
+    {
+      "word": "mental",
+      "phonetic": "ˈmentl",
+      "meaning": "adj. 精神的；智力的",
+      "example": "Mental health matters too."
+    },
+    {
+      "word": "merchant",
+      "phonetic": "ˈmɜːtʃənt",
+      "meaning": "n. 商人",
+      "example": "The merchant sells cloth."
+    },
+    {
+      "word": "mercy",
+      "phonetic": "ˈmɜːsi",
+      "meaning": "n. 仁慈",
+      "example": "They showed no mercy."
+    },
+    {
+      "word": "mere",
+      "phonetic": "mɪə",
+      "meaning": "adj. 仅仅的",
+      "example": "It is a mere rumour."
+    },
+    {
+      "word": "merely",
+      "phonetic": "ˈmɪəli",
+      "meaning": "adv. 仅仅",
+      "example": "He merely smiled."
+    },
+    {
+      "word": "merit",
+      "phonetic": "ˈmerɪt",
+      "meaning": "n. 优点；价值",
+      "example": "Judge it on its merit."
+    },
+    {
+      "word": "mess",
+      "phonetic": "mes",
+      "meaning": "n. 混乱 v. 弄乱",
+      "example": "The room is a mess."
+    },
+    {
+      "word": "metal",
+      "phonetic": "ˈmetl",
+      "meaning": "n. 金属",
+      "example": "This box is made of metal."
+    },
+    {
+      "word": "microphone",
+      "phonetic": "ˈmaɪkrəfəʊn",
+      "meaning": "n. 麦克风",
+      "example": "Speak into the microphone."
+    },
+    {
+      "word": "military",
+      "phonetic": "ˈmɪlətəri",
+      "meaning": "adj. 军事的 n. 军队",
+      "example": "It is a military area."
+    },
+    {
+      "word": "mill",
+      "phonetic": "mɪl",
+      "meaning": "n. 磨坊；工厂",
+      "example": "The old mill still works."
+    },
+    {
+      "word": "mineral",
+      "phonetic": "ˈmɪnərəl",
+      "meaning": "n. 矿物质 adj. 矿物的",
+      "example": "This water has minerals."
+    },
+    {
+      "word": "minimum",
+      "phonetic": "ˈmɪnɪməm",
+      "meaning": "adj. 最小的 n. 最小值",
+      "example": "Keep a minimum balance."
+    },
+    {
+      "word": "minister",
+      "phonetic": "ˈmɪnɪstə",
+      "meaning": "n. 部长；牧师",
+      "example": "The minister spoke briefly."
+    },
+    {
+      "word": "minor",
+      "phonetic": "ˈmaɪnə",
+      "meaning": "adj. 次要的 n. 未成年人",
+      "example": "It was a minor problem."
+    },
+    {
+      "word": "minority",
+      "phonetic": "maɪˈnɒrəti",
+      "meaning": "n. 少数",
+      "example": "Only a minority objected."
+    },
+    {
+      "word": "miracle",
+      "phonetic": "ˈmɪrəkl",
+      "meaning": "n. 奇迹",
+      "example": "His recovery was a miracle."
+    },
+    {
+      "word": "mislead",
+      "phonetic": "ˌmɪsˈliːd",
+      "meaning": "v. 误导",
+      "example": "The sign misled us."
+    },
+    {
+      "word": "missile",
+      "phonetic": "ˈmɪsaɪl",
+      "meaning": "n. 导弹",
+      "example": "The missile test was cancelled."
+    },
+    {
+      "word": "mission",
+      "phonetic": "ˈmɪʃn",
+      "meaning": "n. 任务；使命",
+      "example": "Their mission is to help."
+    },
+    {
+      "word": "mixture",
+      "phonetic": "ˈmɪkstʃə",
+      "meaning": "n. 混合物",
+      "example": "Pour the mixture slowly."
+    },
+    {
+      "word": "mobile",
+      "phonetic": "ˈməʊbaɪl",
+      "meaning": "adj. 移动的 n. 手机",
+      "example": "My mobile is out of power."
+    },
+    {
+      "word": "mode",
+      "phonetic": "məʊd",
+      "meaning": "n. 方式；模式",
+      "example": "Switch to silent mode."
+    },
+    {
+      "word": "moderate",
+      "phonetic": "ˈmɒdərət",
+      "meaning": "adj. 适度的",
+      "example": "Keep moderate exercise."
+    },
+    {
+      "word": "modify",
+      "phonetic": "ˈmɒdɪfaɪ",
+      "meaning": "v. 修改",
+      "example": "Modify the design slightly."
+    },
+    {
+      "word": "moist",
+      "phonetic": "mɔɪst",
+      "meaning": "adj. 微湿的",
+      "example": "Keep the soil moist."
+    },
+    {
+      "word": "monitor",
+      "phonetic": "ˈmɒnɪtə",
+      "meaning": "v. 监控 n. 显示器",
+      "example": "Monitor the temperature."
+    },
+    {
+      "word": "monopoly",
+      "phonetic": "məˈnɒpəli",
+      "meaning": "n. 垄断",
+      "example": "They hold a monopoly."
+    },
+    {
+      "word": "mood",
+      "phonetic": "muːd",
+      "meaning": "n. 心情",
+      "example": "He is in a good mood."
+    },
+    {
+      "word": "motion",
+      "phonetic": "ˈməʊʃn",
+      "meaning": "n. 运动；动作",
+      "example": "The motion of the ship made me ill."
+    },
+    {
+      "word": "motivate",
+      "phonetic": "ˈməʊtɪveɪt",
+      "meaning": "v. 激发；激励",
+      "example": "Good teachers motivate students."
+    },
+    {
+      "word": "motive",
+      "phonetic": "ˈməʊtɪv",
+      "meaning": "n. 动机",
+      "example": "What is his motive?"
+    },
+    {
+      "word": "multiple",
+      "phonetic": "ˈmʌltɪpl",
+      "meaning": "adj. 多个的",
+      "example": "There are multiple answers."
+    },
+    {
+      "word": "murder",
+      "phonetic": "ˈmɜːdə",
+      "meaning": "n./v. 谋杀",
+      "example": "The murder case is closed."
+    },
+    {
+      "word": "muscle",
+      "phonetic": "ˈmʌsl",
+      "meaning": "n. 肌肉",
+      "example": "Exercise builds muscle."
+    },
+    {
+      "word": "mutual",
+      "phonetic": "ˈmjuːtʃuəl",
+      "meaning": "adj. 相互的",
+      "example": "They share mutual respect."
+    },
+    {
+      "word": "mystery",
+      "phonetic": "ˈmɪstri",
+      "meaning": "n. 谜；神秘",
+      "example": "The case is still a mystery."
+    },
+    {
+      "word": "narrow",
+      "phonetic": "ˈnærəʊ",
+      "meaning": "adj. 窄的 v. 缩小",
+      "example": "The street is very narrow."
+    },
+    {
+      "word": "native",
+      "phonetic": "ˈneɪtɪv",
+      "meaning": "adj. 本地的 n. 本地人",
+      "example": "She is a native speaker."
+    },
+    {
+      "word": "navigate",
+      "phonetic": "ˈnævɪɡeɪt",
+      "meaning": "v. 导航；航行",
+      "example": "Use the app to navigate."
+    },
+    {
+      "word": "navy",
+      "phonetic": "ˈneɪvi",
+      "meaning": "n. 海军",
+      "example": "He joined the navy."
+    },
+    {
+      "word": "nearby",
+      "phonetic": "ˌnɪəˈbaɪ",
+      "meaning": "adj./adv. 附近的",
+      "example": "There is a shop nearby."
+    },
+    {
+      "word": "necessarily",
+      "phonetic": "ˌnesəˈserəli",
+      "meaning": "adv. 必然地",
+      "example": "Price is not necessarily quality."
+    },
+    {
+      "word": "negative",
+      "phonetic": "ˈneɡətɪv",
+      "meaning": "adj. 消极的；否定的",
+      "example": "Avoid negative thinking."
+    },
+    {
+      "word": "neglect",
+      "phonetic": "nɪˈɡlekt",
+      "meaning": "v./n. 忽视",
+      "example": "Do not neglect your health."
+    },
+    {
+      "word": "negotiate",
+      "phonetic": "nɪˈɡəʊʃieɪt",
+      "meaning": "v. 谈判",
+      "example": "They negotiated a new deal."
+    },
+    {
+      "word": "nerve",
+      "phonetic": "nɜːv",
+      "meaning": "n. 神经；勇气",
+      "example": "He lost his nerve."
+    },
+    {
+      "word": "neutral",
+      "phonetic": "ˈnjuːtrəl",
+      "meaning": "adj. 中立的",
+      "example": "Stay neutral in the debate."
+    },
+    {
+      "word": "nevertheless",
+      "phonetic": "ˌnevəðəˈles",
+      "meaning": "adv. 然而",
+      "example": "Nevertheless, we kept trying."
+    },
+    {
+      "word": "normal",
+      "phonetic": "ˈnɔːml",
+      "meaning": "adj. 正常的",
+      "example": "It is a normal result."
+    },
+    {
+      "word": "note",
+      "phonetic": "nəʊt",
+      "meaning": "n. 笔记 v. 注意",
+      "example": "Note the key points."
+    },
+    {
+      "word": "novel",
+      "phonetic": "ˈnɒvl",
+      "meaning": "n. 小说 adj. 新颖的",
+      "example": "She wrote a short novel."
+    },
+    {
+      "word": "nuclear",
+      "phonetic": "ˈnjuːkliə",
+      "meaning": "adj. 核的",
+      "example": "Nuclear power is controversial."
+    },
+    {
+      "word": "numerous",
+      "phonetic": "ˈnjuːmərəs",
+      "meaning": "adj. 众多的",
+      "example": "There were numerous errors."
+    },
+    {
+      "word": "obey",
+      "phonetic": "əˈbeɪ",
+      "meaning": "v. 服从",
+      "example": "Obey the traffic rules."
+    },
+    {
+      "word": "objective",
+      "phonetic": "əbˈdʒektɪv",
+      "meaning": "n. 目标 adj. 客观的",
+      "example": "Keep an objective view."
+    },
+    {
+      "word": "observe",
+      "phonetic": "əbˈzɜːv",
+      "meaning": "v. 观察；遵守",
+      "example": "Observe the rules strictly."
+    },
+    {
+      "word": "obtain",
+      "phonetic": "əbˈteɪn",
+      "meaning": "v. 获得",
+      "example": "He obtained a licence."
+    },
+    {
+      "word": "obvious",
+      "phonetic": "ˈɒbviəs",
+      "meaning": "adj. 明显的",
+      "example": "The answer is obvious."
+    },
+    {
+      "word": "occasion",
+      "phonetic": "əˈkeɪʒn",
+      "meaning": "n. 场合；时机",
+      "example": "It was a happy occasion."
+    },
+    {
+      "word": "occupy",
+      "phonetic": "ˈɒkjupaɪ",
+      "meaning": "v. 占用；占据",
+      "example": "The seat is occupied."
+    },
+    {
+      "word": "occur",
+      "phonetic": "əˈkɜː",
+      "meaning": "v. 发生；想起",
+      "example": "The idea occurred to me."
+    },
+    {
+      "word": "odd",
+      "phonetic": "ɒd",
+      "meaning": "adj. 奇怪的；奇数的",
+      "example": "That is an odd choice."
+    },
+    {
+      "word": "offend",
+      "phonetic": "əˈfend",
+      "meaning": "v. 冒犯",
+      "example": "I did not mean to offend you."
+    },
+    {
+      "word": "opponent",
+      "phonetic": "əˈpəʊnənt",
+      "meaning": "n. 对手",
+      "example": "He beat a strong opponent."
+    },
+    {
+      "word": "opportunity",
+      "phonetic": "ˌɒpəˈtjuːnəti",
+      "meaning": "n. 机会",
+      "example": "Grab this opportunity."
+    },
+    {
+      "word": "oppose",
+      "phonetic": "əˈpəʊz",
+      "meaning": "v. 反对",
+      "example": "They opposed the new rule."
+    },
+    {
+      "word": "optimistic",
+      "phonetic": "ˌɒptɪˈmɪstɪk",
+      "meaning": "adj. 乐观的",
+      "example": "Stay optimistic about the exam."
+    },
+    {
+      "word": "option",
+      "phonetic": "ˈɒpʃn",
+      "meaning": "n. 选择；选项",
+      "example": "Pick the first option."
+    },
+    {
+      "word": "organ",
+      "phonetic": "ˈɔːɡən",
+      "meaning": "n. 器官；机构",
+      "example": "The heart is an organ."
+    },
+    {
+      "word": "origin",
+      "phonetic": "ˈɒrɪdʒɪn",
+      "meaning": "n. 起源",
+      "example": "The word has a Latin origin."
+    },
+    {
+      "word": "otherwise",
+      "phonetic": "ˈʌðəwaɪz",
+      "meaning": "adv. 否则；另外",
+      "example": "Hurry, otherwise we are late."
+    },
+    {
+      "word": "outcome",
+      "phonetic": "ˈaʊtkʌm",
+      "meaning": "n. 结果",
+      "example": "The outcome was positive."
+    },
+    {
+      "word": "outline",
+      "phonetic": "ˈaʊtlaɪn",
+      "meaning": "n. 大纲 v. 概述",
+      "example": "Write an outline first."
+    },
+    {
+      "word": "output",
+      "phonetic": "ˈaʊtpʊt",
+      "meaning": "n. 产量；输出",
+      "example": "Output rose by ten percent."
+    },
+    {
+      "word": "overall",
+      "phonetic": "ˌəʊvərˈɔːl",
+      "meaning": "adj. 总体的 adv. 总的来说",
+      "example": "The overall result is good."
+    },
+    {
+      "word": "overcome",
+      "phonetic": "ˌəʊvəˈkʌm",
+      "meaning": "v. 克服",
+      "example": "She overcame the difficulty."
+    },
+    {
+      "word": "overlook",
+      "phonetic": "ˌəʊvəˈlʊk",
+      "meaning": "v. 忽略；俯瞰",
+      "example": "Do not overlook small details."
+    },
+    {
+      "word": "owe",
+      "phonetic": "əʊ",
+      "meaning": "v. 欠；归功于",
+      "example": "I owe him ten yuan."
+    },
+    {
+      "word": "pace",
+      "phonetic": "peɪs",
+      "meaning": "n. 步伐；节奏",
+      "example": "He walked at a slow pace."
+    },
+    {
+      "word": "panel",
+      "phonetic": "ˈpænl",
+      "meaning": "n. 板；专家组",
+      "example": "A panel judged the contest."
+    },
+    {
+      "word": "panic",
+      "phonetic": "ˈpænɪk",
+      "meaning": "n./v. 恐慌",
+      "example": "Do not panic in a fire."
+    },
+    {
+      "word": "parallel",
+      "phonetic": "ˈpærəlel",
+      "meaning": "adj. 平行的；类似的",
+      "example": "The two roads are parallel."
+    },
+    {
+      "word": "parcel",
+      "phonetic": "ˈpɑːsl",
+      "meaning": "n. 包裹",
+      "example": "Send the parcel by post."
+    },
+    {
+      "word": "participate",
+      "phonetic": "pɑːˈtɪsɪpeɪt",
+      "meaning": "v. 参加",
+      "example": "Everyone participated in the game."
+    },
+    {
+      "word": "passion",
+      "phonetic": "ˈpæʃn",
+      "meaning": "n. 热情；激情",
+      "example": "He has a passion for music."
+    },
+    {
+      "word": "passive",
+      "phonetic": "ˈpæsɪv",
+      "meaning": "adj. 被动的",
+      "example": "Do not stay passive."
+    },
+    {
+      "word": "patience",
+      "phonetic": "ˈpeɪʃns",
+      "meaning": "n. 耐心",
+      "example": "Learning needs patience."
+    },
+    {
+      "word": "pattern",
+      "phonetic": "ˈpætn",
+      "meaning": "n. 模式；图案",
+      "example": "The pattern repeats daily."
+    },
+    {
+      "word": "peak",
+      "phonetic": "piːk",
+      "meaning": "n. 顶点 adj. 高峰的",
+      "example": "Traffic peaks at eight."
+    },
+    {
+      "word": "percent",
+      "phonetic": "pəˈsent",
+      "meaning": "n. 百分比",
+      "example": "Twenty percent agreed."
+    },
+    {
+      "word": "perform",
+      "phonetic": "pəˈfɔːm",
+      "meaning": "v. 表演；执行",
+      "example": "They performed on stage."
+    },
+    {
+      "word": "performance",
+      "phonetic": "pəˈfɔːməns",
+      "meaning": "n. 表现；演出",
+      "example": "His performance improved."
+    },
+    {
+      "word": "permanent",
+      "phonetic": "ˈpɜːmənənt",
+      "meaning": "adj. 永久的",
+      "example": "She got a permanent job."
+    },
+    {
+      "word": "permit",
+      "phonetic": "pəˈmɪt",
+      "meaning": "v. 允许 n. 许可证",
+      "example": "Smoking is not permitted."
+    },
+    {
+      "word": "perspective",
+      "phonetic": "pəˈspektɪv",
+      "meaning": "n. 视角；透视",
+      "example": "Try a different perspective."
+    },
+    {
+      "word": "persuade",
+      "phonetic": "pəˈsweɪd",
+      "meaning": "v. 说服",
+      "example": "He persuaded me to stay."
+    },
+    {
+      "word": "phase",
+      "phonetic": "feɪz",
+      "meaning": "n. 阶段",
+      "example": "The first phase is done."
+    },
+    {
+      "word": "phenomenon",
+      "phonetic": "fəˈnɒmɪnən",
+      "meaning": "n. 现象",
+      "example": "It is a natural phenomenon."
+    },
+    {
+      "word": "philosophy",
+      "phonetic": "fəˈlɒsəfi",
+      "meaning": "n. 哲学",
+      "example": "He studies philosophy."
+    },
+    {
+      "word": "physical",
+      "phonetic": "ˈfɪzɪkl",
+      "meaning": "adj. 身体的；物理的",
+      "example": "Physical exercise is necessary."
+    },
+    {
+      "word": "pigeon",
+      "phonetic": "ˈpɪdʒɪn",
+      "meaning": "n. 鸽子",
+      "example": "Pigeons flew over the square."
+    },
+    {
+      "word": "pill",
+      "phonetic": "pɪl",
+      "meaning": "n. 药丸",
+      "example": "Take one pill daily."
+    },
+    {
+      "word": "pipe",
+      "phonetic": "paɪp",
+      "meaning": "n. 管道；烟斗",
+      "example": "The pipe is blocked."
+    },
+    {
+      "word": "plain",
+      "phonetic": "pleɪn",
+      "meaning": "adj. 朴素的；清楚的 n. 平原",
+      "example": "Speak in plain words."
+    },
+    {
+      "word": "plastic",
+      "phonetic": "ˈplæstɪk",
+      "meaning": "n. 塑料 adj. 塑料的",
+      "example": "Avoid plastic bags."
+    },
+    {
+      "word": "platform",
+      "phonetic": "ˈplætfɔːm",
+      "meaning": "n. 平台；站台",
+      "example": "Wait on platform two."
+    },
+    {
+      "word": "pleasure",
+      "phonetic": "ˈpleʒə",
+      "meaning": "n. 愉快",
+      "example": "It is a pleasure to help."
+    },
+    {
+      "word": "plenty",
+      "phonetic": "ˈplenti",
+      "meaning": "n. 大量",
+      "example": "We have plenty of time."
+    },
+    {
+      "word": "plot",
+      "phonetic": "plɒt",
+      "meaning": "n. 情节；阴谋 v. 密谋",
+      "example": "The plot is very simple."
+    },
+    {
+      "word": "pollute",
+      "phonetic": "pəˈluːt",
+      "meaning": "v. 污染",
+      "example": "Factories pollute the river."
+    },
+    {
+      "word": "popularity",
+      "phonetic": "ˌpɒpjuˈlærəti",
+      "meaning": "n. 普及；受欢迎",
+      "example": "Its popularity keeps growing."
+    },
+    {
+      "word": "population",
+      "phonetic": "ˌpɒpjuˈleɪʃn",
+      "meaning": "n. 人口",
+      "example": "The population is ageing."
+    },
+    {
+      "word": "port",
+      "phonetic": "pɔːt",
+      "meaning": "n. 港口",
+      "example": "The port is very busy."
+    },
+    {
+      "word": "portable",
+      "phonetic": "ˈpɔːtəbl",
+      "meaning": "adj. 便携的",
+      "example": "It is a portable speaker."
+    },
+    {
+      "word": "portion",
+      "phonetic": "ˈpɔːʃn",
+      "meaning": "n. 部分；一份",
+      "example": "Eat a small portion."
+    },
+    {
+      "word": "positive",
+      "phonetic": "ˈpɒzətɪv",
+      "meaning": "adj. 积极的；肯定的",
+      "example": "Keep a positive attitude."
+    },
+    {
+      "word": "possess",
+      "phonetic": "pəˈzes",
+      "meaning": "v. 拥有",
+      "example": "She possesses great talent."
+    },
+    {
+      "word": "potential",
+      "phonetic": "pəˈtenʃl",
+      "meaning": "adj. 潜在的 n. 潜力",
+      "example": "He has great potential."
+    },
+    {
+      "word": "poverty",
+      "phonetic": "ˈpɒvəti",
+      "meaning": "n. 贫穷",
+      "example": "They live in poverty."
+    },
+    {
+      "word": "powder",
+      "phonetic": "ˈpaʊdə",
+      "meaning": "n. 粉末",
+      "example": "Mix the powder with water."
+    },
+    {
+      "word": "practical",
+      "phonetic": "ˈpræktɪkl",
+      "meaning": "adj. 实际的；实用的",
+      "example": "Give practical advice."
+    },
+    {
+      "word": "praise",
+      "phonetic": "preɪz",
+      "meaning": "v./n. 赞扬",
+      "example": "The teacher praised him."
+    },
+    {
+      "word": "precise",
+      "phonetic": "prɪˈsaɪs",
+      "meaning": "adj. 精确的",
+      "example": "Give the precise time."
+    },
+    {
+      "word": "predict",
+      "phonetic": "prɪˈdɪkt",
+      "meaning": "v. 预测",
+      "example": "Nobody can predict the future."
+    },
+    {
+      "word": "prejudice",
+      "phonetic": "ˈpredʒudɪs",
+      "meaning": "n. 偏见",
+      "example": "Fight against prejudice."
+    },
+    {
+      "word": "preliminary",
+      "phonetic": "prɪˈlɪmɪnəri",
+      "meaning": "adj. 初步的",
+      "example": "These are preliminary results."
+    },
+    {
+      "word": "preserve",
+      "phonetic": "prɪˈzɜːv",
+      "meaning": "v. 保存；保护",
+      "example": "Preserve the old buildings."
+    },
+    {
+      "word": "president",
+      "phonetic": "ˈprezɪdənt",
+      "meaning": "n. 总统；校长",
+      "example": "The president gave a speech."
+    },
+    {
+      "word": "pretend",
+      "phonetic": "prɪˈtend",
+      "meaning": "v. 假装",
+      "example": "Do not pretend to know."
+    },
+    {
+      "word": "previous",
+      "phonetic": "ˈpriːviəs",
+      "meaning": "adj. 以前的",
+      "example": "The previous plan failed."
+    },
+    {
+      "word": "primary",
+      "phonetic": "ˈpraɪməri",
+      "meaning": "adj. 主要的；初级的",
+      "example": "This is the primary task."
+    },
+    {
+      "word": "prime",
+      "phonetic": "praɪm",
+      "meaning": "adj. 首要的 n. 全盛期",
+      "example": "Safety is our prime concern."
+    },
+    {
+      "word": "principle",
+      "phonetic": "ˈprɪnsəpl",
+      "meaning": "n. 原则；原理",
+      "example": "Stick to your principles."
+    },
+    {
+      "word": "priority",
+      "phonetic": "praɪˈɒrəti",
+      "meaning": "n. 优先事项",
+      "example": "Health is my top priority."
+    },
+    {
+      "word": "private",
+      "phonetic": "ˈpraɪvət",
+      "meaning": "adj. 私人的",
+      "example": "It is a private matter."
+    },
+    {
+      "word": "probable",
+      "phonetic": "ˈprɒbəbl",
+      "meaning": "adj. 很可能的",
+      "example": "It is probable that he agrees."
+    },
+    {
+      "word": "procedure",
+      "phonetic": "prəˈsiːdʒə",
+      "meaning": "n. 程序；步骤",
+      "example": "Follow the standard procedure."
+    },
+    {
+      "word": "proceed",
+      "phonetic": "prəˈsiːd",
+      "meaning": "v. 继续进行",
+      "example": "Proceed with the next step."
+    },
+    {
+      "word": "professional",
+      "phonetic": "prəˈfeʃənl",
+      "meaning": "adj. 专业的 n. 专业人士",
+      "example": "Ask a professional for help."
+    },
+    {
+      "word": "profit",
+      "phonetic": "ˈprɒfɪt",
+      "meaning": "n. 利润 v. 获益",
+      "example": "The profit doubled."
+    },
+    {
+      "word": "prohibit",
+      "phonetic": "prəˈhɪbɪt",
+      "meaning": "v. 禁止",
+      "example": "The law prohibits it."
+    },
+    {
+      "word": "project",
+      "phonetic": "ˈprɒdʒekt",
+      "meaning": "n. 项目 v. 投影；预计",
+      "example": "The project ends in May."
+    },
+    {
+      "word": "promote",
+      "phonetic": "prəˈməʊt",
+      "meaning": "v. 促进；晋升",
+      "example": "They promoted him to manager."
+    },
+    {
+      "word": "prompt",
+      "phonetic": "prɒmpt",
+      "meaning": "adj. 迅速的 v. 促使",
+      "example": "Thanks for your prompt reply."
+    },
+    {
+      "word": "proper",
+      "phonetic": "ˈprɒpə",
+      "meaning": "adj. 适当的",
+      "example": "Use the proper tool."
+    },
+    {
+      "word": "property",
+      "phonetic": "ˈprɒpəti",
+      "meaning": "n. 财产；特性",
+      "example": "The property is expensive."
+    },
+    {
+      "word": "proportion",
+      "phonetic": "prəˈpɔːʃn",
+      "meaning": "n. 比例；部分",
+      "example": "A large proportion agreed."
+    },
+    {
+      "word": "propose",
+      "phonetic": "prəˈpəʊz",
+      "meaning": "v. 提议；求婚",
+      "example": "I propose a short break."
+    },
+    {
+      "word": "prospect",
+      "phonetic": "ˈprɒspekt",
+      "meaning": "n. 前景",
+      "example": "The job has good prospects."
+    },
+    {
+      "word": "protest",
+      "phonetic": "ˈprəʊtest",
+      "meaning": "n./v. 抗议",
+      "example": "They protested against the rule."
+    },
+    {
+      "word": "prove",
+      "phonetic": "pruːv",
+      "meaning": "v. 证明",
+      "example": "Can you prove it?"
+    },
+    {
+      "word": "publish",
+      "phonetic": "ˈpʌblɪʃ",
+      "meaning": "v. 出版；发布",
+      "example": "They published the report."
+    },
+    {
+      "word": "punish",
+      "phonetic": "ˈpʌnɪʃ",
+      "meaning": "v. 惩罚",
+      "example": "The school punished cheating."
+    },
+    {
+      "word": "purchase",
+      "phonetic": "ˈpɜːtʃəs",
+      "meaning": "v./n. 购买",
+      "example": "Keep the purchase receipt."
+    },
+    {
+      "word": "pure",
+      "phonetic": "pjʊə",
+      "meaning": "adj. 纯净的；纯粹的",
+      "example": "This is pure water."
+    },
+    {
+      "word": "pursue",
+      "phonetic": "pəˈsjuː",
+      "meaning": "v. 追求；从事",
+      "example": "She pursues a medical career."
+    }
+  ]
+}

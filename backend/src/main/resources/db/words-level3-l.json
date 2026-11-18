@@ -1,0 +1,1002 @@
+{
+  "level": 3,
+  "note": "低频 · 理科与工科专业术语、学科基础词汇（L 批）",
+  "words": [
+    {
+      "word": "abyssal",
+      "phonetic": "/əˈbɪsl/",
+      "meaning": "adj. 深海的；深渊的",
+      "example": "Abyssal creatures live far below the reach of sunlight."
+    },
+    {
+      "word": "accretion",
+      "phonetic": "/əˈkriːʃn/",
+      "meaning": "n. 积聚；增生；添加物",
+      "example": "The accretion of sediment slowly raised the river bed."
+    },
+    {
+      "word": "acropolis",
+      "phonetic": "/əˈkrɒpəlɪs/",
+      "meaning": "n. （古希腊城市的）卫城",
+      "example": "The Acropolis of Athens overlooks the whole city."
+    },
+    {
+      "word": "adiabatic",
+      "phonetic": "/ˌeɪdaɪəˈbætɪk/",
+      "meaning": "adj. 绝热的",
+      "example": "An adiabatic process exchanges no heat with its surroundings."
+    },
+    {
+      "word": "aeration",
+      "phonetic": "/eəˈreɪʃn/",
+      "meaning": "n. 充气；通风；曝气",
+      "example": "Aeration of the soil helps plant roots breathe."
+    },
+    {
+      "word": "aesthete",
+      "phonetic": "/ˈiːsθiːt/",
+      "meaning": "n. 审美家；唯美主义者",
+      "example": "As an aesthete, he cared more about beauty than utility."
+    },
+    {
+      "word": "agglomerate",
+      "phonetic": "/əˈɡlɒməreɪt/",
+      "meaning": "v. 凝聚；结块；n. 团块",
+      "example": "Fine particles agglomerate into larger lumps under pressure."
+    },
+    {
+      "word": "alluvial",
+      "phonetic": "/əˈluːviəl/",
+      "meaning": "adj. 冲积的",
+      "example": "Alluvial plains are among the most fertile farmlands."
+    },
+    {
+      "word": "almanac",
+      "phonetic": "/ˈɔːlmənæk/",
+      "meaning": "n. 年鉴；历书",
+      "example": "Farmers once relied on an almanac to plan the harvest."
+    },
+    {
+      "word": "amorphous",
+      "phonetic": "/əˈmɔːfəs/",
+      "meaning": "adj. 无定形的；无组织的",
+      "example": "Glass is an amorphous solid rather than a crystal."
+    },
+    {
+      "word": "amperage",
+      "phonetic": "/ˈæmpeərɪdʒ/",
+      "meaning": "n. 电流强度；安培数",
+      "example": "Check the amperage before connecting the device."
+    },
+    {
+      "word": "anagram",
+      "phonetic": "/ˈænəɡræm/",
+      "meaning": "n. 变位词；字谜",
+      "example": "\"Listen\" is an anagram of \"silent\"."
+    },
+    {
+      "word": "ancillary",
+      "phonetic": "/ænˈsɪləri/",
+      "meaning": "adj. 辅助的；附属的",
+      "example": "Ancillary staff support the main research team."
+    },
+    {
+      "word": "aneurysm",
+      "phonetic": "/ˈænjərɪzəm/",
+      "meaning": "n. 动脉瘤",
+      "example": "A ruptured aneurysm is a life-threatening emergency."
+    },
+    {
+      "word": "angstrom",
+      "phonetic": "/ˈæŋstrəm/",
+      "meaning": "n. 埃（长度单位，等于一亿分之一厘米）",
+      "example": "Visible light has wavelengths of thousands of angstroms."
+    },
+    {
+      "word": "aniline",
+      "phonetic": "/ˈænɪliːn/",
+      "meaning": "n. 苯胺",
+      "example": "Aniline is a key raw material for many dyes."
+    },
+    {
+      "word": "anthropogenic",
+      "phonetic": "/ˌænθrəpəˈdʒenɪk/",
+      "meaning": "adj. 人为的；由人类活动引起的",
+      "example": "Anthropogenic emissions are the main driver of warming."
+    },
+    {
+      "word": "anticline",
+      "phonetic": "/ˈæntɪklaɪn/",
+      "meaning": "n. 背斜",
+      "example": "Oil often accumulates beneath an anticline."
+    },
+    {
+      "word": "aphelion",
+      "phonetic": "/æˈfiːliən/",
+      "meaning": "n. 远日点",
+      "example": "Earth reaches aphelion in early July."
+    },
+    {
+      "word": "aphasia",
+      "phonetic": "/əˈfeɪziə/",
+      "meaning": "n. 失语症",
+      "example": "Stroke patients may develop aphasia and lose speech."
+    },
+    {
+      "word": "apiary",
+      "phonetic": "/ˈeɪpiəri/",
+      "meaning": "n. 养蜂场；蜂房",
+      "example": "The apiary produced nearly a ton of honey last year."
+    },
+    {
+      "word": "apogee",
+      "phonetic": "/ˈæpədʒiː/",
+      "meaning": "n. 远地点；最高点",
+      "example": "The satellite is slowest when it passes apogee."
+    },
+    {
+      "word": "aqueous",
+      "phonetic": "/ˈeɪkwiəs/",
+      "meaning": "adj. 水的；水溶液的",
+      "example": "The reaction takes place in an aqueous solution."
+    },
+    {
+      "word": "arboreal",
+      "phonetic": "/ɑːˈbɔːriəl/",
+      "meaning": "adj. 树栖的；树木的",
+      "example": "Monkeys are highly arboreal primates."
+    },
+    {
+      "word": "arpeggio",
+      "phonetic": "/ɑːˈpedʒiəʊ/",
+      "meaning": "n. 琶音",
+      "example": "She ended the piece with a sweeping arpeggio."
+    },
+    {
+      "word": "arrhythmia",
+      "phonetic": "/əˈrɪðmiə/",
+      "meaning": "n. 心律失常；心律不齐",
+      "example": "The monitor detected a dangerous arrhythmia."
+    },
+    {
+      "word": "aseptic",
+      "phonetic": "/eɪˈseptɪk/",
+      "meaning": "adj. 无菌的；防腐的",
+      "example": "Aseptic packaging keeps milk fresh for months."
+    },
+    {
+      "word": "astigmatism",
+      "phonetic": "/əˈstɪɡmətɪzəm/",
+      "meaning": "n. 散光",
+      "example": "His astigmatism makes distant signs look blurred."
+    },
+    {
+      "word": "asymptote",
+      "phonetic": "/ˈæsɪmptəʊt/",
+      "meaning": "n. 渐近线",
+      "example": "The curve approaches the horizontal asymptote but never meets it."
+    },
+    {
+      "word": "atoll",
+      "phonetic": "/ˈætɒl/",
+      "meaning": "n. 环礁；珊瑚岛",
+      "example": "The atoll encloses a shallow turquoise lagoon."
+    },
+    {
+      "word": "atrium",
+      "phonetic": "/ˈeɪtriəm/",
+      "meaning": "n. 心房；（建筑）中庭",
+      "example": "Blood from the body enters the right atrium first."
+    },
+    {
+      "word": "aurora",
+      "phonetic": "/ɔːˈrɔːrə/",
+      "meaning": "n. 极光",
+      "example": "The aurora lit up the northern sky in green and violet."
+    },
+    {
+      "word": "avian",
+      "phonetic": "/ˈeɪviən/",
+      "meaning": "adj. 鸟类的",
+      "example": "Avian influenza can spread rapidly through poultry farms."
+    },
+    {
+      "word": "avionics",
+      "phonetic": "/ˌeɪviˈɒnɪks/",
+      "meaning": "n. 航空电子学；航空电子设备",
+      "example": "Modern aircraft depend heavily on advanced avionics."
+    },
+    {
+      "word": "axon",
+      "phonetic": "/ˈæksɒn/",
+      "meaning": "n. （神经元的）轴突",
+      "example": "A single neuron may have an axon a metre long."
+    },
+    {
+      "word": "bacillus",
+      "phonetic": "/bəˈsɪləs/",
+      "meaning": "n. 杆菌",
+      "example": "Some bacillus species form resistant spores."
+    },
+    {
+      "word": "benzene",
+      "phonetic": "/ˈbenziːn/",
+      "meaning": "n. 苯",
+      "example": "Benzene is a carcinogenic component of petrol."
+    },
+    {
+      "word": "binomial",
+      "phonetic": "/baɪˈnəʊmiəl/",
+      "meaning": "adj. 二项的；双名的；n. 二项式",
+      "example": "Every species has a binomial scientific name."
+    },
+    {
+      "word": "bioluminescence",
+      "phonetic": "/ˌbaɪəʊˌluːmɪˈnesns/",
+      "meaning": "n. 生物发光",
+      "example": "Bioluminescence makes the waves glow at night."
+    },
+    {
+      "word": "boreal",
+      "phonetic": "/ˈbɔːriəl/",
+      "meaning": "adj. 北方的；北风的",
+      "example": "Boreal forests cover much of northern Canada."
+    },
+    {
+      "word": "buoyancy",
+      "phonetic": "/ˈbɔɪənsi/",
+      "meaning": "n. 浮力；乐观情绪",
+      "example": "The swimmer's buoyancy depends on lung volume and body fat."
+    },
+    {
+      "word": "calcite",
+      "phonetic": "/ˈkælsaɪt/",
+      "meaning": "n. 方解石",
+      "example": "Calcite is the main mineral in limestone."
+    },
+    {
+      "word": "calculus",
+      "phonetic": "/ˈkælkjələs/",
+      "meaning": "n. 微积分；结石",
+      "example": "Calculus gives us tools to model continuous change."
+    },
+    {
+      "word": "caldera",
+      "phonetic": "/kælˈdeərə/",
+      "meaning": "n. 火山口；破火山口",
+      "example": "The lake fills the caldera of an ancient volcano."
+    },
+    {
+      "word": "carcinogen",
+      "phonetic": "/kɑːˈsɪnədʒən/",
+      "meaning": "n. 致癌物质",
+      "example": "Tobacco smoke contains dozens of known carcinogens."
+    },
+    {
+      "word": "cation",
+      "phonetic": "/ˈkætaɪən/",
+      "meaning": "n. 阳离子；正离子",
+      "example": "A cation carries a positive charge in solution."
+    },
+    {
+      "word": "centrifuge",
+      "phonetic": "/ˈsentrɪfjuːdʒ/",
+      "meaning": "n. 离心机；v. 离心分离",
+      "example": "Blood samples are spun in a centrifuge first."
+    },
+    {
+      "word": "cerebellum",
+      "phonetic": "/ˌserəˈbeləm/",
+      "meaning": "n. 小脑",
+      "example": "The cerebellum coordinates balance and fine movement."
+    },
+    {
+      "word": "chlorophyll",
+      "phonetic": "/ˈklɒrəfɪl/",
+      "meaning": "n. 叶绿素",
+      "example": "Chlorophyll absorbs red and blue light most strongly."
+    },
+    {
+      "word": "cirrus",
+      "phonetic": "/ˈsɪrəs/",
+      "meaning": "n. 卷云",
+      "example": "Wispy cirrus clouds often herald a change in weather."
+    },
+    {
+      "word": "coagulation",
+      "phonetic": "/kəʊˌæɡjuˈleɪʃn/",
+      "meaning": "n. 凝固；凝结",
+      "example": "Coagulation seals a cut within a few minutes."
+    },
+    {
+      "word": "cochlea",
+      "phonetic": "/ˈkɒkliə/",
+      "meaning": "n. 耳蜗",
+      "example": "The cochlea converts sound waves into nerve signals."
+    },
+    {
+      "word": "condensation",
+      "phonetic": "/ˌkɒndenˈseɪʃn/",
+      "meaning": "n. 凝结；压缩；摘要",
+      "example": "Condensation on the window shows the air is humid."
+    },
+    {
+      "word": "conifer",
+      "phonetic": "/ˈkɒnɪfə/",
+      "meaning": "n. 针叶树；松柏类植物",
+      "example": "Conifers keep their needles through the winter."
+    },
+    {
+      "word": "constellation",
+      "phonetic": "/ˌkɒnstəˈleɪʃn/",
+      "meaning": "n. 星座；一系列",
+      "example": "Orion is the easiest winter constellation to recognise."
+    },
+    {
+      "word": "cortex",
+      "phonetic": "/ˈkɔːteks/",
+      "meaning": "n. 皮层；皮质",
+      "example": "The cerebral cortex handles language and planning."
+    },
+    {
+      "word": "crustacean",
+      "phonetic": "/krʌˈsteɪʃn/",
+      "meaning": "n. 甲壳类动物",
+      "example": "Crabs and shrimps are familiar crustaceans."
+    },
+    {
+      "word": "cumulus",
+      "phonetic": "/ˈkjuːmjələs/",
+      "meaning": "n. 积云",
+      "example": "Puffy cumulus clouds built up before the storm."
+    },
+    {
+      "word": "cytoplasm",
+      "phonetic": "/ˈsaɪtəʊplæzəm/",
+      "meaning": "n. 细胞质；细胞浆",
+      "example": "Organelles float in the cytoplasm of the cell."
+    },
+    {
+      "word": "deciduous",
+      "phonetic": "/dɪˈsɪdjuəs/",
+      "meaning": "adj. 落叶的；脱落的",
+      "example": "Deciduous trees shed their leaves every autumn."
+    },
+    {
+      "word": "deflection",
+      "phonetic": "/dɪˈflekʃn/",
+      "meaning": "n. 偏转；偏差",
+      "example": "The compass needle showed a slight deflection."
+    },
+    {
+      "word": "deposition",
+      "phonetic": "/ˌdepəˈzɪʃn/",
+      "meaning": "n. 沉积；沉积物；证词",
+      "example": "Wind deposition formed these rolling sand dunes."
+    },
+    {
+      "word": "detritus",
+      "phonetic": "/dɪˈtraɪtəs/",
+      "meaning": "n. 岩屑；碎屑；残渣",
+      "example": "Detritus from dead leaves feeds the forest floor."
+    },
+    {
+      "word": "diffraction",
+      "phonetic": "/dɪˈfrækʃn/",
+      "meaning": "n. 衍射；绕射",
+      "example": "Diffraction makes light bend around narrow slits."
+    },
+    {
+      "word": "diurnal",
+      "phonetic": "/daɪˈɜːnl/",
+      "meaning": "adj. 白天的；每日的",
+      "example": "Most songbirds are diurnal feeders."
+    },
+    {
+      "word": "divergent",
+      "phonetic": "/daɪˈvɜːdʒənt/",
+      "meaning": "adj. 发散的；有分歧的",
+      "example": "The two plates move apart at a divergent boundary."
+    },
+    {
+      "word": "eccentricity",
+      "phonetic": "/ˌeksenˈtrɪsəti/",
+      "meaning": "n. 偏心率；古怪",
+      "example": "The planet's orbit has an eccentricity of about 0.05."
+    },
+    {
+      "word": "eddy",
+      "phonetic": "/ˈedi/",
+      "meaning": "n. 漩涡；v. 起漩涡",
+      "example": "An eddy formed behind the submerged rock."
+    },
+    {
+      "word": "efferent",
+      "phonetic": "/ˈefərənt/",
+      "meaning": "adj. 传出的；离心的",
+      "example": "Efferent nerve fibres carry commands to the muscles."
+    },
+    {
+      "word": "electrolyte",
+      "phonetic": "/ɪˈlektrəlaɪt/",
+      "meaning": "n. 电解质；电解液",
+      "example": "Sweating depletes the body of water and electrolytes."
+    },
+    {
+      "word": "ellipse",
+      "phonetic": "/ɪˈlɪps/",
+      "meaning": "n. 椭圆",
+      "example": "The planets move along ellipses, not circles."
+    },
+    {
+      "word": "endorphin",
+      "phonetic": "/enˈdɔːfɪn/",
+      "meaning": "n. 内啡肽",
+      "example": "Exercise releases endorphins that lift the mood."
+    },
+    {
+      "word": "endothermic",
+      "phonetic": "/ˌendəʊˈθɜːmɪk/",
+      "meaning": "adj. 吸热的",
+      "example": "Dissolving ammonium nitrate is an endothermic process."
+    },
+    {
+      "word": "entropy",
+      "phonetic": "/ˈentrəpi/",
+      "meaning": "n. 熵；混乱程度",
+      "example": "Entropy in a closed system never decreases."
+    },
+    {
+      "word": "epicenter",
+      "phonetic": "/ˈepɪsentə/",
+      "meaning": "n. 震中；中心",
+      "example": "The epicenter lay thirty kilometres offshore."
+    },
+    {
+      "word": "estuary",
+      "phonetic": "/ˈestʃuəri/",
+      "meaning": "n. 河口；江口湾",
+      "example": "The estuary supports rich bird life."
+    },
+    {
+      "word": "ethanol",
+      "phonetic": "/ˈeθənɒl/",
+      "meaning": "n. 乙醇；酒精",
+      "example": "Ethanol from corn is blended into transport fuel."
+    },
+    {
+      "word": "fauna",
+      "phonetic": "/ˈfɔːnə/",
+      "meaning": "n. （某一地区的）动物群",
+      "example": "The island's fauna evolved in complete isolation."
+    },
+    {
+      "word": "filament",
+      "phonetic": "/ˈfɪləmənt/",
+      "meaning": "n. 细丝；灯丝",
+      "example": "The bulb's filament glows white hot."
+    },
+    {
+      "word": "fissure",
+      "phonetic": "/ˈfɪʃə/",
+      "meaning": "n. 裂缝；裂隙；v. 裂开",
+      "example": "Lava seeped out of a long fissure in the ground."
+    },
+    {
+      "word": "flora",
+      "phonetic": "/ˈflɔːrə/",
+      "meaning": "n. （某一地区的）植物群",
+      "example": "The alpine flora blooms in a few short weeks."
+    },
+    {
+      "word": "follicle",
+      "phonetic": "/ˈfɒlɪkl/",
+      "meaning": "n. 毛囊；卵泡",
+      "example": "Each hair follicle has its own small muscle."
+    },
+    {
+      "word": "fulcrum",
+      "phonetic": "/ˈfʊlkrəm/",
+      "meaning": "n. 支点；支柱",
+      "example": "Move the load closer to the fulcrum to lift it easily."
+    },
+    {
+      "word": "galvanize",
+      "phonetic": "/ˈɡælvənaɪz/",
+      "meaning": "v. 镀锌；激励；使震惊",
+      "example": "The fence posts are galvanized to resist rust."
+    },
+    {
+      "word": "genesis",
+      "phonetic": "/ˈdʒenəsɪs/",
+      "meaning": "n. 起源；发生",
+      "example": "The genesis of the idea lay in a casual conversation."
+    },
+    {
+      "word": "genome",
+      "phonetic": "/ˈdʒiːnəʊm/",
+      "meaning": "n. 基因组；染色体组",
+      "example": "Scientists sequenced the entire human genome."
+    },
+    {
+      "word": "genotype",
+      "phonetic": "/ˈdʒenətaɪp/",
+      "meaning": "n. 基因型",
+      "example": "Two plants with the same genotype can look different."
+    },
+    {
+      "word": "geocentric",
+      "phonetic": "/ˌdʒiːəʊˈsentrɪk/",
+      "meaning": "adj. 地心的；以地球为中心的",
+      "example": "The geocentric model placed Earth at the centre."
+    },
+    {
+      "word": "granite",
+      "phonetic": "/ˈɡrænɪt/",
+      "meaning": "n. 花岗岩",
+      "example": "The kitchen top is polished black granite."
+    },
+    {
+      "word": "gravitation",
+      "phonetic": "/ˌɡrævɪˈteɪʃn/",
+      "meaning": "n. 万有引力；重力",
+      "example": "Newton's law of gravitation explains falling apples and orbits."
+    },
+    {
+      "word": "herbivore",
+      "phonetic": "/ˈhɜːbɪvɔː/",
+      "meaning": "n. 食草动物",
+      "example": "Large herbivores shape the grassland by grazing."
+    },
+    {
+      "word": "hereditary",
+      "phonetic": "/həˈredɪtri/",
+      "meaning": "adj. 遗传的；世袭的",
+      "example": "The disease is hereditary rather than infectious."
+    },
+    {
+      "word": "hibernation",
+      "phonetic": "/ˌhaɪbəˈneɪʃn/",
+      "meaning": "n. 冬眠",
+      "example": "Bears slow their metabolism during hibernation."
+    },
+    {
+      "word": "homeostasis",
+      "phonetic": "/ˌhəʊmiəˈsteɪsɪs/",
+      "meaning": "n. 体内平衡；稳态",
+      "example": "Sweating helps maintain homeostasis of body temperature."
+    },
+    {
+      "word": "homologous",
+      "phonetic": "/hɒˈmɒləɡəs/",
+      "meaning": "adj. 同源的；相应的",
+      "example": "The human arm and the bat wing are homologous structures."
+    },
+    {
+      "word": "hydrolysis",
+      "phonetic": "/haɪˈdrɒləsɪs/",
+      "meaning": "n. 水解",
+      "example": "Hydrolysis breaks starch down into sugars."
+    },
+    {
+      "word": "igneous",
+      "phonetic": "/ˈɪɡniəs/",
+      "meaning": "adj. 火成的；火山的",
+      "example": "Igneous rock forms when magma cools."
+    },
+    {
+      "word": "impedance",
+      "phonetic": "/ɪmˈpiːdns/",
+      "meaning": "n. 阻抗；阻力",
+      "example": "Match the impedance to avoid signal loss."
+    },
+    {
+      "word": "incubation",
+      "phonetic": "/ˌɪŋkjuˈbeɪʃn/",
+      "meaning": "n. 孵化；潜伏期",
+      "example": "The incubation period lasts about five days."
+    },
+    {
+      "word": "infusion",
+      "phonetic": "/ɪnˈfjuːʒn/",
+      "meaning": "n. 注入；浸泡；输液",
+      "example": "A slow infusion of new funds saved the project."
+    },
+    {
+      "word": "intestine",
+      "phonetic": "/ɪnˈtestɪn/",
+      "meaning": "n. 肠",
+      "example": "Most nutrients are absorbed in the small intestine."
+    },
+    {
+      "word": "invertebrate",
+      "phonetic": "/ɪnˈvɜːtɪbrət/",
+      "meaning": "n. 无脊椎动物；adj. 无脊椎的",
+      "example": "Invertebrates make up the vast majority of animals."
+    },
+    {
+      "word": "ionosphere",
+      "phonetic": "/aɪˈɒnəsfɪə/",
+      "meaning": "n. 电离层",
+      "example": "Radio signals bounce off the ionosphere at night."
+    },
+    {
+      "word": "isotropic",
+      "phonetic": "/ˌaɪsəʊˈtrɒpɪk/",
+      "meaning": "adj. 各向同性的",
+      "example": "An isotropic material behaves the same in all directions."
+    },
+    {
+      "word": "isthmus",
+      "phonetic": "/ˈɪsməs/",
+      "meaning": "n. 地峡",
+      "example": "A narrow isthmus links the two continents."
+    },
+    {
+      "word": "kilowatt",
+      "phonetic": "/ˈkɪləwɒt/",
+      "meaning": "n. 千瓦",
+      "example": "The heater draws two kilowatts at full power."
+    },
+    {
+      "word": "larva",
+      "phonetic": "/ˈlɑːvə/",
+      "meaning": "n. 幼虫；幼体",
+      "example": "The larva feeds on leaves before pupating."
+    },
+    {
+      "word": "leukemia",
+      "phonetic": "/luːˈkiːmiə/",
+      "meaning": "n. 白血病",
+      "example": "Leukemia affects the production of white blood cells."
+    },
+    {
+      "word": "lichen",
+      "phonetic": "/ˈlaɪkən/",
+      "meaning": "n. 地衣；青苔",
+      "example": "Lichen grows slowly on bare rock."
+    },
+    {
+      "word": "limestone",
+      "phonetic": "/ˈlaɪmstəʊn/",
+      "meaning": "n. 石灰岩",
+      "example": "Rain slowly dissolves limestone to form caves."
+    },
+    {
+      "word": "lipid",
+      "phonetic": "/ˈlɪpɪd/",
+      "meaning": "n. 脂质；脂类",
+      "example": "Cell membranes are built from lipids and proteins."
+    },
+    {
+      "word": "longitudinal",
+      "phonetic": "/ˌlɒndʒɪˈtjuːdɪnl/",
+      "meaning": "adj. 纵向的；经度的",
+      "example": "A longitudinal study followed the children for twenty years."
+    },
+    {
+      "word": "magma",
+      "phonetic": "/ˈmæɡmə/",
+      "meaning": "n. 岩浆",
+      "example": "Magma collects in chambers beneath the volcano."
+    },
+    {
+      "word": "mantle",
+      "phonetic": "/ˈmæntl/",
+      "meaning": "n. 地幔；覆盖物；v. 覆盖",
+      "example": "Slow currents in the mantle move the continents."
+    },
+    {
+      "word": "marsupial",
+      "phonetic": "/mɑːˈsjuːpiəl/",
+      "meaning": "n. 有袋动物；adj. 有袋的",
+      "example": "Kangaroos are the best known marsupials."
+    },
+    {
+      "word": "melanin",
+      "phonetic": "/ˈmelənɪn/",
+      "meaning": "n. 黑色素",
+      "example": "Melanin protects the skin from ultraviolet light."
+    },
+    {
+      "word": "metamorphic",
+      "phonetic": "/ˌmetəˈmɔːfɪk/",
+      "meaning": "adj. 变质的；变形的",
+      "example": "Marble is a metamorphic rock derived from limestone."
+    },
+    {
+      "word": "meteorite",
+      "phonetic": "/ˈmiːtiəraɪt/",
+      "meaning": "n. 陨石；陨星",
+      "example": "The meteorite left a crater forty metres wide."
+    },
+    {
+      "word": "microbiology",
+      "phonetic": "/ˌmaɪkrəʊbaɪˈɒlədʒi/",
+      "meaning": "n. 微生物学",
+      "example": "Microbiology developed rapidly after the microscope."
+    },
+    {
+      "word": "mitosis",
+      "phonetic": "/maɪˈtəʊsɪs/",
+      "meaning": "n. 有丝分裂",
+      "example": "Mitosis produces two genetically identical cells."
+    },
+    {
+      "word": "mollusc",
+      "phonetic": "/ˈmɒləsk/",
+      "meaning": "n. 软体动物",
+      "example": "Snails and squid are both molluscs."
+    },
+    {
+      "word": "monsoon",
+      "phonetic": "/mɒnˈsuːn/",
+      "meaning": "n. 季风；雨季",
+      "example": "The monsoon brings most of the region's rainfall."
+    },
+    {
+      "word": "myopia",
+      "phonetic": "/maɪˈəʊpiə/",
+      "meaning": "n. 近视；缺乏远见",
+      "example": "Myopia is rising sharply among urban children."
+    },
+    {
+      "word": "obsidian",
+      "phonetic": "/əbˈsɪdiən/",
+      "meaning": "n. 黑曜石",
+      "example": "Obsidian breaks into razor-sharp blades."
+    },
+    {
+      "word": "oceanic",
+      "phonetic": "/ˌəʊʃiˈænɪk/",
+      "meaning": "adj. 海洋的；广阔无边的",
+      "example": "The islands lie in a remote oceanic region."
+    },
+    {
+      "word": "omnivore",
+      "phonetic": "/ˈɒmnɪvɔː/",
+      "meaning": "n. 杂食动物",
+      "example": "Humans are naturally omnivores."
+    },
+    {
+      "word": "ornithology",
+      "phonetic": "/ˌɔːnɪˈθɒlədʒi/",
+      "meaning": "n. 鸟类学",
+      "example": "Fieldwork in ornithology often starts before dawn."
+    },
+    {
+      "word": "paleontology",
+      "phonetic": "/ˌpæliɒnˈtɒlədʒi/",
+      "meaning": "n. 古生物学",
+      "example": "Paleontology reconstructs life from fossil evidence."
+    },
+    {
+      "word": "pheromone",
+      "phonetic": "/ˈferəməʊn/",
+      "meaning": "n. 信息素；外激素",
+      "example": "Ants follow a pheromone trail to the food."
+    },
+    {
+      "word": "plankton",
+      "phonetic": "/ˈplæŋktən/",
+      "meaning": "n. 浮游生物",
+      "example": "Whales filter plankton through their baleen."
+    },
+    {
+      "word": "polarization",
+      "phonetic": "/ˌpəʊləraɪˈzeɪʃn/",
+      "meaning": "n. 极化；两极分化",
+      "example": "Polarized sunglasses block light reflected off water."
+    },
+    {
+      "word": "pollen",
+      "phonetic": "/ˈpɒlən/",
+      "meaning": "n. 花粉",
+      "example": "Bees carry pollen from one flower to another."
+    },
+    {
+      "word": "potassium",
+      "phonetic": "/pəˈtæsiəm/",
+      "meaning": "n. 钾",
+      "example": "Bananas are a well-known source of potassium."
+    },
+    {
+      "word": "propulsion",
+      "phonetic": "/prəˈpʌlʃn/",
+      "meaning": "n. 推进；推进力",
+      "example": "Ion propulsion is slow but extremely efficient."
+    },
+    {
+      "word": "pulsar",
+      "phonetic": "/ˈpʌlsɑː/",
+      "meaning": "n. 脉冲星",
+      "example": "A pulsar sweeps a beam of radiation across space."
+    },
+    {
+      "word": "quark",
+      "phonetic": "/kwɑːk/",
+      "meaning": "n. 夸克",
+      "example": "Protons and neutrons are made of quarks."
+    },
+    {
+      "word": "radium",
+      "phonetic": "/ˈreɪdiəm/",
+      "meaning": "n. 镭",
+      "example": "Curie isolated radium from pitchblende."
+    },
+    {
+      "word": "recessive",
+      "phonetic": "/rɪˈsesɪv/",
+      "meaning": "adj. 隐性的；后退的",
+      "example": "Blue eyes require two recessive genes."
+    },
+    {
+      "word": "replication",
+      "phonetic": "/ˌreplɪˈkeɪʃn/",
+      "meaning": "n. 复制；重复实验",
+      "example": "DNA replication happens before every cell division."
+    },
+    {
+      "word": "resin",
+      "phonetic": "/ˈrezɪn/",
+      "meaning": "n. 树脂",
+      "example": "The tree exudes resin to seal a wound in its bark."
+    },
+    {
+      "word": "salinity",
+      "phonetic": "/səˈlɪnəti/",
+      "meaning": "n. 盐度；含盐量",
+      "example": "High salinity makes the lake unsuitable for fish."
+    },
+    {
+      "word": "sonar",
+      "phonetic": "/ˈsəʊnɑː/",
+      "meaning": "n. 声纳；声呐",
+      "example": "The submarine used sonar to detect the reef."
+    },
+    {
+      "word": "spawn",
+      "phonetic": "/spɔːn/",
+      "meaning": "v. 产卵；产生；n. 卵",
+      "example": "Salmon spawn in the gravel of upland streams."
+    },
+    {
+      "word": "stalactite",
+      "phonetic": "/ˈstæləktaɪt/",
+      "meaning": "n. 钟乳石",
+      "example": "A stalactite grows downward from the cave roof."
+    },
+    {
+      "word": "starch",
+      "phonetic": "/stɑːtʃ/",
+      "meaning": "n. 淀粉；v. 上浆",
+      "example": "Potatoes store energy as starch."
+    },
+    {
+      "word": "stellar",
+      "phonetic": "/ˈstelə/",
+      "meaning": "adj. 恒星的；杰出的",
+      "example": "Stellar winds blow gas away from the surface."
+    },
+    {
+      "word": "stratosphere",
+      "phonetic": "/ˈstrætəsfɪə/",
+      "meaning": "n. 平流层；同温层",
+      "example": "Ozone forms in the stratosphere."
+    },
+    {
+      "word": "suspension",
+      "phonetic": "/səˈspenʃn/",
+      "meaning": "n. 悬浮液；暂停；悬挂",
+      "example": "Shake the suspension before taking the medicine."
+    },
+    {
+      "word": "symbiosis",
+      "phonetic": "/ˌsɪmbaɪˈəʊsɪs/",
+      "meaning": "n. 共生；合作关系",
+      "example": "Coral and algae live in close symbiosis."
+    },
+    {
+      "word": "synapse",
+      "phonetic": "/ˈsaɪnæps/",
+      "meaning": "n. 突触",
+      "example": "Signals cross the synapse as chemicals."
+    },
+    {
+      "word": "tar",
+      "phonetic": "/tɑː/",
+      "meaning": "n. 焦油；沥青；v. 涂焦油",
+      "example": "Tar from cigarettes stains the lungs."
+    },
+    {
+      "word": "taxonomy",
+      "phonetic": "/tækˈsɒnəmi/",
+      "meaning": "n. 分类学；分类体系",
+      "example": "Modern taxonomy groups organisms by ancestry."
+    },
+    {
+      "word": "tectonic",
+      "phonetic": "/tekˈtɒnɪk/",
+      "meaning": "adj. 地壳构造的；巨大的",
+      "example": "Tectonic plates collide along the mountain belt."
+    },
+    {
+      "word": "temperate",
+      "phonetic": "/ˈtempərət/",
+      "meaning": "adj. 温带的；温和的；有节制的",
+      "example": "Wheat grows best in temperate climates."
+    },
+    {
+      "word": "terrestrial",
+      "phonetic": "/təˈrestriəl/",
+      "meaning": "adj. 陆地的；地球的",
+      "example": "Terrestrial animals evolved from sea creatures."
+    },
+    {
+      "word": "thaw",
+      "phonetic": "/θɔː/",
+      "meaning": "v. 解冻；融化；n. 解冻期",
+      "example": "Leave the meat to thaw in the fridge overnight."
+    },
+    {
+      "word": "thyroid",
+      "phonetic": "/ˈθaɪrɔɪd/",
+      "meaning": "n. 甲状腺",
+      "example": "An underactive thyroid can cause fatigue."
+    },
+    {
+      "word": "topography",
+      "phonetic": "/təˈpɒɡrəfi/",
+      "meaning": "n. 地形；地形学",
+      "example": "Rough topography makes road building expensive."
+    },
+    {
+      "word": "toxicity",
+      "phonetic": "/tɒkˈsɪsəti/",
+      "meaning": "n. 毒性",
+      "example": "The toxicity of the chemical depends on the dose."
+    },
+    {
+      "word": "translucent",
+      "phonetic": "/trænzˈluːsnt/",
+      "meaning": "adj. 半透明的",
+      "example": "Thin slices of onion are translucent."
+    },
+    {
+      "word": "tributary",
+      "phonetic": "/ˈtrɪbjətri/",
+      "meaning": "n. 支流；adj. 支流的",
+      "example": "The Yangtze absorbs dozens of tributaries."
+    },
+    {
+      "word": "tundra",
+      "phonetic": "/ˈtʌndrə/",
+      "meaning": "n. 冻原；苔原",
+      "example": "Trees cannot grow on the open tundra."
+    },
+    {
+      "word": "vapor",
+      "phonetic": "/ˈveɪpə/",
+      "meaning": "n. 蒸汽；水汽",
+      "example": "Water vapor condenses into clouds."
+    },
+    {
+      "word": "ventricle",
+      "phonetic": "/ˈventrɪkl/",
+      "meaning": "n. 心室；（脑）室",
+      "example": "The left ventricle pumps blood to the whole body."
+    },
+    {
+      "word": "weathering",
+      "phonetic": "/ˈweðərɪŋ/",
+      "meaning": "n. 风化；侵蚀",
+      "example": "Frost weathering cracks the cliff face."
+    },
+    {
+      "word": "zoology",
+      "phonetic": "/zuˈɒlədʒi/",
+      "meaning": "n. 动物学",
+      "example": "Zoology covers behaviour as well as anatomy."
+    }
+  ]
+}
